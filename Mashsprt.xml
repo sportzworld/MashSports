@@ -26,7 +26,7 @@
 </item>
 
 <item>
-<title>NFL Network</title>
+<title>NFL Network Ravens v.s Broncos</title>
 <link>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
 </item>
@@ -101,6 +101,7 @@
 <link>rtmp://46.246.29.162/live/jan5 live=1 pageUrl=http://www.hdcast.tv/</link>
 <thumbnail>http://www.bbl.org.uk/typo3temp/pics/94d57ff654.png</thumbnail>
 </item>
+
 
 <item>
 <title>BT Sports 2</title>
