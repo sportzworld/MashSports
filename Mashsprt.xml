@@ -32,6 +32,12 @@
 </item>
 
 <item>
+<title>NFL Redzone</title>
+<link>rtmp://50.7.28.82/flash/17226 live=1 pageUrl=http://sawlive.tv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
+</item>
+
+<item>
 <title>SKY SPORTS 1</title>
 <link>rtmp://46.246.124.6:443/liverepeater playpath=20724 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=20724&width=620&height=490</link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
