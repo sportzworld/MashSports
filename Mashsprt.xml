@@ -120,7 +120,7 @@
 </item>
  
 <item>
-<title>Eurosport 2 UK</title>
+<title>Eurosport 2 UK [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>http://esioslive4-i.akamaihd.net/hls/live/200736/AL_ESP2_UK_ENG/playlist_1800.m3u8</sublink>
  <sublink>rtmp://46.246.124.6:443/liverepeater/20828 pageUrl=http://movietrailers.yt/player2.php?id=halilou&width=620&height=490hpgdisco</sublink>
@@ -172,7 +172,7 @@
 </item>
 
 <item>
-<title> Fight Box HD</title>
+<title>Fight Box HD</title>
 <link>http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8</link>
 <thumbnail>http://ncplus.pl/~/media/N/NPL/Kanaly/Logo/fightBOX.png?bc=White&w=595</thumbnail>
 </item>
