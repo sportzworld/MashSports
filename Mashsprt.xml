@@ -3,12 +3,12 @@
 <fanart>https://dl.dropboxusercontent.com/u/35068738/icons/artwork/fanart4.png</fanart>
 #######################################################################################################################################
 <info>
-<message>Reports dead links [COLOR red]ONLY[/COLOR] for this section on twitter(@mashxbmc)</message>
+<message>Reports dead links [COLOR red]ONLY[/COLOR] for this section on twitter(@mashupxbmc)</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
 <sublink></sublink>
-###################################################################################
+##################################################################################################################
 
 <item>
 <title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
@@ -75,27 +75,34 @@
 <thumbnail>https://si0.twimg.com/profile_images/2609290856/pdxh1cly8vvggvzwjkoh.png</thumbnail>
 </item>
 
-<item>
-<title>Sportsnet World</title>
-<link>rtmp://46.246.29.162/live/jan5 live=1 pageUrl=http://www.hdcast.tv/</link>
-<thumbnail>http://www.bbl.org.uk/typo3temp/pics/94d57ff654.png</thumbnail>
-</item>
+
+
 
 
 <item>
-<title>BT Sports 2</title>
-<link>rtmp://46.246.29.162/live/jan7 live=1 pageUrl=http://www.hdcast.tv/</link>
+<title>BT Sports 1 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://46.246.29.162/live/jan6 live=1 pageUrl=http://www.hdcast.tv/</sublink>
+ <sublink>rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=channel14 swfUrl=http://247hdsports.net/P/player.swf app=?rtmp://5.39.81.149/live/ pageUrl=http://wrestle-zone.net.pk/f121/wrestle-zone-net-channel-4-a-42548/ live=1 timeout=10</sublink>
+ <sublink>rtmp://5.63.146.236/live playpath=btspone?id=178932 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/halilou/1/530/400 conn=S:OK --live</sublink>
+ <sublink></sublink>
+</link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
 </item>
 
 <item>
-<title>BT Sports 1</title>
-<link>rtmp://46.246.29.162/live/jan6 live=1 pageUrl=http://www.hdcast.tv/</link>
+<title>BT Sports 2 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://46.246.29.162/live/jan7 live=1 pageUrl=http://www.hdcast.tv/</sublink>
+ <sublink>rtmp://199.115.114.221/live playpath=bt1ppp?id=178919 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/halilou/1/530/400 conn=S:OK --live</sublink>
+ <sublink></sublink>
+ <sublink></sublink>
+</link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
 </item>
 
 <item>
-<title>Eurosport</title>
+<title>Eurosport 1</title>
 <link>http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
@@ -107,14 +114,44 @@
 </item>
 
 <item>
+<title>Eurosport 1 UK</title>
+<link>http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_UK_ENG/playlist_1800.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
+</item>
+ 
+<item>
+<title>Eurosport 2 UK</title>
+<link>
+ <sublink>http://esioslive4-i.akamaihd.net/hls/live/200736/AL_ESP2_UK_ENG/playlist_1800.m3u8</sublink>
+ <sublink>rtmp://46.246.124.6:443/liverepeater/20828 pageUrl=http://movietrailers.yt/player2.php?id=halilou&width=620&height=490hpgdisco</sublink>
+ <sublink></sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>Sportsnet World</title>
+<link>rtmp://46.246.29.162/live/jan5 live=1 pageUrl=http://www.hdcast.tv/</link>
+<thumbnail>http://www.bbl.org.uk/typo3temp/pics/94d57ff654.png</thumbnail>
+</item>
+
+<item>
 <title>NHL Network</title>
-<link>http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1240.m3u8</link>
+<link>
+ <sublink>http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1840.m3u8</sublink>
+ <sublink>http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1240.m3u8</sublink>
+ </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nhl_network.png</thumbnail>
 </item>
 
 <item>
-<title>NFL Network</title>
-<link>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com</link>
+<title>NFL Network [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com</sublink>
+
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
 </item>
 
@@ -122,4 +159,20 @@
 <title>NFL Redzone</title>
 <link>rtmp://50.7.28.82/flash/17226 live=1 pageUrl=http://sawlive.tv</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
+</item>
+
+<item>
+<title>NBA TV [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8</sublink>
+ <sublink>http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1240.m3u8</sublink>
+ <sublink></sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
+</item>
+
+<item>
+<title> Fight Box HD</title>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8</link>
+<thumbnail>http://ncplus.pl/~/media/N/NPL/Kanaly/Logo/fightBOX.png?bc=White&w=595</thumbnail>
 </item>
