@@ -6,6 +6,8 @@
 <message>Still a working progress Patience!!!!!</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
+
+<sublink></sublink>
 ###################################################################################
 <item>
 <title>Eurosport</title>
@@ -38,8 +40,13 @@
 </item>
 
 <item>
-<title>SKY SPORTS 1</title>
-<link>rtmp://46.246.124.6:443/liverepeater playpath=20724 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=20724&width=620&height=490</link>
+<title>SKY SPORTS 1 [COLOR blue]Multi Link[/COLOR]</title>
+<link>
+<sublink>rtmp://46.246.124.6:443/liverepeater playpath=20724 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=20724&width=620&height=490</sublink>
+<sublink>rtmp://46.246.29.162/live/jan1 live=1 pageUrl=http://www.hdcast.tv/</sublink>
+<sublink>rtmp://37.220.36.129:80/live/ playpath=str72w4uwm swfUrl=http://www.maxstream.in/player/player.swf live=1 pageUrl=http://www.maxstream.in/</sublink>
+<sublink>rtmp://46.246.124.6:443/liverepeater/20724 pageUrl=http://movietrailers.yt/player2.php?id=halilou&width=620&height=490hpgdisco</sublink>
+</link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
 </item>
 
@@ -61,10 +68,6 @@
 <thumbnail>http://i2.cdnds.net/09/53/160x120_broadcasting_ss4logo.jpg</thumbnail>
 </item>
 <item>
-<title>SKY SPORTS 1 link 2</title>
-<link>rtmp://46.246.29.162/live/jan1 live=1 pageUrl=http://www.hdcast.tv/</link>
-<thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
-</item>
 
 <item>
 <title>SKY SPORTS 2 link 2</title>
