@@ -3,12 +3,97 @@
 <fanart>https://dl.dropboxusercontent.com/u/35068738/icons/artwork/fanart4.png</fanart>
 #######################################################################################################################################
 <info>
-<message>Still a working progress Patience!!!!!</message>
+<message>Reports dead links [COLOR red]ONLY[/COLOR] for this section on twitter(@mashxbmc)</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
 <sublink></sublink>
 ###################################################################################
+
+<item>
+<title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://46.246.124.6:443/liverepeater playpath=20724 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=20724&width=620&height=490</sublink>
+ <sublink>rtmp://46.246.29.162/live/jan1 live=1 pageUrl=http://www.hdcast.tv/</sublink>
+ <sublink>rtmp://37.220.36.129:80/live/ playpath=str72w4uwm swfUrl=http://www.maxstream.in/player/player.swf live=1 pageUrl=http://www.maxstream.in/</sublink>
+ <sublink>rtmp://141.8.244.56/base/skys1.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450&typeplayer=0&domain=halilou token=%X786(nPK@#.</sublink>
+</link>
+<thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 2 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://46.246.124.6:443/liverepeater playpath=13903 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=13903&width=620&height=490</sublink>
+ <sublink>rtmp://46.246.29.162/live/jan2 live=1 pageUrl=http://www.hdcast.tv/</sublink>
+ <sublink>rtmp://37.220.36.129:80/live/ playpath=str72w5vw6 swfUrl=http://www.maxstream.in/player/player.swf live=1 pageUrl=http://www.maxstream.in/</sublink>
+ <sublink>rtmp://141.8.244.56/base/skys2.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450&typeplayer=0&domain=halilou token=%X786(nPK@#.</sublink>
+</link>
+<thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 3 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://46.246.124.6:443/liverepeater playpath=20825 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=20825&width=620&height=490</sublink>
+ <sublink>rtmp://46.246.29.162/live/jan3 live=1 pageUrl=http://www.hdcast.tv/</sublink>
+ <sublink>rtmp://37.220.36.129:80/live/ playpath=str72w609b swfUrl=http://www.maxstream.in/player/player.swf live=1 pageUrl=http://www.maxstream.in/</sublink>
+ <sublink>rtmp://141.8.244.56/base/skys3.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450&typeplayer=0&domain=halilou token=%X786(nPK@#.</sublink>
+</link>
+<thumbnail>http://www.igoal.tv/ch/sky_sports3.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 4 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://46.246.124.6:443/liverepeater playpath=20719 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=20719&width=620&height=490</sublink>
+ <sublink>rtmp://46.246.29.162/live/jan4 live=1 pageUrl=http://www.hdcast.tv/</sublink>
+ <sublink>rtmp://141.8.244.56/base/skys4.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450&typeplayer=0&domain=halilou token=%X786(nPK@#.</sublink>
+</link>
+<thumbnail>http://i2.cdnds.net/09/53/160x120_broadcasting_ss4logo.jpg</thumbnail>
+</item>
+<item>
+
+
+<item>
+<title>SKY F1 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://50.7.69.138/edge playpath=5013nw6q4dwul2z swfUrl=http://player.ilive.to/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/view/52436/</sublink>
+ <sublink>rtmp://46.246.124.6:443/liverepeater playpath=13877 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=13877&width=620&height=490</sublink>
+ <sublink>rtmp://46.246.124.31:1935/live/jan5 live=1 pageUrl=http://www.hdcast.tv/</sublink>
+</link>
+<thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports News [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://46.246.124.6:443/liverepeater/20723 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=13877&width=620&height=490</sublink>
+ <sublink>rtmp://46.246.29.162/live/jan20 live=1 pageUrl=http://www.hdcast.tv/</sublink>
+ <sublink></sublink>
+</link>
+<thumbnail>https://si0.twimg.com/profile_images/2609290856/pdxh1cly8vvggvzwjkoh.png</thumbnail>
+</item>
+
+<item>
+<title>Sportsnet World</title>
+<link>rtmp://46.246.29.162/live/jan5 live=1 pageUrl=http://www.hdcast.tv/</link>
+<thumbnail>http://www.bbl.org.uk/typo3temp/pics/94d57ff654.png</thumbnail>
+</item>
+
+
+<item>
+<title>BT Sports 2</title>
+<link>rtmp://46.246.29.162/live/jan7 live=1 pageUrl=http://www.hdcast.tv/</link>
+<thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
+</item>
+
+<item>
+<title>BT Sports 1</title>
+<link>rtmp://46.246.29.162/live/jan6 live=1 pageUrl=http://www.hdcast.tv/</link>
+<thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
+</item>
+
 <item>
 <title>Eurosport</title>
 <link>http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8</link>
@@ -37,87 +122,4 @@
 <title>NFL Redzone</title>
 <link>rtmp://50.7.28.82/flash/17226 live=1 pageUrl=http://sawlive.tv</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
-</item>
-
-<item>
-<title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
-<sublink>rtmp://46.246.124.6:443/liverepeater playpath=20724 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=20724&width=620&height=490</sublink>
-<sublink>rtmp://46.246.29.162/live/jan1 live=1 pageUrl=http://www.hdcast.tv/</sublink>
-<sublink>rtmp://37.220.36.129:80/live/ playpath=str72w4uwm swfUrl=http://www.maxstream.in/player/player.swf live=1 pageUrl=http://www.maxstream.in/</sublink>
-<sublink>rtmp://46.246.124.6:443/liverepeater/20724 pageUrl=http://movietrailers.yt/player2.php?id=halilou&width=620&height=490hpgdisco</sublink>
-</link>
-<thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
-</item>
-
-<item>
-<title>SKY SPORTS 2 [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
- <sublink>rtmp://46.246.124.6:443/liverepeater playpath=13903 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=13903&width=620&height=490</sublink>
- <sublink>rtmp://46.246.29.162/live/jan2 live=1 pageUrl=http://www.hdcast.tv/</sublink>
- <sublink>rtmp://37.220.36.129:80/live/ playpath=str72w5vw6 swfUrl=http://www.maxstream.in/player/player.swf live=1 pageUrl=http://www.maxstream.in/</sublink>
- <sublink>rtmp://46.246.124.6:443/liverepeater/30004 pageUrl=http://movietrailers.yt/player2.php?id=halilou&width=620&height=490hpgdisco</sublink>
-</link>
-<thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
-</item>
-
-<item>
-<title>SKY SPORTS 3 [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
- <sublink>rtmp://46.246.124.6:443/liverepeater playpath=20825 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=20825&width=620&height=490</sublink>
- <sublink>rtmp://46.246.29.162/live/jan3 live=1 pageUrl=http://www.hdcast.tv/</sublink>
- <sublink>rtmp://37.220.36.129:80/live/ playpath=str72w609b swfUrl=http://www.maxstream.in/player/player.swf live=1 pageUrl=http://www.maxstream.in/</sublink>
- <sublink>rtmp://46.246.124.6:443/liverepeater/20825 pageUrl=http://movietrailers.yt/player2.php?id=halilou&width=620&height=490hpgdisco</sublink>
-</link>
-<thumbnail>http://www.igoal.tv/ch/sky_sports3.jpg</thumbnail>
-</item>
-
-<item>
-<title>SKY SPORTS 4 [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
- <sublink>rtmp://46.246.124.6:443/liverepeater playpath=20719 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=20719&width=620&height=490</sublink>
- <sublink>rtmp://46.246.29.162/live/jan4 live=1 pageUrl=http://www.hdcast.tv/</sublink>
- <sublink>rtmp://46.246.124.6:443/liverepeater/20719 pageUrl=http://movietrailers.yt/player2.php?id=halilou&width=620&height=490hpgdisco</sublink>
- <sublink>rtmp://141.8.244.56/base/skys4.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450&typeplayer=0&domain=halilou token=%X786(nPK@#</sublink>
-</link>
-<thumbnail>http://i2.cdnds.net/09/53/160x120_broadcasting_ss4logo.jpg</thumbnail>
-</item>
-<item>
-
-
-<item>
-<title>SKY F1</title>
-<link>rtmp://46.246.124.6:443/liverepeater playpath=13877 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=13877&width=620&height=490</link>
-<thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports News</title>
-<link>rtmp://46.246.124.6:443/liverepeater/20723 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=13877&width=620&height=490</link>
-<thumbnail>https://si0.twimg.com/profile_images/2609290856/pdxh1cly8vvggvzwjkoh.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports News link 2</title>
-<link>rtmp://46.246.29.162/live/jan20 live=1 pageUrl=http://www.hdcast.tv/</link>
-<thumbnail>https://si0.twimg.com/profile_images/2609290856/pdxh1cly8vvggvzwjkoh.png</thumbnail>
-</item>
-
-<item>
-<title>Sportsnet World</title>
-<link>rtmp://46.246.29.162/live/jan5 live=1 pageUrl=http://www.hdcast.tv/</link>
-<thumbnail>http://www.bbl.org.uk/typo3temp/pics/94d57ff654.png</thumbnail>
-</item>
-
-
-<item>
-<title>BT Sports 2</title>
-<link>rtmp://46.246.29.162/live/jan7 live=1 pageUrl=http://www.hdcast.tv/</link>
-<thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
-</item>
-
-<item>
-<title>BT Sports 1</title>
-<link>rtmp://46.246.29.162/live/jan6 live=1 pageUrl=http://www.hdcast.tv/</link>
-<thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
 </item>
