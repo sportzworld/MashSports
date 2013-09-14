@@ -177,6 +177,7 @@
 <thumbnail>http://ncplus.pl/~/media/N/NPL/Kanaly/Logo/fightBOX.png?bc=White&w=595</thumbnail>
 </item>
 
+######################################################################################################################################################
 
 <item>
 <title>JSC SPORTS+1</title>
@@ -186,36 +187,77 @@
 
 
 <item>
-<title>JSC SPORTS+1</title>
-<link>rtmp://83.149.124.200/live playpath=jschd0011?id=178842 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/jschd0011/1/500/400 conn=S:OK --live abo_farah_seif</link>
+<title>JSC SPORTS+1 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://141.8.244.56:1935/base/ad1.stream pageUrl=http://sportsembed.com/embed.php token=%X786(nPK@#.</sublink>
+ <sublink>rtmp://83.149.124.200/live playpath=jschd0011?id=178842 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/jschd0011/1/500/400 conn=S:OK --live abo_farah_seif</sublink>
+</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/1a/Al_jazeera_sports_plus1.png</thumbnail>
 </item>
 
 <item>
-<title>JSC SPORTS+2</title>
-<link>rtmp://5.63.146.236/live playpath=jschd001?id=178834 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/jschd001/1/500/400 conn=S:OK --live abo_farah_seif</link>
+<title>JSC SPORTS+2 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://141.8.244.56:1935/base/ad2.stream pageUrl=http://sportsembed.com/embed.php token=%X786(nPK@#.</sublink>
+ <sublink>rtmp://5.63.146.236/live playpath=jschd001?id=178834 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/jschd001/1/500/400 conn=S:OK --live abo_farah_seif</sublink>
+</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/07/Al_jazeera_sports_plus2-300x297.png</thumbnail>
 </item>
 
 
 <item>
-<title>JSC SPORTS+3</title>
-<link>rtmp://174.36.169.182/live playpath=jschd003?id=178835 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/jschd003/1/500/400 conn=S:OK --live abo_farah_seif</link>
+<title>JSC SPORTS+3 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://174.36.169.182/live playpath=jschd003?id=178835 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/jschd003/1/500/400 conn=S:OK --live abo_farah_seif</sublink>
+ <sublink>rtmp://edge3.live.adjaranet.com app=?rtmp://10.0.2.12/dvrcast_origin/  playpath=raw:aljazeerasport pageUrl=http://www.serbiaplus.com/tv/2/</sublink>
+</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9b/Al_jazeera_sports_plus3.png</thumbnail>
 </item>
 
  
- <item>
+<item>
 <title>JSC SPORTS+4</title>
-<link>rtmp://109.123.114.28/live playpath=kanal555?id=54145 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/kanal555/1/500/400 conn=S:OK --live ABO_FARAH_SEIF_EGYPT2013</link>
+<link>
+ <sublink>rtmp://109.123.114.28/live playpath=kanal555?id=54145 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/kanal555/1/500/400 conn=S:OK --live ABO_FARAH_SEIF_EGYPT2013</sublink>
+ <sublink></sublink>
+</link>
 <thumbnail>http://aljazeera-sport.tv/wp-content/uploads/2012/01/al_jazeera_sport_4-e1326311816897.png</thumbnail>
 </item>
 
+<item>
+<title>JSC SPORTS+5</title>
+<link>
+rtmp://184.173.181.3/live/jsc0005?id=178845 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/halilou/1/600/450 conn=S:OK
+</link>
+<thumbnail>http://aljazeera-sport.tv/wp-content/uploads/2012/01/al_jazeera_sport_4-e1326311816897.png</thumbnail>
+</item>
+
+<item>
+<title>JSC SPORTS+6</title>
+<link>
+rtmp://95.211.90.151/live/jschd006?id=178837 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/halilou/1/600/450 conn=S:OK
+</link>
+<thumbnail>http://aljazeera-sport.tv/wp-content/uploads/2012/01/al_jazeera_sport_4-e1326311816897.png</thumbnail>
+</item>
+
+<item>
+<title>JSC SPORTS+7</title>
+<link></link>
+<thumbnail>http://aljazeera-sport.tv/wp-content/uploads/2012/01/al_jazeera_sport_4-e1326311816897.png</thumbnail>
+</item>
+
+<item>
+<title>JSC SPORTS+8</title>
+<link></link>
+<thumbnail>http://aljazeera-sport.tv/wp-content/uploads/2012/01/al_jazeera_sport_4-e1326311816897.png</thumbnail>
+</item>
 
  
  <item>
 <title>JSC SPORTS+9</title>
-<link>rtmp://93.174.93.124/fms playpath=ja9 swfUrl=http://www.casti.tv/player/player-licensed55.swf live=1 pageUrl=http://www.casti.tv/embed.php?v=ja9&amp;vw=660&amp;vh=450&amp;video=0&amp;domain=ABO_FARAH_SEIF_EGYPT2013</link>
+<link>
+rtmp://93.174.93.124/fms playpath=ja9 swfUrl=http://www.casti.tv/player/player-licensed55.swf live=1 pageUrl=http://www.casti.tv/embed.php?v=ja9&amp;vw=660&amp;vh=450&amp;video=0&amp;domain=ABO_FARAH_SEIF_EGYPT2013
+</link>
 <thumbnail>http://2.bp.blogspot.com/-vndZ07nhVAo/UCY0A7DLYDI/AAAAAAAAADY/SBtIYgtMcZc/s200/AlJazeera-SPORT%2B9.png</thumbnail>
 </item>
  
