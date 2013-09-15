@@ -8,6 +8,11 @@
 </info>
 
 <sublink></sublink>
+
+<info>
+<message>For more Mayweather/Alverez event check ilive(sports) and k1m05(live events)</message>
+<thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
+</info>
 ##################################################################################################################
 
 
@@ -27,7 +32,7 @@
  <sublink>rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=channel14 swfUrl=http://247hdsports.net/P/player.swf app=?rtmp://5.39.81.149/live/ pageUrl=http://wrestle-zone.net.pk/f121/wrestle-zone-net-channel-4-a-42548/ live=1 timeout=1000</sublink>
  <sublink>rtmp://ny.iguide.to/iguide playpath=0pej4iicxrrkln3 swfUrl=http://www.iguide.to/player/player_embed_iguide.swf pageUrl=http://www.iguide.to/embedplayer.php?width=650&height=433&channel=4005&autoplay=true token=#ed%h0#w18623jsda6523lDGD</sublink>
  <sublink>rtmp://ny.iguide.to/iguide playpath=z22l5m8y7ohk6l5 swfUrl=http://www.iguide.to/player/player_embed_iguide.swf pageUrl=http://www.iguide.to/embedplayer.php?width=650&height=433&channel=4005&autoplay=true token=#ed%h0#w18623jsda6523lDGD</sublink>
- <sublink></sublink>
+ <sublink>rtmp://37.220.34.6:80/live playpath=str744vpgm swfUrl=http://www.maxstream.in/player/player.swf pageUrl=http://www.maxstream.in/embed.php?a=559&id=&width=600&height=450&autostart=true&strech=</sublink>
 </link>
 <thumbnail>http://realcombatmedia.com/wp-content/uploads/2013/06/ufc328x253_328_254.png</thumbnail>
 </item>
