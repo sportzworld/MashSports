@@ -16,9 +16,7 @@
 <item>
 <title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://46.246.124.6:443/liverepeater playpath=20724 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=20724&width=620&height=490</sublink>
- <sublink>rtmp://46.246.29.162/live/jan1 live=1 pageUrl=http://www.hdcast.tv/</sublink>
- <sublink>rtmp://37.220.36.129:80/live/ playpath=str72w4uwm swfUrl=http://www.maxstream.in/player/player.swf live=1 pageUrl=http://www.maxstream.in/</sublink>
+ <sublink>rrtmp://live.iguide.to/edge playpath=7jxsg6wbsf036zz live=1 timeout=15 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52723&autoplay=true token=#e87JDUJD264YED687</sublink>
  <sublink>rtmp://141.8.244.56/base/skys1.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450&typeplayer=0&domain=halilou token=%X786(nPK@#.</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
@@ -27,9 +25,7 @@
 <item>
 <title>SKY SPORTS 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://46.246.124.6:443/liverepeater playpath=13903 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=13903&width=620&height=490</sublink>
- <sublink>rtmp://46.246.29.162/live/jan2 live=1 pageUrl=http://www.hdcast.tv/</sublink>
- <sublink>rtmp://37.220.36.129:80/live/ playpath=str72w5vw6 swfUrl=http://www.maxstream.in/player/player.swf live=1 pageUrl=http://www.maxstream.in/</sublink>
+ <sublink>rtmp://live.iguide.to/edge playpath=vp4o075kfkixhyv live=1 timeout=15 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52724&autoplay=true token=#e87JDUJD264YED687</sublink>
  <sublink>rtmp://141.8.244.56/base/skys2.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450&typeplayer=0&domain=halilou token=%X786(nPK@#.</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
@@ -38,9 +34,7 @@
 <item>
 <title>SKY SPORTS 3 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://46.246.124.6:443/liverepeater playpath=20825 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=20825&width=620&height=490</sublink>
- <sublink>rtmp://46.246.29.162/live/jan3 live=1 pageUrl=http://www.hdcast.tv/</sublink>
- <sublink>rtmp://37.220.36.129:80/live/ playpath=str72w609b swfUrl=http://www.maxstream.in/player/player.swf live=1 pageUrl=http://www.maxstream.in/</sublink>
+ <sublink>rtmp://198.144.120.217/live/eur111TENSSB3 pageUrl=http://www.reyhq.com/embed.php?live=halilou timeout=10</sublink>
  <sublink>rtmp://141.8.244.56/base/skys3.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450&typeplayer=0&domain=halilou token=%X786(nPK@#.</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports3.jpg</thumbnail>
@@ -49,9 +43,8 @@
 <item>
 <title>SKY SPORTS 4 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://46.246.124.6:443/liverepeater playpath=20719 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=20719&width=620&height=490</sublink>
- <sublink>rtmp://46.246.29.162/live/jan4 live=1 pageUrl=http://www.hdcast.tv/</sublink>
  <sublink>rtmp://141.8.244.56/base/skys4.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450&typeplayer=0&domain=halilou token=%X786(nPK@#.</sublink>
+ <sublink>rtmp://31.7.58.122:1935/stream/ffe84f5ed.stream swfUrl=http://thecdn.04stream.com/p/bop.swf live=true timeout=10</sublink>
 </link>
 <thumbnail>http://i2.cdnds.net/09/53/160x120_broadcasting_ss4logo.jpg</thumbnail>
 </item>
@@ -61,8 +54,6 @@
 <item>
 <title>SKY F1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://50.7.69.138/edge playpath=5013nw6q4dwul2z swfUrl=http://player.ilive.to/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/view/52436/</sublink>
- <sublink>rtmp://46.246.124.6:443/liverepeater playpath=13877 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=13877&width=620&height=490</sublink>
  <sublink>rtmp://46.246.124.31:1935/live/jan5 live=1 pageUrl=http://www.hdcast.tv/</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
@@ -71,7 +62,7 @@
 <item>
 <title>Sky Sports News [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://46.246.124.6:443/liverepeater/20723 swfUrl=http://movietrailers.yt/p/ooolo1.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=13877&width=620&height=490</sublink>
+ <sublink>rtmp://141.8.244.56/base/skynews.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450&typeplayer=0&domain=halilou token=%X786(nPK@#.</sublink>
  <sublink>rtmp://46.246.29.162/live/jan20 live=1 pageUrl=http://www.hdcast.tv/</sublink>
  <sublink></sublink>
 </link>
@@ -85,10 +76,7 @@
 <item>
 <title>BT Sports 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://46.246.29.162/live/jan6 live=1 pageUrl=http://www.hdcast.tv/</sublink>
- <sublink>rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=channel14 swfUrl=http://247hdsports.net/P/player.swf app=?rtmp://5.39.81.149/live/ pageUrl=http://wrestle-zone.net.pk/f121/wrestle-zone-net-channel-4-a-42548/ live=1 timeout=10</sublink>
- <sublink>rtmp://5.63.146.236/live playpath=btspone?id=178932 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/halilou/1/530/400 conn=S:OK --live</sublink>
- <sublink></sublink>
+ <sublink>rtmp://141.8.244.56/base playpath=bt1.stream swfUrl=http://141.8.244.56/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php?v=bt1&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu token=%X786(nPK@#.</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
 </item>
@@ -96,10 +84,7 @@
 <item>
 <title>BT Sports 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://46.246.29.162/live/jan7 live=1 pageUrl=http://www.hdcast.tv/</sublink>
- <sublink>rtmp://199.115.114.221/live playpath=bt1ppp?id=178919 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/halilou/1/530/400 conn=S:OK --live</sublink>
- <sublink></sublink>
- <sublink></sublink>
+ <sublink>rtmp://141.8.244.56/base/bt2.stream pageUrl=http://sportsembed.com/ token=%X786(nPK@#.</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
 </item>
