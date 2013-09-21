@@ -1,16 +1,27 @@
 #######################################################################################################################################
 <poster>Mash2k3</poster>
-<fanart>http://media.foxsports.com.au/pve/Mayweather%20v%20Canelo%20FOXSPORTS%2016x9.jpg</fanart>
+<fanart>http://www.blacktownrsl.com.au/minigen/resources/Ufc%20165.jpg</fanart>
 #######################################################################################################################################
 <info>
 <message>Reports dead links [COLOR red]ONLY[/COLOR] for this section on twitter(@mashupxbmc)</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
-
+<info>
+<message>For JSC+ CHANNELS go to Mashup/Live/Arabic Streams</message>
+<thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
+</info>
 <sublink></sublink>
 
 ##################################################################################################################
 
+<item>
+<title>*** [COLOR yellow]UFC 165: Jones [COLOR red]vs.[/COLOR] Gustafsson[/COLOR] ***[COLOR aqua]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://live.iguide.to/edge playpath=mi3ksd5eg36bhsh live=1 timeout=15 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52756&autoplay=true token=JDI5134KDK##@sdj9823jk</sublink>
+ <sublink>rtmp://live.iguide.to/edge playpath=hmbww4qgyxrunq9 live=1 timeout=15 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52784&autoplay=true token=JDI5134KDK##@sdj9823jk</sublink>
+</link>
+<thumbnail>http://www.awfulannouncing.com/images/stories/ufc.jpg</thumbnail>
+</item>
 
 ################################################################################################################
 <item>
@@ -168,80 +179,4 @@
 
 ######################################################################################################################################################
 
-<item>
-<title>JSC SPORTS+1</title>
-<link>rtmp://83.149.124.200/live playpath=jschd0011?id=178842 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/jschd0011/1/500/400 conn=S:OK --live abo_farah_seif</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/1a/Al_jazeera_sports_plus1.png</thumbnail>
-</item>
 
-
-<item>
-<title>JSC SPORTS+1 [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
-
-</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/1a/Al_jazeera_sports_plus1.png</thumbnail>
-</item>
-
-<item>
-<title>JSC SPORTS+2 [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
- <sublink>rtmp://141.8.244.56:1935/base/ad2.stream pageUrl=http://sportsembed.com/embed.php token=%X786(nPK@#.</sublink>
- <sublink>rtmp://5.63.146.236/live playpath=jschd001?id=178834 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/jschd001/1/500/400 conn=S:OK --live abo_farah_seif</sublink>
-</link>
-<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/07/Al_jazeera_sports_plus2-300x297.png</thumbnail>
-</item>
-
-
-<item>
-<title>JSC SPORTS+3 [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
-rtmp://95.211.209.149:1935/livetv/_definst_/ playpath=jhd3 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://embed.showsport-tv.com/2013/09/jsc-sport-hd3-iframe.html
-</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9b/Al_jazeera_sports_plus3.png</thumbnail>
-</item>
-
- 
-<item>
-<title>JSC SPORTS+4</title>
-<link>
-rtmp://95.211.209.149/livetv/_definst_/ playpath=jhd4 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://embed.showsport-tv.com/2013/09/jsc-sport-hd4-iframe.html
-</link>
-<thumbnail>http://aljazeera-sport.tv/wp-content/uploads/2012/01/al_jazeera_sport_4-e1326311816897.png</thumbnail>
-</item>
-
-<item>
-<title>JSC SPORTS+5</title>
-<link>
-rtmp://94.242.212.53:80/liverepeater playpath=74393 swfUrl=http://cdn.goodcast.org/player.swf live=1 pageUrl=http://goodcast.org/stream.php?id=74393&amp;width=660&amp;height=440
-</link>
-<thumbnail>http://aljazeera-sport.tv/wp-content/uploads/2012/01/al_jazeera_sport_4-e1326311816897.png</thumbnail>
-</item>
-
-<item>
-<title>JSC SPORTS+6</title>
-<link>
-rtmp://95.211.209.149/livetv/_definst_/ playpath=jhd6 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://embed.showsport-tv.com/2013/09/jsc-sport-hd6-iframe.html
-</link>
-<thumbnail>http://aljazeera-sport.tv/wp-content/uploads/2012/01/al_jazeera_sport_4-e1326311816897.png</thumbnail>
-</item>
-
-<item>
-<title>JSC SPORTS+7</title>
-<link></link>
-<thumbnail>http://aljazeera-sport.tv/wp-content/uploads/2012/01/al_jazeera_sport_4-e1326311816897.png</thumbnail>
-</item>
-
-<item>
-<title>JSC SPORTS+8</title>
-<link></link>
-<thumbnail>http://aljazeera-sport.tv/wp-content/uploads/2012/01/al_jazeera_sport_4-e1326311816897.png</thumbnail>
-</item>
-
- 
- <item>
-<title>JSC SPORTS+9</title>
-<link></link>
-<thumbnail>http://2.bp.blogspot.com/-vndZ07nhVAo/UCY0A7DLYDI/AAAAAAAAADY/SBtIYgtMcZc/s200/AlJazeera-SPORT%2B9.png</thumbnail>
-</item>
- 
