@@ -55,6 +55,7 @@
 <title>SKY F1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://46.246.124.31:1935/live/jan5 live=1 pageUrl=http://www.hdcast.tv/</sublink>
+ <sublink>rtmp://198.144.120.217/live playpath=ssnf1 swfUrl=http://www.reyhq.com/jwplayerr/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.reyhq.com/embed.php?live=ssnf1&vw=620&vh=490</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
 </item>
