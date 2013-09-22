@@ -18,10 +18,9 @@
 <title>*** [COLOR yellow]UFC 165: Jones [COLOR red]vs.[/COLOR] Gustafsson[/COLOR] ***[COLOR aqua]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://141.8.244.56/base playpath=bt1.stream swfUrl=http://141.8.244.56/player/player.swf">http://141.8.244.56/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php?v=bt1&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu token=%X786(nPK@#.</sublink>
- <sublink>rtmp://31.209.96.29:1935/live/199_BT_Sports_1.stream?token=x1428%402d69c1737fd64899b9800d5d5680eecb swfUrl=http://ntv.mx/inc/grindplayer/GrindPlayer.swf app=live?token=x1428%402d69c1737fd64899b9800d5d5680eecb playPath=199_BT_Sports_1.stream?token=x1428%402d69c1737fd64899b9800d5d5680eecb pageUrl=http://ntv.mx/?c=2&a=0&p=50 timeout=10 swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf app=live/ pageUrl=http://www.ntv.mx/index.php?c=6&a=0</sublink>
  <sublink>rtmp://live.iguide.to/edge playpath=mi3ksd5eg36bhsh live=1 timeout=15 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52756&autoplay=true token=JDI5134KDK##@sdj9823jk</sublink>
  <sublink>rtmp://live.iguide.to/edge playpath=hmbww4qgyxrunq9 live=1 timeout=15 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52784&autoplay=true token=JDI5134KDK##@sdj9823jk</sublink>
- <sublink>rtmp://live.iguide.to/edge playpath=mi3ksd5eg36bhsh live=1 timeout=15 swfUrl=http://player.ilive.to/player_ilive_2.swf token=#ed%h0#w18623jsda6523lDGD</sublink>
+ <sublink>rtmp://live.iguide.to/edge playpath=mi3ksd5eg36bhsh live=1 timeout=15 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.iguide.to/embedplayer.php?width=680&height=430&channel=4561&autoplay=true token=#ed%h0#w18623jsda6523lDGD</sublink>
 </link>
 <thumbnail>http://www.awfulannouncing.com/images/stories/ufc.jpg</thumbnail>
 </item>
