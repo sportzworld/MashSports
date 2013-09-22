@@ -90,6 +90,7 @@
 <item>
 <title>BT Sports 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
+ <sublink>rtmpe://strm.ukcast.tv/redirect/bt111 pageUrl=http://www.ukcast.tv/embedold.php?u=halilou&vw620&vh=490</sublink>
  <sublink>rtmp://141.8.244.56/base playpath=bt1.stream swfUrl=http://141.8.244.56/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php?v=bt1&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu token=%X786(nPK@#.</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
@@ -98,6 +99,7 @@
 <item>
 <title>BT Sports 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
+ <sublink>rtmpe://strm.ukcast.tv/redirect/hqsport6 pageUrl=http://www.ukcast.tv/embedold.php?u=halilou&vw620&vh=490</sublink>
  <sublink>rtmp://141.8.244.56/base/bt2.stream pageUrl=http://sportsembed.com/ token=%X786(nPK@#.</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
@@ -159,7 +161,7 @@
 
 <item>
 <title>NFL Redzone</title>
-<link>rtmp://46.246.29.152/live playpath=streamhdking212 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.tv/embed2.php?</link>
+<link>rtmp://46.246.29.144:1935/stream/ playpath=0XB9uW6aK5.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=&width=600&height=460&st=14t3o4e42695y244x474n294z214z2t21484x2q2p213z2&adx=&stream=f5x28484i5c474x27454q2a4s23413n23485c313l4y323j5x4b4t27433q284x2q2v2u234r274z2u214t3o4e42695y244x4u373v5j4r5d4a225h5c454i4g4p2345634t2y3s2z284337454v2c434a4y2x2j5w2m5d4i594w2u2j574u2a4r2c43384k59413v2w2s2t2343434t2y3s2p2l5u4&sooor=MTU=&str=is&idom=firstrowus1.eu</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
 </item>
 
