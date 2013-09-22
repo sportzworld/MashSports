@@ -37,7 +37,7 @@
 <item>
 <title>SKY SPORTS 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://live.iguide.to/edge playpath=vp4o075kfkixhyv live=1 timeout=15 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52724&autoplay=true token=#e87JDUJD264YED687</sublink>
+ <sublink>rtmp://live.iguide.to/edge playpath=j2zb7pus9uieqcs live=1 timeout=15 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52817&autoplay=true token=JDI5134KDK##@sdj9823jk</sublink>
  <sublink>rtmp://141.8.244.56/base/skys2.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450&typeplayer=0&domain=halilou token=%X786(nPK@#.</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
@@ -46,6 +46,7 @@
 <item>
 <title>SKY SPORTS 3 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
+ <sublink>rtmp://live.iguide.to/edge playpath=iemaxxqab7f05rt live=1 timeout=15 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52830&autoplay=true token=JDI5134KDK##@sdj9823jk</sublink>
  <sublink>rtmp://198.144.120.217/live/eur111TENSSB3 pageUrl=http://www.reyhq.com/embed.php?live=halilou timeout=10</sublink>
  <sublink>rtmp://141.8.244.56/base/skys3.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450&typeplayer=0&domain=halilou token=%X786(nPK@#.</sublink>
 </link>
