@@ -27,6 +27,7 @@
 <item>
 <title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
+ <sublink>rtmpe://46.246.29.149:1935/live/jan1 pageUrl=http://www.hdcast.tv/embedlive2.php?u=halilou</sublink>
  <sublink>rtmp://live.iguide.to/edge playpath=0ru3oisb2kgl7k0 live=1 timeout=15 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52829&autoplay=true token=JDI5134KDK##@sdj9823jk</sublink>
  <sublink>rrtmp://live.iguide.to/edge playpath=7jxsg6wbsf036zz live=1 timeout=15 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52723&autoplay=true token=#e87JDUJD264YED687</sublink>
  <sublink>rtmp://141.8.244.56/base/skys1.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450&typeplayer=0&domain=halilou token=%X786(nPK@#.</sublink>
