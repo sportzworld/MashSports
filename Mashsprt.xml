@@ -91,7 +91,7 @@
 <item>
 <title>BT Sports 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmpe://strm.ukcast.tv/redirect/bt111 pageUrl=http://www.ukcast.tv/embedold.php?u=halilou&vw620&vh=490</sublink>
+ <sublink>rtmpe://46.246.29.149:1935/live/jan6 pageUrl=http://www.hdcast.tv/embedlive2.php?u=halilou&vw=640&vh=460</sublink>
  <sublink>rtmp://141.8.244.56/base playpath=bt1.stream swfUrl=http://141.8.244.56/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php?v=bt1&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu token=%X786(nPK@#.</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
@@ -100,7 +100,7 @@
 <item>
 <title>BT Sports 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmpe://strm.ukcast.tv/redirect/hqsport6 pageUrl=http://www.ukcast.tv/embedold.php?u=halilou&vw620&vh=490</sublink>
+ <sublink>rtmpe://46.246.29.149:1935/live/jan7 pageUrl=http://www.hdcast.tv/embedlive2.php?u=halilou&vw=640&vh=460</sublink>
  <sublink>rtmp://141.8.244.56/base/bt2.stream pageUrl=http://sportsembed.com/ token=%X786(nPK@#.</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
@@ -108,13 +108,16 @@
 
 <item>
 <title>Eurosport 1</title>
-<link>http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8</link>
+<link>
+ <sublink>http://178.165.82.71:7781/udp/239.0.0.211:1234</sublink>
+ <sublink>http://212.20.40.249:1234/udp/233.7.70.132:5000</sublink>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
  
 <item>
 <title>Eurosport 2</title>
-<link>http://esioslive2-i.akamaihd.net/hls/live/201150/AL_ESP2_INT_ENG/playlist_1800.m3u8</link>
+<link>http://178.165.82.71:7781/udp/239.0.0.212:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
 
