@@ -28,8 +28,6 @@
 <title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmpe://46.246.29.149:1935/live/jan1 pageUrl=http://www.hdcast.tv/embedlive2.php?u=halilou</sublink>
- <sublink>rtmp://live.iguide.to/edge playpath=0ru3oisb2kgl7k0 live=1 timeout=15 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52829&autoplay=true token=JDI5134KDK##@sdj9823jk</sublink>
- <sublink>rrtmp://live.iguide.to/edge playpath=7jxsg6wbsf036zz live=1 timeout=15 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52723&autoplay=true token=#e87JDUJD264YED687</sublink>
  <sublink>rtmp://141.8.244.56/base/skys1.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450&typeplayer=0&domain=halilou token=%X786(nPK@#.</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
@@ -38,7 +36,7 @@
 <item>
 <title>SKY SPORTS 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://live.iguide.to/edge playpath=j2zb7pus9uieqcs live=1 timeout=15 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52817&autoplay=true token=JDI5134KDK##@sdj9823jk</sublink>
+ <sublink>rtmpe://178.18.30.120/live/jan2 pageUrl=http://www.ukcast.tv</sublink>
  <sublink>rtmp://141.8.244.56/base/skys2.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450&typeplayer=0&domain=halilou token=%X786(nPK@#.</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
@@ -47,7 +45,7 @@
 <item>
 <title>SKY SPORTS 3 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://live.iguide.to/edge playpath=iemaxxqab7f05rt live=1 timeout=15 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52830&autoplay=true token=JDI5134KDK##@sdj9823jk</sublink>
+ <sublink>rtmpe://178.18.30.120/live/jan3 pageUrl=http://www.ukcast.tv</sublink>
  <sublink>rtmp://198.144.120.217/live/eur111TENSSB3 pageUrl=http://www.reyhq.com/embed.php?live=halilou timeout=10</sublink>
  <sublink>rtmp://141.8.244.56/base/skys3.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450&typeplayer=0&domain=halilou token=%X786(nPK@#.</sublink>
 </link>
@@ -57,6 +55,7 @@
 <item>
 <title>SKY SPORTS 4 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
+ <sublink>rtmpe://178.18.30.120/live/jan4 pageUrl=http://www.ukcast.tv</sublink>
  <sublink>rtmp://141.8.244.56/base/skys4.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450&typeplayer=0&domain=halilou token=%X786(nPK@#.</sublink>
  <sublink>rtmp://31.7.58.122:1935/stream/ffe84f5ed.stream swfUrl=http://thecdn.04stream.com/p/bop.swf live=true timeout=10</sublink>
 </link>
@@ -109,6 +108,11 @@
 <item>
 <title>Eurosport 1</title>
 <link>
+ <sublink>http://212.164.1.161:1234/udp/233.7.70.132:5000</sublink>
+ <sublink>http://176.51.2.85:1234/udp/233.7.70.132:5000</sublink>
+ <sublink>http://95.188.118.60:1234/udp/233.7.70.132:5000</sublink>
+ <sublink>http://212.164.168.141:1234/udp/233.7.70.132:5000</sublink>
+ <sublink>http://176.51.3.182:1234/udp/233.7.70.132:5000</sublink>
  <sublink>http://178.165.82.71:7781/udp/239.0.0.211:1234</sublink>
  <sublink>http://212.20.40.249:1234/udp/233.7.70.132:5000</sublink>
 </link>
