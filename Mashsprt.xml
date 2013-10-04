@@ -110,8 +110,11 @@
 </item>
  
 <item>
-<title>Eurosport 2</title>
-<link>http://178.165.82.71:7781/udp/239.0.0.212:1234</link>
+<title>Eurosport 2 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>http://www.stream2watch.me/showstream.php?id=25631&stream=1</sublink>
+ <sublink>http://178.165.82.71:7781/udp/239.0.0.212:1234</sublink>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
 
