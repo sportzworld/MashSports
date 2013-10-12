@@ -95,8 +95,8 @@
 <item>
 <title>Eurosport 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>http://92.125.144.63:1234/udp/233.7.70.132:5000</sublink>
- <sublink>http://92.127.194.175:1234/udp/233.7.70.132:5000</sublink>
+ <sublink>http://176.51.3.184:1234/udp/233.7.70.132:5000</sublink>
+ <sublink>http://176.50.129.10:1234/udp/233.7.70.132:5000</sublink>
  <sublink>http://95.188.118.60:1234/udp/233.7.70.132:5000</sublink>
  <sublink>http://92.126.198.226:1234/udp/233.7.70.132:5000</sublink>
  <sublink>http://212.164.48.41:1234/udp/233.7.70.132:5000</sublink>
