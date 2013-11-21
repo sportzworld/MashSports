@@ -57,7 +57,7 @@
 <item>
 <title>SKY F1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.133:443/live playpath=f1x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=f1x&vw=620&vh=490 live=true timeout=10</sublink>
+ <sublink>rtmp://31.220.0.134:443/live playpath=f1x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=f1x&vw=620&vh=490 live=true timeout=10</sublink>
  <sublink>rtmp://live.iguide.to/edge playpath=sdn0kjkdzyluycg swfUrl=http://player.ilive.to/player_ilive_2.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=53085&autoplay=true token=I8772LDKksadhGHGagf#</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
@@ -131,7 +131,6 @@
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
-
 
 
 <item>
