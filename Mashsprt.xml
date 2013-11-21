@@ -16,7 +16,7 @@
 <item>
 <title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://89.248.163.3/play?wmsAuth=T8zF23EmvKSVM3DihgdBVRHeXOJLpn8RAHFch8Aqqvtru8gX4lb82jwRdlfGJR/skysporthd1 pageUrl=http://www.flashcast.tv/embed.php?live=halilou&vw=600&vh=450 token=%Xr5a(nKa@#.</sublink>
+ <sublink>rtmp://31.220.0.133:443/live playpath=skysport1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=skysport1&vw=620&vh=490 live=true</sublink>
  <sublink>rtmpe://46.246.29.149:1935/live/jan1 pageUrl=http://www.hdcast.tv/embedlive2.php?u=halilou</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
