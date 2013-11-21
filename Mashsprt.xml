@@ -27,7 +27,7 @@
 <title>SKY SPORTS 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmpe://178.18.30.120/live/jan2 pageUrl=http://www.ukcast.tv</sublink>
- <sublink>rtmp://89.248.163.3/play?wmsAuth=Sk2qB8i3QRNrtbitV0GWl1wWrVYdf75ZgHXgHt6CkYWYbV6MMfgAFym6uTQpbk/skysporthd2 pageUrl=http://www.flashcast.tv/embed.php?live=halilou&vw=600&vh=450 token=%Xr5a(nKa@#.</sublink>
+ <sublink>rtmp://31.220.0.103:443/live playpath=ss2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ss2&vw=620&vh=490 live=true</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
 </item>
