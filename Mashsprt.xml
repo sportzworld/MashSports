@@ -27,7 +27,7 @@
 <title>SKY SPORTS 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmpe://178.18.30.120/live/jan2 pageUrl=http://www.ukcast.tv</sublink>
- <sublink>rtmp://31.220.0.103:443/live playpath=ss2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ss2&vw=620&vh=490 live=true</sublink>
+ <sublink>rtmp://31.220.0.103:443/live playpath=ss2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ss2&vw=620&vh=490 live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
 </item>
@@ -47,7 +47,7 @@
 <link>
  <sublink>rtmpe://178.18.30.120/live/jan4 pageUrl=http://www.ukcast.tv</sublink>
  <sublink>rtmp://141.8.244.56/base/sky4.stream pageUrl=http://sportsembed.com/halilou token=%X886(nPK@#.</sublink>
- <sublink>rtmp://31.7.58.122:1935/stream/ffe84f5ed.stream swfUrl=http://thecdn.04stream.com/p/bop.swf live=true timeout=10</sublink>
+ <sublink>rtmp://31.220.0.133:443/live playpath=ss4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ss4&vw=620&vh=490 live=true timeout=10</sublink>
 </link>
 <thumbnail>http://i2.cdnds.net/09/53/160x120_broadcasting_ss4logo.jpg</thumbnail>
 </item>
