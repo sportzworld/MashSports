@@ -88,7 +88,7 @@
 <item>
 <title>BT Sports 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://141.8.244.56/base playpath=bt2.stream swfUrl=http://141.8.244.56/player/player.swf pageUrl=http://sportsembed.com/embed.php?v=mtunes_hd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=live swfVfy=live timeout=15 token=%X886(nPK@#.</sublink>
+ <sublink>rtmp://31.220.0.133:443/live playpath=bt2x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=bt2x&vw=620&vh=490 live=true timeout=10 token=%X886(nPK@#.</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
 </item>
