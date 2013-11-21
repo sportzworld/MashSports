@@ -66,7 +66,7 @@
 <item>
 <title>Sky Sports News [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://141.8.244.56/base/skysnews.stream pageUrl=http://sportsembed.com/halilou token=%X886(nPK@#.</sublink>
+ <sublink>rtmp://141.8.247.250/base/skysnews.stream pageUrl=http://sportsembed.com/embed.php?v=&vw=600vh=450 token=%X886(nPK@#. live=true timeout=10</sublink>
  <sublink>rtmp://46.246.29.162/live/jan20 live=1 pageUrl=http://www.hdcast.tv/</sublink>
  <sublink></sublink>
 </link>
@@ -80,7 +80,7 @@
 <item>
 <title>BT Sports 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.133:443/live playpath=bt1x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=bt1x&vw=620&vh=490 live=true timeout=10 token=%X886(nPK@#.</sublink>
+ <sublink>rtmp://31.220.0.133:443/live/bt1x pageurl=http://www.reyhq.com/embed1.php live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
 </item>
@@ -88,7 +88,7 @@
 <item>
 <title>BT Sports 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.133:443/live playpath=bt2x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=bt2x&vw=620&vh=490 live=true timeout=10 token=%X886(nPK@#.</sublink>
+ <sublink>rtmp://31.220.0.103:443/live/bt2x pageurl=http://www.reyhq.com/embed1.php live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
 </item>
