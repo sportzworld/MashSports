@@ -35,7 +35,7 @@
 <item>
 <title>SKY SPORTS 3 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://141.8.244.56/base/sky3.stream pageUrl=http://sportsembed.com/halilou token=%X886(nPK@#.</sublink>
+ <sublink>rtmp://31.220.0.103:443/live playpath=ss3 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ss3&vw=620&vh=490 live=true</sublink>
  <sublink>rtmpe://178.18.30.120/live/jan3 pageUrl=http://www.ukcast.tv</sublink>
  <sublink>rtmp://198.144.120.217/live/eur111TENSSB3 pageUrl=http://www.reyhq.com/embed.php?live=halilou timeout=10</sublink>
 </link>
