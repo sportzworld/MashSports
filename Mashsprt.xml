@@ -194,7 +194,7 @@
  <sublink>rtmp://31.220.0.82:443/live playpath=ch5 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch5&vw=620&vh=490 live=true timeout=10</sublink>
  <sublink>rtmp://46.19.139.146:1935/stream/ playpath=0OyOaWE799.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=&width=600&height=460&st=14k37605i595d3y2f4b4n244w274u2s23424v2v2x2t22394&adx=&stream=i57474c4l5k5v264k544z2h5r294x2n234z4v4n314y3h3d4f4f4t22403w234w2s2p2s284z2z32303y3p2156605j5v3c3d4b4i2l5c4x5d484u546n2p2n4s2t23434a4c454v2645413v2647494v2h5z2434464l5e4e494u2w274b474l56444d4547414r2p2l2s2t2343434&sooor=MQ==&str=is&idom=firstrownow.eu live=true timeout=10</sublink>
  <sublink>rtmp://31.220.0.82:443/live playpath=ch7 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch7&vw=620&vh=490 live=true timeout=10</sublink>
- <sublink></sublink>
+ <sublink>rtmp://77.95.231.13:80/liverepeater playpath=127326 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://goodcast.pw/stream.php?id=127326&width=640&height=490&stretching= live=true timeout=10</sublink>
  <sublink></sublink>
  <sublink></sublink>
  <sublink></sublink>
