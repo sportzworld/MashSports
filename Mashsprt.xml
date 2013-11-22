@@ -48,7 +48,7 @@
 <item>
 <title>SKY SPORTS 4 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmpe://178.18.30.120/live/jan4 pageUrl=http://www.ukcast.tv</sublink>
+ <sublink>rtmp://31.220.0.104:443/live playpath=ss4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/embed1.php?live=ss4&vw=620&vh=490 live=true timeout=10</sublink>
  <sublink>rtmp://141.8.244.56/base/sky4.stream pageUrl=http://sportsembed.com/halilou token=%X886(nPK@#.</sublink>
  <sublink>rtmp://31.220.0.133:443/live playpath=ss4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ss4&vw=620&vh=490 live=true timeout=10</sublink>
 </link>
