@@ -207,14 +207,6 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/extreme_sports_nl.jpg</thumbnail>
 </item>
 
-<item>
-<title>Setanta Sports</title>
-<link>
- <sublink>rtmp://31.220.0.104:443/live playpath=setcax swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=setcax&vw=620&vh=490 live=true timeout=10</sublink>
- <sublink></sublink>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/setanta_sports_ca.jpg</thumbnail>
-</item>
 ######################################################################################################################################################
 
 
