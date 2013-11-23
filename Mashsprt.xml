@@ -20,8 +20,7 @@
 <title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://31.220.0.133:443/live/ss1x pageurl=http://www.reyhq.com/embed1.php live=true</sublink>
- <sublink>rtmp://31.220.0.104:443/live playpath=ss1x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ss1x&vw=620&vh=490 live=true
-</sublink>
+ <sublink>rtmp://31.220.0.104:443/live/ss1x pageUrl=http://www.reyhq.com/embed1.php</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
 </item>
@@ -30,7 +29,8 @@
 <title>SKY SPORTS 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://31.220.0.133:443/live/ss2 pageurl=http://www.reyhq.com/embed1.php live=true</sublink>
- <sublink>rtmp://31.220.0.103:443/live playpath=ss2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ss2&vw=620&vh=490 live=true timeout=10</sublink>
+ <sublink>rtmp://141.8.247.250/base/desi2.stream pageUrl=http://sportsembed.com/embed.php?v=&vw=600&vh=450 token=%X886(nPK@#.
+</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
 </item>
@@ -39,8 +39,8 @@
 <title>SKY SPORTS 3 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://31.220.0.133:443/live/ss3 pageurl=http://www.reyhq.com/embed1.php live=true</sublink>
- <sublink>rtmpe://178.18.30.120/live/jan3 pageUrl=http://www.ukcast.tv</sublink>
- <sublink>rtmp://198.144.120.217/live/eur111TENSSB3 pageUrl=http://www.reyhq.com/embed.php?live=halilou timeout=10</sublink>
+ <sublink>rtmp://31.220.0.133:443/live playpath=ss3 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/embed1.php conn=S:OK --live</sublink>
+ <sublink>rtmp://141.8.247.250/base/desi3.stream pageUrl=http://sportsembed.com/embed.php?v=&vw=600&vh=450 token=%X886(nPK@#.</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports3.jpg</thumbnail>
 </item>
@@ -49,8 +49,8 @@
 <title>SKY SPORTS 4 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://31.220.0.104:443/live playpath=ss4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/embed1.php?live=ss4&vw=620&vh=490 live=true timeout=10</sublink>
- <sublink>rtmp://141.8.244.56/base/sky4.stream pageUrl=http://sportsembed.com/halilou token=%X886(nPK@#.</sublink>
- <sublink>rtmp://31.220.0.133:443/live playpath=ss4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ss4&vw=620&vh=490 live=true timeout=10</sublink>
+ <sublink>rtmp://31.220.0.133:443/live playpath=ss4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/embed1.php conn=S:OK --live</sublink>
+ <sublink>rtmp://141.8.247.250/base/des4.stream pageUrl=http://sportsembed.com/embed.php?v=&vw=600vh=450 token=%X886(nPK@#.</sublink>
 </link>
 <thumbnail>http://i2.cdnds.net/09/53/160x120_broadcasting_ss4logo.jpg</thumbnail>
 </item>
@@ -61,7 +61,7 @@
 <title>SKY F1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://31.220.0.134:443/live playpath=f1x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=f1x&vw=620&vh=490 live=true timeout=10</sublink>
- <sublink>rtmp://live.iguide.to/edge playpath=sdn0kjkdzyluycg swfUrl=http://player.ilive.to/player_ilive_2.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=53085&autoplay=true token=I8772LDKksadhGHGagf#</sublink>
+ <sublink>rtmp://ny.premiumcdnlive.com/edge playpath=46rc1gx8fyrol3a swfUrl=http://player.ilive.to/secure_player_ilive_z.swf live=1 pageUrl=http://www.ilive.to/view/54068/watch-live-SkySports_F1_%28HD%29-streaming-channel-for-free token=I8772LDKksadhGHGagf#</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
 </item>
