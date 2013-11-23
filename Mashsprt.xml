@@ -175,7 +175,10 @@
 
 <item>
 <title>Fight Box HD</title>
-<link>http://cwt02.livem3u8.me.totiptv.com/live/0d01fdc1362f427ca5527c645f5f908f.m3u8?pt=1 Matial ... </link>
+<link>
+ <sublink>http://cwt02.livem3u8.me.totiptv.com/live/0d01fdc1362f427ca5527c645f5f908f.m3u8?pt=1 Matial ...</sublink>
+ <sublink>http://cwt02.livem3u8.me.totiptv.com/live/0d01fdc1362f427ca5527c645f5f908f.m3u8?pt=1 Matial ...</sublink>
+</link>
 <thumbnail>http://ncplus.pl/~/media/N/NPL/Kanaly/Logo/fightBOX.png?bc=White&w=595</thumbnail>
 </item>
 
