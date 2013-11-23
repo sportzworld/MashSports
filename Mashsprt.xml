@@ -19,7 +19,7 @@
 <item>
 <title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmpe://89.248.170.199:443/liveedge1/xskysp1222 pageUrl=http://srvadsense.com/gen_s.php</sublink>
+ <sublink>rtmp://31.220.0.133:443/live/ss1x pageurl=http://www.reyhq.com/embed1.php live=true</sublink>
  <sublink>rtmp://31.220.0.104:443/live playpath=ss1x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ss1x&vw=620&vh=490 live=true
 </sublink>
 </link>
@@ -29,7 +29,7 @@
 <item>
 <title>SKY SPORTS 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmpe://178.18.30.120/live/jan2 pageUrl=http://www.ukcast.tv</sublink>
+ <sublink>rtmp://31.220.0.133:443/live/ss2 pageurl=http://www.reyhq.com/embed1.php live=true</sublink>
  <sublink>rtmp://31.220.0.103:443/live playpath=ss2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ss2&vw=620&vh=490 live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
@@ -38,7 +38,7 @@
 <item>
 <title>SKY SPORTS 3 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.103:443/live playpath=ss3 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ss3&vw=620&vh=490 live=true</sublink>
+ <sublink>rtmp://31.220.0.133:443/live/ss3 pageurl=http://www.reyhq.com/embed1.php live=true</sublink>
  <sublink>rtmpe://178.18.30.120/live/jan3 pageUrl=http://www.ukcast.tv</sublink>
  <sublink>rtmp://198.144.120.217/live/eur111TENSSB3 pageUrl=http://www.reyhq.com/embed.php?live=halilou timeout=10</sublink>
 </link>
