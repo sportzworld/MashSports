@@ -187,7 +187,7 @@
  <sublink>rtmp://93.174.93.180:1935/live playpath=ma12 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.newsko.co.uk/embed.php?channel=ma12&vw=640&vh=385&domain=www.drakulastream.eu live=true</sublink>
  <sublink>rtmp://93.174.93.180:1935/live playpath=ma13 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.newsko.co.uk/embed.php?channel=ma13&vw=640&vh=385&domain=www.drakulastream.eu live=true</sublink>
  <sublink>rtmp://31.220.0.82:443/live playpath=ch5 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch5&vw=620&vh=490 live=true timeout=10</sublink>
- <sublink>rtmp://174.36.1.75/live playpath=183024?313338353137363237355f6230306438366265393433633832303431323264303736633738383265636137 swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=12097&wh=768&ht=432&r=hockeyreality.com live=true</sublink>
+ <sublink>rtmp://80.82.64.120:1935/live playpath=ma14 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.newsko.co.uk/embed.php?channel=ma14&vw=640&vh=385&domain=www.drakulastream.eu live=true</sublink>
  <sublink>rtmp://31.220.0.82:443/live playpath=ch7 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch7&vw=620&vh=490 live=true timeout=10</sublink>
  <sublink>rtmp://77.95.231.13:80/liverepeater playpath=127326 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://goodcast.pw/stream.php?id=127326&width=640&height=490&stretching= live=true timeout=10</sublink>
  <sublink></sublink>
