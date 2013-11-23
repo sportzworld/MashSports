@@ -182,7 +182,7 @@
 <item>
 <title>NHL Games Today</title>
 <link>
- <sublink>rtmp://174.36.1.75/live playpath=183024?313338353137363237355f6230306438366265393433633832303431323264303736633738383265636137 swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=12097&wh=768&ht=432&r=hockeyreality.com live=true</sublink>
+ <sublink>rtmp://213.163.64.78/shqstream/ playpath=montreal333?keys=wDAKW-8a5Z1Vk4oHQsBJ0g&keyt=1385197682 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=montreal333&width=640&height=480 live=true</sublink>
  <sublink>rtmp://31.131.7.34:1900/streamer?hash=b6956b89a0e2e74fff5838b095cc8d69 playpath=htrthrrthtrhthrrthtrhrth_6chln9 swfUrl=http://31.131.6.107/player/player.swf?hash=f79ab8ef31012595b2bf9bb091010765 pageUrl=http://31.131.6.107/embedhd.php?chname=htrthrrthtrhthrrthtrhrth&width=640&height=385 live=true timeout=10</sublink>
  <sublink>rtmp://93.174.93.180:1935/live playpath=ma12 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.newsko.co.uk/embed.php?channel=ma12&vw=640&vh=385&domain=www.drakulastream.eu live=true</sublink>
  <sublink>rtmp://93.174.93.180:1935/live playpath=ma13 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.newsko.co.uk/embed.php?channel=ma13&vw=640&vh=385&domain=www.drakulastream.eu live=true</sublink>
