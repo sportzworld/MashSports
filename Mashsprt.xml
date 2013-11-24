@@ -201,9 +201,9 @@
 <title>NHL Games Today</title>
 <link>
  <sublink>rtmp://50.7.28.210/flash playpath=17451 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/NGE1ZGEyNzZiYzc0OmFjNjk3YTc3Njk2NzpmZWEzYWQ3ZDUxYmJkOGMxYmE4YmEzMD/Q1NzhmNTZjMmJkY2Y0YTk2OmQ5NDcwNGIyYmEwODIyODk4NWFjZTVmNDQyNDEzMTZm live=true</sublink>
- <sublink>rtmp://95.211.196.6/shqstream/ playpath=islanders23232?keys=LCSDtY9ZRkj_9jXKxTl-Qg&keyt=1385197828 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=islanders23232&width=640&height=480 live=true</sublink>
- <sublink>rtmp://93.174.93.180:1935/live playpath=ma12 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.newsko.co.uk/embed.php?channel=ma12&vw=640&vh=385&domain=www.drakulastream.eu live=true</sublink>
- <sublink>rtmp://93.174.93.180:1935/live playpath=ma13 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.newsko.co.uk/embed.php?channel=ma13&vw=640&vh=385&domain=www.drakulastream.eu live=true</sublink>
+ <sublink>rtmp://31.220.0.133:443/live playpath=ch2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch2&vw=620&vh=490 live=true</sublink>
+ <sublink>rtmp://31.220.0.134:443/live playpath=ch3 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch3&vw=620&vh=490 live=true</sublink>
+ <sublink>rtmp://31.220.0.104:443/live playpath=ch4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch4&vw=620&vh=490 live=true</sublink>
  <sublink>rtmp://31.220.0.82:443/live playpath=ch5 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch5&vw=620&vh=490 live=true timeout=10</sublink>
  <sublink>rtmp://80.82.64.120:1935/live playpath=ma14 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.newsko.co.uk/embed.php?channel=ma14&vw=640&vh=385&domain=www.drakulastream.eu live=true</sublink>
  <sublink>rtmp://31.220.0.82:443/live playpath=ch7 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch7&vw=620&vh=490 live=true timeout=10</sublink>
