@@ -200,7 +200,7 @@
 <item>
 <title>NHL Games Today</title>
 <link>
- <sublink>rtmp://50.7.28.194/flash playpath=17451 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/ODk5MGU1YjNlZTQxOmRhNjk3YTc3Njk2NzplOGM4ZDk1M2Y2MjllNjI1MGU3YjUzMT/BlOWUwMGNhNzQ3ZGMyMDgzOmRiZmRkYzJjMzkzMTU1NDIxM2EyYWZmNDA4ZGFkM2U0 live=true</sublink>
+ <sublink>rtmp://50.7.28.162/flash playpath=16394 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/YTRkZjkxMGNmNDlmOmNjNmY2MzZiNjU3OTJkNzI2NTYxNmM2OTc0Nzk6OGYxZTBhZD/E3ZGFjMDllYzVhZTgyZTIxMTljYjJmMzFhMGFjMzczOTpmMTdiYzE5NGYzYTIxNDUxZWNkNTVkYzI4YTcyYWVlOQ__ live=true</sublink>
  <sublink>rtmp://31.220.0.133:443/live playpath=ch2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch2&vw=620&vh=490 live=true</sublink>
  <sublink>rtmp://31.220.0.134:443/live playpath=ch3 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch3&vw=620&vh=490 live=true</sublink>
  <sublink>rtmp://31.220.0.104:443/live playpath=ch4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch4&vw=620&vh=490 live=true</sublink>
