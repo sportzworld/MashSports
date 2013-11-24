@@ -224,9 +224,12 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/extreme_sports_nl.jpg</thumbnail>
 </item>
 
-<item>
+item>
 <title>ESPN</title>
-<link>rtmp://141.8.247.250/base playpath=espntv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php token=%X886(nPK@#.</link>
+<link>
+ <sublink>rtmp://141.8.247.250/base playpath=espntv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php token=%X886(nPK@#.</sublink>
+ <sublink>rtmp://46.246.69.23:443/live playpath=espnuk swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=espnuk&vw=620&vh=490 live=true</sublink>
+ </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
 </item>
 ######################################################################################################################################################
