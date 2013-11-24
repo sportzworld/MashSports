@@ -157,7 +157,7 @@
 <title>NFL Network</title>
 <link>
  <sublink>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com</sublink>
- <sublink>rtmpe://46.246.29.149:1935/live/jan22 pageUrl=http://www.hdcast.tv</sublink>
+ <sublink>rtmp://31.220.0.134:443/live playpath=ch8 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch8&vw=620&vh=490 live=true</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
 </item>
