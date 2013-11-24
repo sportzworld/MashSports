@@ -75,7 +75,7 @@
 <item>
 <title>SKY F1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.134:443/live playpath=f1x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=f1x&vw=620&vh=490 live=true timeout=10</sublink>
+ <sublink>rtmp://31.220.0.133:443/live playpath=f1x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=f1x&vw=620&vh=490 live=true</sublink>
  <sublink>rtmp://ny.premiumcdnlive.com/edge playpath=46rc1gx8fyrol3a swfUrl=http://player.ilive.to/secure_player_ilive_z.swf live=1 pageUrl=http://www.ilive.to/view/54068/watch-live-SkySports_F1_%28HD%29-streaming-channel-for-free token=I8772LDKksadhGHGagf#</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
