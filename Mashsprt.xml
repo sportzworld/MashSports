@@ -19,7 +19,7 @@
 <item>
 <title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.133:443/live/ss1x pageurl=http://www.reyhq.com/embed1.php live=true</sublink>
+ <sublink>rtmp://141.8.247.250/base/desi1.stream pageUrl=http://sportsembed.com/embed.php?v=&vw=600&vh=450 token=%X886(nPK@#.</sublink>
  <sublink>rtmp://31.220.0.104:443/live/ss1x pageUrl=http://www.reyhq.com/embed1.php</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
@@ -37,7 +37,8 @@
 <item>
 <title>SKY SPORTS 3 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.133:443/live/ss3 pageurl=http://www.reyhq.com/embed1.php live=true</sublink>
+ <sublink>rtmp://31.220.0.133:443/live playpath=ss3 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/embed1.php conn=S:OK --live
+</sublink>
  <sublink>rtmp://31.220.0.133:443/live playpath=ss3 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/embed1.php conn=S:OK --live</sublink>
  <sublink>rtmp://141.8.247.250/base/desi3.stream pageUrl=http://sportsembed.com/embed.php?v=&vw=600&vh=450 token=%X886(nPK@#.</sublink>
 </link>
@@ -47,7 +48,7 @@
 <item>
 <title>SKY SPORTS 4 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.104:443/live playpath=ss4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/embed1.php?live=ss4&vw=620&vh=490 live=true timeout=10</sublink>
+ <sublink>rtmp://141.8.247.250/base/des4.stream pageUrl=http://sportsembed.com/embed.php?v=&vw=600vh=450 token=%X886(nPK@#.</sublink>
  <sublink>rtmp://31.220.0.133:443/live playpath=ss4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/embed1.php conn=S:OK --live</sublink>
  <sublink>rtmp://141.8.247.250/base/des4.stream pageUrl=http://sportsembed.com/embed.php?v=&vw=600vh=450 token=%X886(nPK@#.</sublink>
 </link>
@@ -91,6 +92,7 @@
 <title>BT Sports 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://31.220.0.134:443/live playpath=btxx1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=btxx1&vw=620&vh=490 live=true timeout=10</sublink>
+ <sublink>rtmp://93.120.27.85/live playpath=btdesi1 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=btdesi1&vw=600&vh=430</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
 </item>
@@ -99,7 +101,8 @@
 <title>BT Sports 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://31.220.0.104:443/live playpath=bt2x swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/embed1.php?live=bt2x&vw=620&vh=490 conn=S:OK --live</sublink>
-</link>
+ <sublink>rtmp://93.120.27.83/live playpath=btdesi2 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=btdesi2&vw=600&vh=430</sublink>
+ </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
 </item>
 
@@ -123,14 +126,15 @@
 
 <item>
 <title>Eurosport 1 UK</title>
-<link>http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_UK_ENG/playlist_1800.m3u8</link>
+<link>rtmp://141.8.247.250/base playpath=euros1.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php token=%X886(nPK@#.
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
  
 <item>
 <title>Eurosport 2 UK [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>http://esioslive4-i.akamaihd.net/hls/live/200736/AL_ESP2_UK_ENG/playlist_1800.m3u8</sublink>
+ <sublink>rtmp://141.8.247.250/base playpath=euroo2.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php token=%X886(nPK@#.</sublink>
  <sublink>rtmp://46.246.124.6:443/liverepeater/20828 pageUrl=http://movietrailers.yt/player2.php?id=halilou&width=620&height=490hpgdisco</sublink>
  <sublink></sublink>
 </link>
@@ -221,7 +225,7 @@ item>
 <title>ESPN</title>
 <link>
  <sublink>rtmp://141.8.247.250/base playpath=espntv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php token=%X886(nPK@#.</sublink>
- <sublink>rtmp://46.246.69.23:443/live playpath=espnuk swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=espnuk&vw=620&vh=490 live=true</sublink>
+ <sublink>rtmp://141.8.247.250/base playpath=espntv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php token=%X886(nPK@#.</sublink>
  </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
 </item>
