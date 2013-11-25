@@ -244,7 +244,7 @@ item>
 <title>ESPN</title>
 <link>
  <sublink>rtmp://141.8.247.250/base playpath=espntv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php token=%X886(nPK@#.</sublink>
- <sublink>rtmp://141.8.247.250/base playpath=espntv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php token=%X886(nPK@#.</sublink>
+ <sublink>rtmp://93.120.27.70:1935/live playpath=epswnusa?Key= swfUrl=http://www.vvcast.tv/jl/player.swf pageUrl=http://www.vvcast.tv/embed.php?s=epswnusa&width=620&height=490&domain=cricfree.tv live=true</sublink>
  </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
 </item>
