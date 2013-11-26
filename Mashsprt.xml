@@ -233,6 +233,13 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
 </item>
 
+<item>
+<title>Motors TV[COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>http://92.127.232.247:1234/udp/233.7.70.206:5000</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.jpg</thumbnail>
+</item>
 
 <item>
 <title>Extreme Sports [COLOR yellow]Multi Link[/COLOR]</title>
