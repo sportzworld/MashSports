@@ -217,7 +217,7 @@
 <link>
  <sublink>rtmp://31.220.0.134:443/live playpath=ch1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch1&vw=620&vh=490 live=true</sublink>
  <sublink>rtmp://31.220.0.104:443/live playpath=ch2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch2&vw=620&vh=490 live=true</sublink>
- <sublink>rtmp://174.36.1.75/live playpath=174461?313338353432343631385f6538666565363262313839653030306336613162393830316138353662323337 swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=6366&wh=768&ht=432&r=hockeyreality.com live=true</sublink>
+ <sublink>rtmp://173.193.32.166/live playpath=174461?313338353432353336385f6437613236383434376430383239376561383036376334643336353839333565 swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=6366&wh=768&ht=432&r=hockeyreality.com live=true</sublink>
  <sublink>rtmp://31.220.0.133:443/live playpath=ch4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch4&vw=620&vh=490 live=true</sublink>
  <sublink>rtmp://31.220.0.104:443/live playpath=ch9x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch9x&vw=620&vh=490 live=true</sublink>
  <sublink>rtmp://31.220.0.133:443/live playpath=ch6 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch6&vw=620&vh=490 live=true</sublink>
