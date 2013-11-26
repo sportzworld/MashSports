@@ -192,7 +192,7 @@
 <title>NBA TV [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8</sublink>
- <sublink>http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1240.m3u8</sublink>
+ <sublink>http://92.127.232.247:1234/udp/233.7.70.246:5000</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
 </item>
@@ -206,7 +206,7 @@
 <item>
 <title>Fight Box HD</title>
 <link>
- <sublink>http://cwt02.livem3u8.me.totiptv.com/live/0d01fdc1362f427ca5527c645f5f908f.m3u8?pt=1 Matial ...</sublink>
+ <sublink>http://92.127.232.247:1234/udp/233.7.70.233:5000</sublink>
  <sublink>http://www.mahalkosipacquiao.com/fights/hatton/Manny_Pacquiao_vs._Ricky_Hatton.flv</sublink>
 </link>
 <thumbnail>http://ncplus.pl/~/media/N/NPL/Kanaly/Logo/fightBOX.png?bc=White&w=595</thumbnail>
