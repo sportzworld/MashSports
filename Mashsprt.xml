@@ -253,9 +253,20 @@ item>
 <title>ESPN</title>
 <link>
  <sublink>rtmp://141.8.247.250/base playpath=espntv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php token=%X886(nPK@#.</sublink>
- <sublink>rtmp://93.120.27.70:1935/live playpath=epswnusa?Key= swfUrl=http://www.vvcast.tv/jl/player.swf pageUrl=http://www.vvcast.tv/embed.php?s=epswnusa&width=620&height=490&domain=cricfree.tv live=true</sublink>
+ <sublink>rtmp://ny.premiumcdnlive.com/edge playpath=xoaaohmeuajfeyf swfUrl=http://player.ilive.to/secure_player_ilive_z.swf live=1 pageUrl=http://www.ilive.to/view/48051/watch-live-ESPN_(HD)-streaming-channel-for-free token=I8772LDKksadhGHGagf#</sublink>
  </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>Random Sports[COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>http://92.127.232.247:1234/udp/233.7.70.119:5000</sublink>
+ <sublink>http://92.127.232.247:1234/udp/233.7.70.48:5000</sublink>
+ <sublink>rtmp://141.8.247.250/base playpath=espntv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php token=%X886(nPK@#.</sublink>
+ <sublink>http://92.127.232.247:1234/udp/233.7.70.132:5000</sublink>
+</link>
+<thumbnail></thumbnail>
 </item>
 ######################################################################################################################################################
 
