@@ -225,9 +225,11 @@
  <sublink>rtmp://31.220.0.133:443/live playpath=ch8 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch8&vw=620&vh=490 live=true</sublink>
  <sublink>rtmp://31.220.0.133:443/live playpath=ch9x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch9x&vw=620&vh=490 live=true</sublink>
  <sublink>rtmp://188.240.220.62/live playpath=ywsi6n249khv7 swfUrl=http://103.31.187.78/jplayer.swf pageUrl=http://nn.jjcast.com/player.php?stream=qo8femmn19wfd4&width=640&height=385 live=true</sublink>
- <sublink></sublink>
- <sublink></sublink>
- </link>
+ <sublink>rtmp://93.174.93.180:1935/live playpath=ma16 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma16&vw=700&vh=450&domain=www.boxevents.us live=true</sublink>
+ <sublink>rtmp://93.174.93.180:1935/live playpath=ma15 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma15&vw=700&vh=450&domain=www.boxevents.us live=true</sublink>
+ <sublink>rtmp://31.220.0.134:443/live playpath=ch1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch1&vw=620&vh=490 live=true</sublink>
+ <sublink>rtmp://31.220.0.104:443/live playpath=ch2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch2&vw=620&vh=490 live=true</sublink>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
 </item>
 
