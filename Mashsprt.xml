@@ -17,6 +17,12 @@
 
 ################################################################################################################
 <item>
+<title>Setanta Sports</title>
+<link>rtmp://31.220.0.103:443/live playpath=hkkk33 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?COLLCC=3871778810&live=hkkk33&vw=640&vh=460 live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/setanta_sports1.jpg</thumbnail>
+</item>
+
+<item>
 <title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://141.8.247.250/base/desi1.stream pageUrl=http://sportsembed.com/embed.php?v=&vw=600&vh=450 token=%X886(nPK@#.</sublink>
