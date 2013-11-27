@@ -92,7 +92,7 @@
 <item>
 <title>BT Sports 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://93.120.27.86/live playpath=btdesi1 swfUrl=http://www.dcast.tv/player/player.swf pageUrl=http://www.dcast.tv/embed.php?u=btdesi1&vw=600&vh=430 live=true</sublink>
+ <sublink>rtmp://31.220.0.103:443/live playpath=btxx1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/embed1.php?live=btxx1&vw=620&vh=490</sublink>
  <sublink>rtmp://93.120.27.85/live playpath=btdesi1 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=btdesi1&vw=600&vh=430</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
@@ -101,7 +101,7 @@
 <item>
 <title>BT Sports 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://93.120.27.84/live playpath=btdesi2 swfUrl=http://www.dcast.tv/player/player.swf pageUrl=http://www.dcast.tv/embed.php?u=btdesi2&vw=600&vh=430 live=true</sublink>
+ <sublink>rtmp://31.220.0.103:443/live playpath=bt2x swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/embed1.php?live=bt2x&vw=620&vh=490</sublink>
  <sublink>rtmp://93.120.27.83/live playpath=btdesi2 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=btdesi2&vw=600&vh=430</sublink>
  </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
