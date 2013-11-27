@@ -197,7 +197,7 @@
 <title>NBA TV [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8</sublink>
- <sublink>http://92.127.232.247:1234/udp/233.7.70.246:5000</sublink>
+ <sublink>http://92.127.233.127:1234/udp/233.7.70.246:5000</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
 </item>
@@ -211,7 +211,7 @@
 <item>
 <title>Fight Box HD</title>
 <link>
- <sublink>http://92.127.232.247:1234/udp/233.7.70.233:5000</sublink>
+ <sublink>http://92.127.233.127:1234/udp/233.7.70.233:5000</sublink>
  <sublink>http://www.mahalkosipacquiao.com/fights/hatton/Manny_Pacquiao_vs._Ricky_Hatton.flv</sublink>
 </link>
 <thumbnail>http://ncplus.pl/~/media/N/NPL/Kanaly/Logo/fightBOX.png?bc=White&w=595</thumbnail>
@@ -241,7 +241,7 @@
 <item>
 <title>Motors TV [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>http://92.127.232.247:1234/udp/233.7.70.206:5000</sublink>
+ <sublink>http://92.127.233.127:1234/udp/233.7.70.206:5000</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.jpg</thumbnail>
 </item>
@@ -269,10 +269,10 @@ item>
 <item>
 <title>Random Sports [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>http://92.127.232.247:1234/udp/233.7.70.119:5000</sublink>
- <sublink>http://92.127.232.247:1234/udp/233.7.70.48:5000</sublink>
+ <sublink>http://92.127.233.127:1234/udp/233.7.70.119:5000</sublink>
+ <sublink>http://92.127.233.127:1234/udp/233.7.70.48:5000</sublink>
  <sublink>rtmp://141.8.247.250/base playpath=espntv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php token=%X886(nPK@#.</sublink>
- <sublink>http://92.127.232.247:1234/udp/233.7.70.132:5000</sublink>
+ <sublink>http://92.127.233.127:1234/udp/233.7.70.132:5000</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport1_hu.jpg</thumbnail>
 </item>
