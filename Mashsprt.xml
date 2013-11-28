@@ -269,7 +269,7 @@ item>
 <item>
 <title>Random Sports [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>http://92.127.233.127:1234/udp/233.7.70.119:5000</sublink>
+ <sublink>rtmp://flive.stream4u.eu/live playpath=kselive swfUrl=http://www.stream4u.eu/js/Flayer_stream4u.swf pageUrl=http://www.stream4u.eu/embed.php?v=kselive&vw=640&vh=420&domain=www.sportsavenue.info live=true</sublink>
  <sublink>http://92.127.233.127:1234/udp/233.7.70.48:5000</sublink>
  <sublink>rtmp://141.8.247.250/base playpath=espntv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php token=%X886(nPK@#.</sublink>
  <sublink>http://92.127.233.127:1234/udp/233.7.70.132:5000</sublink>
