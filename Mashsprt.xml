@@ -110,7 +110,7 @@
 <item>
 <title>Eurosport 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://141.8.247.250/base playpath=euros1.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php token=%X886(nPK@#.</sublink>
+ <sublink>rtmp://95.211.148.206/spull/ playpath=ssevway00ynocgo?keys=ckDgyBLseDcwy2tx8Ik17w&keyt=1385634208 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=ssevway00ynocgo&width=600&height=450 live=true</sublink>
  <sublink>rtmp://31.220.0.104:443/live playpath=euro1x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=euro1x&vw=620&vh=490 live=true</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
