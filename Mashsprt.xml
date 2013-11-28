@@ -92,7 +92,7 @@
 <item>
 <title>BT Sports 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.82:443/live playpath=btxx1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=btxx1&vw=620&vh=490 live=true</sublink>
+ <sublink>rtmp://31.220.0.104:443/live playpath=btxx1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/embed1.php?live=btxx1&vw=620&vh=490 conn=S:OK --live</sublink>
  <sublink>rtmp://31.220.0.103:443/live playpath=btxx1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=btxx1&vw=620&vh=490 live=true</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
@@ -257,8 +257,8 @@
 item>
 <title>ESPN</title>
 <link>
- <sublink>rtmp://141.8.247.250/base playpath=espntv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php token=%X886(nPK@#.</sublink>
  <sublink>rtmp://ny.premiumcdnlive.com/edge playpath=xoaaohmeuajfeyf swfUrl=http://player.ilive.to/secure_player_ilive_z.swf live=1 pageUrl=http://www.ilive.to/view/48051/watch-live-ESPN_(HD)-streaming-channel-for-free token=I8772LDKksadhGHGagf#</sublink>
+ <sublink>rtmp://ny.premiumcdnlive.com/edge playpath=du97agywg74nbys swfUrl=http://player.ilive.to/secure_player_ilive_z.swf live=1 pageUrl=http://www.ilive.to/view/53734/watch-live-ESPN_2-streaming-channel-for-free token=I8772LDKksadhGHGagf#</sublink>
  <sublink>rtmp://ny.premiumcdnlive.com/edge playpath=ac0cw5cmguex4di swfUrl=http://player.ilive.to/secure_player_ilive_z.swf live=1 pageUrl=http://www.ilive.to/view/53733/watch-live-ESPN-streaming-channel-for-free token=I8772LDKksadhGHGagf#</sublink>
  <sublink>rtmp://ny.premiumcdnlive.com/edge playpath=xoaaohmeuajfeyf swfUrl=http://player.ilive.to/secure_player_ilive_z.swf live=1 pageUrl=http://www.ilive.to/view/48051/watch-live-ESPN_(HD)-streaming-channel-for-free token=I8772LDKksadhGHGagf#</sublink>
  <sublink>rtmp://ny.premiumcdnlive.com/edge playpath=du97agywg74nbys swfUrl=http://player.ilive.to/secure_player_ilive_z.swf live=1 pageUrl=http://www.ilive.to/view/53734/watch-live-ESPN_2-streaming-channel-for-free token=I8772LDKksadhGHGagf#</sublink>
