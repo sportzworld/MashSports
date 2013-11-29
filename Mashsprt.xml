@@ -82,7 +82,7 @@
 <item>
 <title>Sky Sports News [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.134:443/live playpath=ssnxe swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ssnxe&vw=620&vh=490 live=true</sublink>
+ <sublink>rtmp://31.220.0.134:443/live playpath=ssnxx swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ssnxx&vw=620&vh=490 live=true</sublink>
  <sublink>rtmp://46.246.29.162/live/jan20 live=1 pageUrl=http://www.hdcast.tv/</sublink>
  <sublink></sublink>
 </link>
