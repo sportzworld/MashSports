@@ -278,10 +278,10 @@ item>
 <item>
 <title>Random Sports [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://flive.stream4u.eu/live playpath=kselive swfUrl=http://www.stream4u.eu/js/Flayer_stream4u.swf pageUrl=http://www.stream4u.eu/embed.php?v=kselive&vw=640&vh=420&domain=www.sportsavenue.info live=true</sublink>
- <sublink>http://92.127.233.127:1234/udp/233.7.70.48:5000</sublink>
- <sublink>rtmp://141.8.247.250/base playpath=espntv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php token=%X886(nPK@#.</sublink>
- <sublink>http://92.127.233.127:1234/udp/233.7.70.132:5000</sublink>
+ <sublink>rtmp://37.221.172.7/spull/ playpath=tableteni11?keys=tgkwPIjWXjwAJ9TGvT2E_A&keyt=1385739626 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=tableteni11&width=600&height=450 live=true</sublink>
+ <sublink>rtmp://95.211.148.206/spull/ playpath=tableteni22?keys=_PpbsuoL4qwfsRu5x75qNw&keyt=1385739779 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=tableteni22&width=600&height=450 live=true</sublink>
+ <sublink>rtmp://50.22.223.42/spull/ playpath=snooker11?keys=P8NSN5PdyW891GNVg-7sCA&keyt=1385739877 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=snooker11&width=600&height=450 live=true</sublink>
+ <sublink>rtmp://95.211.186.227/spull/ playpath=snooker22122?keys=Hw_snY4mG4toT5NNr-SsvQ&keyt=1385740001 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=snooker22122&width=600&height=450 live=true</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport1_hu.jpg</thumbnail>
 </item>
