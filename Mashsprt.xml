@@ -203,7 +203,7 @@
 <item>
 <title>NBA TV [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8</sublink>
+ <sublink>http://82.135.219.17:4444/udp/239.2.3.76:1234 </sublink>
  <sublink>http://92.127.233.127:1234/udp/233.7.70.246:5000</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
@@ -218,7 +218,7 @@
 <item>
 <title>Fight Box HD</title>
 <link>
- <sublink>http://92.127.233.127:1234/udp/233.7.70.233:5000</sublink>
+ <sublink>http://82.135.219.17:4444/udp/239.2.3.70:1234 </sublink>
  <sublink>http://www.mahalkosipacquiao.com/fights/hatton/Manny_Pacquiao_vs._Ricky_Hatton.flv</sublink>
 </link>
 <thumbnail>http://ncplus.pl/~/media/N/NPL/Kanaly/Logo/fightBOX.png?bc=White&w=595</thumbnail>
@@ -248,7 +248,7 @@
 <item>
 <title>Motors TV [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>http://92.127.233.127:1234/udp/233.7.70.206:5000</sublink>
+ <sublink>http://82.135.219.17:4444/udp/239.2.3.59:1234</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.jpg</thumbnail>
 </item>
@@ -256,7 +256,7 @@
 <item>
 <title>Extreme Sports [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>http://92.127.233.127:1234/udp/233.7.70.147:5000</sublink>
+ <sublink>http://82.135.219.17:4444/udp/239.2.3.65:1234 </sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/extreme_sports_nl.jpg</thumbnail>
 </item>
@@ -279,7 +279,7 @@ item>
  <sublink>rtmp://ny.premiumcdnlive.com/edge/woqa3ln9smklf4o pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#</sublink>
  <sublink>rtmp://95.211.148.206/spull/ playpath=tableteni22?keys=_PpbsuoL4qwfsRu5x75qNw&keyt=1385739779 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=tableteni22&width=600&height=450 live=true</sublink>
  <sublink>rtmp://50.22.223.42/spull/ playpath=snooker11?keys=P8NSN5PdyW891GNVg-7sCA&keyt=1385739877 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=snooker11&width=600&height=450 live=true</sublink>
- <sublink>rtmp://95.211.186.227/spull/ playpath=snooker22122?keys=Hw_snY4mG4toT5NNr-SsvQ&keyt=1385740001 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=snooker22122&width=600&height=450 live=true</sublink>
+ <sublink>http://82.135.219.17:4444/udp/239.2.3.105:1234 </sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport1_hu.jpg</thumbnail>
 </item>
