@@ -14,7 +14,7 @@
 <sublink></sublink>
 
 <info>
-<message>[COLOR green]Nhl Games of the day for Dec 1[/COLOR][COLOR green] NHL: Hurricanes @ Canucks link 1 & 5[/COLOR][COLOR green] NHL: Red Wings @ Senators link 2[/COLOR][COLOR green] NHL: Oilers @ Stars link 3[/COLOR]</message>
+<message>[COLOR green]Nhl Games of the day for Dec 1[/COLOR][COLOR green] NHL: Hurricanes @ Canucks link 1 & 5[/COLOR][COLOR green] NHL: Red Wings @ Senators link 2[/COLOR][COLOR green] NHL: Oilers @ Stars link 3 & 4[/COLOR]</message>
 <thumbnail> http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg </thumbnail>
 </info>
 
@@ -226,7 +226,7 @@
  <sublink>rtmp://46.165.196.149/shqstream/ playpath=carolina366a?keys=O9ktl6K75sWZGc0qx2G8eQ&keyt=1385934811 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=carolina366a&width=600&height=500 live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.117:1935/live playpath=ma8 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma8&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.103:443/live playpath=ch6 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch6&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.134:443/live playpath=ch1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch1&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://80.82.64.119:1935/live playpath=ma7 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma7&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.118:1935/live playpath=ma7 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma7&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://46.165.196.149/shqstream/ playpath=washington38383838?keys=ir9_XY7kTj7oQxr61sj9_A&keyt=1385868530 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=washington38383838&width=600&height=500 live=1 timeout=10</sublink>
  <sublink>rtmp://95.211.148.206/shqstream/ playpath=philadelphia373737?keys=4LckKDOjib_oYSAI0uTGrQ&keyt=1385874331 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=philadelphia373737&width=600&height=500 live=1 timeout=10</sublink>
