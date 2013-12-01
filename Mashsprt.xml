@@ -30,8 +30,8 @@
 <item>
 <title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.133:443/live playpath=skyspor1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=skyspor1&vw=620&vh=490 live=true</sublink>
- <sublink>rtmp://31.220.0.104:443/live/ss1x pageUrl=http://www.reyhq.com/embed1.php</sublink>
+ <sublink>rtmp://edge.icasthd.tv:1935/live playpath=skysp1?Key=8ffd558404c7eeef3053f0ba9fdf1aa3 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=dshqtvsky1&width=600&height=430&domain=www.desistreams.tv live=1 timeout=10</sublink>
+ <sublink>rtmp://edge.icasthd.tv:1935/live playpath=skysp1?Key=8ffd558404c7eeef3053f0ba9fdf1aa3 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=dshqtvsky1&width=600&height=430&domain=www.desistreams.tv live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
 </item>
@@ -39,8 +39,8 @@
 <item>
 <title>SKY SPORTS 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.133:443/live playpath=ss2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/embed1.php conn=S:OK --live</sublink>
- <sublink>rtmp://31.220.0.103:443/live playpath=ss2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ss2&vw=620&vh=490 live=true</sublink>
+ <sublink>rtmp://edge.icasthd.tv:1935/live playpath=skysp2?Key=5ed64aa5188200928662a2fa1c2bed06 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=dshqtvsky2&width=600&height=430&domain=desistreams.tv live=1 timeout=10</sublink>
+ <sublink>rtmp://edge.icasthd.tv:1935/live playpath=skysp2?Key=5ed64aa5188200928662a2fa1c2bed06 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=dshqtvsky2&width=600&height=430&domain=desistreams.tv live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
 </item>
@@ -48,8 +48,8 @@
 <item>
 <title>SKY SPORTS 3 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.133:443/live playpath=ss3 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/embed1.php conn=S:OK --live</sublink>
- <sublink>rtmp://31.220.0.103:443/live playpath=ss3 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ss3&vw=620&vh=490 live=true</sublink>
+ <sublink>rtmp://edge.icasthd.tv:1935/live playpath=skysp2?Key=aaeb415be401ad5f53a38b8570794225 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=dshqtvsky2&width=600&height=430&domain=desistreams.tv live=1 timeout=10</sublink>
+ <sublink>rtmp://edge.icasthd.tv:1935/live playpath=skysp2?Key=aaeb415be401ad5f53a38b8570794225 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=dshqtvsky2&width=600&height=430&domain=desistreams.tv live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports3.jpg</thumbnail>
 </item>
@@ -76,8 +76,8 @@
 <item>
 <title>SKY F1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.134:443/live playpath=f1x swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/embed1.php?live=f1x&vw=620&vh=490 conn=S:OK --live</sublink>
- <sublink>rtmp://31.220.0.104:443/live playpath=btxx1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/embed1.php?live=btxx1&vw=620&vh=490 conn=S:OK --live</sublink>
+ <sublink>rtmp://31.220.0.134:443/live playpath=f1x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=f1x&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.134:443/live playpath=f1x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=f1x&vw=620&vh=490 live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
 </item>
