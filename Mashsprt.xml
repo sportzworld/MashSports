@@ -223,7 +223,7 @@
 <item>
 <title>NHL Games Today</title>
 <link>
- <sublink>rtmp://159.253.131.108/live playpath=174461?313338353932303934335f3235326237616439356537336361356636346337316435616332653432346139 swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=6366&wh=768&ht=432&r=hockeyreality.com live=1 timeout=10</sublink>
+ <sublink>rtmp://46.165.196.149/shqstream/ playpath=carolina366a?keys=O9ktl6K75sWZGc0qx2G8eQ&keyt=1385934811 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=carolina366a&width=600&height=500 live=1 timeout=10</sublink>
  <sublink>rtmp://149.255.39.2/shqstream/ playpath=boston3232?keys=rKinTPDuIcjwmkKuAtuFFA&keyt=1385870161 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=boston3232&width=600&height=500 live=1 timeout=10</sublink>
  <sublink>rtmp://95.211.196.6/shqstream/ playpath=toronto3333?keys=UNObZzXsYVbPeXlnJZFfyw&keyt=1385867942 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=toronto3333&width=600&height=500 live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.134:443/live playpath=ch1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch1&vw=620&vh=490 live=1 timeout=10</sublink>
