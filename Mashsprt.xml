@@ -23,7 +23,7 @@
 ################################################################################################################
 <item>
 <title>Setanta Sports</title>
-<link>rtmp://31.220.0.103:443/live playpath=setcax swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=setcax&vw=620&vh=490 live=true</link>
+<link>rtmp://31.220.0.133:443/live playpath=setcaxxx swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=setcaxxx&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/setanta_sports1.jpg</thumbnail>
 </item>
 
@@ -159,7 +159,7 @@
 
 <item>
 <title>Ptv Sports</title>
-<link>rtmp://206.190.151.86/live playpath=ptvsportshqqq swfUrl=http://www.castok.com/player/player.swf pageUrl=http://www.castok.com/embed.php?v=ptv99&vw=620&vh=490&typeplayer=0&domain=cricfree.tv live=true</link>
+<link>rtmp://93.120.27.84/live playpath=ptv8 swfUrl=http://www.dcast.tv/player/player.swf pageUrl=http://www.dcast.tv/embed.php?u=ptv8&vw=650&vh=470 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/tv/p_1.html</thumbnail>
 </item>
 
