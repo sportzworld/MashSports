@@ -257,6 +257,12 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/extreme_sports_nl.jpg</thumbnail>
 </item>
 
+<item>
+<title>HBO HD</title>
+<link>rtmp://103.246.17.52/live//hd_hbo.stream</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_asia_hd.jpg</thumbnail>
+</item>
+
 item>
 <title>ESPN</title>
 <link>
