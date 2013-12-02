@@ -85,7 +85,7 @@
 <item>
 <title>Sky Sports News [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.134:443/live playpath=ssnxx swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ssnxx&vw=620&vh=490 live=true</sublink>
+ <sublink>rtmp://31.220.0.103:443/live playpath=ssnxx swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/</sublink>
  <sublink>rtmp://46.246.29.162/live/jan20 live=1 pageUrl=http://www.hdcast.tv/</sublink>
  <sublink></sublink>
 </link>
@@ -268,9 +268,9 @@ item>
 <link>
  <sublink>rtmp://ny.premiumcdnlive.com/edge playpath=xoaaohmeuajfeyf swfUrl=http://player.ilive.to/secure_player_ilive_z.swf live=1 pageUrl=http://www.ilive.to/view/48051/watch-live-ESPN_(HD)-streaming-channel-for-free token=I8772LDKksadhGHGagf#</sublink>
  <sublink>rtmp://ny.premiumcdnlive.com/edge playpath=du97agywg74nbys swfUrl=http://player.ilive.to/secure_player_ilive_z.swf live=1 pageUrl=http://www.ilive.to/view/53734/watch-live-ESPN_2-streaming-channel-for-free token=I8772LDKksadhGHGagf#</sublink>
+ <sublink>rtmp://31.7.58.122:1935/stream/ playpath=565rgrh.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=64v2b4z5o506c4o2e474o284t214x2q28424v2u2p2&adx=&stream=j564c4c4c4c4w244j584445494c4z2n284a4z2m474p4g434e4b4u264x2q264u2x2p2s274r2y3133364j4p5z5x3n4k4j4u5j5a22544l594k4o5x3r2r4l2s2t234m564a4i58474l5b403030354q284a4e4844494a4b4e484x2d484t2l5845453r20414r2p2l2s2t276n516t2y3&sooor=NQ==&str=is&idom=firstrownow.eu</sublink>
  <sublink>rtmp://ny.premiumcdnlive.com/edge playpath=ac0cw5cmguex4di swfUrl=http://player.ilive.to/secure_player_ilive_z.swf live=1 pageUrl=http://www.ilive.to/view/53733/watch-live-ESPN-streaming-channel-for-free token=I8772LDKksadhGHGagf#</sublink>
- <sublink>rtmp://31.220.0.103:443/live playpath=espnukxm swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=espnukxm&vw=620&vh=490 live=true</sublink>
- <sublink>rtmp://31.220.0.133:443/live playpath=espnukxm swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=espnukxm&vw=620&vh=490 live=true</sublink>
+ <sublink>rtmp://ny.premiumcdnlive.com/edge playpath=du97agywg74nbys swfUrl=http://player.ilive.to/secure_player_embed_z.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=53734&autoplay=true token=I8772LDKksadhGHGagf#</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
 </item>
