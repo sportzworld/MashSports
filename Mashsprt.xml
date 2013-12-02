@@ -30,7 +30,7 @@
 <item>
 <title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://edge.icasthd.tv:1935/live playpath=skysp1?Key=8ffd558404c7eeef3053f0ba9fdf1aa3 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=dshqtvsky1&width=600&height=430&domain=www.desistreams.tv live=1 timeout=10</sublink>
+ <sublink>rtmpe://46.246.124.8:1935/live playpath=ban1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/player.php?u=ban1&vw=640&vh=460&domain=www.hqiframe.com --live</sublink>
  <sublink>rtmp://edge.icasthd.tv:1935/live playpath=skysp1?Key=8ffd558404c7eeef3053f0ba9fdf1aa3 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=dshqtvsky1&width=600&height=430&domain=www.desistreams.tv live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
@@ -39,7 +39,7 @@
 <item>
 <title>SKY SPORTS 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://edge.icasthd.tv:1935/live playpath=skysp2?Key=5ed64aa5188200928662a2fa1c2bed06 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=dshqtvsky2&width=600&height=430&domain=desistreams.tv live=1 timeout=10</sublink>
+ <sublink>rtmpe://46.246.124.8:1935/live playpath=ban2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/player.php?u=ban1&vw=640&vh=460&domain=www.hqiframe.com --live</sublink>
  <sublink>rtmp://edge.icasthd.tv:1935/live playpath=skysp2?Key=5ed64aa5188200928662a2fa1c2bed06 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=dshqtvsky2&width=600&height=430&domain=desistreams.tv live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
@@ -48,7 +48,7 @@
 <item>
 <title>SKY SPORTS 3 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://edge.icasthd.tv:1935/live playpath=skysp2?Key=aaeb415be401ad5f53a38b8570794225 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=dshqtvsky2&width=600&height=430&domain=desistreams.tv live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.103:443/live playpath=ss3 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/</sublink>
  <sublink>rtmp://edge.icasthd.tv:1935/live playpath=skysp2?Key=aaeb415be401ad5f53a38b8570794225 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=dshqtvsky2&width=600&height=430&domain=desistreams.tv live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports3.jpg</thumbnail>
@@ -57,7 +57,7 @@
 <item>
 <title>SKY SPORTS 4 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.82:443/live playpath=ss4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ss4&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.104:443/live playpath=ss4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/</sublink>
  <sublink>rtmp://31.220.0.82:443/live playpath=ss4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ss4&vw=620&vh=490 live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://i2.cdnds.net/09/53/160x120_broadcasting_ss4logo.jpg</thumbnail>
@@ -76,7 +76,7 @@
 <item>
 <title>SKY F1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.134:443/live playpath=f1x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=f1x&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.103:443/live playpath=f1x swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/</sublink>
  <sublink>rtmp://31.220.0.134:443/live playpath=f1x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=f1x&vw=620&vh=490 live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
