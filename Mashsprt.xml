@@ -114,7 +114,7 @@
 <title>Eurosport 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>http://82.135.219.17:4444/udp/239.2.3.61:1234</sublink>
- <sublink>rtmp://31.220.0.104:443/live playpath=euro1x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=euro1x&vw=620&vh=490 live=true</sublink>
+ <sublink>http://82.135.219.17:4444/udp/239.2.3.19:1234</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
