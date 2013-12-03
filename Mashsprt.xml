@@ -31,7 +31,7 @@
 <title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://31.220.0.134:443/live playpath=skyspor1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=skyspor1&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://93.120.27.226:1935/live playpath=skysp1?Key=badc16e9105a71805b00c0e9df7a163e swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=dshqtvsky1&width=600&height=430&domain=www.desistreams.tv live=1 timeout=10</sublink>
+ <sublink>rtmp://ny.premiumcdnlive.com/edge/3dan7f3y79w5290 pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
 </item>
@@ -40,7 +40,7 @@
 <title>SKY SPORTS 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://31.220.0.103:443/live playpath=ss2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ss2&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://93.120.27.154:1935/live playpath=skysp2?Key=7d2f196c576416694d38eeafd04acc6a swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=dshqtvsky2&width=600&height=430&domain=desistreams.tv live=1 timeout=10</sublink>
+ <sublink>rtmp://ny.premiumcdnlive.com/edge/9z0m2nhbwbfimxw pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
 </item>
@@ -223,10 +223,10 @@
 <item>
 <title>NHL Games Today</title>
 <link>
- <sublink>rtmp://80.82.64.117:1935/live playpath=ma7 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.prpeero.com/embed1.php?channel=ma7&vw=700&vh=450&domain=www.firstevents.us live=1 timeout=10</sublink>
- <sublink>rtmp://46.246.29.148:1935/live playpath=ma8 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed1.php?channel=ma8&vw=650&vh=460&domain=www.cv23.us live=1 timeout=10</sublink>
- <sublink>rtmp://46.165.230.2/spull/ playpath=philadelphia54?keys=1wULqmJKuUZcVAm0ucHHMA&keyt=1386046141 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=philadelphia54&width=600&height=450 live=1 timeout=10</sublink>
- <sublink>rtmp://80.82.64.120:1935/live playpath=ma10 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma10&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://46.246.29.148:1935/live playpath=ma10 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma10&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://213.163.64.75/shqstream/ playpath=pittsburgh33333?keys=QuBzkInNjxyGrufgGYMmVA&keyt=1386128835 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=pittsburgh33333&width=600&height=500 live=1 timeout=10</sublink>
+ <sublink>rtmp://80.82.64.119:1935/live playpath=ma9 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma9&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.133:443/live playpath=ch4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch4&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://46.246.29.159:1935/stream/ playpath=fOFJMymYye.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=&width=600&height=460&st=j5k3s4v4y476h4w376j5n244w274u2s23424v2v2x2t22394&adx=&stream=14v2a4n5d4c4x264o5348484t26413n2l5z4g3i3h3w4l4b576n5t22403w234w2s2p2s284z2z32303y37415r4v4z4t4g4b536i2l5c4x5d484u546n2p2n4s2t23434a4c454v2645413v2647494v2h5z2434464l5e4e494u2w274b474l56444d4547414r2p2l2s2t2343434&sooor=Mzg=&str=is&idom=firstrownow.eu live=1 timeout=10</sublink>
  <sublink>rtmp://46.165.196.149/shqstream/ playpath=washington38383838?keys=ir9_XY7kTj7oQxr61sj9_A&keyt=1385868530 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=washington38383838&width=600&height=500 live=1 timeout=10</sublink>
  <sublink>rtmp://95.211.148.206/shqstream/ playpath=philadelphia373737?keys=4LckKDOjib_oYSAI0uTGrQ&keyt=1385874331 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=philadelphia373737&width=600&height=500 live=1 timeout=10</sublink>
