@@ -147,7 +147,7 @@
 
 <item>
 <title>Ten Sports</title>
-<link>rtmp://31.220.0.104:443/live playpath=tenactioncf3333 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=tenactioncf3333&vw=620&vh=490 live=true</link>
+<link>rtmp://31.220.0.103:443/live playpath=tsposts swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=tsposts&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in.jpg</thumbnail>
 </item>
 
