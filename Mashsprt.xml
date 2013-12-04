@@ -14,7 +14,7 @@
 <sublink></sublink>
 
 <info>
-<message>[COLOR blue]Nhl Games  Dec 4[/COLOR][COLOR green] 4:00 p.m NHL: Canadiens @ Devils link 1[/COLOR][COLOR yellow] 5:00 p.m NHL: Flyers @ Red wings link 2[/COLOR][COLOR green] 7:00 p.m NHL: Coyotes @ Flames link 3[/COLOR]</message>
+<message>[COLOR blue]Nhl Games  Dec 4[/COLOR][COLOR green] 4:00 p.m NHL: Canadiens @ Devils link 1 & 11[/COLOR][COLOR yellow] 5:00 p.m NHL: Flyers @ Red wings link 2[/COLOR][COLOR green] 7:00 p.m NHL: Coyotes @ Flames link 3[/COLOR]</message>
 <thumbnail> http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg </thumbnail>
 </info>
 
@@ -233,7 +233,7 @@
  <sublink>rtmp://80.82.64.119:1935/live playpath=ma14 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma14&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.119:1935/live playpath=ma15 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma15&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10/sublink>
  <sublink>rtmp://95.211.213.196/shqstream/ playpath=calgary65?keys=1rUakTWMtN2__pNe_Sz2Ww&keyt=1385879762 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=calgary65&width=600&height=500 live=1 timeout=10</sublink>
- <sublink>rtmp://174.36.55.76/shqstream/ playpath=toronto3333?keys=LOC59c8Jw14X7c46ddbMzQ&keyt=1385880081 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=toronto3333&width=600&height=500 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.104:443/live playpath=ch1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch1&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://31.204.152.198/lives playpath=ybzxvlz9grxok7?bJsDuX_coeaV1OngYm-ZOFv7GyCGBX6vYUwSn4IZgu1g-4WlCo9ujciiHIBSjmi0NzwJ4cfvR7xcZCPn8sFRoUeYcXH2SN4RTVR05pzvLAQ* swfUrl=http://103.31.187.78/jplayer.swf pageUrl=http://jjcast.com/player.php?stream=ybzxvlz9grxok7&width=650&height=450 live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.134:443/live playpath=ch1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch1&vw=620&vh=490 live=true</sublink>
  <sublink>rtmp://159.253.143.7/live playpath=174461?313338353932313632325f6666396664303966343333616531663030303465366266666366323233363536 swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=6366&wh=768&ht=432&r=hockeyreality.com live=1 timeout=10</sublink>
