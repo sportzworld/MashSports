@@ -28,6 +28,12 @@
 </item>
 
 <item>
+<title>Golf</title>
+<link>rtmp://103.246.17.52/live//GCT.stream</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/golf_channel_us.jpg</thumbnail>
+</item>
+
+<item>
 <title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://31.220.0.134:443/live playpath=skyspor1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=skyspor1&vw=620&vh=490 live=1 timeout=10</sublink>
