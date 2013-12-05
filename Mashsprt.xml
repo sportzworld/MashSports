@@ -30,7 +30,7 @@
 <item>
 <title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.134:443/live playpath=skyspor1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=skyspor1&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmpe://46.246.124.14:1935/live playpath=ban1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/player.php?u=ban1&vw=640&vh=460&domain=www.hqiframe.com --live</sublink>
  <sublink>rtmp://ny.premiumcdnlive.com/edge/3dan7f3y79w5290 pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
@@ -39,7 +39,7 @@
 <item>
 <title>SKY SPORTS 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.103:443/live playpath=ss2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ss2&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmpe://46.246.124.14:1935/live playpath=ban2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/player.php?u=ban1&vw=640&vh=460&domain=www.hqiframe.com --live</sublink>
  <sublink>rtmp://ny.premiumcdnlive.com/edge/9z0m2nhbwbfimxw pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
