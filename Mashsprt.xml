@@ -109,7 +109,7 @@
 <item>
 <title>BT Sports 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.104:1935/live playpath=fdsfsdf swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=fdsfsdf&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.104:1935/live playpath=bt22 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt22&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.133:443/live playpath=bt2x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=bt2x&vw=620&vh=490 live=1 timeout=10</sublink>
  </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
