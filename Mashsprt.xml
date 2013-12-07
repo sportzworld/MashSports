@@ -19,7 +19,7 @@
 </info>
 
 <info>
-<message>[COLOR blue]Nhl Games in pst for Dec 6 [/COLOR][COLOR green] 4:00 p.m NHL: Wings @ Devils link 1 [/COLOR][COLOR yellow] 4:00 p.m NHL: Sharks @ Hurricanes link 2 [/COLOR][COLOR green] 4:00 p.m NHL: Wild @ Blue Jackets link 3 [/COLOR][COLOR yellow] 5:00 p.m NHL: Ducks @ Blackhawks link 4 [/COLOR][COLOR green] 6:00 NHL: Avalanche @ Flames link 5 [/COLOR][COLOR yellow] 7:00 NHL: Coyotes @ Canucks link 6 [/COLOR]</message>
+<message>[COLOR blue]Nhl Games in pst for Dec 6 [/COLOR][COLOR green] 4:00 p.m NHL: Wings @ Devils link 1 [/COLOR][COLOR yellow] 4:00 p.m NHL: Sharks @ Hurricanes link 2 [/COLOR][COLOR green] 4:00 p.m NHL: Wild @ Blue Jackets link 3 [/COLOR][COLOR yellow] 5:00 p.m NHL: Ducks @ Blackhawks link 4 [/COLOR][COLOR green] 6:00 NHL: Avalanche @ Flames link 5 [/COLOR][COLOR yellow] 7:00 NHL: Coyotes @ Canucks link 6&7 [/COLOR]</message>
 <thumbnail> http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg </thumbnail>
 </info>
 
@@ -234,7 +234,7 @@
  <sublink>rtmp://80.82.64.119:1935/live playpath=ma14 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma14&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.120:1935/live playpath=ma15 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma15&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.120:1935/live playpath=ma16 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma16&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
- <sublink>rtmp://46.246.124.17:1935/live playpath=ma11 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma11&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://50.22.223.36/spull/ playpath=detroit32?keys=8a5oJscq-OAkvJDH1mwyjQ&keyt=1386398500 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=detroit32&width=600&height=450 live=1 timeout=10</sublink>
  <sublink>rtmp://46.246.29.148:1935/live playpath=ma12 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma12&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://46.246.124.17:1935/live playpath=ma13 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma13&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.117:1935/live playpath=ma14 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma14&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
