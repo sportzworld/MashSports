@@ -19,7 +19,7 @@
 </info>
 
 <info>
-<message>[COLOR blue]Nhl Games in pst for Dec 7 [/COLOR][COLOR green] 11:00 a.m NHL: Flyers @ Stars link 1 [/COLOR][COLOR yellow] 4:00 p.m NHL: Penquins @ Bruins link 2 [/COLOR][COLOR green] 4:00 p.m NHL: Sabres @ Canadiens link 3 [/COLOR][COLOR yellow] 4:00 p.m NHL: Leafs @ Senators link 4 [/COLOR][COLOR green] 4:00 NHL: Panthers @ Red Wings link 5 [/COLOR][COLOR yellow] 4:00 NHL: Jets @ Lightning link 6 [/COLOR][COLOR green] 4:00 NHL: Predators @ Capitols link 7 [/COLOR][COLOR yellow] 4:30 NHL: Devils @ Rangers link 8 [/COLOR][COLOR green] 5:00 NHL: Ducks @ Blues link 9 [/COLOR][COLOR yellow] 7:00 Flames @ Oilers link 10 [/COLOR][COLOR green] 7:30 NHL: Islanders @ Kings 11 [/COLOR]</message>
+<message>[COLOR blue]Nhl Games in pst for Dec 7 [/COLOR][COLOR green] 11:00 a.m NHL: Flyers @ Stars link 1 [/COLOR][COLOR yellow] 4:00 p.m NHL: Penquins @ Bruins link 2 [/COLOR][COLOR green] 4:00 p.m NHL: Sabres @ Canadiens link 3 [/COLOR][COLOR yellow] 4:00 p.m NHL: Leafs @ Senators link 4 [/COLOR][COLOR green] 4:00 NHL: Panthers @ Red Wings link 5 [/COLOR][COLOR yellow] 4:00 NHL: Jets @ Lightning link 6 [/COLOR][COLOR green] 4:00 NHL: Predators @ Capitols link 7 [/COLOR][COLOR yellow] 4:30 NHL: Devils @ Rangers link 8 [/COLOR][COLOR green] 5:00 NHL: Ducks @ Blues link 9 [/COLOR][COLOR yellow] 7:00 Flames @ Oilers link 1 & 10 [/COLOR][COLOR green] 7:30 NHL: Islanders @ Kings 11 [/COLOR]</message>
 <thumbnail> http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg </thumbnail>
 </info>
 
@@ -236,7 +236,7 @@
 <item>
 <title>NHL Games Today</title>
 <link>
- <sublink>rtmp://80.82.64.117:1935/live playpath=ma9 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma9&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://80.82.64.119:1935/live playpath=ma9 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma9&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.103:443/live playpath=ch1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch1&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.103:443/live playpath=ch3 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch3&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.103:443/live playpath=setcaxxx swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=setcaxxx&vw=620&vh=490 live=1 timeout=10</sublink>
