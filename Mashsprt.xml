@@ -96,7 +96,7 @@
 <item>
 <title>Sky Sports News [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.103:443/live playpath=ssnxx swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/</sublink>
+ <sublink>rtmp://31.220.0.133:1935/live playpath=skysportnews swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skysportnews&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://46.246.29.162/live/jan20 live=1 pageUrl=http://www.hdcast.tv/</sublink>
  <sublink></sublink>
 </link>
