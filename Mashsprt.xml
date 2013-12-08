@@ -54,7 +54,7 @@
 <item>
 <title>SKY SPORTS 3 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.103:443/live playpath=ss3 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/</sublink>
+ <sublink>rtmp://93.120.27.226:1935/live playpath=skysp3?Key=cc072c3b97418081b4bd0c4b4693ae78 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=dshqtvsky3&width=645&height=465&domain=desistreams.tv live=1 timeout=10</sublink>
  <sublink>rtmp://93.120.27.154:1935/live playpath=skysp2?Key=e4d7d1a5d2a364ce41a59e3bd9c0afcc swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=dshqtvsky2&width=600&height=430&domain=desistreams.tv live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports3.jpg</thumbnail>
@@ -63,7 +63,7 @@
 <item>
 <title>SKY SPORTS 4 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.103:443/live playpath=ss4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ss4&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.82:1935/live playpath=skysport4 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skysport4&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.134:443/live playpath=ss4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ss4&vw=620&vh=490 live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://i2.cdnds.net/09/53/160x120_broadcasting_ss4logo.jpg</thumbnail>
@@ -128,7 +128,7 @@
 <item>
 <title>Eurosport 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.133:443/live playpath=euro2x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=euro2x&vw=620&vh=490 live=true</sublink>
+ <sublink>rtmp://31.220.0.103:443/live playpath=euro2x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=euro2x&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>http://178.165.82.71:7781/udp/239.0.0.212:1234</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
@@ -159,7 +159,7 @@
 
 <item>
 <title>Star Sports</title>
-<link>rtmp://93.120.27.226:1935/live playpath=starcricket?Key=99a8d33df21865df5fe6d2c96d2a30e8 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=starcricket&width=600&height=450&domain=hdembed.com live=1 timeout=10</link>
+<link>rtmp://93.120.27.242:1935/live playpath=starcricket?Key=233afc62cb22142c2f84f35a3b16cb37 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=starcricket&width=600&height=450&domain=hdembed.com live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_sports.png</thumbnail>
 </item>
 
