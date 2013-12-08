@@ -236,7 +236,7 @@
 <item>
 <title>NHL Games Today</title>
 <link>
- <sublink>rtmp://80.82.64.119:1935/live playpath=ma9 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma9&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://80.82.64.119:1935/live playpath=ma6 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma6&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.103:443/live playpath=ch1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch1&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.103:443/live playpath=ch3 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch3&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.118:1935/live playpath=ma11 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma11&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
