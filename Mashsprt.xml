@@ -238,8 +238,8 @@
 <link>
  <sublink>rtmp://80.82.64.117:1935/live playpath=ma8 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma8&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.117:1935/live playpath=ma9 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma9&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
- <sublink>rtmp://46.246.124.17:1935/live playpath=ma8 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma8&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
- <sublink>rtmp://80.82.64.117:1935/live playpath=ma9 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma9&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://46.246.124.16:1935/live playpath=ma10 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma10&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://46.246.29.148:1935/live playpath=ma11 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma11&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.117:1935/live playpath=ma10 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma10&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://188.240.220.62/lives playpath=jgbbhtw7wejp4nx?mQA0NjhK6RcQzHx825o8J0jFQkLcOfkEK7acRoxILcrDsEN0ScbUv86fqlU5X20YIpxMc83D033e-QvQTyDQSWbeKAFTJezuBtYgUvY9fE4* swfUrl=http://103.31.187.78/jplayer.swf pageUrl=http://jjcast.com/player.php?stream=jgbbhtw7wejp4nx&width=650&height=450 live=1 timeout=10</sublink>
  <sublink>rtmp://31.204.154.141/lives playpath=7nfz7r4rb8afn4h?WTohFw_drh0JRmpK4-hRKR8m8oaybSQejn5forhbtqS9eZYi6ra0fef0U_cpzYKPp81XP9yVG9D_rv0h4omO0nBo0xNZ9ecJb3dFdA6NtQo* swfUrl=http://103.31.187.78/jplayer.swf pageUrl=http://jjcast.com/player.php?stream=7nfz7r4rb8afn4h&width=650&height=450 live=1 timeout=10</sublink>
