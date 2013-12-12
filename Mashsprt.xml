@@ -66,7 +66,7 @@
 <title>SKY SPORTS 3 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://31.220.0.82:1935/live playpath=skyspors3 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skyspors3&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.133:1935/live playpath=skyspors3 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skyspors3&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.133:1935/live playpath=skyspors3 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=skyspors3&vw=620&vh=490 Conn=S:OK</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports3.jpg</thumbnail>
 </item>
