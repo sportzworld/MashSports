@@ -146,23 +146,6 @@
 </item>
 
 <item>
-<title>Eurosport 1 UK</title>
-<link>rtmp://31.220.0.133:443/live playpath=euroo11c swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=euroo11c&vw=620&vh=490 live=true</sublink>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
-</item>
- 
-<item>
-<title>Eurosport 2 UK [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
- <sublink>rtmp://141.8.247.250/base playpath=euroo2.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php token=%X886(nPK@#.</sublink>
- <sublink>rtmp://46.246.124.6:443/liverepeater/20828 pageUrl=http://movietrailers.yt/player2.php?id=halilou&width=620&height=490hpgdisco</sublink>
- <sublink></sublink>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
-</item>
-
-<item>
 <title>Ten Sports</title>
 <link>rtmp://31.220.0.133:1935/live playpath=tensports00 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=tensports00&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in.jpg</thumbnail>
@@ -202,15 +185,6 @@
  <sublink>rtmp://31.220.0.134:443/live playpath=ch8 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch8&vw=620&vh=490 live=true</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
-</item>
-
-<item>
-<title>NFL Redzone</title>
-<link>
- <sublink>rtmp://174.36.1.75/live playpath=192661?313338363533313130345f6561653434303139386236613063663064323465376237356530666664313033 swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=18891&wh=640&ht=460&r=lag10.com live=1 timeout=10</sublink>
- <sublink>rtmpe://46.246.29.149:1935/live/streamhdking310 pageUrl=http://www.hdcast.tv</sublink>
-</link>
-<thumbnail>http://www.waitingfornextyear.com/wp-content/uploads/2011/10/Red-Zone-Channel.jpg</thumbnail>
 </item>
 
 <item>
