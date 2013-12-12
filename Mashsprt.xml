@@ -164,13 +164,13 @@
 
 <item>
 <title>Ten Sports</title>
-<link>rtmp://93.120.27.85/live playpath=tenu8 swfUrl=http://www.dcast.tv/player/player.swf pageUrl=http://www.dcast.tv/embed.php?u=tenu8&vw=600&vh=450 live=1 timeout=10</link>
+<link>rtmp://31.220.0.133:1935/live playpath=tensports00 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=tensports00&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in.jpg</thumbnail>
 </item>
 
 <item>
 <title>Star Sports</title>
-<link>rtmp://31.220.0.103:443/live playpath=star1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=star1&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtmp://31.220.0.134:1935/live playpath=stars swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=stars&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_sports.png</thumbnail>
 </item>
 
