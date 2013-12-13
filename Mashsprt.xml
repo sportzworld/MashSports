@@ -199,8 +199,8 @@
 <item>
 <title>WWE HD [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
-<sublink>rtmp://planeta-online.tv:1936/live/ playpath=wrestling.stream swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://livetvchannelsfree.com/wrestling.html</sublink>
-<sublink>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_dmetal1 swfUrl=http://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/dmetal1?viewers=true&watermark=left&autoplay=true live=1 timeout=10</sublink>
+ <sublink>rtmp://planeta-online.tv:1936/live/ playpath=wrestling.stream swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://livetvchannelsfree.com/wrestling.html</sublink>
+ <sublink>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_dmetal1 swfUrl=http://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/dmetal1?viewers=true&watermark=left&autoplay=true live=1 timeout=10</sublink>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.jpg</thumbnail>
 </item>
 
