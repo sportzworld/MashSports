@@ -78,7 +78,7 @@
 <title>SKY SPORTS 3 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://31.220.0.82:1935/live playpath=skyspors3 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skyspors3&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.133:1935/live playpath=skyspors3 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=skyspors3&vw=620&vh=490 Conn=S:OK</sublink>
+ <sublink>rtmp://nyk.premiumcdnlive.com/edge/rf75urb2j10intz pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports3.jpg</thumbnail>
 </item>
@@ -106,7 +106,7 @@
 <title>SKY F1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://31.220.0.82:1935/live playpath=f11 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=f11&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.134:443/live playpath=f1x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=f1x&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://nyk.premiumcdnlive.com/edge/6bl7plezd56rjx9 pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
 </item>
@@ -287,7 +287,7 @@ item>
  <sublink>http://82.135.219.17:4444/udp/239.2.3.105:1234</sublink>
  <sublink>http://82.135.219.17:4444/udp/239.2.3.106:1234</sublink>
  <sublink>http://82.135.219.17:4444/udp/239.2.3.115:1234</sublink>
- <sublink>http://m24.megafun.vn/live.vs?c=vstv036&q=high</sublink>
+ <sublink>rtmp://nyk.premiumcdnlive.com/edge/n4d38qtu4r9daew pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#</sublink>
  <sublink>http://82.135.219.17:4444/udp/239.2.3.110:1234</sublink>
  <sublink>http://82.135.219.17:4444/udp/239.2.3.111:1234</sublink>
  <sublink>http://82.135.219.17:4444/udp/239.2.3.91:1234</sublink>
