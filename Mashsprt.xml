@@ -261,7 +261,7 @@
 item>
 <title>ESPN</title>
 <link>
- <sublink>rtmp://89.248.174.117/fms/ playpath=espnanana swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=espnanana&vw=600&vh=450&typeplayer=0&domain=cricfree.tv live=1 timeout=10</sublink>
+ <sublink>rtmp://nyk.premiumcdnlive.com/edge/ac0cw5cmguex4di pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#</sublink>
  <sublink>http://82.193.96.100:1234/udp/239.23.15.10:1234</sublink>
  <sublink>rtmp://31.7.58.122:1935/stream/ playpath=565rgrh.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=64v2b4z5o506c4o2e474o284t214x2q28424v2u2p2&adx=&stream=j564c4c4c4c4w244j584445494c4z2n284a4z2m474p4g434e4b4u264x2q264u2x2p2s274r2y3133364j4p5z5x3n4k4j4u5j5a22544l594k4o5x3r2r4l2s2t234m564a4i58474l5b403030354q284a4e4844494a4b4e484x2d484t2l5845453r20414r2p2l2s2t276n516t2y3&sooor=NQ==&str=is&idom=firstrownow.eu</sublink>
  <sublink>rtmp://ny.premiumcdnlive.com/edge playpath=ac0cw5cmguex4di swfUrl=http://player.ilive.to/secure_player_ilive_z.swf live=1 pageUrl=http://www.ilive.to/view/53733/watch-live-ESPN-streaming-channel-for-free token=I8772LDKksadhGHGagf#</sublink>
