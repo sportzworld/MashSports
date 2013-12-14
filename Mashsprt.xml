@@ -169,7 +169,7 @@
 <title>Eurosport 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://31.220.0.103:1935/live playpath=euro2x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=euro2x&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>http://178.165.82.71:7781/udp/239.0.0.212:1234</sublink>
+ <sublink>http://87.120.6.188:9987/udp/239.100.0.117:1234</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
