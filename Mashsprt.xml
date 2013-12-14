@@ -76,7 +76,7 @@
 <item>
 <title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmpe://46.246.124.14:1935/live playpath=ban1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/player.php?u=ban1&vw=640&vh=460&domain=www.hqiframe.com --live</sublink>
+ <sublink>rtmp://31.220.0.134:1935/live playpath=skysport1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skysport1&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.82:1935/live playpath=skysport1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skysport1&vw=620&vh=490 live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
@@ -168,7 +168,7 @@
 <item>
 <title>Eurosport 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.103:443/live playpath=euro2x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=euro2x&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.103:1935/live playpath=euro2x swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=euro2x&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>http://178.165.82.71:7781/udp/239.0.0.212:1234</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
