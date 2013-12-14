@@ -12,7 +12,7 @@
 </info>
 
 <info>
-<message>[COLOR blue]Nhl Games in pst Dec 13 [/COLOR][COLOR green] 4:00 p.m NHL: Devils @ Penquins link 1[/COLOR][COLOR yellow] 4:30 p.m NHL: Capitols @ Panthers link 2[/COLOR][COLOR green] 6:00 p.m NHL: Oilers @ Canucks link 3[/COLOR]</message>
+<message>[COLOR blue]Nhl Games in pst Dec 13 [/COLOR][COLOR green] 4:00 p.m NHL: Devils @ Penquins link 1[/COLOR][COLOR yellow] 4:30 p.m NHL: Capitols @ Panthers link 2 & 4[/COLOR][COLOR green] 6:00 p.m NHL: Oilers @ Canucks link 3[/COLOR]</message>
 <thumbnail> http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg </thumbnail>
 </info>
 
@@ -232,7 +232,7 @@
  <sublink>rtmp://46.246.29.148:1935/live playpath=ma13 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma13&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://46.246.29.148:1935/live playpath=ma14 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma14&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.118:1935/live playpath=ma15 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma15&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
- <sublink>rtmp://46.246.124.17:1935/live playpath=ma7 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma7&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://50.22.223.48/hqstream/ playpath=washington363?keys=z6y_WLTP7bXifxX9Kqm6CA&keyt=1386995572 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=washington363&width=640&height=480 live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.117:1935/live playpath=ma8 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma8&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.120:1935/live playpath=ma9 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma9&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.117:1935/live playpath=ma10 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma10&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
