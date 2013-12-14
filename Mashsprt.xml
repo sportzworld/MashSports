@@ -191,8 +191,8 @@
 <link>
  <sublink>http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1840.m3u8</sublink>
  <sublink>http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1240.m3u8</sublink>
- </link>
-<thumbnail>http://www.lyngsat-logo.com/hires/nn/nhl_network.png</thumbnail>
+ <thumbnail>http://www.lyngsat-logo.com/hires/nn/nhl_network.png</thumbnail>
+<link>
 </item>
 
 <item>
@@ -218,6 +218,7 @@
 <link>
  <sublink>rtmp://planeta-online.tv:1936/live/ playpath=wrestling.stream swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://livetvchannelsfree.com/wrestling.html</sublink>
  <sublink>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_dmetal1 swfUrl=http://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/dmetal1?viewers=true&watermark=left&autoplay=true live=1 timeout=10</sublink>
+<link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.jpg</thumbnail>
 </item>
 
@@ -228,6 +229,7 @@
  <sublink>rtmp://80.82.64.231/fms/ playpath=dellintel7 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=dellintel7&vw=700&vh=385&typeplayer=0&domain=www.soccer4you.info live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.103:443/live playpath=ch7 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch7&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://46.246.124.16:1935/live playpath=ma5 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma5&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+<link>
 <thumbnail>http://ncplus.pl/~/media/N/NPL/Kanaly/Logo/fightBOX.png?bc=White&w=595</thumbnail>
 </item>
 
