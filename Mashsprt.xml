@@ -231,7 +231,7 @@
 <link>
  <sublink>rtmp://46.246.29.148:1935/live playpath=ma13 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma13&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://50.22.223.48/hqstream/ playpath=washington363?keys=z6y_WLTP7bXifxX9Kqm6CA&keyt=1386995572 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=washington363&width=640&height=480 live=1 timeout=10</sublink>
- <sublink>rtmp://80.82.64.118:1935/live playpath=ma15 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma15&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://208.43.122.77/hqstream/ playpath=edmonton35353?keys=k2LXzlSFOe93VWps4hszIQ&keyt=1387005331  swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf  pageUrl=http://hqstream.tv/player.php?streampage=edmonton35353&width=600&height=500 live=1/sublink></sublink>
  <sublink>rtmp://50.22.223.48/hqstream/ playpath=washington363?keys=z6y_WLTP7bXifxX9Kqm6CA&keyt=1386995572 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=washington363&width=640&height=480 live=1 timeout=10</sublink>
  <sublink>rtmp://93.120.27.66/live playpath=HockeyReality swfUrl=http://www.yocast.tv/jl/player.swf pageUrl=http://www.yocast.tv/embed.php?s=HockeyReality&width=768&height=432&domain=hockeyreality.com live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.120:1935/live playpath=ma9 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma9&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
