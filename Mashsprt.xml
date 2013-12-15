@@ -12,7 +12,7 @@
 </info>
 
 <info>
-<message>[COLOR blue]Nhl Games in pst for Dec 14 [/COLOR][COLOR green] 11:00 a.m NHL: Flames @ Sabres link 1 [/COLOR][COLOR yellow] 11:00 a.m NHL: Kings @ Senators link 2 [/COLOR][COLOR green] 12:00 a.m NHL: Stars @ Jets link 3 [/COLOR][COLOR yellow] 4:00 p.m NHL: Blackhawks @ Leafs link 4 [/COLOR][COLOR green] 4:00 NHL: Penquins @ Wings link 5 [/COLOR][COLOR yellow] 4:00 NHL: Lightning @ Devils link 6 [/COLOR][COLOR green] 4:00 NHL: Canadiens @ Islanders link 7 [/COLOR][COLOR yellow] 4:00 NHL: Blues @ Bluejackets link 8 [/COLOR][COLOR green] 5:00 NHL: Sharks @ Predators link 9 [/COLOR][COLOR yellow] 5:00 Hurricanes @ Coyotes link 10 [/COLOR][COLOR green] 6:00 NHL: Wild @ Avalanche 11 [/COLOR][COLOR yellow] 7:00 Bruins @ Canucks link 12 [/COLOR]</message>
+<message>[COLOR blue]Nhl Games in pst for Dec 14 [/COLOR][COLOR green] 11:00 a.m NHL: Flames @ Sabres link 1 [/COLOR][COLOR yellow] 11:00 a.m NHL: Kings @ Senators link 2 [/COLOR][COLOR green] 12:00 a.m NHL: Stars @ Jets link 3 [/COLOR][COLOR yellow] 4:00 p.m NHL: Blackhawks @ Leafs link 4 [/COLOR][COLOR green] 4:00 NHL: Penquins @ Wings link 5 [/COLOR][COLOR yellow] 4:00 NHL: Lightning @ Devils link 6 [/COLOR][COLOR green] 4:00 NHL: Canadiens @ Islanders link 7 [/COLOR][COLOR yellow] 4:00 NHL: Blues @ Bluejackets link 8 [/COLOR][COLOR green] 5:00 NHL: Sharks @ Predators link 9 [/COLOR][COLOR yellow] 5:00 Hurricanes @ Coyotes link 10 [/COLOR][COLOR green] 6:00 NHL: Wild @ Avalanche 11 [/COLOR][COLOR yellow] 7:00 Bruins @ Canucks link 1,2,12 [/COLOR]</message>
 <thumbnail> http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg </thumbnail>
 </info>
 
@@ -233,8 +233,8 @@
 <item>
 <title>NHL Games Today</title>
 <link>
- <sublink>rtmp://46.246.124.16:1935/live playpath=ma3 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma3&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
- <sublink>rtmp://80.82.64.118:1935/live playpath=ma4 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma4&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://46.165.220.212/hqstream/ playpath=pittsburgh3777?keys=mVQtnzpZeXOxT2kOWy6l2g&keyt=1387090330 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=pittsburgh3777&width=600&height=500 live=1 timeout=10</sublink>
+ <sublink>rtmp://188.240.220.62/lives playpath=pd5u663m73xb9x0?AQVFvQkjbFV058beFxnzj_O4j9IAzBTrqEEnsAG7XtuGuAYTkuznBY6Vpd6CFGfyF5vCP9cCI98pp5JRCg-5rCPPXUedJpG-9IdWogTm3gg* swfUrl=http://103.31.187.78/jplayer.swf pageUrl=http://jjcast.com/player.php?stream=pd5u663m73xb9x0&width=650&height=450 live=1 timeout=10</sublink>
  <sublink>rtmp://46.246.29.148:1935/live playpath=ma7 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma7&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.103:1935/live playpath=setcaxxx swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=setcaxxx&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.133:1935/live playpath=ch1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ch1&vw=620&vh=490 live=1 timeout=10</sublink>
@@ -244,7 +244,7 @@
  <sublink>rtmp://31.220.0.103:1935/live playpath=ch8 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch8&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://213.163.64.78/spull/ playpath=carolina33333?keys=usky6BRBwgXXzSr5rg9WrQ&keyt=1387083016 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=carolina33333&width=600&height=450 live=1 timeout=10</sublink>
  <sublink>rtmp://95.211.196.4/spull/ playpath=minnesota115?keys=8AlufYoW1iIyZ3FGPgvlUQ&keyt=1387085776 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=minnesota115&width=600&height=450 live=1 timeout=10</sublink>
- <sublink>rtmp://31.204.152.198/lives playpath=ybzxvlz9grxok7?bJsDuX_coeaV1OngYm-ZOFv7GyCGBX6vYUwSn4IZgu1g-4WlCo9ujciiHIBSjmi0NzwJ4cfvR7xcZCPn8sFRoUeYcXH2SN4RTVR05pzvLAQ* swfUrl=http://103.31.187.78/jplayer.swf pageUrl=http://jjcast.com/player.php?stream=ybzxvlz9grxok7&width=650&height=450 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.134:1935/live playpath=c1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=c1&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.134:443/live playpath=ch1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch1&vw=620&vh=490 live=true</sublink>
  <sublink>rtmp://159.253.143.7/live playpath=174461?313338353932313632325f6666396664303966343333616531663030303465366266666366323233363536 swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=6366&wh=768&ht=432&r=hockeyreality.com live=1 timeout=10</sublink>
 </link>
