@@ -21,7 +21,7 @@
 ################################################################################################################
 <item>
 <title>Setanta Sports</title>
-<link>rtmp://31.220.0.103:443/live playpath=setcaxxx swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=setcaxxx&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtmp://31.220.0.133:1935/live playpath=ddfdfdfddf swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ddfdfdfddf&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/setanta_sports1.jpg</thumbnail>
 </item>
 
@@ -85,7 +85,7 @@
 <item>
 <title>SKY SPORTS 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.82:1935/live playpath=skysport2 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skysport2&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.134:1935/live playpath=skysport2 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skysport2&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://ny.premiumcdnlive.com/edge/9z0m2nhbwbfimxw pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
