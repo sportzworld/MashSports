@@ -176,7 +176,7 @@
 
 <item>
 <title>Star Sports</title>
-<link>rtmp://akamai.kbps.tv:1935/live playpath=starcricket?Key=89c121921408bdfe6cb65c975da897df swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=starcricket&width=600&height=450&domain=hdembed.com live=1 timeout=10</link>
+<link>rtmp://31.220.0.104:1935/live playpath=stars swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=stars&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_sports.png</thumbnail>
 </item>
 
