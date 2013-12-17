@@ -153,7 +153,7 @@
 <item>
 <title>Eurosport 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>http://82.135.219.17:4444/udp/239.2.3.61:1234</sublink>
+ <sublink>rtmp://31.220.0.103:1935/live playpath=euroo11c swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=euroo11c&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>http://82.135.219.17:4444/udp/239.2.3.19:1234</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
@@ -176,7 +176,7 @@
 
 <item>
 <title>Star Sports</title>
-<link>rtmp://31.220.0.104:1935/live playpath=stars swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=stars&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtmp://109.123.123.68/live playpath=starspoou?id=4178 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/starspoou/1/600/420 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_sports.png</thumbnail>
 </item>
 
@@ -227,10 +227,10 @@
 <item>
 <title>NHL Games Today</title>
 <link>
- <sublink>rtmp://46.246.124.16:1935/live playpath=ma10 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma10&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
- <sublink>rtmp://46.246.124.17:1935/live playpath=ma11 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma11&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
- <sublink>rtmp://46.246.29.148:1935/live playpath=ma12 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma12&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
- <sublink>rtmp://80.82.64.118:1935/live playpath=ma13 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma13&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://46.246.29.148:1935/live playpath=ma6 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma6&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://46.246.124.17:1935/live playpath=ma7 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma7&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://46.246.124.16:1935/live playpath=ma8 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma8&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://46.246.124.16:1935/live playpath=ma9 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma9&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://46.165.208.208/spull/ playpath=lightning65?keys=jXYTgpwlwyTxw4Y8t6vmPA&keyt=1387165586 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=lightning65&width=600&height=450 live=1 timeout=10</sublink>
  <sublink>rtmp://173.193.216.172/pull/ playpath=newjerseydevii36?keys=-4BkZQFlRPhBy00yLm3Peg&keyt=1387080003 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=newjerseydevii36&width=600&height=450 live=1 timeout=10</sublink>
  <sublink>rtmp://31.204.154.141/lives playpath=us14qpc60ow9qm0?6K_JvQgN76dR4ujXQCJDBXu_yDmlx6jzZ_6TxEAV2JbbXC3hc-pKcz5PtBOyyJ8GH7O27FYwU7kLDUfjE9-fZ7SSc8RC4b_x-nkG3gUBg9Y* swfUrl=http://103.31.187.78/jplayer.swf pageUrl=http://jjcast.com/player.php?stream=us14qpc60ow9qm0&width=650&height=450 live=1 timeout=10</sublink>
