@@ -26,6 +26,12 @@
 </item>
 
 <item>
+<title>CNN</title>
+<link>http://82.135.219.17:4444/udp/239.2.3.40:1234</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cnn_usa.jpg</thumbnail>
+</item>
+
+<item>
 <title>Fox Sports 1</title>
 <link>rtmp://77.81.98.136/strms/ playpath=ufox2 swfUrl=http://www.zstream.eu/jwplayer/jwplayer.flash.swf pageUrl=http://www.zstream.eu/embed.php?v=foxy2&vw=600&vh=450&video=0&domain=hdembed.com live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_sports1_us.jpg</thumbnail>
