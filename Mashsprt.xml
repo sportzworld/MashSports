@@ -67,7 +67,7 @@
 <title>Test Mash</title>
 <link>/stream playpath= swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/ live=true timeout=15 conn=S:OK
 <regex>
-<name></name>
+<name>http://</name>
 <expres>redirect=.*?([^\s]*)</expres>
 <page>http://www.liveflash.tv:1935/loadbalancer</page>
 <referer>http://www.liveflash.tv:1935/loadbalancer</referer>
