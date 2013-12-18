@@ -18,18 +18,7 @@
 
 ##################################################################################################################
 
-<item>
-<title>Test Mash</title>
-<link>/stream playpath= swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/ live=true timeout=15 conn=S:OK
-<regex>
-<name>ip</name>
-<expres>redirect=.*?([^\s]*)</expres>
-<page>http://www.liveflash.tv:1935/loadbalancer</page>
-<referer>http://www.liveflash.tv:1935/loadbalancer</referer>
-</regex>
-</link>
-<thumbnail></thumbnail>
-</item>
+
 
 ################################################################################################################
 <item>
@@ -73,6 +62,20 @@
 <link>rtmp://cp96798.live.edgefcs.net/live playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://php.chol.com/~noza/player/player316.swf?backcolor=0x000000&frontcolor=0xFFFFFF&file=rtmp://cp96798.live.edgefcs.net/live&id=ChelTV_Ch01_1000k@26291&overstretch=fit pageUrl=http://www.fancystreems.com/indexsports.html live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/chelsea_tv.jpg</thumbnail>
 </item>
+
+<item>
+<title>Test Mash</title>
+<link>/stream playpath= swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/ live=true timeout=15 conn=S:OK
+<regex>
+<name>ip</name>
+<expres>redirect=.*?([^\s]*)</expres>
+<page>http://www.liveflash.tv:1935/loadbalancer</page>
+<referer>http://www.liveflash.tv:1935/loadbalancer</referer>
+</regex>
+</link>
+<thumbnail></thumbnail>
+</item>
+
 
 <item>
 <title>Sky Poker</title>
