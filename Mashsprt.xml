@@ -28,6 +28,12 @@
 </item>
 
 <item>
+<title>Spike TV</title>
+<link>rtmp://nyk.premiumcdnlive.com/edge/sax2mq2alpirnww pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/spike_tv.jpg</thumbnail>
+</item>
+
+<item>
 <title>Golf</title>
 <link>rtmp://nyk.premiumcdnlive.com/edge playpath=ts6w24dx29tcwi4 swfUrl=http://cdn.ilive.to/player/secure_player_embed_z.swf pageUrl=http://www.ilive.to/embedplayer.php?width=530&height=370&channel=53912&autoplay=true token=I8772LDKksadhGHGagf#</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/golf_channel_us.jpg</thumbnail>
