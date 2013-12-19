@@ -186,7 +186,7 @@
 
 <item>
 <title>Star Sports</title>
-<link>rtmp://109.123.123.68/live playpath=starspoou?id=4178 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/starspoou/1/600/420 live=1 timeout=10</link>
+<link>rtmp://akamai.kbps.tv:1935/live playpath=starcricket?Key=a07dafd2dd2c8a869b883a88adedcfd6 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=starcricket&width=600&height=450&domain=hdembed.com token=I8772LDKksadhGHGagf#</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_sports.png</thumbnail>
 </item>
 
@@ -217,7 +217,7 @@
 <item>
 <title>NBA TV [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>http://82.135.219.17:4444/udp/239.2.3.76:1234 </sublink>
+ <sublink>rtmp://nyk.premiumcdnlive.com/edge playpath=30sbtmyelnevr80 swfUrl=http://cdn.ilive.to/player/secure_player_embed_z.swf pageUrl=http://www.ilive.to/embedplayer.php?width=530&height=370&channel=53911&autoplay=true token=I8772LDKksadhGHGagf#</sublink>
  <sublink>rtmp://extondemand.livestream.com/ondemand/mp4:trans/dv15/mogulus-user-files/chbsnbatv/2011/12/16/6d1c6977-c723-4a5d-8527-77b0234385a0.mp4</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
