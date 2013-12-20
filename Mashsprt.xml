@@ -77,7 +77,7 @@
 
 <item>
 <title>Test Mash</title>
-<link>/stream playpath= swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/ live=true timeout=15 conn=S:OK
+<link>%s/stream playpath= swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/ live=true timeout=15 conn=S:OK
 <regex>
 <name>http://</name>
 <expres>redirect=.*?([^\s]*)</expres>
@@ -92,7 +92,7 @@
 
 <item>
 <title>Test Mash2</title>
-<link> playpath=aplus  swfUrl=http://www.eboundservices.com/live/player.swf?  pageUrl=http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&app=tv&stream=aplus&width=480&height=270 live=1 timeout=15
+<link>%s playpath=aplus  swfUrl=http://www.eboundservices.com/live/player.swf?  pageUrl=http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&app=tv&stream=aplus&width=480&height=270 live=1 timeout=15
 <regex>
 <name></name>
 <expres>'streamer','([^']+)'</expres>
