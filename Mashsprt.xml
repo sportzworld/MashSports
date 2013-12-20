@@ -75,56 +75,6 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/chelsea_tv.jpg</thumbnail>
 </item>
 
-<item>
-<title>Test Mash</title>
-<link>
-rtmp://$doregex[ip]/stream playpath= swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/ live=true timeout=15 conn=S:OK
-<regex>
-<name>ip</name>
-<expres>redirect=.*?([^\s]*)</expres>
-<page>http://www.liveflash.tv:1935/loadbalancer</page>
-<referer>http://www.liveflash.tv:1935/loadbalancer</referer>
-</regex>
-</link>
-<thumbnail> </thumbnail>
-</item>
-
-
-
-<item>
-<title>Test Mash2</title>
-<link>
-$doregex[rtmp] playpath=aplus  swfUrl=http://www.eboundservices.com/live/player.swf?  pageUrl=http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&app=tv&stream=aplus&width=480&height=270 live=1 timeout=15
-<regex>
-<name>rtmp</name>
-<expres>'streamer','([^']+)'</expres>
-<page>http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&amp;app=tv&amp;stream=aplus&amp;width=480&amp;height=270</page>
-<referer>http://www.eboundservices.com:8888/users/aplus/aplus_iframe.htm</referer>
-</regex>
-</link>
-<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2012/07/A-Plus-TV-Pakistan.jpg</thumbnail>
-</item>
-
-<item>
-<title>Test Mash3</title>
-<link>
-rtmp://$doregex[url] app=live/$doregex[key] playpath=2618.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
-<regex>
-<name>url</name>
-<expres>rtmp:....([^\\]*)</expres>
-<page>http://www.filmon.com/tv/channel/export?channel_id=2618</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>key</name>
-<expres>rtmp[^?]*(\?id=[^"]*)</expres>
-<page>http://www.filmon.com/tv/channel/export?channel_id=2618</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://3alkanaba.com/uploads/channels/501ec_Aflam_rotana_242.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>Sky Poker</title>
