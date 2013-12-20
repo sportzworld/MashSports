@@ -77,7 +77,8 @@
 
 <item>
 <title>Test Mash</title>
-<link>rtmp://$doregex[ip]/stream playpath= swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/ live=true timeout=15 conn=S:OK
+<link>
+rtmp://$doregex[ip]/stream playpath= swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/ live=true timeout=15 conn=S:OK
 <regex>
 <name>ip</name>
 <expres>redirect=.*?([^\s]*)</expres>
@@ -92,7 +93,8 @@
 
 <item>
 <title>Test Mash2</title>
-<link>$doregex[rtmp] playpath=aplus  swfUrl=http://www.eboundservices.com/live/player.swf?  pageUrl=http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&app=tv&stream=aplus&width=480&height=270 live=1 timeout=15
+<link>
+$doregex[rtmp] playpath=aplus  swfUrl=http://www.eboundservices.com/live/player.swf?  pageUrl=http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&app=tv&stream=aplus&width=480&height=270 live=1 timeout=15
 <regex>
 <name>rtmp</name>
 <expres>'streamer','([^']+)'</expres>
@@ -105,7 +107,8 @@
 
 <item>
 <title>Test Mash3</title>
-<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=2618.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<link>
+rtmp://$doregex[url] app=live/$doregex[key] playpath=2618.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
 <regex>
 <name>url</name>
 <expres>rtmp:....([^\\]*)</expres>
