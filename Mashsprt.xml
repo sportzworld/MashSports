@@ -89,6 +89,21 @@
 </item>
 
 
+
+<item>
+<title>Test Mash2</title>
+<link> playpath=aplus  swfUrl=http://www.eboundservices.com/live/player.swf?  pageUrl=http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&app=tv&stream=aplus&width=480&height=270 live=1 timeout=15
+<regex>
+<name></name>
+<expres>'streamer','([^']+)'</expres>
+<page>http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&amp;app=tv&amp;stream=aplus&amp;width=480&amp;height=270</page>
+<referer>http://www.eboundservices.com:8888/users/aplus/aplus_iframe.htm</referer>
+</regex>
+</link>
+<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2012/07/A-Plus-TV-Pakistan.jpg</thumbnail>
+</item>
+
+
 <item>
 <title>Sky Poker</title>
 <link>rtmp://23.67.253.118:1935/live?_fcs_vhost=cp67698.live.edgefcs.net&akmfv=1.8 playpath=SkyPoker_500k@9124 swfUrl=http://www.skypoker.com/img/cms/live_tv_player.swf pageUrl=http://www.skypoker.com/cms/poker_live_tv.shtm live=1 timeout=10</link>
