@@ -248,10 +248,8 @@
 </item>
 
 <item>
-<title>Extreme Sports [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
- <sublink>http://46.44.37.223:1212/udp/224.0.90.49:1234</sublink>
-</link>
+<title>Extreme Sports</title>
+<link>http://46.44.37.223:1212/udp/224.0.90.49:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/extreme_sports_nl.jpg</thumbnail>
 </item>
 
