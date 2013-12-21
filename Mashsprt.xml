@@ -47,7 +47,7 @@
 
 <item>
 <title>JSC 1</title>
-<link>rtmp://31.220.0.133:1935/live playpath=jsc1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=jsc1&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtmp://31.220.0.134:1935/live playpath=jsx10 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=jsx10&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_sport_qa.jpg</thumbnail>
 </item>
 
