@@ -213,7 +213,7 @@
 <item>
 <title>Boxing/Ufc</title>
 <link>
- <sublink>http://82.135.219.17:4444/udp/239.2.3.70:1234 </sublink>
+ <sublink>http://109.95.47.249:1919/udp/239.0.0.24:4000</sublink>
  <sublink>http://www.mahalkosipacquiao.com/fights/hatton/Manny_Pacquiao_vs._Ricky_Hatton.flv</sublink>
  <sublink>rtmp://31.220.0.103:443/live playpath=ch7 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch7&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://46.246.124.16:1935/live playpath=ma5 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma5&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
