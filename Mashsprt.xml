@@ -12,7 +12,7 @@
 </info>
 
 <info>
-<message>[COLOR blue]Nhl Games in pst Dec 20[/COLOR][COLOR green] 4:00 p.m NHL: Ducks @ Devils link 1[/COLOR][COLOR yellow] 4:00 p.m NHL: Islanders @ Rangers link 2[/COLOR][COLOR green] 4:00 p.m NHL: Capitols @ Hurricanes link 3[/COLOR][COLOR yellow] 5:00 NHL: Canucks @ Hawks link 4 [/COLOR][COLOR green] 5:00 NHL: Panthers @ Jets link 5 [/COLOR]</message>
+<message>[COLOR blue]Nhl Games in pst Dec 21[/COLOR][COLOR green] 11:00 a.m NHL: Flames @ Penquins link 1[/COLOR]</message>
 <thumbnail> http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg </thumbnail>
 </info>
 
@@ -224,7 +224,7 @@
 <item>
 <title>NHL Games Today</title>
 <link>
- <sublink>rtmp://46.246.29.148:1935/live playpath=ma9 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma9&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://46.246.124.17:1935/live playpath=na14 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na14&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://46.246.29.148:1935/live playpath=ma10 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma10&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.120:1935/live playpath=ma11 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma11&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.119:1935/live playpath=ma12 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=ma12&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
