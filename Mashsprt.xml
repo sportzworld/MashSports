@@ -173,7 +173,7 @@
 
 <item>
 <title>Star Sports</title>
-<link>rtmp://akamai.kbps.tv:1935/live playpath=starcricket?Key=a07dafd2dd2c8a869b883a88adedcfd6 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=starcricket&width=600&height=450&domain=hdembed.com token=I8772LDKksadhGHGagf#</link>
+<link>rtmp://198.105.219.132/live playpath=starspoou?id=4178 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/starspoou/1/600/420 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_sports.png</thumbnail>
 </item>
 
