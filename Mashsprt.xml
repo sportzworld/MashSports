@@ -29,7 +29,7 @@
 
 <item>
 <title>NBC sports</title>
-<link>rtmp://nyk.premiumcdnlive.com/edge playpath=30sbtmyelnevr80 swfUrl=http://cdn.ilive.to/player/secure_player_embed_z.swf pageUrl=http://www.ilive.to/embedplayer.php?width=530&height=370&channel=53911&autoplay=true token=I8772LDKksadhGHGagf#</link>
+<link>rtmp://$OPT:rtmp-raw=rtmpe://93.120.27.58/live/tug11 live=1 pageUrl=http://www.ukcast.tv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nbc_sports_network.jpg</thumbnail>
 </item>
 
