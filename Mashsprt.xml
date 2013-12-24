@@ -236,6 +236,8 @@
  <sublink>rtmp://93.174.93.180:1935/live playpath=na21 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na21&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://93.174.93.180:1935/live playpath=na22 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na22&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://93.174.93.180:1935/live playpath=na23 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na23&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://80.82.64.117:1935/live playpath=na3 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na3&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://80.82.64.118:1935/live playpath=na4 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na4&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
 </item>
