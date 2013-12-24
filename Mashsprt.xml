@@ -94,7 +94,7 @@
 <item>
 <title>SKY SPORTS 4 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.82:1935/live playpath=skysport4 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skysport4&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://akamai.kbps.tv:1935/live playpath=skysp4?Key=d9ecb8a16f04c2f732651e39a8061ee7 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=skysp4&width=600&height=450&domain=hdembed.com live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.133:1935/live playpath=skysport4 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skysport4&vw=620&vh=490 live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://i2.cdnds.net/09/53/160x120_broadcasting_ss4logo.jpg</thumbnail>
