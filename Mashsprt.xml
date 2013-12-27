@@ -28,24 +28,6 @@
 </item>
 
 <item>
-<title>Aljazeera Sport +1</title>
-<link>rtmp://watch.ilive.to/edge playpath=0q8uu1k3m2ry7ru swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=7dasjkkhjsYjsdahf1</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_sport_qa.jpg</thumbnail>
-</item>
-
-<item>
-<title>Aljazeera Sport +4</title>
-<link>rtmp://watch.ilive.to/edge playpath=kvkxkt15bkeapcp swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=7dasjkkhjsYjsdahf1</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_sport_qa.jpg</thumbnail>
-</item>
-
-<item>
-<title>Aljazeera Sport +6</title>
-<link>rtmp://watch.ilive.to/edge playpath=hoie7bplvilrprs swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=7dasjkkhjsYjsdahf1</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_sport_qa.jpg</thumbnail>
-</item>
-
-<item>
 <title>NBC sports</title>
 <link>rtmp://$OPT:rtmp-raw=rtmpe://93.120.27.58/live/tug11 live=1 pageUrl=http://www.ukcast.tv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nbc_sports_network.jpg</thumbnail>
