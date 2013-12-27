@@ -52,18 +52,6 @@
 </item>
 
 <item>
-<title>UFC 168: Silva vs Weidman II Live HD</title>
-<link>rtmp://watch.ilive.to/edge playpath=uewhz1bplsfoat4 swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=7dasjkkhjsYjsdahf1</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UFC 168: Weidman vs. Silva PPV Live Stream</title>
-<link>rtmp://watch.ilive.to/edge playpath=ica04gujmfg6edk swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=7dasjkkhjsYjsdahf17dasjkkhjsYjsdahf1</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>NBC sports</title>
 <link>rtmp://$OPT:rtmp-raw=rtmpe://93.120.27.58/live/tug11 live=1 pageUrl=http://www.ukcast.tv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nbc_sports_network.jpg</thumbnail>
@@ -332,6 +320,18 @@ item>
  <sublink>http://82.135.219.17:4444/udp/239.2.3.22:1234</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/travel_adventure_channel_ru.jpg</thumbnail>
+</item>
+
+<item>
+<title>UFC 168: Silva vs Weidman II Live HD</title>
+<link>rtmp://watch.ilive.to/edge playpath=uewhz1bplsfoat4 swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=7dasjkkhjsYjsdahf1</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>UFC 168: Weidman vs. Silva PPV Live Stream</title>
+<link>rtmp://watch.ilive.to/edge playpath=ica04gujmfg6edk swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=7dasjkkhjsYjsdahf17dasjkkhjsYjsdahf1</link>
+<thumbnail></thumbnail>
 </item>
 ######################################################################################################################################################
 
