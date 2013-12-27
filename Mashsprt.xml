@@ -86,7 +86,7 @@
 <title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://rtmp.featve.com:1935/redirect playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/playerg.swf pageUrl=http://featve.com/player2.php token=#atd%#$ZH live=N.SAT</sublink>
- <sublink>rtmp://31.220.0.133:1935/live playpath=ss1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?COLLCC=3000895243&live=ss1&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmpe://46.246.124.8:1935/live playpath=ban1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/player.php?u=ban1&vw=640&vh=460&domain=hasbahca.net --live</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
 </item>
@@ -94,7 +94,7 @@
 <item>
 <title>SKY SPORTS 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://rtmp.featve.com:1935/redirect playpath=33698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/playerg.swf pageUrl=http://featve.com/player2.php token=#atd%#$ZH live=N.SAT</sublink>
+ <sublink>rtmpe://46.246.124.8:1935/live playpath=ban2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/player.php?u=ban1&vw=640&vh=460&domain=hasbahca.net --live</sublink>
  <sublink>rtmp://ny.premiumcdnlive.com/edge/9z0m2nhbwbfimxw pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
@@ -104,7 +104,7 @@
 <title>SKY SPORTS 3 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://rtmp.featve.com:1935/redirect playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/playerg.swf pageUrl=http://featve.com/player2.php token=#atd%#$ZH live=N.SAT</sublink>
- <sublink>rtmp://nyk.premiumcdnlive.com/edge/rf75urb2j10intz pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#</sublink>
+ <sublink>rtmpe://46.246.124.8:1935/live playpath=ban3 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/player.php?u=ban1&vw=640&vh=460&domain=hasbahca.net --live</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports3.jpg</thumbnail>
 </item>
@@ -113,7 +113,7 @@
 <title>SKY SPORTS 4 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://rtmp.featve.com:1935/redirect playpath=23700 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/playerg.swf pageUrl=http://featve.com/player2.php token=#atd%#$ZH live=N.SAT</sublink>
- <sublink>rtmp://31.220.0.133:1935/live playpath=skysport4 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skysport4&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmpe://46.246.124.8:1935/live playpath=ban4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/player.php?u=ban1&vw=640&vh=460&domain=hasbahca.net --live</sublink>
 </link>
 <thumbnail>http://i2.cdnds.net/09/53/160x120_broadcasting_ss4logo.jpg</thumbnail>
 </item>
@@ -168,7 +168,7 @@
 <item>
 <title>Eurosport 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.133:1935/live playpath=eurosx1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=eurosx1&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtsp://83.139.103.229:8080/O1drmdvr/ESP_VGA.stream</sublink>
  <sublink>rtmp://31.220.0.133:1935/live playpath=eurosx1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=eurosx1&vw=620&vh=490 live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
@@ -177,7 +177,7 @@
 <item>
 <title>Eurosport 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.82:1935/live playpath=eurosx2 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=eurosx2&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtsp://83.139.103.229:8080/O1drmdvr/ESP2_VGA.stream</sublink>
  <sublink>http://87.120.6.188:9987/udp/239.100.0.117:1234</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
