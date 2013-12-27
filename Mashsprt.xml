@@ -28,6 +28,12 @@
 </item>
 
 <item>
+<title>Spike TV</title>
+<link>rtmp://watch.ilive.to/edge playpath=sax2mq2alpirnww swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=7dasjkkhjsYjsdahf1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/spike_tv.jpg</thumbnail>
+</item>
+
+<item>
 <title>NBC sports</title>
 <link>rtmp://watch.ilive.to/edge playpath=30sbtmyelnevr80 swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=7dasjkkhjsYjsdahf1</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nbc_sports_network.jpg</thumbnail>
