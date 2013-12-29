@@ -210,8 +210,8 @@
 <item>
 <title>NBA TV [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://nyk.premiumcdnlive.com/edge playpath=30sbtmyelnevr80 swfUrl=http://cdn.ilive.to/player/secure_player_embed_z.swf pageUrl=http://www.ilive.to/embedplayer.php?width=530&height=370&channel=53911&autoplay=true token=udsanjkj827jJHLKJdsa</sublink>
- <sublink>rtmp://extondemand.livestream.com/ondemand/mp4:trans/dv15/mogulus-user-files/chbsnbatv/2011/12/16/6d1c6977-c723-4a5d-8527-77b0234385a0.mp4</sublink>
+ <sublink>rtmp://watch.ilive.to:1935/edge playpath=pai5exxvpbx7xks swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=udsanjkj827jJHLKJdsa</sublink>
+ <sublink>rtmp://watch.ilive.to:1935/edge playpath=w9iktk2u2eucqk9 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=udsanjkj827jJHLKJdsa</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
 </item>
