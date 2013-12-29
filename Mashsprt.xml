@@ -275,17 +275,6 @@ item>
 </item>
 
 <item>
-<title> Random Sports ( Darts, Snooker, Tennis etc.)[COLOR yellow]Multi Link[/COLOR]</title>
-<link>
- <sublink>rtmp://x1.cast7.com:1934/onlive/ playpath=wftwe5twt swfUrl=http://cast7.com/htdocs/scripts/jwplayer/jwplayer.flash.swf pageUrl=http://cast7.com/index/embed/?stream_id=434&c_name=wftwe5twt&vh=420&vw=650 live=1 timeout=10</sublink>
- <sublink>http://109.95.47.249:1919/udp/239.0.0.94:4000</sublink>
- <sublink>http://109.95.47.249:1919/udp/239.0.0.50:4000</sublink>
- <sublink>rtmp://50.22.223.48/spull/ playpath=ittf2595?keys=T8J0GuRSsKJXe07d1kYfRg&keyt=1385927424 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=ittf2595&width=600&height=450 live=1 timeout=10</sublink>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport1_hu.jpg</thumbnail>
-</item>
-
-<item>
 <title> Non Sports channels [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://watch.ilive.to:1935/edge playpath=41i3ymbmum28xfk swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=udsanjkj827jJHLKJdsa</sublink>
