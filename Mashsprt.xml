@@ -52,6 +52,12 @@
 </item>
 
 <item>
+<title>Golf channel live</title>
+<link>rtmp://watch.ilive.to:1935/edge playpath=ts6w24dx29tcwi4 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=udsanjkj827jJHLKJdsa</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/golf_channel_us.jpg</thumbnail>
+</item>
+
+<item>
 <title>WWE HD</title>
 <link>rtmp://planeta-online.tv:1936/live/ playpath=wrestling.stream swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://livetvchannelsfree.com/wrestling.html</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.jpg</thumbnail>
