@@ -42,6 +42,30 @@
 </item>
 
 <item>
+<title>SportTV Live</title>
+<link>rtmp://watch.ilive.to:1935/edge playpath=lz7xwl0qhxl6qf2 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=udsanjkj827jJHLKJdsa</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv_gr.jpg</thumbnail>
+</item>
+
+<item>
+<title>SportTV1</title>
+<link>rtmp://watch.ilive.to:1935/edge playpath=nrlqycip832syw4 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=udsanjkj827jJHLKJdsa</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv1_pt.jpg</thumbnail>
+</item>
+
+<item>
+<title>SportTV2</title>
+<link>rtmp://watch.ilive.to:1935/edge playpath=g3iin99kbay89ni swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=udsanjkj827jJHLKJdsa</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv2_pt.jpg</thumbnail>
+</item>
+
+<item>
+<title>SportTV3</title>
+<link>rtmp://watch.ilive.to:1935/edge playpath=gb19aoqqt100enc swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=udsanjkj827jJHLKJdsa</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv3_pt.jpg</thumbnail>
+</item>
+
+<item>
 <title>Setanta Sports</title>
 <link>rtmp://31.220.0.134:1935/live playpath=hkkk swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=hkkk&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/setanta_sports1.jpg</thumbnail>
