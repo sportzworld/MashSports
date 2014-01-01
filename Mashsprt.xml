@@ -111,7 +111,7 @@
 <item>
 <title>SKY SPORTS 3 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=xap3onekx8ojhhk swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=udsanjkj827jJHLKJdsa</sublink>
+ <sublink>rtmp://31.220.0.104:1935/live playpath=ss3x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss3x&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmpe://46.246.124.8:1935/live playpath=ban3 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/player.php?u=ban1&vw=640&vh=460&domain=hasbahca.net --live</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports3.jpg</thumbnail>
