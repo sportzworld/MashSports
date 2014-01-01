@@ -34,6 +34,9 @@
  <sublink>rtmp://93.174.93.180:1935/live playpath=na1 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na1&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.117:1935/live playpath=zaz2 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=zaz2&vw=600&vh=400&domain=www.myp2phd.net live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.120:1935/live playpath=na3 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na3&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://80.82.64.117:1935/live playpath=na5 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na5&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://80.82.64.118:1935/live playpath=na6 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na6&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://80.82.64.118:1935/live playpath=na8 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na8&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport1_hu.jpg</thumbnail>
 </item>
