@@ -286,7 +286,7 @@
 <item>
 <title>Motors TV [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>http://78.58.25.134:7781/udp/239.2.3.184:1234</sublink>
+ <sublink>rtmp://173.192.223.68/live playpath=motorstvxx?id=61035 conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=true timeout=15  pageUrl=http://www.ucaster.eu/embedded/motorstvxx/1/650/500</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.jpg</thumbnail>
 </item>
