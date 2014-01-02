@@ -283,10 +283,8 @@
 </item>
 
 <item>
-<title>Motors TV [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
- <sublink>rtmp://174.37.222.57/live playpath=motorstvxx?id=61035 conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/motorstvxx/1/650/500 live=1 timeout=10</sublink>
-</link>
+<title> Motors TV </title>
+<link>rtmp://174.37.222.57/live playpath=motorstvxx?id=61035 conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/motorstvxx/1/650/500 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.jpg</thumbnail>
 </item>
 
