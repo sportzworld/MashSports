@@ -265,8 +265,8 @@
 <item>
 <title>NHL Games Today</title>
 <link>
- <sublink>rtmp://93.174.93.180:1935/live playpath=na3 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na3&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
- <sublink>rtmp://80.82.64.117:1935/live playpath=na1 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na1&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://80.82.64.118:1935/live playpath=na1 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na1&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
+ <sublink>rtmp://80.82.64.118:1935/live playpath=na1 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na1&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://93.174.93.180:1935/live playpath=na2 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na2&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.118:1935/live playpath=na3 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na3&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://93.174.93.180:1935/live playpath=na4 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na4&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
