@@ -156,7 +156,7 @@
 <item>
 <title>Sky Sports News [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.133:1935/live playpath=skysportnews swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skysportnews&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://watch.ilive.to:1935/edge playpath=525jiinvo0my2qr swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=87adjuljlsadkf87HD</sublink>
  <sublink>rtmp://46.246.29.162/live/jan20 live=1 pageUrl=http://www.hdcast.tv/</sublink>
  <sublink></sublink>
 </link>
