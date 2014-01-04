@@ -277,7 +277,7 @@
  <sublink>rtmp://93.174.93.180:1935/live playpath=na22 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na22&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.117:1935/live playpath=na3 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na3&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.117:1935/live playpath=na3 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na3&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=lha6wdjmhnctsgp swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=87adjuljlsadkf87HD</sublink>
+ <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/bruins/as/live/bruins_hd_3000.m3u8</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
 </item>
