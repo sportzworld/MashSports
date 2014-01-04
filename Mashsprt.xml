@@ -294,15 +294,27 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/extreme_sports_nl.jpg</thumbnail>
 </item>
 
-item>
+<item>
+<title>ESPN (HD)</title>
+<link>rtmp://watch.ilive.to:1935/edge playpath=xoaaohmeuajfeyf swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=87adjuljlsadkf87HD</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>ESPN 2</title>
+<link>rtmp://watch.ilive.to:1935/edge playpath=du97agywg74nbys swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=87adjuljlsadkf87HD</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_2.jpg</thumbnail>
+</item>
+
+<item>
 <title>ESPN</title>
-<link>
- <sublink>rtmp://nyk.premiumcdnlive.com/edge/ac0cw5cmguex4di pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=87adjuljlsadkf87HD</sublink>
- <sublink>rtmp://watch.ilive.to/edge playpath=du97agywg74nbys swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=87adjuljlsadkf87HD</sublink>
- <sublink>rtmp://31.7.58.122:1935/stream/ playpath=565rgrh.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=64v2b4z5o506c4o2e474o284t214x2q28424v2u2p2&adx=&stream=j564c4c4c4c4w244j584445494c4z2n284a4z2m474p4g434e4b4u264x2q264u2x2p2s274r2y3133364j4p5z5x3n4k4j4u5j5a22544l594k4o5x3r2r4l2s2t234m564a4i58474l5b403030354q284a4e4844494a4b4e484x2d484t2l5845453r20414r2p2l2s2t276n516t2y3&sooor=NQ==&str=is&idom=firstrownow.eu</sublink>
- <sublink>rtmp://nyk.premiumcdnlive.com/edge/ppc1li7inw63z7x pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#</sublink>
- <sublink>rtmp://77.81.98.137/strms/ playpath=ufox001 swfUrl=http://www.zstream.eu/jwplayer/jwplayer.flash.swf pageUrl=http://www.zstream.eu/embed.php?v=foxy1&vw=600&vh=450&video=0&domain=hdembed.com live=1 timeout=10</sublink>
-</link>
+<link>rtmp://watch.ilive.to:1935/edge playpath=ac0cw5cmguex4di swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=87adjuljlsadkf87HD</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>ESPN</title>
+<link>rtmp://watch.ilive.to:1935/edge playpath=q231y0sqz0h9dso swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=87adjuljlsadkf87HD</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
 </item>
 
