@@ -248,7 +248,7 @@
 <title>NFL Network</title>
 <link>
  <sublink>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com</sublink>
- <sublink>rtmp://31.220.0.134:443/live playpath=ch8 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch8&vw=620&vh=490 live=true</sublink>
+ <sublink>http://nlds127.cdnak.neulion.com/nlds/nfl/bengals/as/live/bengals_hd_4500.m3u8</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
 </item>
