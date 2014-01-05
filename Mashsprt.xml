@@ -277,7 +277,7 @@
  <sublink>rtmp://95.211.186.227/shqstream/ playpath=minnnesota38?keys=psg2hfhItYXHE1IdX3ezzA&keyt=1388898679 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=minnnesota38&width=600&height=500 live=1 timeout=10</sublink>
  <sublink>rtmp://50.22.223.36/shqstream/ playpath=philadelphia2222?keys=XLvYyPQkaIbdjF98Auky-A&keyt=1388898690 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=philadelphia2222&width=600&height=500 live=1 timeout=10</sublink>
  <sublink>rtmp://80.82.64.117:1935/live playpath=na3 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na3&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
- <sublink></sublink>
+ <sublink>http://nlsk.neulion.com/video/event-btn7-1840.m3u8</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
 </item>
