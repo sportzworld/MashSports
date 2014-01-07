@@ -115,8 +115,11 @@
 </item>
 
 <item>
-<title>DAKAR 2014 coverage( Eurosport )</title>
-<link>rtmp://159.253.143.61/hqstream/ playpath=vkfqvxpizs540al?keys=17yzqej1EWg5xRHCZ2XwUw&keyt=1389068457 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=vkfqvxpizs540al&width=600&height=500 live=1 timeout=10</link>
+<title>DAKAR 2014 Eurosport 1 & 2 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtsp://83.139.103.229:8080/O1drmdvr/ESP_VGA.stream</sublink>
+ <sublink>rtsp://83.139.103.229:8080/O1drmdvr/ESP2_VGA.stream</sublink>
+</link>
 <thumbnail>http://www.valparaisoexperience.com/wp-content/uploads/RALLY-DAKAR-COMENZARA-ENERO-ROSARIO_IECIMA20130320_0050_14.jpg</thumbnail>
 </item>
 
