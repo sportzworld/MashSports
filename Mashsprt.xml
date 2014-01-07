@@ -119,6 +119,7 @@
 <link>
  <sublink>rtsp://83.139.103.229:8080/O1drmdvr/ESP_VGA.stream</sublink>
  <sublink>rtsp://83.139.103.229:8080/O1drmdvr/ESP2_VGA.stream</sublink>
+ <sublink>rtmp://174.36.55.76/shqstream/ playpath=dakar888888?keys=fBwrlbCeqAvZ7g2V04TQLg&keyt=1389146534 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=dakar888888&width=600&height=500 live=1 timeout=10<sublink>
 </link>
 <thumbnail>http://www.valparaisoexperience.com/wp-content/uploads/RALLY-DAKAR-COMENZARA-ENERO-ROSARIO_IECIMA20130320_0050_14.jpg</thumbnail>
 </item>
