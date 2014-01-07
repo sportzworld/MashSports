@@ -111,7 +111,7 @@
 
 <item>
 <title>DAKAR 2014 ( Eurosport )</title>
-<link>rtmp://31.220.0.134:1935/live playpath=eurosx2 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=eurosx2&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtmp://31.220.0.133:1935/live playpath=eurosx1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=eurosx1&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.valparaisoexperience.com/wp-content/uploads/RALLY-DAKAR-COMENZARA-ENERO-ROSARIO_IECIMA20130320_0050_14.jpg</thumbnail>
 </item>
 
