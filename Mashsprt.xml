@@ -99,7 +99,7 @@
 
 <item>
 <title>Bein 1  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://strm.ukcast.tv/redirect playpath=toni1 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
+<link>rtmpe://46.246.124.7:1935/live playpath=HDMBS1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
 </item>
 
