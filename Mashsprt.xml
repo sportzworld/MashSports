@@ -124,12 +124,6 @@
 </item>
 
 <item>
-<title>24x7 1998-2010 ALL WWE PPVs STREAM - PPVDIRECT.COM</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=9dmm8m6a1prz2gi swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=87adjuljlsadkf87HD</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.jpg</thumbnail>
-</item>
-
-<item>
 <title>CNN</title>
 <link>rtmp://watch.ilive.to:1935/edge playpath=rjxo8hz17q9waiq swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=87adjuljlsadkf87HD</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cnn_usa.jpg</thumbnail>
@@ -258,7 +252,7 @@
 <item>
 <title>BT Sports 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=9wmk7jm4zs15oob swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=87adjuljlsadkf87HD</sublink>
+ <sublink>rtmp://31.220.0.134:1935/live playpath=bt1sss swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1sss&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.82:1935/live playpath=bt1111 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1111&vw=620&vh=490 live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
