@@ -62,31 +62,31 @@
 
 <item>
 <title>Bein 5  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://46.246.124.7:1935/live playpath=HDMBS5 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</link>
+<link>rtmp://31.220.0.82:1935/live playpath=jsc5 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=jsc5&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://i.imgur.com/eKtzUc4.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bein 6  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://46.246.124.7:1935/live playpath=HDMBS6 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</link>
+<link>rtmp://31.220.0.104:1935/live playpath=jsc6 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=jsc6&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://i.imgur.com/by9j5N2.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bein 3  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://46.246.124.7:1935/live playpath=HDMBS3 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</link>
+<link>rtmp://31.220.0.104:1935/live playpath=jsc3xx swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=jsc3xx&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://i.imgur.com/LaMq1FJ.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bein 2  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://46.246.124.7:1935/live playpath=HDMBS2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</link>
+<link>rtmp://31.220.0.104:1935/live playpath=jsc2 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=jsc2&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://i.imgur.com/G8aSwIJ.jpg</thumbnail>
 </item>
 
 <item>
 <title>Bein 4  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://46.246.124.7:1935/live playpath=HDMBS4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</link>
+<link>rtmp://31.220.0.104:1935/live playpath=jsc4 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=jsc4&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://i.imgur.com/MCi8WTD.jpg</thumbnail>
 </item>
 
@@ -104,7 +104,7 @@
 
 <item>
 <title>Bein 1  [COLOR=FFFF0000]Updated Daily[/COLOR]</title>
-<link>rtmpe://46.246.124.7:1935/live playpath=HDMBS1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</link>
+<link>rtmp://31.220.0.134:1935/live playpath=jsc1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=jsc1&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
 </item>
 
