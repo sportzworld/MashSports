@@ -156,7 +156,7 @@
 
 <item>
 <title>Fox Sports </title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=033iavavmjey774 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=87adjuljlsadkf87HD</link>
+<link>rtmp://watch.ilive.to:1935/edge playpath=2x2cdng2l7ktngi swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=87adjuljlsadkf87HD</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_sports.jpg</thumbnail>
 </item>
 
@@ -194,7 +194,7 @@
 <item>
 <title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=let2whxurw7kg15 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=87adjuljlsadkf87HD</sublink>
+ <sublink>rtmp://watch.ilive.to:1935/edge playpath= swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=87adjuljlsadkf87HD</sublink>
  <sublink>rtmpe://46.246.124.8:1935/live playpath=ban1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/player.php?u=ban1&vw=640&vh=460&domain=hasbahca.net --live</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
