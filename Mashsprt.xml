@@ -306,7 +306,7 @@
 
 <item>
 <title>Sportsnet World</title>
-<link>rtmp://31.220.0.82:1935/live playpath=dsee swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtmp://31.220.0.103:1935/live playpath=sdsd33ww swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sdsd33ww&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.bbl.org.uk/typo3temp/pics/94d57ff654.png</thumbnail>
 </item>
 
