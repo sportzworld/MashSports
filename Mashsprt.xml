@@ -118,7 +118,7 @@
 <title>DAKAR 2014 Eurosport 1 & 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://37.221.172.86/hqstream/ playpath=vkfqvxpizs540al?keys=7h8ayWNy3bDL6IkKEm6KCQ&keyt=1389201511 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=vkfqvxpizs540al&width=600&height=500 live=1 timeout=10</sublink>
- <sublink>rtsp://83.139.103.229:8080/O1drmdvr/ESP2_VGA.stream</sublink>
+ <sublink>rtmp://159.253.143.61/liveall/ playpath=hww54rgawrcvbmo?keys=uZIHjQa5BIlTKBbEPbnnDQ&keyt=1389201793 swfUrl=http://wds.liveall.tv/jwplayer.flash.swf pageUrl=http://liveall.tv/player.php?streampage=hww54rgawrcvbmo&width=620&height=400 live=1 timeout=10</sublink>
  <sublink>rtmp://174.36.55.76/shqstream/ playpath=dakar888888?keys=fBwrlbCeqAvZ7g2V04TQLg&keyt=1389146534 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=dakar888888&width=600&height=500 live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.valparaisoexperience.com/wp-content/uploads/RALLY-DAKAR-COMENZARA-ENERO-ROSARIO_IECIMA20130320_0050_14.jpg</thumbnail>
@@ -286,7 +286,7 @@
 <item>
 <title>Eurosport 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtsp://83.139.103.229:8080/O1drmdvr/ESP2_VGA.stream</sublink>
+ <sublink>rtmp://159.253.143.61/liveall/ playpath=hww54rgawrcvbmo?keys=uZIHjQa5BIlTKBbEPbnnDQ&keyt=1389201793 swfUrl=http://wds.liveall.tv/jwplayer.flash.swf pageUrl=http://liveall.tv/player.php?streampage=hww54rgawrcvbmo&width=620&height=400 live=1 timeout=10</sublink>
  <sublink>http://87.120.6.188:9987/udp/239.100.0.117:1234</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
