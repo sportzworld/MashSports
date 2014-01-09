@@ -156,7 +156,7 @@
 
 <item>
 <title>Fox Sports </title>
-<link>rtmp://watch.ilive.to/edge playpath=1ri6383sf1vupgv swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/view/55828/FOX_(HD)-live-stream-channel token=87adjuljlsadkf87HD</link>
+<link>rtmp://akamai.kbps.tv:1935/live playpath=foxsp?Key=3fbf854b8424e6ae9fc8218cd597499b swfUrl=http://www.vidembed.com/jl/player.swf pageUrl=http://www.vidembed.com/embed.php?s=dshqtv8&width=600&height=430&domain=desistreams.tv live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_sports.jpg</thumbnail>
 </item>
 
