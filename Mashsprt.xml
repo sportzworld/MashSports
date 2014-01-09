@@ -371,6 +371,23 @@
 </item>
 
 <item>
+<title>NHL HD Games Today( Gotham )</title>
+<link>
+ <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/panthers/as/live/panthers_hd_3000.m3u8|User-Agent=iTunes-AppleTV/4.1</sublink>
+ <sublink>http://nlds145.cdnak.neulion.com/nlds/nhl/stars/as/live/stars_hd_3000.m3u8|User-Agent=iTunes-AppleTV/4.1</sublink>
+ <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_3000.m3u8|User-Agent=iTunes-AppleTV/4.1</sublink>
+ <sublink>|User-Agent=iTunes-AppleTV/4.1</sublink>
+ <sublink>|User-Agent=iTunes-AppleTV/4.1</sublink>
+ <sublink>|User-Agent=iTunes-AppleTV/4.1</sublink>
+ <sublink>|User-Agent=iTunes-AppleTV/4.1</sublink>
+ <sublink>|User-Agent=iTunes-AppleTV/4.1</sublink>
+ <sublink>|User-Agent=iTunes-AppleTV/4.1</sublink>
+ <sublink>|User-Agent=iTunes-AppleTV/4.1</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
+</item>
+
+<item>
 <title>Extreme Sports</title>
 <link>http://mss-v3-spbtv.msk.spbtv.com/186.isml/186-548k.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/extreme_sports_nl.jpg</thumbnail>
