@@ -58,16 +58,6 @@
 </item>
 
 <item>
-<title>DAKAR 2014 Eurosport 1 & 2 [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
- <sublink>rtmp://37.221.172.86/hqstream/ playpath=vkfqvxpizs540al?keys=7h8ayWNy3bDL6IkKEm6KCQ&keyt=1389201511 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=vkfqvxpizs540al&width=600&height=500 live=1 timeout=10</sublink>
- <sublink>rtmp://159.253.143.61/liveall/ playpath=hww54rgawrcvbmo?keys=uZIHjQa5BIlTKBbEPbnnDQ&keyt=1389201793 swfUrl=http://wds.liveall.tv/jwplayer.flash.swf pageUrl=http://liveall.tv/player.php?streampage=hww54rgawrcvbmo&width=620&height=400 live=1 timeout=10</sublink>
- <sublink>rtmp://174.36.55.76/shqstream/ playpath=dakar888888?keys=fBwrlbCeqAvZ7g2V04TQLg&keyt=1389146534 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=dakar888888&width=600&height=500 live=1 timeout=10</sublink>
-</link>
-<thumbnail>http://www.valparaisoexperience.com/wp-content/uploads/RALLY-DAKAR-COMENZARA-ENERO-ROSARIO_IECIMA20130320_0050_14.jpg</thumbnail>
-</item>
-
-<item>
 <title>24x7 1998-2010 ALL WWE PPVs STREAM - PPVDIRECT.COM</title>
 <link>rtmp://watch.ilive.to:1935/edge playpath=9dmm8m6a1prz2gi swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf4</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.jpg</thumbnail>
@@ -221,7 +211,7 @@
 <title>Eurosport 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://31.220.0.133:1935/live playpath=eurosx1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=eurosx1&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://$OPT:rtmp-raw=rtmpe://46.246.29.162:1935/live playpath=EURO1HD  swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1  pageUrl=http://www.hdcast.org/embedlive2.php?</sublink>
+ <sublink>http://85.112.113.83:81/udp/239.77.0.44:1234VCX7</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
@@ -230,7 +220,7 @@
 <title>Eurosport 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://31.220.0.104:1935/live playpath=eees2 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=eees2&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://$OPT:rtmp-raw=rtmpe://46.246.29.162:1935/live playpath=EURO2HD  swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1  pageUrl=http://www.hdcast.org/embedlive2.php?</sublink>
+ <sublink> http://85.112.113.83:81/udp/239.77.0.43:1234VCX7</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
