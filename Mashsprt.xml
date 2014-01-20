@@ -339,13 +339,13 @@
 
 <item>
 <title>ESPN</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=vjqwvxirtjz8cmb swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf</link>
+<link>rtmp://$OPT:rtmp-raw=rtmp://50.7.28.194/flash playpath=12026 swfUrl=http://static2.sawlive.tv/player.swf live=1 pageUrl=http://sawlive.tv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
 </item>
 
 <item>
-<title>ESPN</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=q231y0sqz0h9dso swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf</link>
+<title>ESPN uk</title>
+<link>rtmp://93.120.27.78:1935/live/espnuu</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
 </item>
 
