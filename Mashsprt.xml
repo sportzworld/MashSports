@@ -208,7 +208,7 @@
 <item>
 <title>Sky Sports News [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=g5q9nvr3vvprtj9 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf4</sublink>
+ <sublink>rtmp://31.220.0.104:1935/live playpath=skysportnews swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embeds.php?live=skysportnews&vw=620&vh=490 live=true</sublink>
  <sublink>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.133:1935/live playpath=skysportnews swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=skysportnews&vw=620&vh=490 Conn=S:OK</sublink>
  <sublink></sublink>
 </link>
@@ -253,13 +253,13 @@
 
 <item>
 <title>Ten Sports</title>
-<link>rtmp://31.220.0.134:1935/live playpath=tensports00 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=tensports00&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtmp://31.220.0.134:1935/live playpath=tens00 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=tens00&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in.jpg</thumbnail>
 </item>
 
 <item>
 <title>Star Sports</title>
-<link>rtmp://31.220.0.103:1935/live playpath=sdsd33ww swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sdsd33ww&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtmp://31.220.0.104:1935/live playpath=starss swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=starss&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_sports.png</thumbnail>
 </item>
 
