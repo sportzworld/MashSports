@@ -188,15 +188,6 @@
 <item>
 
 <item>
-<title>SKY SPORTS Box Office [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
- <sublink>rtmp://31.220.0.133:1935/live playpath=skysport4 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skysport4&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.133:443/live playpath=ch7 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch7&vw=620&vh=490 live=true</sublink>
-</link>
-<thumbnail>http://images2.wikia.nocookie.net/__cb20130308020840/logopedia/images/thumb/8/8a/SkySportsBoxOffice.png/250px-SkySportsBoxOffice.png</thumbnail>
-</item>
-
-<item>
 <title>SKY F1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://watch.ilive.to:1935/edge playpath=azifcb9d82tdfwc swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf4</sublink>
