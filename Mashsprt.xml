@@ -223,8 +223,8 @@
 <item>
 <title>Eurosport 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://37.221.172.86/hqstream/ playpath=vkfqvxpizs540al?keys=7h8ayWNy3bDL6IkKEm6KCQ&keyt=1389201511 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=vkfqvxpizs540al&width=600&height=500 live=1 timeout=10</sublink>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=yo8fwgz5fs1e45k swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf</sublink>
+ <sublink>rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.38:1935/live playpath=EURO1HD swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=EURO1HD&vw=640&vh=460&domain=hdfoots.com --live</sublink>
+ <sublink>rtmp://$OPT:rtmp-raw=rtmpe://46.246.29.162:1935/live playpath=EURO1HD  swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1  pageUrl=http://www.hdcast.org/embedlive2.php?</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
@@ -232,8 +232,8 @@
 <item>
 <title>Eurosport 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://159.253.143.61/liveall/ playpath=hww54rgawrcvbmo?keys=uZIHjQa5BIlTKBbEPbnnDQ&keyt=1389201793 swfUrl=http://wds.liveall.tv/jwplayer.flash.swf pageUrl=http://liveall.tv/player.php?streampage=hww54rgawrcvbmo&width=620&height=400 live=1 timeout=10</sublink>
- <sublink>http://87.120.6.188:9987/udp/239.100.0.117:1234</sublink>
+ <sublink>rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.15:1935/live playpath=EURO2HD swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1</sublink>
+ <sublink>rtmp://$OPT:rtmp-raw=rtmpe://46.246.29.162:1935/live playpath=EURO2HD  swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1  pageUrl=http://www.hdcast.org/embedlive2.php?</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
