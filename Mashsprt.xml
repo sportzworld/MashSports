@@ -127,7 +127,7 @@
 <item>
 <title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>http://auth.torrent-tv.ru/a/3677/b3dOb3hGZTQxbEx1NXFOVlc2Z2NGcVFZVjZwSkZ0ajI3MHNtb01mUkJmU2syaWtQNEpIYXE1VUZPSnA3OUNoZQ</sublink>
+ <sublink>rtmp://31.220.0.103:1935/live playpath=ss1111 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss1111&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.8:1935/live playpath=ban1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/player.php?</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
@@ -137,7 +137,7 @@
 <title>SKY SPORTS 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://watch.ilive.to:1935/edge playpath=hh8vnpykiohg9td swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf4</sublink>
- <sublink>http://auth.torrent-tv.ru/a/7068/cGdObUlGZTQxbEpvK3VvWTkxS3NmUHJmZFFBTmNQVGxqVEhoeUNFaTR0S0NvR0ZzODNXN0t2M1diUHVGVUlObQ</sublink>
+ <sublink>rtmp://31.220.0.104:1935/live playpath=ss22zx swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss22zx&vw=620&vh=490 live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
 </item>
