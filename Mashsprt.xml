@@ -260,7 +260,7 @@
 <title>NHL Network</title>
 <link>
  <sublink>http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1840.m3u8</sublink>
- <sublink>http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1240.m3u8</sublink>
+ <sublink>http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1840.m3u8</sublink>
  </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nhl_network.png</thumbnail>
 </item>
@@ -268,7 +268,7 @@
 <item>
 <title>NFL Network</title>
 <link>
- <sublink>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com</sublink>
+ <sublink>rtmp://$OPT:rtmp-raw=rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p..</sublink>
  <sublink>http://nlds127.cdnak.neulion.com/nlds/nfl/bengals/as/live/bengals_hd_4500.m3u8</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
@@ -277,7 +277,7 @@
 <item>
 <title>NBA TV [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8</sublink>
+ <sublink>rtmp://$OPT:rtmp-raw=rtmp://46.246.29.141:1935/stream/K8l9h6j8.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf pageUrl=http://04stream.com/ live=true</sublink>
  <sublink>http://nlsk.neulion.com/video/live-p12losa-1164.m3u8</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
