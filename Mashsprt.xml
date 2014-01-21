@@ -38,20 +38,6 @@
 
 
 <item>
-<title> Random Sports [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=z4jg9bjlkcf7rwx swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf</sublink>
- <sublink>rtmp://93.174.93.180:1935/live playpath=na1 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na1&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
- <sublink>rtmp://80.82.64.117:1935/live playpath=zaz2 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=zaz2&vw=600&vh=400&domain=www.myp2phd.net live=1 timeout=10</sublink>
- <sublink>rtmp://80.82.64.120:1935/live playpath=na3 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na3&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
- <sublink>rtmp://80.82.64.117:1935/live playpath=na5 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na5&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
- <sublink>rtmp://80.82.64.118:1935/live playpath=na6 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na6&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
- <sublink>rtmp://80.82.64.118:1935/live playpath=na8 swfUrl=http://www.adslijit.com/cast3dskin.swf pageUrl=http://www.cast3d.tv/embed.php?channel=na8&vw=700&vh=450&domain=www.boxevents.us live=1 timeout=10</sublink>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport1_hu.jpg</thumbnail>
-</item>
-
-<item>
 <title>Big Ten Network</title>
 <link>http://nlsk.neulion.com/video/live-btn-1840.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/big_ten_network.jpg</thumbnail>
@@ -336,24 +322,7 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
 </item>
 
-<item>
-<title> Non Sports channels [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=41i3ymbmum28xfk swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf</sublink>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=cre0y880du3xn6n swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf</sublink>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath= swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf</sublink>
- <sublink>rtmp://nyk.premiumcdnlive.com/edge/n4d38qtu4r9daew pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=12345dsagf</sublink>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=r3na4scqxhgcoly swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf</sublink>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=rjxo8hz17q9waiq swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf</sublink>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=sfrd5bsagtq9eg0 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf</sublink>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath= swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf</sublink>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=own38fuo0upig6w swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf</sublink>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=n5p5jxf653kfq86 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf</sublink>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=ibnnu7537h3ax6e swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf</sublink>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath= swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf</sublink>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/travel_adventure_channel_ru.jpg</thumbnail>
-</item>
+
 
 
 
