@@ -87,7 +87,7 @@
 
 <item>
 <title>Fox Sports </title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=zlhe19tbvqy7hyl swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf4</link>
+<link>rtmp://watch.ilive.to:1935/edge playpath=lnq9fokaih2kto7 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf4</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_sports.jpg</thumbnail>
 </item>
 
@@ -249,7 +249,7 @@
 <item>
 <title>NBA TV [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://$OPT:rtmp-raw=rtmp://46.246.29.141:1935/stream/K8l9h6j8.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf pageUrl=http://04stream.com/ live=true</sublink>
+ <sublink>rtmp://watch.ilive.to:1935/edge playpath=cjcga5vdvbyoowr swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf4</sublink>
  <sublink>http://nlsk.neulion.com/video/live-p12losa-1164.m3u8</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
@@ -294,7 +294,7 @@
 
 <item>
 <title>ESPN</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://50.7.28.194/flash playpath=12026 swfUrl=http://static2.sawlive.tv/player.swf live=1 pageUrl=http://sawlive.tv/</link>
+<link>rtmp://watch.ilive.to:1935/edge playpath=jbg6x0bz0qtayhc swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf4</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
 </item>
 
