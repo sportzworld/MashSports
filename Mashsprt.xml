@@ -240,7 +240,7 @@
 <item>
 <title>NFL Network</title>
 <link>
- <sublink>rtmp://$OPT:rtmp-raw=rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p..</sublink>
+ <sublink>rtmp://watch.ilive.to:1935/edge playpath=kv7oalsc13q2i1y swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf4</sublink>
  <sublink>http://nlds127.cdnak.neulion.com/nlds/nfl/bengals/as/live/bengals_hd_4500.m3u8</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
@@ -249,7 +249,7 @@
 <item>
 <title>NBA TV [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=cjcga5vdvbyoowr swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf4</sublink>
+ <sublink>rtmp://watch.ilive.to:1935/edge playpath=elf11zxbjpuns8e swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf4</sublink>
  <sublink>http://nlsk.neulion.com/video/live-p12losa-1164.m3u8</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
