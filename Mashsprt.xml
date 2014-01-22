@@ -278,6 +278,7 @@
  <sublink>rtmp://31.220.0.104:1935/live playpath=c8 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=c8&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://37.221.172.86/spull/ playpath=fgerge?keys=Azl72UMEoHswyZV9AhU97Q&keyt=1390370630 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=fgerge&width=600&height=450 live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.104:1935/live playpath=c12 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=c12&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://95.211.186.227/spull/ playpath=dsfsdfsfds31?keys=-vUT8dM03xrkC6xho6abBw&keyt=1390373783 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=dsfsdfsfds31&width=600&height=450 live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
 </item>
