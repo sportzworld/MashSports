@@ -255,7 +255,7 @@
 <title>NBA TV [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=true  pageUrl=http://www.04stream.com/</sublink>
- <sublink>http://nlsk.neulion.com/video/live-p12losa-1164.m3u8</sublink>
+ <sublink>rtmp://watch.ilive.to:1935/edge playpath=roxl86nn1ddsugy swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf4</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
 </item>
