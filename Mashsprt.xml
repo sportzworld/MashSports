@@ -112,7 +112,7 @@
 
 <item>
 <title>Chelsea TV</title>
-<link>rtmp://cp96798.live.edgefcs.net/live playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://php.chol.com/~noza/player/player316.swf?backcolor=0x000000&frontcolor=0xFFFFFF&file=rtmp://cp96798.live.edgefcs.net/live&id=ChelTV_Ch01_1000k@26291&overstretch=fit pageUrl=http://www.fancystreems.com/indexsports.html live=1 timeout=10</link>
+<link>rtmp://cp96798.live.edgefcs.net/live playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://php.chol.com/~noza/player/player316.swf?backcolor=0x000000&frontcolor=0xFFFFFF&file=rtmp://cp96798.live.edgefcs.net/live&id=ChelTV_Ch01_1000k@26291&overstretch=fit pageUrl=http://fancystreems.com/tvcat/sportstv-2.php live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/chelsea_tv.jpg</thumbnail>
 </item>
 
@@ -182,7 +182,7 @@
 <item>
 <title>BT Sports 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.134:1935/live playpath=bt1sss swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embeds.php?live=bt1sss&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.104:1935/live playpath=bt1sss swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embeds.php?live=bt1sss&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=bt1sss swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
@@ -209,8 +209,8 @@
 <item>
 <title>Eurosport 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.104:1935/live playpath=eees2 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=eees2&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink> http://85.112.113.83:81/udp/239.77.0.43:1234VCX7</sublink>
+ <sublink>rtmp://31.220.0.82:1935/live playpath=euroz2 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=euroz2&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>http://85.112.113.83:81/udp/239.77.0.43:1234VCX7</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
