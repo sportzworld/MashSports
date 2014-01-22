@@ -263,7 +263,7 @@
 <item>
 <title>Boxing/UFC</title>
 <link>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=zm4jqfmp8wvecx3 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf4</sublink>
+ <sublink>rtmp://live302.edge.filmon.com/live/?id=0ad5aac39bb13fbef5da532eabb73782d0260fc17f244cd4857d2273338ae7881bfed58ab4f231543bb7cf98948e9151dc0d34b91e441726966148a516653bedcfb2efcbcd16f10c6f70c179b5df1a23d689833939eba3dee16e1ea645b8ce07d4288fa6762c76f42ee06f4eef06fb7f1ee098ea2120864caf2763a0a9ae115522f6991df269c40bd36043ae590c33be24b9176bcded0f9f playpath=1621.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=37 pageUrl=http://www.filmon.com/index/popout?channel_id=1621&quality=low live=1 timeout=10</sublink>
  <sublink>http://spi-live.ercdn.net/spi/smil:fightboxhd_0.smil/hasbahca.m3u8</sublink>
  <sublink>rtmp://31.220.0.103:443/live playpath=ch7 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch7&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://watch.ilive.to:1935/edge playpath=esmftmxlqsm9f3s swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf</sublink>
