@@ -245,7 +245,7 @@
 <item>
 <title>NFL Network</title>
 <link>
- <sublink>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_4500.m3u8|User-Agent=Roku/DVP-5.0 (025.00E08043A)</sublink>
+ <sublink>rtmp://watch.ilive.to:1935/edge playpath=opt68pks7fu9a5q swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf4)</sublink>
   <sublink>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_3000.m3u8|User-Agent=Roku/DVP-5.0 (025.00E08043A)</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
@@ -263,7 +263,7 @@
 <item>
 <title>Boxing/UFC</title>
 <link>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=bvw0318bpr38vo4 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf4</sublink>
+ <sublink>rtmp://watch.ilive.to:1935/edge playpath=zm4jqfmp8wvecx3 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf4</sublink>
  <sublink>http://spi-live.ercdn.net/spi/smil:fightboxhd_0.smil/hasbahca.m3u8</sublink>
  <sublink>rtmp://31.220.0.103:443/live playpath=ch7 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch7&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://watch.ilive.to:1935/edge playpath=esmftmxlqsm9f3s swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf</sublink>
