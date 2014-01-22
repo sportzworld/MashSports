@@ -25,7 +25,12 @@
 </info>
 
 <info>
-<message>[COLOR blue]Nhl Games in pst Jan 21[/COLOR][COLOR green] 4:00 p.m Panthers @ Sabres link 1[/COLOR][COLOR yellow] 4:00 p.m NHL: Blues @ Devils link 2[/COLOR][COLOR green] 4:00 p.m NHL: Islanders @ Rangers link 3[/COLOR][COLOR yellow] 4:00 NHL: Hurricanes @ Flyers link 4 [/COLOR][COLOR green] 4:00 NHL: Senators @ Capitols link 5 [/COLOR][COLOR yellow] 4:00 NHL: Kings @ Jackets link 6 [/COLOR][COLOR green] 5:00 NHL: Wild @ Stars link 7 [/COLOR][COLOR yellow] 6:00 NHL: Leafs @ Avalanche link 8 [/COLOR][COLOR green] 6:30 NHL: Canucks @ Oilers link 9 [/COLOR][COLOR yellow] 7:00 Jets @ Ducks link 10 [/COLOR]</message>
+<message>[COLOR blue]Nhl Games in pst Jan 22[/COLOR][COLOR green] 3:00 p.m Hurricanes @ Flyers link 1[/COLOR][COLOR yellow] 4:00 p.m NHL: Canadiens @ Penquins link 2[/COLOR]</message>[COLOR green] 5:00 p.m NHL: Hawks @ Wings link 3[/COLOR][COLOR yellow] 6:30 NHL: Coyotes @ Flames link 4 [/COLOR]</message>
+<thumbnail> http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg </thumbnail>
+</info>
+
+<info>
+<message>[COLOR orange]Same game links apply for nhl gotham only[/COLOR]</message>
 <thumbnail> http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg </thumbnail>
 </info>
 
@@ -279,6 +284,20 @@
  <sublink>rtmp://37.221.172.86/spull/ playpath=fgerge?keys=Azl72UMEoHswyZV9AhU97Q&keyt=1390370630 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=fgerge&width=600&height=450 live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.104:1935/live playpath=c12 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=c12&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://95.211.186.227/spull/ playpath=dsfsdfsfds31?keys=-vUT8dM03xrkC6xho6abBw&keyt=1390373783 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=dsfsdfsfds31&width=600&height=450 live=1 timeout=10</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
+</item>
+
+<item>
+<title>NHL HD Games Today( Gotham )</title>
+<link>
+ <sublink>|User-Agent=Roku/DVP-5.0 (025.00E08043A)</sublink>
+ <sublink>|User-Agent=Roku/DVP-5.0 (025.00E08043A)</sublink>
+ <sublink>|User-Agent=Roku/DVP-5.0 (025.00E08043A)</sublink>
+ <sublink>|User-Agent=Roku/DVP-5.0 (025.00E08043A)</sublink>
+ <sublink>|User-Agent=Roku/DVP-5.0 (025.00E08043A)</sublink>
+ <sublink>|User-Agent=Roku/DVP-5.0 (025.00E08043A)</sublink>
+ <sublink>|User-Agent=Roku/DVP-5.0 (025.00E08043A)</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
 </item>
