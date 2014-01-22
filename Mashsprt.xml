@@ -245,8 +245,8 @@
 <item>
 <title>NFL Network</title>
 <link>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=kv7oalsc13q2i1y swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf4</sublink>
- <sublink>http://nlds127.cdnak.neulion.com/nlds/nfl/bengals/as/live/bengals_hd_4500.m3u8</sublink>
+ <sublink>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_4500.m3u8|User-Agent=Roku/DVP-5.0 (025.00E08043A)</sublink>
+  <sublink>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_3000.m3u8|User-Agent=Roku/DVP-5.0 (025.00E08043A)</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
 </item>
