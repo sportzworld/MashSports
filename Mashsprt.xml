@@ -274,7 +274,7 @@
 <item>
 <title>NHL Games Today</title>
 <link>
- <sublink>http://nlds86.cdnak.neulion.com/nlds/nhl/canucks/as/live/canucks_hd_3000.m3u8|http-user-agent=Roku/DVP-5.0 (025.00E08043A)</sublink>
+ <sublink>rtmp://31.220.0.133:1935/live playpath=c1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embeds.php?live=c1&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://149.255.39.10/spull/ playpath=33dfsdfsd?keys=sH6b21VBYHPvAlVfGFT73Q&keyt=1390363742 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=33dfsdfsd&width=600&height=450 live=1 timeout=10</sublink>
  <sublink>rtmp://50.22.223.47/spull/ playpath=fdsfsdf32?keys=dTKhjwWJzLEOHtGyOpqrpw&keyt=1390362441 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=fdsfsdf32&width=600&height=450 live=1 timeout=10</sublink>
  <sublink>rtmp://95.211.210.133/spull/ playpath=fgdfgdfg44333?keys=6FWPciy6RJ-o3NmhVEAxrA&keyt=1390363975 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=fgdfgdfg44333&width=600&height=450 live=1 timeout=10</sublink>
@@ -291,7 +291,7 @@
 <item>
 <title>NHL HD Games Today( Gotham )</title>
 <link>
- <sublink>|User-Agent=Roku/DVP-5.0 (025.00E08043A)</sublink>
+ <sublink>http://nlds124.cdnak.neulion.com/nlds/nhl/hurricanes/as/live/hurricanes_hd_3000.m3u8|User-Agent=Roku/DVP-5.0 (025.00E08043A)</sublink>
  <sublink>|User-Agent=Roku/DVP-5.0 (025.00E08043A)</sublink>
  <sublink>|User-Agent=Roku/DVP-5.0 (025.00E08043A)</sublink>
  <sublink>|User-Agent=Roku/DVP-5.0 (025.00E08043A)</sublink>
