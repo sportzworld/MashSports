@@ -276,7 +276,7 @@
 <title>Boxing/UFC</title>
 <link>
  <sublink>rtmp://37.220.32.44:443/liverepeater playpath=20724 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream1.html token=#atd%#$ZH</sublink>
- <sublink>http://spi-live.ercdn.net/spi/smil:fightboxhd_0.smil/hasbahca.m3u8</sublink>
+ <sublink>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv01/mogulus-user-files/chmmabaytv/2010/07/30/180897d0-f8db-4927-bd87-619df505d859 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?autoPlay=true&jsEnabled=false&iconColor=0x777777&color=0xe7e7e7&mute=false&iconColorOver=0x888888 pageUrl=http://www.nowwatchtvlive.com/channel-tab-frame/mmatv-1.php token=#atd%#$ZH</sublink>
  <sublink>rtmp://watch.ilive.to:1935/edge playpath=62kcvk4m5b0ts6p swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf4</sublink>
  <sublink>rtmp://watch.ilive.to:1935/edge playpath=esmftmxlqsm9f3s swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf</sublink>
 </link>
