@@ -286,7 +286,7 @@
 <item>
 <title>NHL Games Today (SD)</title>
 <link>
- <sublink>rtmp://173.193.202.86:443/liverepeater playpath=stream24 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream24.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://50.22.223.7:443/liverepeater playpath=stream24 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream24.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://173.193.205.95:443/liverepeater playpath=stream11 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream11.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://173.192.81.170:443/liverepeater playpath=stream24 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream24.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://174.36.1.70:443/liverepeater playpath=stream22 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream22.html token=#atd%#$ZH</sublink>
