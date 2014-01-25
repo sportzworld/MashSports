@@ -287,8 +287,8 @@
 <title>NHL Games Today (SD)</title>
 <link>
  <sublink>rtmp://50.22.223.7:443/liverepeater playpath=stream24 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream24.html token=#atd%#$ZH</sublink>
- <sublink>rtmp://173.193.205.95:443/liverepeater playpath=stream11 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream11.html token=#atd%#$ZH</sublink>
- <sublink>rtmp://173.192.81.170:443/liverepeater playpath=stream24 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream24.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://174.36.1.13:443/liverepeater playpath=stream23 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream23.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://50.97.232.137:443/liverepeater playpath=stream22 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream22.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://174.36.1.70:443/liverepeater playpath=stream22 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream22.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://173.193.202.86:443/liverepeater playpath=stream21 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream21.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://173.192.70.176:443/liverepeater playpath=stream7 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream7.html token=#atd%#$ZH</sublink>
@@ -304,8 +304,8 @@
 <title>NHL Games Today( Gotham ) HD</title>
 <link>
  <sublink>http://nlds131.cdnak.neulion.com/nlds/nhl/hurricanes/as/live/hurricanes_hd_3000.m3u8</sublink>
- <sublink>http://nlds139.cdnak.neulion.com/nlds/nhl/coyotes/as/live/coyotes_hd_3000.m3u8|User-agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)</sublink>
- <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/flyers/as/live/flyers_hd_3000.m3u8|User-Agent=Roku/DVP-5.0 (025.00E08043A)</sublink>
+ <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/islanders/as/live/islanders_hd_3000.m3u8</sublink>
+ <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/flyers/as/live/flyers_hd_3000.m3u8</sublink>
  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/flames/as/live/flames_hd_3000.m3u8|User-Agent=Roku/DVP-5.0 (025.00E08043A)</sublink>
  <sublink>http://nlds139.cdnak.neulion.com/nlds/nhl/coyotes/as/live/coyotes_hd_3000.m3u8</sublink>
  <sublink>|User-Agent=Roku/DVP-5.0 (025.00E08043A)</sublink>
