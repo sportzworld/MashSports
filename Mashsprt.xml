@@ -153,7 +153,7 @@
 <item>
 <title>SKY SPORTS 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.133:1935/live playpath=ss22zx swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss22zx&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.134:1935/live playpath=ss2x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss2x&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.104:1935/live playpath=ss22zx swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss22zx&vw=620&vh=490 live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
@@ -181,7 +181,7 @@
 <item>
 <title>SKY F1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.103:1935/live playpath=f1x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=f1x&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.133:1935/live playpath=f11 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=f11&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://watch.ilive.to:1935/edge playpath=tc4kwcn5dqfvncd swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
@@ -200,7 +200,7 @@
 <item>
 <title>BT Sports 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.104:1935/live playpath=bt1sss swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embeds.php?live=bt1sss&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.82:1935/live playpath=bt1sss swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embeds.php?live=bt1sss&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=bt1sss swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
