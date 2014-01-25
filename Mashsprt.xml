@@ -49,12 +49,6 @@
 </item>
 
 <item>
-<title>MUTV</title>
-<link>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv03/mogulus-user-files/chmymutv/2009/08/15/b2fa7ebe-deff-45d4-98f5-1141294b5384 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?browseMode=false&showMoreVideos=false&allowChat=true&borderColor=0xCCCCCC&textLines=2&jsEnabled=false&hideChannelBranding=true&time=&hideInfo=true&mode=false&iconColor=0x555555&autoPlay=true&allowchat=false&showBorderControlBar=false&lschannel=true&t=198533 pageUrl=http://www.livestream.com/embed/mymutv?showMoreVideos=false&hideInfo=true&autoPlay=true&lschannel=true&browseMode=false&textLines=2&hideChannelBranding=true&mode=false&allowchat=false&layout=1&t=198533 token=#atd%#$ZH</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mutv.png</thumbnail>
-</item>
-
-<item>
 <title>WWE Wrestlemania Marathon 1-30</title>
 <link>rtmp://watch.ilive.to:1935/edge playpath=mo4o5j4bnux9kmz swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf4</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.jpg</thumbnail>
