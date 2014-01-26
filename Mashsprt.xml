@@ -235,7 +235,7 @@
 <item>
 <title>NHL Network</title>
 <link>
- <sublink>http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1840.m3u8</sublink>
+ <sublink>rtmp://37.220.32.44:443/liverepeater playpath=19341 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream18.html token=#atd%#$ZH</sublink>
  <sublink>http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1840.m3u8</sublink>
  </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nhl_network.png</thumbnail>
