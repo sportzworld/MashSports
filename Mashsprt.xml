@@ -20,12 +20,12 @@
 
 <info>
 <message>[COLOR blue]Nhl Games in pst Jan 25[/COLOR][COLOR green] 9:00 a.m Senators @ Hurricanes link 1[/COLOR][COLOR yellow] 10:00 a.m NHL: Blues @ Islamders link 2[/COLOR][COLOR green] 10:00 a.m NHL: Bruins @ Flyers link 3[/COLOR][COLOR yellow] 4:00 p.m NHL: Capitols @ Canadiens link 4 [/COLOR][COLOR green] 4:00 NHL: Avalanche @ Lightning link 5 [/COLOR][COLOR yellow] 4:00 NHL: Sabres @ Jackets link 6 [/COLOR][COLOR green] 4:00 NHL: Leafs @ Jets link 7 [/COLOR][COLOR yellow] 5:00 NHL: Penquins @ Stars link 8 [/COLOR][COLOR green] 6:30 NHL: Ducks @ Kings link 9 [/COLOR][COLOR yellow] 7:30 Wild @ Sharks link 10 [/COLOR][COLOR green] 5:00 NHL: Capitals @ Wild 11 [/COLOR][COLOR yellow] 5:00 Flyers @ Coyotes link 12 [/COLOR][COLOR green] 7:00 NHL: Canucks @ Kings link 13 [/COLOR][COLOR yellow] 7:30 Avalanche @ Sharks link 14 [/COLOR]</message>
-<thumbnail> http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg </thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
 </info>
 
 <info>
 <message>[COLOR orange]Nhl hd game links UP (Gotham) are same game link # as sd games [/COLOR]</message>
-<thumbnail> http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg </thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
 </info>
 
 
@@ -295,7 +295,7 @@
  <sublink>rtmp://173.193.242.249:443/liverepeater playpath=stream23 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream23.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://173.192.70.176:443/liverepeater playpath=stream21 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream21.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://159.253.149.56:443/liverepeater playpath=stream24 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream24.html token=#atd%#$ZH</sublink>
- <sublink>rtmp://173.192.81.176:443/liverepeater playpath=stream9 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream9.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://67.228.177.10:443/liverepeater playpath=stream5 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream5.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://173.192.70.176:443/liverepeater playpath=stream8 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream8.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://5.63.151.164:443/liverepeater playpath=stream10 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream10.html token=#atd%#$ZH</sublink>
 </link>
