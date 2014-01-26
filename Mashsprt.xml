@@ -19,7 +19,7 @@
 </info>
 
 <info>
-<message>[COLOR blue]Nhl Games in pst Jan 25[/COLOR][COLOR green] 9:00 a.m Senators @ Hurricanes link 1[/COLOR][COLOR yellow] 10:00 a.m NHL: Blues @ Islamders link 2[/COLOR][COLOR green] 10:00 a.m NHL: Bruins @ Flyers link 3[/COLOR][COLOR yellow] 4:00 p.m NHL: Capitols @ Canadiens link 4 [/COLOR][COLOR green] 4:00 NHL: Avalanche @ Lightning link 5 [/COLOR][COLOR yellow] 4:00 NHL: Sabres @ Jackets link 6 [/COLOR][COLOR green] 4:00 NHL: Leafs @ Jets link 7 [/COLOR][COLOR yellow] 5:00 NHL: Penquins @ Stars link 8 [/COLOR][COLOR green] 6:30 NHL: Ducks @ Kings link 9 [/COLOR][COLOR yellow] 7:30 Wild @ Sharks link 10 [/COLOR][COLOR green] 5:00 NHL: Capitals @ Wild 11 [/COLOR][COLOR yellow] 5:00 Flyers @ Coyotes link 12 [/COLOR][COLOR green] 7:00 NHL: Canucks @ Kings link 13 [/COLOR][COLOR yellow] 7:30 Avalanche @ Sharks link 14 [/COLOR]</message>
+<message>[COLOR blue]Nhl Games in pst Jan 25[/COLOR][COLOR green] [/COLOR]</message>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
 </info>
 
@@ -312,6 +312,7 @@
  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/lightning/as/live/lightning_hd_3000.m3u8</sublink>
  <sublink>http://nlds127.cdnak.neulion.com/nlds/nhl/bluejackets/as/live/bluejackets_hd_3000.m3u8</sublink>
  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/jets/as/live/jets_hd_3000.m3u8</sublink>
+ <sublink>http://nlds142.cdnak.neulion.com/nlds/nhl/stars/as/live/stars_hd_3000.m3u8</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
 </item>
