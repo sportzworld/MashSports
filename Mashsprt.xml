@@ -296,7 +296,7 @@
 <item>
 <title>NHL Games Today HD( Gotham )</title>
 <link>
- <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/canucks/as/live/canucks_hd_1600.m3u8</sublink>
+ <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/canucks/as/live/canucks_hd_1600.m3u8|User-Agent=User-Agent=Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/5.0);Xbox; Xbox One)</sublink>
  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/blackhawks/as/live/blackhawks_hd_3000.m3u8</sublink>
  <sublink>http://nlds49.cdnak.neulion.com/nlds/nhl/oilers/as/live/oilers_hd_3000.m3u8</sublink>
  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/canadiens/as/live/canadiens_hd_3000.m3u8</sublink>
