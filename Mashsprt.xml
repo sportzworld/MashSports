@@ -205,7 +205,7 @@
 <item>
 <title>Eurosport 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.133:1935/live playpath=eurosx1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=eurosx1&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.134:1935/live playpath=euro11osjos swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=euro11osjos&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>http://85.112.113.83:81/udp/239.77.0.44:1234VCX7</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
@@ -330,7 +330,7 @@
 
 <item>
 <title>ESPN uk</title>
-<link>rtmp://93.120.27.78:1935/live/espnuu</link>
+<link>rtmp://31.220.0.103:1935/live playpath=esss1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=esss1&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
 </item>
 
