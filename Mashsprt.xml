@@ -279,8 +279,8 @@
 <item>
 <title>NHL Games Today (SD)</title>
 <link>
- <sublink>rtmp://46.28.53.6:443/liverepeater playpath=stream5 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream5.html token=#atd%#$ZH</sublink>
- <sublink>rtmp://173.193.227.103:443/liverepeater playpath=stream1 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream1.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://50.97.94.61:443/liverepeater playpath=stream8 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream8.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://50.23.239.2:443/liverepeater playpath=stream7 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream7.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://173.193.48.134:443/liverepeater playpath=stream4 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream4.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://173.193.227.104:443/liverepeater playpath=stream22 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream22.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://173.193.242.249:443/liverepeater playpath=stream23 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream23.html token=#atd%#$ZH</sublink>
@@ -296,8 +296,8 @@
 <item>
 <title>NHL Games Today HD( Gotham )</title>
 <link>
- <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/canucks/as/live/canucks_hd_1600.m3u8|User-Agent=User-Agent=Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/5.0);Xbox; Xbox One)</sublink>
- <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/blackhawks/as/live/blackhawks_hd_3000.m3u8</sublink>
+ <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/islanders/as/live/islanders_hd_3000.m3u8|User-Agent=User-Agent=Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/5.0);Xbox; Xbox One)</sublink>
+ <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/hurricanes/as/live/hurricanes_hd_3000.m3u8|User-Agent=User-Agent=Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/5.0);Xbox; Xbox One)</sublink>
  <sublink>http://nlds49.cdnak.neulion.com/nlds/nhl/oilers/as/live/oilers_hd_3000.m3u8</sublink>
  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/canadiens/as/live/canadiens_hd_3000.m3u8</sublink>
  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/lightning/as/live/lightning_hd_3000.m3u8</sublink>
