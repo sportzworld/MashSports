@@ -281,7 +281,7 @@
 <link>
  <sublink>rtmp://46.165.196.23/shqstream/ playpath=34dfsdfsdfsdfsdfsdf?keys=bnpk-5ya4eFbDU3XPGOYXQ&keyt=1390882231 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=34dfsdfsdfsdfsdfsdf&width=600&height=500 live=1 timeout=10</sublink>
  <sublink>rtmp://173.192.222.195:443/liverepeater playpath=stream7 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream7.html token=#atd%#$ZH</sublink>
- <sublink>rtmp://173.193.48.134:443/liverepeater playpath=stream4 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream4.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://173.192.70.190:443/liverepeater playpath=stream9 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream9.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://173.193.227.104:443/liverepeater playpath=stream22 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream22.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://173.193.242.249:443/liverepeater playpath=stream23 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream23.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://173.192.70.176:443/liverepeater playpath=stream21 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream21.html token=#atd%#$ZH</sublink>
@@ -298,7 +298,7 @@
 <link>
  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/islanders/as/live/islanders_hd_3000.m3u8|User-Agent=User-Agent=Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/5.0);Xbox; Xbox One)</sublink>
  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/hurricanes/as/live/hurricanes_hd_3000.m3u8|User-Agent=User-Agent=Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/5.0);Xbox; Xbox One)</sublink>
- <sublink>http://nlds49.cdnak.neulion.com/nlds/nhl/oilers/as/live/oilers_hd_3000.m3u8</sublink>
+ <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/penguins/as/live/penguins_hd_3000.m3u8</sublink>
  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/canadiens/as/live/canadiens_hd_3000.m3u8</sublink>
  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/lightning/as/live/lightning_hd_3000.m3u8</sublink>
  <sublink>http://nlds127.cdnak.neulion.com/nlds/nhl/bluejackets/as/live/bluejackets_hd_3000.m3u8</sublink>
