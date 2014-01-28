@@ -38,6 +38,12 @@
 </item>
 
 <item>
+<title>Discovery Turbo</title>
+<link>rtmp://watch.ilive.to:1935/edge playpath=2p5kj6nrpp59542 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf41</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_in.png</thumbnail>
+</item>
+
+<item>
 <title>Motors TV</title>
 <link>rtmp://146.185.30.210/live playpath=komotorstv?id=62009 Conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/komotorstv/1/600/440</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
