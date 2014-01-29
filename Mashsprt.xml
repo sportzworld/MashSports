@@ -4,7 +4,7 @@
 #######################################################################################################################################
 
 <info>
-<message>[COLOR red]Updated Daily[/COLOR]</message>
+<message>[COLOR red]Last 3 NHL games wont be up tonight[/COLOR]</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
@@ -287,8 +287,8 @@
  <sublink>rtmp://173.192.70.190:443/liverepeater playpath=stream8 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream8.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://50.97.232.137:443/liverepeater playpath=stream7 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream7.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://173.192.222.195:443/liverepeater playpath=stream12 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream12.html token=#atd%#$ZH</sublink>
- <sublink>rtmp://159.253.149.56:443/liverepeater playpath=stream24 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream24.html token=#atd%#$ZH</sublink>
- <sublink>rtmp://67.228.177.10:443/liverepeater playpath=stream5 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream5.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://50.97.94.61:443/liverepeater playpath=stream13 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream13.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://173.192.70.179:443/liverepeater playpath=stream14 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream14.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://46.28.53.6:443/liverepeater playpath=stream36 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream36.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://50.22.223.7:443/liverepeater playpath=stream21 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream21.html token=#atd%#$ZH</sublink>
 </link>
