@@ -314,7 +314,7 @@
 
 <item>
 <title>Extreme Sports</title>
-<link>http://85.112.113.83:81/udp/239.77.0.84:1234VCX7</link>
+<link>rtmp://5.39.71.63/live playpath=ch26?token=VsZnC28VZEHD4gfA-ZjIAQ&e=1390803005 swfUrl=http://www.ziuriu.tv/res/js/flow/stv39/flowplayer.commercial-3.2.15.swf live=1 pageUrl=http://www.ziuriu.tv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/extreme_sports_nl.jpg</thumbnail>
 </item>
 
@@ -332,7 +332,7 @@
 
 <item>
 <title>ESPN uk</title>
-<link>rtmp://31.220.0.103:1935/live playpath=esss1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=esss1&vw=620&vh=490 live=1 timeout=10</link>
+<link>http://93.120.27.78:1935/live/espnuum/stv39.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
 </item>
 
