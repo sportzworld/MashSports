@@ -179,7 +179,7 @@
 <item>
 <title>Sky Sports News [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.104:1935/live playpath=skysportnews swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embeds.php?live=skysportnews&vw=620&vh=490 live=true</sublink>
+ <sublink>rtmp://31.220.0.82:1935/live playpath=skysportnews swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embeds.php?live=skysportnews&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.104:1935/live playpath=skysportnews swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embeds.php?live=skysportnews&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink></sublink>
 </link>
