@@ -230,7 +230,7 @@
 
 <item>
 <title>Star Sports</title>
-<link>rtmp://31.220.0.104:1935/live playpath=starss swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=starss&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtmp://31.220.0.82:1935/live playpath=starss swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=starss&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_sports.png</thumbnail>
 </item>
 
