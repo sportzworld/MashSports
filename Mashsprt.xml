@@ -37,13 +37,6 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/big_ten_network.jpg</thumbnail>
 </item>
 
-<item>
-<title>UFC WWE Main event</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=y2r39qqn8jtuefe swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h</link>
-<thumbnail></thumbnail>
-</item>
-
-
 
 <item>
 <title>Motors TV</title>
@@ -57,21 +50,9 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/at_the_races.jpg</thumbnail>
 </item>
 
-
-
 <item>
 <title>WWE ROYAL RUMBLE HQ REPLAY</title>
 <link>rtmp://watch.ilive.to:1935/edge playpath=w8qqitmaly6izv6 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.jpg</thumbnail>
-</item>
-
-
-
-
-
-<item>
-<title>WWE Royal Rumble 2014 Replay</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=t1k06h8595njj7z swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf41</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.jpg</thumbnail>
 </item>
 
