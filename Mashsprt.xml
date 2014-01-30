@@ -53,7 +53,7 @@
 
 <item>
 <title>Motors TV</title>
-<link>rtmp://50.23.239.11/stream playpath=motorstv300?id=113556 Conn=S:OK swfUrl>http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/embedplayer/motorstv300/1/600/440</link>
+<link>rtmp://50.23.239.11/stream playpath=motorstv300?id=113556 Conn=S:OK swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/embedplayer/motorstv300/1/600/440</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
 </item>
 
