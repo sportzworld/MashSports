@@ -256,16 +256,7 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
 </item>
 
-<item>
-<title>Boxing/UFC</title>
-<link>
- <sublink>rtmp://31.220.0.103:1935/live playpath=c7 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embeds.php?live=c7&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv01/mogulus-user-files/chmmabaytv/2010/07/30/180897d0-f8db-4927-bd87-619df505d859 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?autoPlay=true&jsEnabled=false&iconColor=0x777777&color=0xe7e7e7&mute=false&iconColorOver=0x888888 pageUrl=http://www.nowwatchtvlive.com/channel-tab-frame/mmatv-1.php token=#atd%#$ZH</sublink>
- <sublink>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv05/mogulus-user-files/chmmabaytv/2010/09/26/41e6fa45-22d3-47ec-b0a2-f286304f0415 Conn=S:OK swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://www.stream2watch.me/showstream.php?id=33671&stream=1</sublink>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=esmftmxlqsm9f3s swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf</sublink>
-</link>
-<thumbnail>http://ncplus.pl/~/media/N/NPL/Kanaly/Logo/fightBOX.png?bc=White&w=595</thumbnail>
-</item>
+
 
 <item>
 <title>NHL Games Today (SD)</title>
