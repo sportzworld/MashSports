@@ -191,7 +191,7 @@
 <item>
 <title>BT Sports 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://akamai.kbps.tv:1935/livebplaypath=beeti1?8265c=ea112d5a11f78c3eca7bfdd8eb7c4079 swfUrl=http://www.vidembed.com/jl/player.swf pageUrl=http://www.vidembed.com/embed.php?s=beeti1&width=600&height=400&domain=desistreams.tv live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.82:1935/live playpath=bt1sss swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1sss&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>http://93.120.27.78:1935/live/bt121m/stv39.m3u8</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
@@ -200,7 +200,7 @@
 <item>
 <title>BT Sports 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.134:1935/live playpath=bt2x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt2x&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.134:1935/live playpath=btt22 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=btt22&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.133:1935/live playpath=bt2x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?</sublink>
  </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
