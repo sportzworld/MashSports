@@ -65,11 +65,7 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.jpg</thumbnail>
 </item>
 
-<item>
-<title>WWE Wrestlemania Marathon 1-30</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=mo4o5j4bnux9kmz swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf41</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.jpg</thumbnail>
-</item>
+
 
 
 
@@ -93,7 +89,7 @@
 
 <item>
 <title>Spike TV</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=sax2mq2alpirnww swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf41</link>
+<link>rtmp://watch.ilive.to:1935/edge playpath=sax2mq2alpirnww swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/spike_tv.jpg</thumbnail>
 </item>
 
