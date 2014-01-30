@@ -40,7 +40,7 @@
 
 <item>
 <title>Motors TV</title>
-<link>rtmp://174.36.251.140/live playpath=komotorstv?id=62009 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/komotorstv/1/600/450 token=#atd%#$ZH</link>
+<link>rtmp://46.23.67.68/live playpath=komotorstv?id=62009 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/komotorstv/1/600/440 token=#atd%#$ZH</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
 </item>
 
