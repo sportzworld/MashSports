@@ -90,7 +90,7 @@
 
 <item>
 <title>Fox Sports </title>
-<link>rtmp://akamai.kbps.tv:1935/live playpath=foxsp?2f60e=3d1dcae3421a51e359ab740de34855d7 swfUrl=http://www.vidembed.com/jl/player.swf pageUrl=http://www.vidembed.com/embed.php?s=dshqtv8&width=600&height=430&domain=desistreams.tv live=1 timeout=10</link>
+<link>rtmp://akamai.kbps.tv:1935/live playpath=foxsp?2f60e=3d1dcae3421a51e359ab740de34855d7 swfUrl=http://www.vidembed.com/jl/player.swf pageUrl=http://www.vidembed.com/embed.php?s=dshqtv8&width=600&height=430&domain=desistreams.tv token=#atd%#$ZH</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_sports.jpg</thumbnail>
 </item>
 
