@@ -52,7 +52,7 @@
 <item>
 <title>Boxing/Ufc</title>
 <link>
- <sublink>rtmp://37.220.32.56:443/liverepeater playpath=20723 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player6.php?id=20723&width=640&height=460 token=#atd%#$ZH</sublink>
+ <sublink>rtmp://watch.ilive.to:1935/edge playpath=k7ekdvf1xt4pym9 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h3</sublink>
  <sublink>rtmp://37.220.32.56:443/liverepeater playpath=13903 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player6.php?id=13903&width=640&height=460 token=#atd%#$ZH</sublink>
 </link>
 <thumbnail>http://ncplus.pl/~/media/N/NPL/Kanaly/Logo/fightBOX.png?bc=White&w=595</thumbnail>
@@ -92,7 +92,7 @@
 
 <item>
 <title>CNN</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=pevmm1onhjyufpg swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h</link>
+<link>rtmp://watch.ilive.to:1935/edge playpath=rjxo8hz17q9waiq swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h3</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cnn_usa.jpg</thumbnail>
 </item>
 
@@ -122,7 +122,7 @@
 
 <item>
 <title>Golf channel live</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=ts6w24dx29tcwi4 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h</link>
+<link>rtmp://watch.ilive.to:1935/edge playpath=ts6w24dx29tcwi4 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h3</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/golf_channel_us.jpg</thumbnail>
 </item>
 
