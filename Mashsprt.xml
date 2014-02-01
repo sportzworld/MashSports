@@ -53,7 +53,7 @@
 <title>Boxing/Ufc</title>
 <link>
  <sublink>rtmp://31.220.0.133:1935/live playpath=c7 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embeds.php?live=c7&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://37.220.32.56:443/liverepeater playpath=13903 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player6.php?id=13903&width=640&height=460 token=#atd%#$ZH</sublink>
+ <sublink>rtmp://159.253.145.184:443/liverepeater playpath=stream25 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream25.html token=#atd%#$ZH</sublink>
 </link>
 <thumbnail>http://ncplus.pl/~/media/N/NPL/Kanaly/Logo/fightBOX.png?bc=White&w=595</thumbnail>
 </item>
