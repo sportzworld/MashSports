@@ -230,7 +230,7 @@
 <item>
 <title>Eurosport 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://94.242.228.21:80/liverepeater playpath=137997 Conn=S:OK swfUrl=http://cdn.goodcast.pw/players.swf pageUrl=http://goodcast.pw/stream.php?id=137997&width=620&height=490&stretching=</sublink>
+ <sublink>rtmp://94.242.228.160:80/liverepeater playpath=137997 Conn=S:OK swfUrl=http://cdn.goodcast.pw/players.swf pageUrl=http://goodcast.pw/stream.php?id=137997&width=620&height=490&stretching=</sublink>
  <sublink>http://85.112.113.83:81/udp/239.77.0.44:1234VCX7</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
