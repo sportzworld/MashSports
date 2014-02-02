@@ -35,6 +35,12 @@
 <title>Big Ten Network</title>
 <link>http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/big_ten_network.jpg</thumbnail>
+</item> 
+
+<item>
+<title>UFC 169 Replay HD</title>
+<link>rtmp://watch.ilive.to:1935/edge playpath=79pkdk577cwpq7m swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h3</link>
+<thumbnail> </thumbnail>
 </item>
 
 <item>
@@ -50,7 +56,7 @@
 </item>
 
 <item>
-<title>Boxing/Ufc</title>
+<title>Boxing</title>
 <link>
  <sublink>http://spi-live.ercdn.net/spi/smil:fightboxhd_0.smil/bayash.m3u8</sublink>
  <sublink>rtmp://159.253.145.184:443/liverepeater playpath=stream25 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream25.html token=#atd%#$ZH</sublink>
@@ -196,7 +202,7 @@
 <item>
 <title>Sky Sports News [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=yhwp88mxgt0m38g swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h</sublink>
+ <sublink>rtmp://37.220.36.69:443/liverepeater playpath=23701 Conn=S:OK swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player6.php?id=23701&width=640&height=460</sublink>
  <sublink>rtmp://31.220.0.133:1935/live playpath=ssncs swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ssncs&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink></sublink>
 </link>
@@ -224,7 +230,7 @@
 <item>
 <title>Eurosport 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.133:1935/live playpath=euro11osjos swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=euro11osjos&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://94.242.228.21:80/liverepeater playpath=137997 Conn=S:OK swfUrl=http://cdn.goodcast.pw/players.swf pageUrl=http://goodcast.pw/stream.php?id=137997&width=620&height=490&stretching=</sublink>
  <sublink>http://85.112.113.83:81/udp/239.77.0.44:1234VCX7</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
