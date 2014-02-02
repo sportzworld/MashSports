@@ -212,7 +212,7 @@
 <item>
 <title>BT Sports 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.86:1935/live playpath=bt111 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=bt111&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.133:1935/live playpath=c12 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=c12&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>http://93.120.27.78:1935/live/bt121m/stv39.m3u8</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
@@ -259,7 +259,7 @@
 
 <item>
 <title>Sportsnet World</title>
-<link>rtmp://31.220.0.134:1935/live playpath=dsee swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtmp://31.220.0.103:1935/live playpath=setca swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=setca&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.bbl.org.uk/typo3temp/pics/94d57ff654.png</thumbnail>
 </item>
 
