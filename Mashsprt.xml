@@ -221,7 +221,7 @@
 <item>
 <title>BT Sports 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.133:1935/live playpath=c12 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=c12&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.82:1935/live playpath=bt1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>http://93.120.27.78:1935/live/bt121m/stv39.m3u8</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
@@ -230,7 +230,7 @@
 <item>
 <title>BT Sports 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.133:1935/live playpath=c11 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=c11&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.104:1935/live playpath=bt2s swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt2s&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.133:1935/live playpath=bt2x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?</sublink>
  </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
