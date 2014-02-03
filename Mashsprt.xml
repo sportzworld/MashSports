@@ -37,6 +37,11 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/big_ten_network.jpg</thumbnail>
 </item> 
 
+<item>
+<title>Super.Bowl.XLVIII.Bruno.Mars.Halftime.Show</title>
+<link>rtmp://31.220.0.103:1935/live playpath=hxk swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=hxk&vw=620&vh=490 live=1 timeout=10</link>
+<thumbnail> </thumbnail>
+</item>
 
 
 <item>
