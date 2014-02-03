@@ -14,7 +14,7 @@
 </info>
 
 <info>
-<message>[COLOR blue]Nhl games in pst Feb 2[/COLOR][COLOR yellow]9:30 a.m NHL: Wings @ Capitols link 1 [/COLOR][COLOR green] 10:00 a.m NHL: Jets @ Canadiens link 2 [/COLOR]</message>
+<message>[COLOR blue]Nhl games in pst Feb 3 [/COLOR][COLOR yellow] 4:00 p.m NHL: Oilers @ Sabres link 1 [/COLOR][COLOR green] 4:00 NHL: Senators @ Penquins link 2 [/COLOR][COLOR yellow] 4:30 NHL: Canucks @ Wings link 3 [/COLOR][COLOR green] 4:30 NHL: Avalanche @ Devils link 4 [/COLOR][COLOR yellow] 7:00 NHL: Jackets @ Ducks link 5 [/COLOR][COLOR green] 7:30 NHL: Hawks @ Kings link 6 [/COLOR][COLOR yellow] 7:30 Flyers @ Sharks link 7 [/COLOR]</message>
 <thumbnail>http://dnalloheoj.com/nhl/log.txt</thumbnail>
 </info>
 
@@ -319,22 +319,7 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
 </item>
 
-<item>
-<title>NHL Games Today HD </title>
-<link>
- <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/bluejackets/as/live/bluejackets_hd_3000.m3u8|User-Agent=iTunes-AppleTV/4.1</sublink>
- <sublink>http://nlds139.cdnak.neulion.com/nlds/nhl/bruins/as/live/bruins_hd_3000.m3u8|User-Agent=iTunes-AppleTV/4.1</sublink>
- <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_3000.m3u8|User-Agent=iTunes-AppleTV/4.1</sublink>
- <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/bluejackets/as/live/bluejackets_hd_3000.m3u8</sublink>
- <sublink>http://nlds123.cdnak.neulion.com/nlds/nhl/canucks/as/live/canucks_hd_3000.m3u8</sublink>
- <sublink>http://nlds3.cdnak.neulion.com/nlds/nhl/sharks/as/live/sharks_hd_3000.m3u8</sublink>
- <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/jets/as/live/jets_hd_3000.m3u8</sublink>
- <sublink>http://nlds142.cdnak.neulion.com/nlds/nhl/stars/as/live/stars_hd_3000.m3u8</sublink>
- <sublink>http://nlds3.cdnak.neulion.com/nlds/nhl/kings/as/live/kings_hd_3000.m3u8</sublink>
- <sublink>http://nlds89.cdnak.neulion.com/nlds/nhl/sharks/as/live/sharks_hd_3000.m3u8</sublink>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
-</item>
+
 
 <item>
 <title>Extreme Sports</title>
