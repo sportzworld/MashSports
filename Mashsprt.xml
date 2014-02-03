@@ -246,7 +246,7 @@
 <item>
 <title>Eurosport 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://159.253.149.21/shqstream/ playpath=oatchocm534utygc?keys=KVOdTvTiiRBxRqx_wPBebw&keyt=1391402720 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=oatchocm534utygc&width=600&height=500 live=true</sublink>
+ <sublink>rtmp://159.253.149.21/shqstream/ playpath=oatchocm534utygc?keys=KVOdTvTiiRBxRqx_wPBebw&keyt=1391402720 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=oatchocm534utygc&width=600&height=500 live=1 timeout=10</sublink>
  <sublink>http://85.112.113.83:81/udp/239.77.0.44:1234VCX7</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
