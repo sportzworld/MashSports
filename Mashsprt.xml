@@ -239,7 +239,7 @@
 <item>
 <title>Eurosport 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://159.253.149.21/shqstream/ playpath=oatchocm534utygc?keys=KVOdTvTiiRBxRqx_wPBebw&keyt=1391402720 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf pageUrl=http://hqstream.tv/player.php?streampage=oatchocm534utygc&width=600&height=500 live=1 timeout=10</sublink>
+ <sublink>rtmp://173.192.58.35/live playpath=194344?313339313439333831325f6632633039356666376331363737386436626139616366623265323164346135 Conn=S:OK swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=20267&wh=620&ht=490&r=cricfree.tv</sublink>
  <sublink>rtmp://128.204.202.35:80/liverepeater app=liverepeater playpath=137997 token=Fo5_n0w?U.rA6l3-70w47ch swfUrl=http://cdn.goodcast.pw/players.swf pageUrl=http://goodcast.pw/stream.php?id=137997&width=620&height=490&stretching swfVfy=true live=true timeout=15</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
