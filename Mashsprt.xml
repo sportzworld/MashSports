@@ -309,7 +309,7 @@
 <item>
 <title>NHL Games Today (SD)</title>
 <link>
- <sublink>rtmp://173.193.48.189:443/liverepeater playpath=5 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=5&width=640&height=460 token=#atd%#$ZH</sublink>
+ <sublink>http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2014/02/04/852/2_852_dal_phx_1314_h_whole_1_androidtab.mp4.m3u8|User-Agent=NeulionMediaCore</sublink>
  <sublink>rtmp://50.23.239.3:443/liverepeater playpath=7 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=7&width=640&height=460 token=#atd%#$ZH</sublink>
  <sublink>rtmp://174.36.251.132:443/liverepeater playpath=36 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=36&width=640&height=460 token=#atd%#$ZH</sublink>
  <sublink>rtmp://174.36.251.133:443/liverepeater playpath=9 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=9&width=640&height=460 token=#atd%#$ZH</sublink>
