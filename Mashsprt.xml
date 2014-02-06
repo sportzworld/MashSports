@@ -19,7 +19,7 @@
 </info>
 
 <info>
-<message>[COLOR orange]NHL...HD UP... NHL...SD UP...[/COLOR]</message>
+<message>[COLOR orange]NHL...HD Down... NHL...SD UP...[/COLOR]</message>
 <thumbnail> </thumbnail>
 </info>
 
@@ -327,9 +327,16 @@
 <item>
 <title>NHL HD Games Today( Gotham )</title>
 <link>
- <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/sabres/as/live/sabres_hd_3000_20140206003020_023156.mp4.m3u8|User-Agent={PS4 libhttp/1.60 (PlayStation 4)}}</sublink>
- <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/blackhawks/as/live/blackhawks_hd_3000_20140206030026_023816.mp4.m3u8|User-Agent={PS4 libhttp/1.60 (PlayStation 4)}}</sublink>
- <sublink>http://nlds49.cdnak.neulion.com/nlds/nhl/sharks/as/live/sharks_hd_3000_20140206033027_025048.mp4.m3u8|User-Agent={PS4 libhttp/1.60 (PlayStation 4)}}</sublink>
+ <sublink>|User-Agent={PS4 libhttp/1.60 (PlayStation 4)}}</sublink>
+ <sublink>|User-Agent={PS4 libhttp/1.60 (PlayStation 4)}}</sublink>
+ <sublink>|User-Agent={PS4 libhttp/1.60 (PlayStation 4)}}</sublink>
+ <sublink>|User-Agent={PS4 libhttp/1.60 (PlayStation 4)}}</sublink>
+ <sublink>|User-Agent={PS4 libhttp/1.60 (PlayStation 4)}}</sublink>
+ <sublink>|User-Agent={PS4 libhttp/1.60 (PlayStation 4)}}</sublink>
+ <sublink>|User-Agent={PS4 libhttp/1.60 (PlayStation 4)}}</sublink>
+ <sublink>|User-Agent={PS4 libhttp/1.60 (PlayStation 4)}}</sublink>
+ <sublink>|User-Agent={PS4 libhttp/1.60 (PlayStation 4)}}</sublink>
+ <sublink>|User-Agent={PS4 libhttp/1.60 (PlayStation 4)}}</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
 </item>
