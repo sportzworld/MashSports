@@ -19,7 +19,7 @@
 </info>
 
 <info>
-<message>[COLOR orange]NHL...HD DOWN... NHL...SD UP...[/COLOR]</message>
+<message>[COLOR orange]NHL...HD UP... NHL...SD UP...[/COLOR]</message>
 <thumbnail> </thumbnail>
 </info>
 
@@ -320,6 +320,16 @@
  <sublink>rtmp://173.192.81.179:443/liverepeater playpath=12 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=12&width=640&height=460 token=#atd%#$ZH</sublink>
  <sublink>rtmp://67.228.72.215:443/liverepeater playpath=stream11 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream11.html token=#atd%#$ZH</sublink>
   <sublink>rtmp://173.193.223.185:443/liverepeater playpath=stream13 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream13.html token=#atd%#$ZH</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
+</item>
+
+<item>
+<title>NHL HD Games Today( Gotham )</title>
+<link>
+ <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/sabres/as/live/sabres_hd_3000_20140206003020_023156.mp4.m3u8|User-Agent={PS4 libhttp/1.60 (PlayStation 4)}}</sublink>
+ <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/blackhawks/as/live/blackhawks_hd_3000_20140206030026_023816.mp4.m3u8|User-Agent={PS4 libhttp/1.60 (PlayStation 4)}}</sublink>
+ <sublink>http://nlds49.cdnak.neulion.com/nlds/nhl/sharks/as/live/sharks_hd_3000_20140206033027_025048.mp4.m3u8|User-Agent={PS4 libhttp/1.60 (PlayStation 4)}}</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
 </item>
