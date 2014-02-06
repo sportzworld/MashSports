@@ -280,7 +280,7 @@
 <item>
 <title>NHL Network</title>
 <link>
- <sublink>rtmp://37.220.36.69:443/liverepeater playpath=19341 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream18.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://37.220.32.44:443/liverepeater playpath=19341 Conn=S:OK swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player6.php?id=19341&width=640&height=460</sublink>
  <sublink>rtmp://37.220.36.69:443/liverepeater playpath=19341 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream18.html token=#atd%#$ZH</sublink>
  </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nhl_network.png</thumbnail>
