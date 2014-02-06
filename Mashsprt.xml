@@ -344,8 +344,8 @@
 <item>
 <title>NHL HD Games Today( Gotham )</title>
 <link>
- <sublink>|User-Agent={PS4 libhttp/1.60 (PlayStation 4)}}</sublink>
- <sublink>|User-Agent={PS4 libhttp/1.60 (PlayStation 4)}}</sublink>
+ <sublink>http://nlds145.cdnak.neulion.com/nlds/nhl/flames/as/live/flames_hd_3000.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
+ <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/oilers/as/live/oilers_hd_3000.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
  <sublink>|User-Agent={PS4 libhttp/1.60 (PlayStation 4)}}</sublink>
  <sublink>|User-Agent={PS4 libhttp/1.60 (PlayStation 4)}}</sublink>
  <sublink>|User-Agent={PS4 libhttp/1.60 (PlayStation 4)}}</sublink>
