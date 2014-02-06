@@ -44,7 +44,7 @@
 
 <item>
 <title>CNBC</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=9umfgmr90uea60x swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h3</link>
+<link>rtmp://watch.ilive.to/edge playpath=9umfgmr90uea60x swfUrl=http://www.ilive.to/player/player_ilive_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=650&height=460&channel=55015&autoplay=true token=abc109h3</link>
 <thumbnail> </thumbnail>
 </item>
 
