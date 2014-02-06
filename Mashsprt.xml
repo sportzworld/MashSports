@@ -42,6 +42,18 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/big_ten_network.jpg</thumbnail>
 </item> 
 
+<item>
+<title>CNBC</title>
+<link>rtmp://watch.ilive.to:1935/edge playpath=9umfgmr90uea60x swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h3</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>MSNBC</title>
+<link>rtmp://watch.ilive.to:1935/edge playpath=1341ujtliqndod8 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h3</link>
+<thumbnail> </thumbnail>
+</item>
+
 
 
 <item>
