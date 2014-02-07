@@ -46,13 +46,13 @@
 
 <item>
 <title>CNBC</title>
-<link>rtmp://watch.ilive.to/edge playpath=9umfgmr90uea60x swfUrl=http://www.ilive.to/player/player_ilive_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=650&height=460&channel=55015&autoplay=true token=abc109h3</link>
+<link>rtmp://watch.ilive.to:1935/edge playpath=9umfgmr90uea60x swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h34</link>
 <thumbnail> </thumbnail>
 </item>
 
 <item>
 <title>MSNBC</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=1341ujtliqndod8 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h3</link>
+<link>rtmp://watch.ilive.to:1935/edge playpath=1341ujtliqndod8 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h34</link>
 <thumbnail> </thumbnail>
 </item>
 
@@ -101,7 +101,7 @@
 
 <item>
 <title>Discovery Turbo</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=2p5kj6nrpp59542 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h3</link>
+<link>rtmp://watch.ilive.to:1935/edge playpath=2p5kj6nrpp59542 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h34</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_lam.png</thumbnail>
 </item>
 
@@ -126,7 +126,7 @@
 
 <item>
 <title>CNN</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=rjxo8hz17q9waiq swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h3</link>
+<link>rtmp://watch.ilive.to:1935/edge playpath=rjxo8hz17q9waiq swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h34</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cnn_usa.jpg</thumbnail>
 </item>
 
@@ -138,25 +138,25 @@
 
 <item>
 <title>Spike TV</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=sax2mq2alpirnww swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h3</link>
+<link>rtmp://watch.ilive.to:1935/edge playpath=sax2mq2alpirnww swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h34</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/spike_tv.jpg</thumbnail>
 </item>
 
 <item>
 <title>NBC sports</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=30sbtmyelnevr80 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h3</link>
+<link>rtmp://watch.ilive.to:1935/edge playpath=n1lamk97wjar77f swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h34</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nbc_sports_network.jpg</thumbnail>
 </item>
 
 <item>
 <title>Fox Sports </title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=3e4nsnv1h8indfu swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h3</link>
+<link>rtmp://watch.ilive.to:1935/edge playpath=3e4nsnv1h8indfu swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h34</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_sports.jpg</thumbnail>
 </item>
 
 <item>
 <title>Golf channel live</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=ts6w24dx29tcwi4 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h3</link>
+<link>rtmp://watch.ilive.to:1935/edge playpath=ts6w24dx29tcwi4 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h34</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/golf_channel_us.jpg</thumbnail>
 </item>
 
@@ -365,7 +365,7 @@
 
 <item>
 <title>ESPN 2</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=du97agywg74nbys swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h3</link>
+<link>rtmp://watch.ilive.to:1935/edge playpath=a1arnrw179ccpqd swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h34</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_2.jpg</thumbnail>
 </item>
 
