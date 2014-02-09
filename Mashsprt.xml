@@ -119,7 +119,7 @@
 
 <item>
 <title>Motors TV</title>
-<link>rtmp://50.22.223.51/live playpath=motorstvyy?id=62450 Conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/motorstvyy/1/600/440</link>
+<link> http://50.7.212.138:1000/udp/239.10.10.2:13713</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
 </item>
 
@@ -195,7 +195,7 @@
 <item>
 <title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://37.220.32.50:443/liverepeater playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player6.php?id=23697&width=640&height=460 token=#atd%#$ZH</sublink>
+ <sublink>http://50.7.212.138:1000/udp/239.10.10.4:13713</sublink>
  <sublink>rtmp://37.220.32.55:443/liverepeater playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player6.php?id=23697&width=640&height=460 token=#atd%#$ZH</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
@@ -213,7 +213,7 @@
 <item>
 <title>SKY SPORTS 3 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.134:1935/live playpath=ss3x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss3x&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>http://50.7.212.138:1000/udp/239.10.10.7:13713</sublink>
  <sublink>rtmp://37.220.36.70:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports3.jpg</thumbnail>
@@ -251,7 +251,7 @@
 <item>
 <title>BT Sports 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.133:1935/live playpath=bt1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>http://50.7.212.138:1000/udp/239.10.10.12:13713</sublink>
  <sublink>http://93.120.27.78:1935/live/bt121m/stv39.m3u8</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
@@ -261,7 +261,7 @@
 <title>BT Sports 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://31.220.0.82:1935/live playpath=bt2s swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt2s&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.133:1935/live playpath=bt2x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?</sublink>
+ <sublink> http://50.7.212.138:1000/udp/239.10.10.14:13713</sublink>
  </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
 </item>
