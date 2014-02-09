@@ -330,9 +330,9 @@
  <sublink>rtmp://174.36.42.89:443/liverepeater playpath=13 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=13&width=640&height=460 token=#atd%#$ZH</sublink>
  <sublink>rtmp://46.23.67.10:443/liverepeater playpath=11 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=11&width=640&height=460 token=#atd%#$ZH</sublink>
  <sublink>rtmp://67.228.177.165:443/liverepeater playpath=12 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=12&width=640&height=460 token=#atd%#$ZH</sublink>
- <sublink>rtmp://173.193.227.101:443/liverepeater playpath=5 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=5&width=640&height=460 token=#atd%#$ZH</sublink>
- <sublink>rtmp://174.36.1.17:443/liverepeater playpath=9 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=9&width=640&height=460 token=#atd%#$ZH</sublink>
- <sublink>rtmp://146.185.25.186:443/liverepeater playpath=8 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=8&width=640&height=460 token=#atd%#$ZH</sublink>
+ <sublink>rtmp://173.192.70.174:443/liverepeater playpath=9 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=9&width=640&height=460 token=#atd%#$ZH</sublink>
+ <sublink>rtmp://174.36.251.133:443/liverepeater playpath=10 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=10&width=640&height=460 token=#atd%#$ZH</sublink>
+ <sublink>rtmp://173.192.70.176:443/liverepeater playpath=14 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=14&width=640&height=460 token=#atd%#$ZH</sublink>
  <sublink>rtmp://173.192.223.75:443/liverepeater playpath=11 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=11&width=640&height=460 token=#atd%#$ZH</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
@@ -348,9 +348,9 @@
  <sublink>http://nlds49.cdnak.neulion.com/nlds/nhl/canadiens/as/live/canadiens_hd_3000.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
  <sublink>http://nlds3.cdnak.neulion.com/nlds/nhl/redwings/as/live/redwings_hd_3000.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
  <sublink>http://nlds123.cdnak.neulion.com/nlds/nhl/avalanche/as/live/avalanche_hd_3000.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
- <sublink>http://nlds130.cdnak.neulion.com/nlds/nhl/panthers/as/live/panthers_hd_3000.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
- <sublink>http://nlds90.cdnak.neulion.com/nlds/nhl/blues/as/live/blues_hd_3000.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
- <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/oilers/as/live/oilers_hd_3000.m3u8</sublink>
+  <sublink>http://nlds125.cdnak.neulion.com/nlds/nhl/devils/as/live/devils_hd_3000.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
+ <sublink>http://nlds90.cdnak.neulion.com/nlds/nhl/ducks/as/live/ducks_hd_3000.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
+ <sublink>http://nlds129.cdnak.neulion.com/nlds/nhl/coyotes/as/live/coyotes_hd_3000.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
 </item>
