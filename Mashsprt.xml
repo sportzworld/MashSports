@@ -119,7 +119,7 @@
 
 <item>
 <title>Motors TV</title>
-<link> http://50.7.212.138:1000/udp/239.10.10.2:13713</link>
+<link>rtmp://46.28.53.38/live playpath=efmotorstvgirl?id=6978 Conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/efmotorstvgirl/1/600/440</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
 </item>
 
@@ -251,7 +251,7 @@
 <item>
 <title>BT Sports 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>http://50.7.212.138:1000/udp/239.10.10.12:13713</sublink>
+ <sublink>rtmp://31.220.0.104:1935/live playpath=bt1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>http://93.120.27.78:1935/live/bt121m/stv39.m3u8</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
