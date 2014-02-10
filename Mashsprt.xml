@@ -278,7 +278,7 @@
 
 <item>
 <title>Ten Sports</title>
-<link>rtmp://31.220.0.82:1935/live playpath=tens00 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=tens00&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtmp://31.220.0.133:1935/live playpath=tens00 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=tens00&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in.jpg</thumbnail>
 </item>
 
