@@ -271,7 +271,7 @@
 <title>Eurosport 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://31.220.0.134:1935/live playpath=eee2 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=eee2&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>http://85.112.113.83:81/udp/239.77.0.43:1234VCX7</sublink>
+ <sublink>http://62.176.99.49:5050/udp/239.255.0.2:5500</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
