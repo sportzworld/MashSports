@@ -210,7 +210,7 @@
 <title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://31.220.0.103:1935/live playpath=sss11xxx swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sss11xxx&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://37.220.32.55:443/liverepeater playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player6.php?id=23697&width=640&height=460 token=#atd%#$ZH</sublink>
+ <sublink>rtmp://37.220.32.54:443/liverepeater playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=23697&width=640&height=460 token=#atd%#$ZH</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
 </item>
