@@ -151,7 +151,7 @@
 
 <item>
 <title>Setanta Sports</title>
-<link>rtmp://31.220.0.82:1935/live playpath=c6 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=c6&vw=620&vh=490 token=#atd%#$ZH</link>
+<link>rtmp://31.220.0.82:1935/live playpath=setcaz swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=setcaz&vw=620&vh=490 token=#atd%#$ZH</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/setanta_sports1.jpg</thumbnail>
 </item>
 
