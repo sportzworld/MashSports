@@ -14,7 +14,7 @@
 </info>
 
 <info>
-<message>[COLOR orange]Click on Todays Sochi Hockey Schedule for game links and time in pst.[/COLOR]</message>
+<message>[COLOR orange]Sorry NO HD Hockey[/COLOR]</message>
 <thumbnail> </thumbnail>
 </info>
 
@@ -25,16 +25,9 @@
 <thumbnail> </thumbnail>
 </info>
 
-<info>
-<message>[COLOR aqua]Scroll down for seperate HD links for Sochi Mens Hockey (Gotham)[/COLOR]</message>
-<thumbnail> </thumbnail>
-</info>
 
-<popup>
-<name>[COLOR aqua]TODAY'S Sochi Mens Hockey  SCHEDULE[/COLOR]</name>
-<popImage>https://dl.dropboxusercontent.com/u/125248976/Sochie%20Hockey.PNG</popImage>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiLlwkFH5dXMdyq4XfmkoRFLpwiBNTifrujMOT4LN0UuRDU1i0jQ</thumbnail>
-</popup>
+
+
 
 
 
@@ -327,18 +320,6 @@
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
 </item>
-
-
-
-<item>
-<title>Sochi Mens Hockey HD (Gotham)</title>
-<link>
- <sublink>|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
- <sublink>|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
-</link>
-<thumbnail>http://artfulpuck.files.wordpress.com/2014/02/sochi-2014-logo.gif</thumbnail>
-</item>
-
 
 
 <item>
