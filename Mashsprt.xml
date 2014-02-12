@@ -14,14 +14,11 @@
 </info>
 
 <info>
-<message>[COLOR orange]Click on Todays NHL Schedule for game links and time in pst.[/COLOR]</message>
+<message>[COLOR orange]Click on Todays Sochi Hockey Schedule for game links and time in pst.[/COLOR]</message>
 <thumbnail> </thumbnail>
 </info>
 
-<info>
-<message>[COLOR red]NH...HD..UP    NHL...SD..UP[/COLOR]</message>
-<thumbnail> </thumbnail>
-</info>
+
 
 <info>
 <message>[COLOR orange]Olympics links and schedule go to mashupxbmc.com / mashsports section[/COLOR]</message>
@@ -31,9 +28,9 @@
 
 
 <popup>
-<name>[COLOR aqua]TODAY'S NHL SCHEDULE[/COLOR]</name>
-<popImage>https://dl.dropboxusercontent.com/u/125248976/NHL%20Schedule.PNG</popImage>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/e/e4/NHL_Logo_former.svg/247px-NHL_Logo_former.svg.png</thumbnail>
+<name>[COLOR aqua]TODAY'S Sochi Mens Hockey  SCHEDULE[/COLOR]</name>
+<popImage>https://dl.dropboxusercontent.com/u/125248976/Sochie%20Hockey.PNG</popImage>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiLlwkFH5dXMdyq4XfmkoRFLpwiBNTifrujMOT4LN0UuRDU1i0jQ</thumbnail>
 </popup>
 
 
@@ -331,38 +328,12 @@
 
 
 <item>
-<title>NHL Games Today (SD)</title>
+<title>Sochi Mens Hockey HD (Gotham)</title>
 <link>
- <sublink>rtmp://173.192.222.195:443/liverepeater playpath=23 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=23&width=640&height=460 token=#atd%#$ZH</sublink>
- <sublink>rtmp://46.28.53.6:443/liverepeater playpath=24 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=24&width=640&height=460 token=#atd%#$ZH</sublink>
- <sublink>rtmp://67.228.72.215:443/liverepeater playpath=22 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=22&width=640&height=460 token=#atd%#$ZH</sublink>
- <sublink>rtmp://159.253.145.135:443/liverepeater playpath=15 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=15&width=640&height=460 token=#atd%#$ZH</sublink>
- <sublink>rtmp://174.36.42.89:443/liverepeater playpath=13 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=13&width=640&height=460 token=#atd%#$ZH</sublink>
- <sublink>rtmp://46.23.67.10:443/liverepeater playpath=11 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=11&width=640&height=460 token=#atd%#$ZH</sublink>
- <sublink>rtmp://67.228.177.165:443/liverepeater playpath=12 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=12&width=640&height=460 token=#atd%#$ZH</sublink>
- <sublink>rtmp://173.192.70.174:443/liverepeater playpath=9 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=9&width=640&height=460 token=#atd%#$ZH</sublink>
- <sublink>rtmp://174.36.251.133:443/liverepeater playpath=10 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=10&width=640&height=460 token=#atd%#$ZH</sublink>
- <sublink>rtmp://173.192.70.176:443/liverepeater playpath=14 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=14&width=640&height=460 token=#atd%#$ZH</sublink>
- <sublink>rtmp://173.192.223.75:443/liverepeater playpath=11 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=11&width=640&height=460 token=#atd%#$ZH</sublink>
+ <sublink>|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
+ <sublink>|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
 </link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
-</item>
-
-<item>
-<title>NHL HD Games Today( Gotham )</title>
-<link>
- <sublink>http://nlds145.cdnak.neulion.com/nlds/nhl/flames/as/live/flames_hd_3000.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
- <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/jets/as/live/jets_hd_3000.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
- <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/senators/as/live/senators_hd_3000.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
-<sublink>http://nlds142.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_3000.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
- <sublink>http://nlds49.cdnak.neulion.com/nlds/nhl/canadiens/as/live/canadiens_hd_3000.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
- <sublink>http://nlds3.cdnak.neulion.com/nlds/nhl/redwings/as/live/redwings_hd_3000.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
- <sublink>http://nlds123.cdnak.neulion.com/nlds/nhl/avalanche/as/live/avalanche_hd_3000.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
-  <sublink>http://nlds125.cdnak.neulion.com/nlds/nhl/devils/as/live/devils_hd_3000.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
- <sublink>http://nlds90.cdnak.neulion.com/nlds/nhl/ducks/as/live/ducks_hd_3000.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
- <sublink>http://nlds129.cdnak.neulion.com/nlds/nhl/coyotes/as/live/coyotes_hd_3000.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
+<thumbnail>http://artfulpuck.files.wordpress.com/2014/02/sochi-2014-logo.gif</thumbnail>
 </item>
 
 
