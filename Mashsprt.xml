@@ -59,6 +59,7 @@
  <sublink>rtmp://31.220.0.103:1935/live playpath=c8 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=c8&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.133:1935/live playpath=c12 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=c12&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.134:1935/live playpath=euro1hmm swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=euro1hmm&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.82:1935/live playpath=c10 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embeds.php?live=c10&vw=620&vh=490 live=1 timeout=10</sublink>
 <thumbnail>http://idsgn.org/images/rumor-mill-2014-olympic-games-logo-revealed/sochi__full.png</thumbnail>
  </item>
 
