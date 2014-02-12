@@ -233,7 +233,7 @@
 <item>
 <title>Sky Sports News [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.103:1935/live playpath=ssnt swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ssnt&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://37.220.32.44:443/liverepeater playpath=23701 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=23701&width=700&height=500 token=#atd%#$ZH</sublink>
  <sublink>rtmpe://46.246.124.23:1935/redirect playpath=ban20 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
  <sublink></sublink>
 </link>
