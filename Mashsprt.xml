@@ -19,11 +19,7 @@
 <thumbnail> </thumbnail>
 </info>
 
-<popup>
-<name>[COLOR aqua]Click here for. TODAY'S Sochi Schedule (Check local area for game times)[/COLOR]</name>
-<popImage>https://dl.dropboxusercontent.com/u/125248976/Sochi%20schedule.PNG</popImage>
-<thumbnail>http://media.cmgdigital.com/shared/img/photos/2014/02/06/da/6b/Sochi2014.jpg</thumbnail>
-</popup>
+
 
 
 
@@ -40,20 +36,7 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/big_ten_network.jpg</thumbnail>
 </item> 
 
-<item>
-<title> Sochi 2014 [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
- <sublink>rtmp://37.220.32.55:443/liverepeater playpath=20826 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20826&width=700&height=500 token=#atd%#$ZH</sublink>
- <sublink>rtmp://37.220.32.50:443/liverepeater playpath=13903 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=13903&width=700&height=500 token=#atd%#$ZH</sublink>
- <sublink>rtmp://37.220.32.50:443/liverepeater playpath=13877 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=13877&width=700&height=500 token=#atd%#$ZH</sublink>
- <sublink>rtmp://37.220.32.56:443/liverepeater playpath=20827 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20827&width=700&height=500 token=#atd%#$ZH</sublink>
- <sublink>rtmp://37.220.36.18:443/liverepeater playpath=20829 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20829&width=700&height=500 token=#atd%#$ZH</sublink>
- <sublink>rtmp://37.220.36.18:443/liverepeater playpath=20830 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20830&width=700&height=500 token=#atd%#$ZH</sublink>
- <sublink>rtmp://37.220.32.54:443/liverepeater playpath=19337 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=19337&width=700&height=500 token=#atd%#$ZH</sublink>
- <sublink>rtmp://37.220.34.61:443/liverepeater playpath=20831 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20831&width=700&height=500 token=#atd%#$ZH</sublink>
- <sublink>rtmp://37.220.36.71:443/liverepeater playpath=20833 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20833&width=700&height=500 token=#atd%#$ZH</sublink>
-<thumbnail>http://idsgn.org/images/rumor-mill-2014-olympic-games-logo-revealed/sochi__full.png</thumbnail>
- </item>
+
 
 <item>
 <title>CNBC</title>
