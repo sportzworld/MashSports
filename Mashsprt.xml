@@ -226,7 +226,7 @@
 <title>BT Sports 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmpe://46.246.124.23:1935/redirect playpath=janu6 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=streamhdking1103&vw=640&vh=380&domain=streamhd.eu timeout=10</sublink>
- <sublink>rtmpe://play.finecast.tv/live/hqbt1 pageUrl=http://www.finecast.tv/</sublink>
+ <sublink>rtmpe://46.246.124.14:1935/redirect playpath=BT1HD swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
 </item>
@@ -235,7 +235,7 @@
 <title>BT Sports 2 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmpe://play.finecast.tv/live playpath=hqbt2 swfUrl=http://www.finecast.tv/player/player.swf pageUrl=http://www.finecast.tv/embed.php?u=hqbt1&vw=600&vh=400 live=true timeout=10</sublink>
- <sublink>rtmpe://play.finecast.tv/live/hqbt2 pageUrl=http://www.finecast.tv/</sublink>
+ <sublink>rtmpe://46.246.124.11:1935/redirect playpath=BT2HD swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
  </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
 </item>
