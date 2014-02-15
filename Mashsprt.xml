@@ -107,6 +107,12 @@
 </item>
 
 <item>
+<title>Racing UK</title>
+<link>rtmp://94.242.228.160:80/liverepeater playpath=139945 swfUrl=http://cdn.goodcast.pw/players.swf pageUrl=http://goodcast.pw/stream.php?id=139945&width=700&height=500&stretching= token=#atd%#$ZH</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/racing_uk.png</thumbnail>
+</item>
+
+<item>
 <title>CNN</title>
 <link>rtmp://watch.ilive.to/edge playpath=rjxo8hz17q9waiq swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/view/46461/CNN-live-stream-channel token=abc109h34</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cnn_usa.jpg</thumbnail>
