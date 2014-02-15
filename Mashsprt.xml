@@ -35,6 +35,19 @@
 
 
 <item>
+<title> Sochi 2014 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://31.220.0.133:1935/live playpath=c9 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embeds.php?live=c9&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.133:1935/live playpath=c10 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embeds.php?live=c10&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.82:1935/live playpath=c8 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=c8&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.134:1935/live playpath=ontario swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ontario&vw=620&vh=490 live=1 timeout=10 </sublink>
+ <sublink>rtmp://31.220.0.82:1935/live playpath=snone swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=snone&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.82:1935/live playpath=c11 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=c11&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.82:1935/live playpath=c12 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=c12&vw=620&vh=490 live=1 timeout=10</sublink>
+<thumbnail>http://media.cmgdigital.com/shared/img/photos/2014/02/06/da/6b/Sochi2014.jpg</thumbnail>
+</item> 
+
+<item>
 <title>Big Ten Network</title>
 <link>http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/big_ten_network.jpg</thumbnail>
@@ -297,18 +310,7 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
 </item>
 
-<item>
-<title> Sochi 2014 [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
- <sublink>rtmp://31.220.0.133:1935/live playpath=c9 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embeds.php?live=c9&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.133:1935/live playpath=c10 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embeds.php?live=c10&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.82:1935/live playpath=c8 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=c8&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.134:1935/live playpath=ontario swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ontario&vw=620&vh=490 live=1 timeout=10 </sublink>
- <sublink>rtmp://31.220.0.82:1935/live playpath=snone swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=snone&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.82:1935/live playpath=c11 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=c11&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.82:1935/live playpath=c12 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=c12&vw=620&vh=490 live=1 timeout=10</sublink>
-<thumbnail>http://media.cmgdigital.com/shared/img/photos/2014/02/06/da/6b/Sochi2014.jpg</thumbnail>
-</item> 
+
 
 
 
