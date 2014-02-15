@@ -62,13 +62,13 @@
 <item>
 <title>MSNBC</title>
 <link>rtmp://watch.ilive.to:1935/edge playpath=1341ujtliqndod8 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=abc109h34</link>
-<thumbnail> </thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Racing UK</title>
 <link>rtmp://37.220.36.69:443/liverepeater playpath=20719 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20719&width=700&height=500 token=#atd%#$ZH</link>
-<thumbnail> </thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 
