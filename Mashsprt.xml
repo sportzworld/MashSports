@@ -310,6 +310,12 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
 </item>
 
+<item>
+<title>Fox Sports Plus</title>
+<link>rtmp://27.254.84.3:1935/live/ftrtgd.stream</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_it_plus.png</thumbnail>
+</item>
+
 
 
 
