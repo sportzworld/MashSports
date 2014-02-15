@@ -108,7 +108,7 @@
 
 <item>
 <title>Racing UK</title>
-<link>rtmp://94.242.228.160:80/liverepeater playpath=139945 swfUrl=http://cdn.goodcast.pw/players.swf pageUrl=http://goodcast.pw/stream.php?id=139945&width=700&height=500&stretching= token=#atd%#$ZH</link>
+<link>rtmp://31.220.0.134:1935/live playpath=esss1 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=esss1&vw=620&vh=490</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/racing_uk.png</thumbnail>
 </item>
 
