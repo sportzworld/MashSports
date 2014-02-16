@@ -53,7 +53,7 @@
 </item>
 
 <item>
-<title>Nascar</title>
+<title>Fox Sports 1</title>
 <link>rtmp://173.193.32.166/live playpath=$doregex[url] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=19208&amp;wh=640&amp;ht=480&amp;r=live9.net live=true timeout=15
 <regex>
 <name>url</name>
@@ -62,6 +62,7 @@
 <referer>http://live9.net/ch37.htm</referer>
 </regex>
 </link>
+<thumbnail>http://gaia.adage.com/images/bin/image/x-large/fox_sports_1_logo_3x2.jpg</thumbnail>
 </item>
 
 <item>
