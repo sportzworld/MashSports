@@ -229,7 +229,7 @@
 
 <item>
 <title>Star Sports</title>
-<link>rtmp://watch.ilive.to/edge playpath=2ak5l6hr16eleum swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/view/54261/StarSport-live-stream-channel token=abc109h34</link>
+<link>rtmp://31.220.0.133:1935/live playpath=starr swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=starr&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_sports.png</thumbnail>
 </item>
 
