@@ -188,7 +188,7 @@
 <item>
 <title>BT Sports 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.82:1935/live playpath=bt1rr swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1rr&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.103:1935/live playpath=bt1rr swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1rr&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmpe://46.246.124.14:1935/redirect playpath=BT1HD swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
