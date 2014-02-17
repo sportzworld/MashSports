@@ -293,7 +293,7 @@
 
 <item>
 <title>ESPN uk</title>
-<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=espnuk swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=espnuk&vw=620&vh=490&domain=cricfree.tv live=1 timeout=10</link>
+<link>rtmpe://cdn.hdcast.org:1935/redirect playpath=espnuk swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=espnuk&vw=620&vh=490&domain=cricfree.tv live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
 </item>
 
