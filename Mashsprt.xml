@@ -212,7 +212,7 @@
 <item>
 <title>Eurosport 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://174.36.55.76/spull/ playpath=phiro51065thempyh?keys=FcN5fU7SVzzPGTou1fTohA&keyt=1392596847 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php?streampage=phiro51065thempyh&width=600&height=450 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.103:1935/live playpath=euro1j swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?COLLCC=1807457150&live=euro1j&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.82:1935/live playpath=errru1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=errru1&vw=620&vh=490 live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
