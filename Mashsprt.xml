@@ -159,7 +159,7 @@
 <item>
 <title>SKY SPORTS 4 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmpe://cdn.hdcast.org:1935/redirect playpath=ss4 swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=ss4&vw=620&vh=490&domain=cricfree.tv live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.104:1935/live playpath=sss444 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=sss444&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmpe://46.246.124.6:1935/redirect/ss4 pageUrl=http://www.hdcast.org/</sublink>
 </link>
 <thumbnail>http://i2.cdnds.net/09/53/160x120_broadcasting_ss4logo.jpg</thumbnail>
