@@ -42,6 +42,12 @@
 </item>
 
 <item>
+<title>BBC Sport</title>
+<link>rtmp://46.246.29.138:1935/stream/0D1cF7GNSf.stream swfUrl=http://04stream.com/p/boopo.swf live=1 </link>
+<thumbnail>http://www.lyngsat-logo.com/logo/corp/bb/bbc_sport.png</thumbnail>
+</item>
+
+<item>
 <title>Nascar (At time of event)</title>
 <link>rtmp://173.193.32.166/live playpath=$doregex[url] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=19208&amp;wh=640&amp;ht=480&amp;r=live9.net live=true timeout=15
 <regex>
@@ -278,13 +284,13 @@
 
 <item>
 <title>ESPN 2</title>
-<link>rtmpe://play.finecast.tv/live playpath=espnuss2 swfUrl=http://www.finecast.tv/player/player.swf pageUrl=http://www.finecast.tv/embed.php?u=espnuss2&vw=600&vh=430 live=1 timeout=10</link>
+<link>rtmp://31.7.58.250:1935/stream/42q5retrgh.stream swfUrl=http://04stream.com/p/boopo.swf live=1</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_2.jpg</thumbnail>
 </item>
 
 <item>
 <title>ESPN</title>
-<link>rtmp://141.255.160.222:1935/stream/ playpath=565rgrh.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=&width=600&height=460&st=64v2b4z5o506c4o27474u214t234u2r264d4s2y2r2&adx=&stream=j564c4c4c4c4w244j584445494c4z2n284a4z2m474p4g43474b403z3x2s234v2v203p2b4t2y3133364j4p5z5x3o5d4l4n5k5h436k204v4n246l5p4p2l2s203m5a464a41423v2k5a4w2w27484x244d4c4a4y29474a4741384o5h5r2k56474t2n20414r2p2l2w4d4163434&sooor=MTE=&str=is&idom=firstrownow.eu live=1 timeout=10</link>
+<link>rtmp://46.246.29.130:1935/stream/46terg.stream swfUrl=http://04stream.com/p/boopo.swf live=1 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
 </item>
 
@@ -298,6 +304,12 @@
 <title>Fox Sports Plus</title>
 <link>rtmp://27.254.84.3:1935/live/ftrtgd.stream</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_it_plus.png</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 1</title>
+<link>rtmp://46.246.29.140:1935/stream//fsgdf78gds.stream swfUrl=http://04stream.com/p/boopo.swf live=1 </link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports1_us.png</thumbnail>
 </item>
 
 
