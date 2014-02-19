@@ -278,7 +278,7 @@
 
 <item>
 <title>Extreme Sports</title>
-<link>http://212.20.11.86:1234/udp/233.7.70.147:5000</link>
+<link>rtmp://hdimages.cdnvideo.ru/rr playpath=HDextreme-NEW swfUrl=http://hdimages.ru/pleer/JW/player.swf pageUrl=http://www.hdimages.ru/embed/hdextreme/ live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/extreme_sports_nl.jpg</thumbnail>
 </item>
 
