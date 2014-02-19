@@ -85,7 +85,7 @@
 
 <item>
 <title>Motors TV</title>
-<link>rtmp://198.23.71.102/stream playpath=motorstvada?id=115143 Conn=S:OK swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/embedplayer/motorstvada/1/600/440</link>
+<link>rtmp://198.105.209.124/stream playpath=3motorstv3?id=115627 Conn=S:OK swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/embedplayer/3motorstv3/1/600/440 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
 </item>
 
