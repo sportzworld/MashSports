@@ -333,6 +333,19 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/spike_tv.jpg</thumbnail>
 </item>
 
+<item>
+<title>TSN</title>
+<link>rtmp://46.246.29.140:1935/stream// playpath=fsgdf78gds.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=dircttv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tsn.png</thumbnail>
+</item>
+
+<item>
+<title>MLB</title>
+<link>rtmp://31.7.58.122:1935/stream/ playpath=Nugfgfdgf4343.stream swfUrl=http://04stream.com/p/boopo.swf pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nbc live=1 timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mlb_network.png</thumbnail>
+</item>
+
+
 
 
 
