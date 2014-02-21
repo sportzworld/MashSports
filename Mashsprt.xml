@@ -281,7 +281,7 @@
 
 <item>
 <title>ESPN 2</title>
-<link>rtmp://31.7.58.250:1935/stream/42q5retrgh.stream swfUrl=http://04stream.com/p/boopo.swf live=1</link>
+<link>rtmpe://play.finecast.tv/live playpath=espnuss2  swfUrl=http://www.finecast.tv/player/player.swf pageUrl=http://www.finecast.tv/embed.php?u=espnuss2&vw=600&vh=430 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_2.jpg</thumbnail>
 </item>
 
