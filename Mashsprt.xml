@@ -170,7 +170,7 @@
 <item>
 <title>SKY F1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.103:1935/live playpath=f1sports swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=f1sports&vw=620&vh=490 live1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.103:1935/live playpath=f1sports swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=f1sports&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmp://31.220.0.82:1935/live playpath=f1sports swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
