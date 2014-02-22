@@ -346,6 +346,12 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mlb_network.png</thumbnail>
 </item>
 
+<item>
+<title>Grand Prix </title>
+<link>rtsp://27.131.141.254:1935/grandprix/live</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/grand_prix_channel_th.png</thumbnail>
+</item>
+
 
 
 
