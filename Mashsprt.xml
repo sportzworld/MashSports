@@ -83,7 +83,7 @@
 
 <item>
 <title>Motors TV</title>
-<link>rtmp://198.105.209.124/stream playpath=3motorstv3?id=115627 Conn=S:OK swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/embedplayer/3motorstv3/1/600/440 live=1 timeout=10</link>
+<link>rtmp://109.123.126.10/live playpath=qqmotorstv?id=63195 Conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/qqmotorstv/1/650/500</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
 </item>
 
