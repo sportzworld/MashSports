@@ -75,7 +75,7 @@
 <title>Boxing</title>
 <link>
  <sublink>http://spi-live.ercdn.net/spi/smil:fightboxhd_0.smil/bayash.m3u8</sublink>
- <sublink>rtmp://37.220.36.7:443/liverepeater playpath=19340 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream19.html token=#atd%#$ZH</sublink>
+ <sublink>http://spi-live.ercdn.net/spi/smil:fightboxhd_0.smil/bayash.m3u8</sublink>
  <sublink>rtmp://174.36.251.130:443/liverepeater playpath=stream14 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/stream14.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://37.220.32.43:443/liverepeater playpath=13877 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream6.html token=#atd%#$ZH</sublink>
 </link>
