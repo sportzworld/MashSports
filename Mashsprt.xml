@@ -43,7 +43,7 @@
 
 <item>
 <title>BBC Sport</title>
-<link>rtmp://50.7.28.146/flash playpath=18299 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/QyZGUzMzIzNmQ5YjRiOTU3NjZmODFiOjI1ZDg2MWJlN2I1MTU0NmNmZTA2ZDFjMDA5Y2FmZTY2/ZjVjNDQyNjMxYjdhOmQxNjE2Nzc3NjU2ZjZlNjU3Mzo4MTE2Y2QzMDkzNzNiMGRjYT live=1 timeout=10</link>
+<link>rtmp://46.246.29.138:1935/stream/0D1cF7GNSf.stream swfUrl=http://04stream.com/p/boopo.swf live=1</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/corp/bb/bbc_sport.png</thumbnail>
 </item>
 
