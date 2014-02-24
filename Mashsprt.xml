@@ -13,10 +13,7 @@
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
-<info>
-<message>[COLOR orange]Added non sports channels (ABC,CBS,CW,Fox,FX,TBS,TNT,USA,SYFY)[/COLOR]</message>
-<thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
-</info>
+
 
 <popup>
 <name>[COLOR aqua]Click here for. TODAY'S NHL Schedule (Time in pst)[/COLOR]</name>
@@ -355,11 +352,7 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/directv_sports_mix.png</thumbnail>
 </item>
 
-<item>
-<title>MLB</title>
-<link>rtmp://31.7.58.122:1935/stream/ playpath=Nugfgfdgf4343.stream swfUrl=http://04stream.com/p/boopo.swf pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nbc live=1 timeout=10</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mlb_network.png</thumbnail>
-</item>
+
 
 <item>
 <title>Grand Prix </title>
@@ -372,59 +365,6 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nbc_sports_network.jpg</thumbnail>
 </item>
 
-<item>
-<title>CBS</title>
-<link>rtmpe://live.envivo.pw/goLive playpath=azmGtuELKBeufUN swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1068&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/cbs.png</thumbnail>
-</item>
-
-<item>
-<title>CW</title>
-<link>rtmpe://live.envivo.pw/goLive playpath=KUrd8VgVeAXis42 swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1072&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/corp/tt/the_cw_network.jpg</thumbnail>
-</item>
-
-<item>
-<title>FX</title>
-<link>rtmpe://live.envivo.pw/goLive playpath=ADceJfR2jyp68d3 swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1082&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fx_me.png</thumbnail>
-</item>
-
-<item>
-<title>TBS</title>
-<link>rtmpe://live.envivo.pw/goLive playpath=QB80x8dFgycQ8im swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1083&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tbs_east.png</thumbnail>
-</item>
-
-<item>
-<title>TNT</title>
-<link>rtmpe://live.envivo.pw/goLive playpath=wG35AzCNwnZU5vj swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1084&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tnt_lam.png</thumbnail>
-</item>
-
-<item>
-<title>USA</title>
-<link>rtmpe://live.envivo.pw/goLive playpath=DrpvIheSRTbbeB7 swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1085&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/uu/usa_network.png</thumbnail>
-</item>
-
-<item>
-<title>SYFY</title>
-<link>rtmpe://live.envivo.pw/goLive playpath=IlAtS62o00lVArb swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1092&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syfy.jpg</thumbnail>
-</item>
-
-<item>
-<title>ABC</title>
-<link>rtmpe://live.envivo.pw/goLive playpath=zJtx6glRuebarG8 swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1067&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/abc_us.png</thumbnail>
-</item>
-
-<item>
-<title>Fox Network</title>
-<link>rtmpe://live.envivo.pw/goLive playpath=Wrt71g0jgwxgsHq swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1073&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcR7Nc354gxQgw1dNlSeIQ7PcvYDOyHAMD7zWF_8a-ctJx6LLYY_</thumbnail>
-</item>
 
 
 
