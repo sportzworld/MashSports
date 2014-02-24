@@ -14,7 +14,7 @@
 </info>
 
 <info>
-<message>[COLOR orange]Added non sports channels (CBS,CW,FX,TBS,TNT,USA,SYFY)[/COLOR]</message>
+<message>[COLOR orange]Added non sports channels (ABC,CBS,CW,Fox,FX,TBS,TNT,USA,SYFY)[/COLOR]</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
@@ -403,6 +403,18 @@
 <title>SYFY</title>
 <link>rtmpe://live.envivo.pw/goLive playpath=IlAtS62o00lVArb swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1092&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syfy.jpg</thumbnail>
+</item>
+
+<item>
+<title>ABC</title>
+<link>rtmpe://live.envivo.pw/goLive playpath=zJtx6glRuebarG8 swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1067&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/abc_us.png</thumbnail>
+</item>
+
+<item>
+<title>Fox Network</title>
+<link>rtmpe://live.envivo.pw/goLive playpath=Wrt71g0jgwxgsHq swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1073&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcR7Nc354gxQgw1dNlSeIQ7PcvYDOyHAMD7zWF_8a-ctJx6LLYY_</thumbnail>
 </item>
 
 
