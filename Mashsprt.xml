@@ -134,6 +134,13 @@
 </item>
 
 <item>
+<title>WWE TV</title>
+<link>rtmp://www.planeta-online.tv:1936/live/ playpath=wrestling.stream swfUrl=http://pro-wrestling.tv/uppod.swf pageUrl=http://gofirstrow.eu/watch/49045/1/watch-wwe-tv.html live=1 timeout=10
+</link>
+<thumbnail>http://images3.wikia.nocookie.net/__cb20120814164203/tvpedia/ru/images/6/60/Pro-Wrestling_TV.jpg</thumbnail>
+</item>
+
+<item>
 <title>Chelsea TV</title>
 <link>rtmp://cp96798.live.edgefcs.net/live playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.longtailvideo.com/player.swf?file=ChelTV_Ch01_1000k@26291&streamer=rtmp://cp96798.live.edgefcs.net/live&autostart=true pageUrl=http://www.stream2watch.me/showstream.php?id=30373&stream=1 token=#atd%#$ZH</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/chelsea_tv.jpg</thumbnail>
