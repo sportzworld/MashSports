@@ -90,7 +90,7 @@
 <link>
  <sublink>http://spi-live.ercdn.net/spi/smil:fightboxhd_0.smil/bayash.m3u8</sublink>
  <sublink>http://spi-live.ercdn.net/spi/smil:fightboxhd_0.smil/bayash.m3u8</sublink>
- <sublink>http://nlds173.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500.m3u8</sublink>
+ <sublink>http://212.250.46.41:9987/udp/239.100.0.229:3001</sublink>
  <sublink>http://nlds173.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500.m3u8</sublink>
 </link>
 <thumbnail>http://ncplus.pl/~/media/N/NPL/Kanaly/Logo/fightBOX.png?bc=White&w=595</thumbnail>
