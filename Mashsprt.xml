@@ -442,6 +442,12 @@
 <title>Discovery</title>
 <link>rtmp://188.0.226.100/lub/ playpath=odiscovery?v=dc7cfffc3f373cf4d2f4470ada489e81 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=odiscovery&vw=600&vh=450&typeplayer=0&domain=hdembed.com live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_us_hd.png</thumbnail>
+</item> 
+
+<item>
+<title>History UK</title>
+<link>rtmp://188.0.226.98/lub/ playpath=ohistory?v=f3772f8f07bf49fad56fcff6f3de0f01 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=ohistory&vw=600&vh=450&typeplayer=0&domain=hdembed.com live=1 timeout=10</link>
+<thumbnail></thumbnail>
 </item>
 
 
