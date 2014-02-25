@@ -126,7 +126,7 @@
 
 <item>
 <title>WWE HD</title>
-<link>rtmp://80.93.53.88/live/ playpath=wrestling.stream swfUrl=http://www.liveonlinetv247.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.liveonlinetv247.com/embed/wwetv.php live=1 timeout=10</link>
+<link>rtmp://94.242.228.194:80/liverepeater playpath=123639 swfUrl=http://cdn.goodcast.pw/players.swf pageUrl=http://goodcast.pw/streamn.php?id=123639&width=640&height=450 token=Fo5_n0w?U.rA6l3-70w47ch</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.jpg</thumbnail>
 </item>
 
