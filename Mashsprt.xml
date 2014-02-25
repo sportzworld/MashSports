@@ -458,7 +458,7 @@
 
 <item>
 <title>Nat Geo</title>
-<link>rtmp://cp106256.live.edgefcs.net:443/live/ playpath=iwantnatgeo-600@119 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.streamsportlive.me/34.html live=1 timeout=10</link>
+<link>http://212.250.46.41:9987/udp/239.100.0.127:3001</link>
 <thumbnail> </thumbnail>
 </item>
 
