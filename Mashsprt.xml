@@ -65,7 +65,7 @@
 <title>Nascar (At time of event)</title>
 <link>
  <sublink>rtmp://46.246.29.130:1935/stream/ playpath=46terg.stream swfUrl=http://04stream.com/p/boopo.swf pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=ESPN live=1 timeout=10</sublink>
- <sublink>rtmpe://cdn.hdcast.org:1935/redirect playpath=espn2 swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=espn2&vw=620&vh=490&domain=cricfree.tv live=1 timeout=10</sublink>
+ <sublink>http://212.250.46.44:8085/udp/239.100.0.183:3001</sublink>
  <sublink>rtmpe://live.envivo.pw/goLive playpath=6imQNYYIV0fPpxN swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=989&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</sublink>
  <sublink>rtmp://46.246.29.140:1935/stream// playpath=fsgdf78gds.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=dircttv</sublink>
 </link>
