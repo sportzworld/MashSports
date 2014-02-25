@@ -469,7 +469,17 @@
 <thumbnail> </thumbnail>
 </item>
 
+<item>
+<title>Comedy Central</title>
+<link>http://212.250.46.41:9987/udp/239.100.0.146:3001</link>
+<thumbnail> </thumbnail>
+</item>
 
+<item>
+<title>Nat Geo Wild</title>
+<link>http://212.250.46.41:9987/udp/239.100.0.128:3001</link>
+<thumbnail> </thumbnail>
+</item>
 
 
 
