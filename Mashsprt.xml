@@ -32,41 +32,9 @@
 #############################################################################################################################
 
 
-<item>
-<title> NHL (SD) </title>
-<link>
- <sublink>rtmp://31.220.0.82:1935/live playpath=c1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=c1&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://37.220.32.50:443/liverepeater playpath=19341 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream18.html token=#atd%#$ZH</sublink>
- <sublink>rtmp://31.220.0.82:1935/live playpath=c8 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=c8&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.134:1935/live playpath=ontario swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ontario&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.82:1935/live playpath=snone swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=snone&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.82:1935/live playpath=c11 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=c11&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.82:1935/live playpath=c12 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=c12&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.133:1935/live playpath=c12 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=c12&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.134:1935/live playpath=ontario swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ontario&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.134:1935/live playpath=sky1ita swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=sky1ita&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://173.192.223.75:443/liverepeater playpath=11 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=11&width=640&height=460 token=#atd%#$ZH</sublink>
-</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlMyYOM-FaFo6x35js3pJb_CRrisKvwBb5Bcr0bD0Dg9O9xJlL</thumbnail>
-</item>
 
-<item>
-<title> NHL (HD) </title>
-<link>
- <sublink>http://nlds145.cdnak.neulion.com/nlds/nhl/hurricanes/as/live/hurricanes_hd_4500.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</sublink>
- <sublink>rtmp://31.220.0.133:1935/live playpath=c10 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embeds.php?live=c10&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.82:1935/live playpath=c8 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=c8&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.134:1935/live playpath=ontario swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ontario&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.82:1935/live playpath=snone swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=snone&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.82:1935/live playpath=c11 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=c11&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.82:1935/live playpath=c12 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=c12&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.133:1935/live playpath=c12 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=c12&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.134:1935/live playpath=ontario swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ontario&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.134:1935/live playpath=sky1ita swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=sky1ita&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://173.192.223.75:443/liverepeater playpath=11 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://tiv.pw/player6.php?id=11&width=640&height=460 token=#atd%#$ZH</sublink>
-</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlMyYOM-FaFo6x35js3pJb_CRrisKvwBb5Bcr0bD0Dg9O9xJlL</thumbnail>
-</item>
+
+
 
 <item>
 <title>BBC Sport</title>
@@ -74,16 +42,7 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/corp/bb/bbc_sport.png</thumbnail>
 </item>
 
-<item>
-<title>Nascar (At time of event)</title>
-<link>
- <sublink>rtmp://46.246.29.130:1935/stream/ playpath=46terg.stream swfUrl=http://04stream.com/p/boopo.swf pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=ESPN live=1 timeout=10</sublink>
- <sublink>http://212.250.46.44:8085/udp/239.100.0.183:3001</sublink>
- <sublink>rtmpe://live.envivo.pw/goLive playpath=6imQNYYIV0fPpxN swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=989&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</sublink>
- <sublink>rtmp://46.246.29.140:1935/stream// playpath=fsgdf78gds.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=dircttv</sublink>
-</link>
-<thumbnail>http://www.google.ca/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&docid=z5RjIZeuOs0A1M&tbnid=gminQm_tmhjR3M:&ved=0CAUQjRw&url=http%3A%2F%2Fwww.lyngsat-logo.com%2Foutdated%2Fx_11.html&ei=ub3_Ut_wAs3joAT4oILwAg&bvm=bv.61535280,d.cGU&psig=AFQjCNGhiaJyt2kxVp_DrKbtX5HZpVyINQ&ust=1392578357869334</thumbnail>
-</item>
+
 
 <item>
 <title>Golf channel live</title>
