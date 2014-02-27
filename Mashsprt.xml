@@ -229,6 +229,12 @@
 </item>
 
 <item>
+<title>Sportsnet One</title>
+<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=snone swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=snone&vw=620&vh=490&domain=cricfree.tv live=1 timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sportsnet_ca_short.png</thumbnail>
+</item>
+
+<item>
 <title>Sportsnet Ontario</title>
 <link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=snontario swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=snontario&vw=620&vh=490&domain=cricfree.tv live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sportsnet_ca_short.png</thumbnail>
@@ -238,12 +244,6 @@
 <title>Sportsnet World</title>
 <link>rtmpe://cdn.hdcast.org:1935/redirect playpath=setca swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=setca&vw=620&vh=490&domain=cricfree.tv live=1 timeout=10</link>
 <thumbnail>http://www.bbl.org.uk/typo3temp/pics/94d57ff654.png</thumbnail>
-</item>
-
-<item>
-<title>Sportsnet One</title>
-<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=snone swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=snone&vw=620&vh=490&domain=cricfree.tv live=1 timeout=10</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sportsnet_ca_short.png</thumbnail>
 </item>
 
 <item>
@@ -392,9 +392,9 @@
 <title>MLB</title>
 <link>
  <sublink>rtmp://37.220.34.18:443/liverepeater playpath=11120 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream20.html token=#atd%#$ZH</sublink>
- <sublink>rtmp://37.220.36.69:443/liverepeater playpath=19342 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream17.html</sublink>
- <sublink>rtmp://37.220.32.55:443/liverepeater playpath=19340 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream19.html</sublink>
- <sublink>rtmpe://live.envivo.pw/goLive playpath=6imQNYYIV0fPpxN swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=989&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</sublink>
+ <sublink>rtmp://37.220.36.69:443/liverepeater playpath=19342 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream17.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://37.220.32.55:443/liverepeater playpath=19340 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream19.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://37.220.34.18:443/liverepeater playpath>19341 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream18.html token=#atd%#$ZH</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mlb_network.png</thumbnail>
 </item>
