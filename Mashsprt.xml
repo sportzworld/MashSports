@@ -489,7 +489,9 @@
 </item>
 
 
-app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<item>
+<title>[COLOR=FFFF4500]A&E[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://watch1.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
 <regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
