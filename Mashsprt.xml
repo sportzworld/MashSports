@@ -97,7 +97,7 @@
 
 <item>
 <title>Setanta Sports</title>
-<link>http://212.250.46.41:9987/udp/239.100.0.149:3001</link>
+<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=setca swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=setca&vw=620&vh=490&domain=cricfree.tv live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/setanta_sports1.jpg</thumbnail>
 </item>
 
