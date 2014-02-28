@@ -394,12 +394,21 @@
 <item>
 <title>MLB</title>
 <link>
- <sublink>rtmp://37.220.34.18:443/liverepeater playpath=11120 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream20.html token=#atd%#$ZH</sublink>
- <sublink>rtmp://37.220.36.69:443/liverepeater playpath=19342 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream17.html token=#atd%#$ZH</sublink>
- <sublink>rtmp://37.220.32.55:443/liverepeater playpath=19340 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream19.html token=#atd%#$ZH</sublink>
- <sublink>rtmp://37.220.32.55:443/liverepeater playpath=19341 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream18.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://37.220.36.69:443/liverepeater playpath=20829 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream11.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://37.220.32.55:443/liverepeater playpath=20833 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream12.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://37.220.32.54:443/liverepeater playpath=20719 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream4.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://37.220.32.36:443/liverepeater playpath=20827 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream8.html token=#atd%#$ZH</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mlb_network.png</thumbnail>
+</item>
+
+<item>
+<title>Nascar (At time of event)</title>
+<link>
+ <sublink>rtmp://5.153.25.23:443/liverepeater playpath=stream21 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/stream21.html token=#atd%#$ZH</sublink>
+ <sublink>http://212.250.46.44:8085/udp/239.100.0.183:3001</sublink>
+</link>
+<thumbnail>http://www.google.ca/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&docid=z5RjIZeuOs0A1M&tbnid=gminQm_tmhjR3M:&ved=0CAUQjRw&url=http%3A%2F%2Fwww.lyngsat-logo.com%2Foutdated%2Fx_11.html&ei=ub3_Ut_wAs3joAT4oILwAg&bvm=bv.61535280,d.cGU&psig=AFQjCNGhiaJyt2kxVp_DrKbtX5HZpVyINQ&ust=1392578357869334</thumbnail>
 </item>
 
 
