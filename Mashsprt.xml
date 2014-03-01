@@ -129,7 +129,7 @@
 <item>
 <title>SKY SPORTS 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.103:1935/live playpath=ss1xx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ss1xx&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.104:1935/live playpath=ss1xx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ss1xx&vw=620&vh=490 live=1 timeout=10</sublink>
  <sublink>rtmpe://188.0.226.140/live playpath=skkkk1 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
