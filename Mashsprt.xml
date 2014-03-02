@@ -520,6 +520,24 @@
 <thumbnail> </thumbnail>
 </item>
 
+<item>
+<title>CBS</title>
+<link>rtmpe://81.17.27.182/goLive playpath=azmGtuELKBeufUN swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1068&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cbs.png</thumbnail>
+</item>
+
+<item>
+<title>CW</title>
+<link>rtmpe://81.17.27.182/goLive playpath=KUrd8VgVeAXis42 swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1072&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/corp/tt/the_cw_network.jpg</thumbnail>
+</item>
+
+<item>
+<title>FX</title>
+<link>rtmpe://81.17.27.182/goLive playpath=ADceJfR2jyp68d3 swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1082&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fx_me.png</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR=FFFF4500]A&E[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
