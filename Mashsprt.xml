@@ -497,6 +497,12 @@
 </item>
 
 <item>
+<title>ITV1</title>
+<link>rtmp://188.0.226.98/lub/ playpath=oitv1?v=0bbaa7c4f8a452420c95164ebf5db16f swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=oitv1&vw=600&vh=450&typeplayer=0&domain=desistreams.tv live=1 timeout=10</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
 <title>ITV2</title>
 <link>rtmp://188.0.226.104/lub/ playpath=oitv2?v=c4c31cb1d9e2da5d5b27abec47b81049 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=oitv2&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=1 timeout=10</link>
 <thumbnail> </thumbnail>
