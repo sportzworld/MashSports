@@ -158,7 +158,7 @@
 
 <item>
 <title>Motors TV</title>
-<link>http://motorsport.hopto.org:8080/</link>
+<link>rtmp://173.193.205.94/live playpath=motorstv40?id=63658 Conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/motorstv40/1/650/500 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
 </item>
 
