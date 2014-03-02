@@ -538,6 +538,30 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fx_me.png</thumbnail>
 </item>
 
+<item>
+<title>TNT</title>
+<link>rtmpe://81.17.27.182/goLive playpath=wG35AzCNwnZU5vj swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1084&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tnt_lam.png</thumbnail>
+</item>
+
+<item>
+<title>USA</title>
+<link>rtmpe://81.17.27.182/goLive playpath=DrpvIheSRTbbeB7 swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1085&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tnt_lam.png</thumbnail>
+</item>
+
+<item>
+<title>SYFY</title>
+<link>rtmpe://81.17.27.182/goLive playpath=IlAtS62o00lVArb swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1092&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syfy.jpg</thumbnail>
+</item>
+
+<item>
+<title>ABC</title>
+<link>rtmpe://81.17.27.182/goLive playpath=zJtx6glRuebarG8 swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1067&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/abc_us.png</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR=FFFF4500]A&E[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
