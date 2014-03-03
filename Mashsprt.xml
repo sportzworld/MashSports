@@ -479,9 +479,9 @@
 <item>
 <title>MLB</title>
 <link>
- <sublink>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=snontario swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=snontario&vw=620&vh=490&domain=cricfree.tv live=1 timeout=10</sublink>
- <sublink>rtmp://37.220.32.55:443/liverepeater playpath=20833 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream12.html token=#atd%#$ZH</sublink>
- <sublink>rtmp://37.220.32.54:443/liverepeater playpath=20719 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream4.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://37.220.32.36:443/liverepeater playpath=20831 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream16.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://37.220.32.52:443/liverepeater playpath=19342 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream17.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://37.220.36.71:443/liverepeater playpath=19341 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream18.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://37.220.32.36:443/liverepeater playpath=20827 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream8.html token=#atd%#$ZH</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mlb_network.png</thumbnail>
