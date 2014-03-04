@@ -291,7 +291,8 @@
 <item>
 <title>Eurosport 1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
- <sublink>rtmp://31.220.0.134:1935/live playpath=euro11111 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=euro11111&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://188.0.226.100/lub/ playpath=oeuro1?v=fc4d467632d224f5801d8a01c5ab2f35 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=oeuro1&vw=600&vh=450&typeplayer=0&domain=hdfooty.tv live=1 timeout=10
+</sublink>
  <sublink>rtmp://31.220.0.82:1935/live playpath=errru1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=errru1&vw=620&vh=490 live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
