@@ -293,7 +293,7 @@
 
 <item>
 <title>ESPN uk</title>
-<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=espnuk swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=espnuk&vw=620&vh=490&domain=cricfree.tv live=1 timeout=10</link>
+<link>rtmpe://play.finecast.tv/live playpath=espnukkk8 swfUrl=http://www.finecast.tv/player/player.swf pageUrl=http://www.finecast.tv/embed.php?u=espnukkk8&vw=600&vh=400 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
 </item>
 
@@ -317,7 +317,7 @@
 
 <item>
 <title>Fox Sports 1</title>
-<link>rtmpe://live.envivo.pw/goLive playpath=6imQNYYIV0fPpxN swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf live=1 pageUrl=http://envivo.pw/embed.php?a=989&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=fsssss1 swfUrl=http://ukcast.tv/player//player.swf pageUrl=http://www.ukcast.tv/embed.php?u=fsssss1&vw=600&vh=450 token=#atd%#$ZH</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports1_us.png</thumbnail>
 </item>
 
