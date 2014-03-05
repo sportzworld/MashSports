@@ -329,7 +329,7 @@
 
 <item>
 <title>Spike TV</title>
-<link>rtmpe://81.17.27.182/goLive playpath=OuTMDUaJxi3Hmqh swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1081&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<link>rtmpe://live.envivo.pw/redirect playpath=OuTMDUaJxi3Hmqh swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1081&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/spike_tv.jpg</thumbnail>
 </item>
 
@@ -429,13 +429,13 @@
 
 <item>
 <title>CBS</title>
-<link>rtmpe://81.17.27.182/goLive playpath=azmGtuELKBeufUN swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1068&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<link>rtmpe://live.envivo.pw/redirect playpath=azmGtuELKBeufUN swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1068&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cbs.png</thumbnail>
 </item>
 
 <item>
 <title>CW</title>
-<link>rtmpe://81.17.27.182/goLive playpath=KUrd8VgVeAXis42 swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1072&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<link>rtmpe://live.envivo.pw/redirect playpath=KUrd8VgVeAXis42 swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1072&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/corp/tt/the_cw_network.jpg</thumbnail>
 </item>
 
@@ -459,7 +459,7 @@
 
 <item>
 <title>SYFY</title>
-<link>rtmpe://81.17.27.182/goLive playpath=IlAtS62o00lVArb swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1092&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<link>rtmpe://live.envivo.pw/redirect playpath=IlAtS62o00lVArb swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1092&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syfy.jpg</thumbnail>
 </item>
 
