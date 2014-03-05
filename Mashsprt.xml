@@ -25,7 +25,11 @@
 </info>
 
 
-
+<popup>
+<name>[COLOR aqua]Click here for. TODAY'S NHL Schedule (Check local area for game times)[/COLOR]</name>
+<popImage>https://dl.dropboxusercontent.com/u/125248976/MLB%20Schedule.PNG</popImage>
+<thumbnail>http://psdcovers.s3.amazonaws.com/wp-content/uploads/2012/07/NHL-vector-logos-636x480.jpg</thumbnail>
+</popup>
 
 
 
