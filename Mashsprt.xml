@@ -45,6 +45,12 @@
 </item>
 
 <item>
+<title>Concerts</title>
+<link>http://202.170.127.27:42579/3KgE47bC3d733sb3Igu-THsz/I_Concert_HD/chengye.m3u8</link>
+<thumbnail>http://graphics8.nytimes.com/images/2012/11/25/nyregion/25ARTSNJ2_SPAN/25ARTSNJ2_SPAN-articleLarge-v2.jpg</thumbnail>
+</item>
+
+<item>
 <title>E!Channel</title>
 <link>rtmp://live.cast-tv.us/stream playpath=z00029.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/embed.php?n=z00029&vw=650&vh=450&domain=dacastv.com live=1 timeout=10</link>
 <thumbnail>http://www.thewrap.com/sites/default/files/e-logo.jpg</thumbnail>
