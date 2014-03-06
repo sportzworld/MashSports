@@ -48,6 +48,12 @@
 </item>
 
 <item>
+<title>E!Channel</title>
+<link>rtmp://live.cast-tv.us/stream playpath=z00029.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/embed.php?n=z00029&vw=650&vh=450&domain=dacastv.com live=1 timeout=10</link>
+<thumbnail>http://www.thewrap.com/sites/default/files/e-logo.jpg</thumbnail>
+</item>
+
+<item>
 <title>BBC Sport</title>
 <link>rtmp://46.246.29.138:1935/stream/0D1cF7GNSf.stream swfUrl=http://04stream.com/p/boopo.swf live=1</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/corp/bb/bbc_sport.png</thumbnail>
