@@ -41,6 +41,13 @@
 </item>
 
 <item>
+<title>TSN Radio</title>
+<link>rtmp://cp111665.live.edgefcs.net:1935/live playpath=cfrn-aac@43560 swfUrl=http://proxy.amri.ca/sites/default/files/player/swf/player.swf?cb=1394128179150 pageUrl=http://player.tsn1260.ca/ live=1 timeout=10
+</link>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000529138008/c00d1d089c391f03aec64a84dcad4451.jpeg</thumbnail>
+</item>
+
+<item>
 <title>Comedy Central</title>
 <link>rtmpe://watch.playfooty.tv/live playpath=comedy1569 swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=comedy1569&vw=600&vh=430 live=1 timeout=10</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/3/34/Comedy_Central_UK.svg</thumbnail>
