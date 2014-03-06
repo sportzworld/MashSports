@@ -339,7 +339,7 @@
 
 <item>
 <title>Fox Sports 1</title>
-<link>rtmp://akamai.kbps.tv:1935/live playpath=foxsp?=baba504502d60004fd6df4577779aeb6  swfUrl=http://www.kbps.tv/jl/player.swf  pageUrl=http://www.kbps.tv/embed.php?s=foxsp&width=615&height=415&domain=negmtv.altervista.org live=1 timeout=10</link>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=fsssss1 swfUrl=http://ukcast.tv/player//player.swf pageUrl=http://www.ukcast.tv/embed.php?u=fsssss1&vw=579&vh=400 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports1_us.png</thumbnail>
 </item>
 
