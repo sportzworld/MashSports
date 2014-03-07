@@ -264,7 +264,7 @@
 
 <item>
 <title>Fox Sports Live</title>
-<link>rtmpe://live.envivo.pw/goLive playpath=6imQNYYIV0fPpxN swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=989&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<link>rtmp://akamai.kbps.tv:1935/live playpath=foxsp?=7b7cf0586c74ab98057fad83e2276d9b  swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=foxsp&width=615&height=415&domain=negmtv.altervista.org token=OOG17t.x#K9Vh#|</link>
 <thumbnail>http://www.hubsecuritysystems.com/images/Fox%20Sports.jpg</thumbnail>
 </item>
 
