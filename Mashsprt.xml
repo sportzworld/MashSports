@@ -4,6 +4,11 @@
 #######################################################################################################################################
 
 <info>
+<message>[COLOR green]As of April 1 Viking Tattoos will be the new maintainer of mashsports[/COLOR]</message>
+<thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
+</info>
+
+<info>
 <message>[COLOR orange]Go to mashup livestreams nhl hd for hockey in hd (gotham only)[/COLOR]</message>
 <thumbnail> </thumbnail>
 </info>
@@ -12,16 +17,6 @@
 <message>Reports dead links [COLOR red]ONLY[/COLOR] for this section @mashupxbmc.com (mashsports section)</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
-
-
-
-<info>
-<message>[COLOR green]As of April 1 Viking Tattoos will be the new maintainer of mashsports[/COLOR]</message>
-<thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
-</info>
-
-
-
 
 <popup>
 <name>[COLOR aqua]Click here for. TODAY'S MLB Schedule (Check local area for game times)[/COLOR]</name>
@@ -35,40 +30,61 @@
 #############################################################################################################################
 
 <item>
-<title>Vh1 Classic</title>
-<link>http://62.176.99.49:5050/udp/239.255.0.182:5500</link>
-<thumbnail>http://www.vh1.com/franchises/config/themes/vh1classic/281x211_logo.png</thumbnail>
-</item>
-
-<item>
-<title>TSN Radio</title>
-<link>rtmp://cp111665.live.edgefcs.net:1935/live playpath=cfrn-aac@43560 swfUrl=http://proxy.amri.ca/sites/default/files/player/swf/player.swf?cb=1394128179150 pageUrl=http://player.tsn1260.ca/ live=1 timeout=10
-</link>
-<thumbnail>https://pbs.twimg.com/profile_images/378800000529138008/c00d1d089c391f03aec64a84dcad4451.jpeg</thumbnail>
-</item>
-
-<item>
-<title>Comedy Central</title>
-<link>rtmpe://watch.playfooty.tv/live playpath=comedy1569 swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=comedy1569&vw=600&vh=430 live=1 timeout=10</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/3/34/Comedy_Central_UK.svg</thumbnail>
-</item>
-
-<item>
 <title>4 New York</title>
 <link>rtmp://188.0.226.101/hot/ playpath=inbc?v=1d4920678b8d130146927678f50eb514 Conn=S:OK swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=inbc&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=1 timeout=10</link>
 <thumbnail>http://media.nbcnewyork.com/images/654*369/4NY_LOGO_722x406_fix.jpg</thumbnail>
 </item>
 
 <item>
-<title>Concerts</title>
-<link>http://202.170.127.27:42579/3KgE47bC3d733sb3Igu-THsz/I_Concert_HD/chengye.m3u8</link>
-<thumbnail>http://graphics8.nytimes.com/images/2012/11/25/nyregion/25ARTSNJ2_SPAN/25ARTSNJ2_SPAN-articleLarge-v2.jpg</thumbnail>
+<title>ABC</title>
+<link>rtmpe://live.envivo.pw/redirect playpath=zJtx6glRuebarG8 swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1067&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/abc_us.png</thumbnail>
 </item>
 
 <item>
-<title>E!Channel</title>
-<link>rtmp://live.cast-tv.us/stream playpath=z00029.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/embed.php?n=z00029&vw=650&vh=450&domain=dacastv.com live=1 timeout=10</link>
-<thumbnail>http://www.thewrap.com/sites/default/files/e-logo.jpg</thumbnail>
+<title>[COLOR=FFFF4500]A&E[/COLOR][COLOR=FF00FF00] * [/COLOR]</title>
+<link>rtmp://watch1.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<regex>
+<name>appid</name>
+<expres>\?xs=([^"]*)</expres>
+<page>http://www.ilive.to/view/56660</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>.*file: "([^."]*).flv</expres>
+<page>http://www.ilive.to/view/56660</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img46/5514/nc9o.png</thumbnail>
+</item>
+
+<item>
+<title>AMC</title>
+<link>rtmpe://81.17.27.182/goLive playpath=JXazhC6b72u1gWK swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed2.php?a=1113&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Animal Planet</title>
+<link>rtmpe://81.17.27.182/goLive playpath=7pWRn6jZSYGwFHP swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1114&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>At The Races [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://37.220.32.56:443/liverepeater playpath=13903 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream2.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://37.220.36.64:443/liverepeater playpath=20724 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream1.html token=#atd%#$ZH</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/at_the_races.jpg</thumbnail>
 </item>
 
 <item>
@@ -78,23 +94,10 @@
 </item>
 
 <item>
-<title>Premier Sports</title>
-<link>rtmp://37.220.36.70:443/liverepeater playpath=13903 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream2.html token=#atd%#$ZH</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/pp/premier_sports.png</thumbnail>
-</item>
-
-
-<item>
-<title>Golf channel live</title>
-<link>rtmp://37.220.32.36:443/liverepeater playpath=19340 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player2.php?id=19340&width=640&height=460 token=#atd%#$ZH</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/golf_channel_us.jpg</thumbnail>
-</item>
-
-<item>
 <title>Big Ten Network</title>
 <link>http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/big_ten_network.jpg</thumbnail>
-</item> 
+</item>
 
 <item>
 <title>Boxing</title>
@@ -108,18 +111,281 @@
 </item>
 
 <item>
+<title>Bravo</title>
+<link>rtmpe://live.envivo.pw/redirect playpath=FmmPzBH1dOnQMX0 swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1097&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>BT Sports 1 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://31.220.0.134:1935/live playpath=bt1dd swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1dd&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>http://212.250.46.44:8085/udp/239.100.0.227:3001 </sublink>
+</link>
+<thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
+</item>
+
+<item>
+<title>BT Sports 2 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmpe://play.finecast.tv/live playpath=hqbt2 swfUrl=http://www.finecast.tv/player/player.swf pageUrl=http://www.finecast.tv/embed.php?u=hqbt1&vw=600&vh=400 live=true timeout=10</sublink>
+ <sublink>http://212.250.46.44:8085/udp/239.100.0.228:3001 </sublink>
+ </link>
+<thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
+</item>
+
+<item>
+<title>CBS</title>
+<link>rtmpe://live.envivo.pw/redirect playpath=azmGtuELKBeufUN swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1068&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cbs.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>Chelsea TV</title>
+<link>rtmp://cp96798.live.edgefcs.net:443/live playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://www.nowwatchtvlive.com/channel-tab-frame/chelseatv-1.php live=1 timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/chelsea_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cinemax</title>
+<link>rtmp://31.204.128.75/live/ playpath=cinemax swfUrl=http://www.cdnbr.biz/swf/player.swf pageUrl=http://www.cdnbr.biz/mastertv/Cinemax.html live=1 timeout=10</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>CN</title>
+<link>rtmpe://93.120.27.88/live playpath=cartoonet100 swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=cartoonet100&vw=600&vh=430 live=1 timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network.jpg</thumbnail>
+</item>
+
+<item>
+<title>CNBC</title>
+<link>http://212.250.46.41:9987/udp/239.100.0.94:3001</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>CNN</title>
+<link>rtmp://rm-edge-5.cdn2.streamago.tv:80/streamagoedge/34960?idutente=34960&amp;idcanale=28965&amp;pwd= app=streamagoedge/34960?idutente=34960&amp;idcanale=28965&amp;pwd= playpath=28965 swfUrl=http://www.streamago.tv/inc/app/StreamVideo.swf live=true timeout=15 pageUrl=http://www.streamago.tv/channel/28965/default/iframe</link>
+<thumbnail>http://3.bp.blogspot.com/-uU6FfIfrUbc/UcoKoTLHFUI/AAAAAAAAvZ8/sJv_D5I0lyI/s1600/CNN+International+June+2013.jpg</thumbnail>
+</item>
+
+<item>
+<title>Comedy Central</title>
+<link>rtmpe://watch.playfooty.tv/live playpath=comedy1569 swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=comedy1569&vw=600&vh=430 live=1 timeout=10</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/3/34/Comedy_Central_UK.svg</thumbnail>
+</item>
+
+<item>
+<title>Concerts</title>
+<link>http://202.170.127.27:42579/3KgE47bC3d733sb3Igu-THsz/I_Concert_HD/chengye.m3u8</link>
+<thumbnail>http://graphics8.nytimes.com/images/2012/11/25/nyregion/25ARTSNJ2_SPAN/25ARTSNJ2_SPAN-articleLarge-v2.jpg</thumbnail>
+</item>
+
+<item>
+<title>CW</title>
+<link>rtmpe://live.envivo.pw/redirect playpath=KUrd8VgVeAXis42 swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1072&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/corp/tt/the_cw_network.jpg</thumbnail>
+</item>
+
+<item>
+<title>Discovery</title>
+<link>rtmp://188.0.226.100/lub/ playpath=odiscovery?v=dc7cfffc3f373cf4d2f4470ada489e81 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=odiscovery&vw=600&vh=450&typeplayer=0&domain=hdembed.com live=1 timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_us_hd.png</thumbnail>
+</item>
+
+<item>
+<title>E!Channel</title>
+<link>rtmp://live.cast-tv.us/stream playpath=z00029.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/embed.php?n=z00029&vw=650&vh=450&domain=dacastv.com live=1 timeout=10</link>
+<thumbnail>http://www.thewrap.com/sites/default/files/e-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>ESPN 2</title>
+<link>rtmpe://cdn.hdcast.org:1935/redirect playpath=espn2 swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=espn2&vw=620&vh=490&domain=cricfree.tv live=1 timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_2.jpg</thumbnail>
+</item>
+
+<item>
+<title>ESPN</title>
+<link>rtmp://46.246.29.130:1935/stream/46terg.stream swfUrl=http://04stream.com/p/boopo.swf live=1 </link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>ESPN uk</title>
+<link>rtmpe://play.finecast.tv/live playpath=espnukkk8 swfUrl=http://www.finecast.tv/player/player.swf pageUrl=http://www.finecast.tv/embed.php?u=espnukkk8&vw=600&vh=400 live=1 timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>Eurosport 1 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://31.220.0.104:1935/live playpath=eeee111 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=eeee111&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>rtmp://31.220.0.82:1935/live playpath=errru1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=errru1&vw=620&vh=490 live=1 timeout=10</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
+</item>
+ 
+<item>
+<title>Eurosport 2 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://31.220.0.82:1935/live playpath=euro122 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=euro122&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>http://62.176.99.49:5050/udp/239.255.0.2:5500</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
+</item>
+
+<item>
+<title>Extreme Sports</title>
+<link>http://178.49.132.73/streaming/extreme_sports/tvrec/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/extreme_sports_nl.jpg</thumbnail>
+</item>
+
+<item>
+<title>Fox Network</title>
+<link>rtmpe://live.envivo.pw/redirect playpath=Wrt71g0jgwxgsHq swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1073&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcR7Nc354gxQgw1dNlSeIQ7PcvYDOyHAMD7zWF_8a-ctJx6LLYY_</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports </title>
+<link>http://m24.megafun.vn/live.vs?c=vstv042&q=high</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_sports.jpg</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 1</title>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=fsssss1 swfUrl=http://ukcast.tv/player//player.swf pageUrl=http://www.ukcast.tv/embed.php?u=fsssss1&vw=579&vh=400 live=1 timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports1_us.png</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports Live</title>
+<link>rtmpe://live.envivo.pw/goLive playpath=6imQNYYIV0fPpxN swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=989&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://www.hubsecuritysystems.com/images/Fox%20Sports.jpg</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports Plus</title>
+<link>rtmp://27.254.84.3:1935/live/ftrtgd.stream</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_it_plus.png</thumbnail>
+</item>
+
+<item>
+<title>FX</title>
+<link>rtmpe://81.17.27.182/goLive playpath=ADceJfR2jyp68d3 swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1082&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fx_me.png</thumbnail>
+</item>
+
+<item>
+<title>Golf channel live</title>
+<link>rtmp://37.220.32.36:443/liverepeater playpath=19340 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player2.php?id=19340&width=640&height=460 token=#atd%#$ZH</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/golf_channel_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>Grand Prix </title>
+<link>rtsp://27.131.141.254:1935/grandprix/live</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/grand_prix_channel_th.png</thumbnail>
+</item>
+
+<item>
+<title>History UK</title>
+<link>rtmp://188.0.226.105/lub/ playpath=ohistory?v=c3dd459bb59bd16616c4bbb39ef6797b swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=ohistory&vw=600&vh=450&typeplayer=0&domain=hdembed.com live=1 timeout=10</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>HBO</title>
+<link>rtmp://s2.goodcast.tv/livetv/ playpath=hbopl swfUrl=http://adbuck.cc/player/jwplayer.flash.swf live=1 pageUrl=http://goodcast.tv/f/licz.html</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>ITV1</title>
+<link>rtmp://188.0.226.98/lub/ playpath=oitv1?v=0bbaa7c4f8a452420c95164ebf5db16f swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=oitv1&vw=600&vh=450&typeplayer=0&domain=desistreams.tv live=1 timeout=10</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>ITV2</title>
+<link>rtmp://188.0.226.104/lub/ playpath=oitv2?v=c4c31cb1d9e2da5d5b27abec47b81049 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=oitv2&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=1 timeout=10</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>MLB</title>
+<link>
+ <sublink>rtmp://37.220.32.53:443/liverepeater playpath=19337 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream14.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://37.220.36.69:443/liverepeater playpath=20831 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream16.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://37.220.36.18:443/liverepeater playpath=20826 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream7.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://37.220.36.64:443/liverepeater playpath=20827 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream8.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://37.220.32.50:443/liverepeater playpath=20829 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream11.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://37.220.32.50:443/liverepeater playpath=20833 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream12.html token=#atd%#$ZH</sublink>
+</link>
+<thumbnail>http://www.awfulannouncing.com/images/mlbnetworklogo.jpg</thumbnail>
+</item>
+
+<item>
 <title>Motors TV</title>
 <link>rtmp://206.190.140.36/live playpath=motorstv545?id=8408 Conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/motorstv545/1/600/450 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
 </item>
 
 <item>
-<title>At The Races [COLOR yellow]Multi Link[/COLOR]</title>
+<title>Nascar (At time of event)</title>
 <link>
- <sublink>rtmp://37.220.32.56:443/liverepeater playpath=13903 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream2.html token=#atd%#$ZH</sublink>
- <sublink>rtmp://37.220.36.64:443/liverepeater playpath=20724 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream1.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://37.220.32.56:443/liverepeater playpath=19341 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream18.html token=#atd%#$ZH</sublink>
+ <sublink>rtmp://173.193.223.185:443/liverepeater playpath=stream15 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/stream15.html token=#atd%#$ZH</sublink>
 </link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/at_the_races.jpg</thumbnail>
+<thumbnail>http://www.google.ca/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&docid=z5RjIZeuOs0A1M&tbnid=gminQm_tmhjR3M:&ved=0CAUQjRw&url=http%3A%2F%2Fwww.lyngsat-logo.com%2Foutdated%2Fx_11.html&ei=ub3_Ut_wAs3joAT4oILwAg&bvm=bv.61535280,d.cGU&psig=AFQjCNGhiaJyt2kxVp_DrKbtX5HZpVyINQ&ust=1392578357869334</thumbnail>
+</item>
+
+<item>
+<title>NBA TV [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=true pageUrl=http://www.04stream.com/</sublink>
+ <sublink>rtmp://watch.ilive.to:1935/edge playpath=roxl86nn1ddsugy swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf4</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
+</item>
+
+<title>NBC sports</title>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=ibrodnbcsp swfUrl=http://ukcast.tv/player//player.swf pageUrl=http://www.ukcast.tv/embed.php?u=ibrodnbcsp&vw=579&vh=400 live=1 timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nbc_sports_network.jpg</thumbnail>
+</item>
+
+<item>
+<title>NFL Network</title>
+<link>
+ <sublink>rtmp://31.7.58.250:1935/stream/ playpath=0XB9uW6aK5.stream swfUrl=http://04stream.com/p/boopo.swf pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=NFL live=1 timeout=10</sublink>
+ <sublink>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://04stream.com/p/boopo.swf live=1</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
+</item>
+
+<item>
+<title>NHL Network</title>
+<link>
+ <sublink>rtmp://37.220.32.44:443/liverepeater playpath=19341 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player6.php?id=19341&width=640&height=460 token=#atd%#$ZH</sublink>
+ <sublink>rtmp://37.220.36.69:443/liverepeater playpath=19341 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream18.html token=#atd%#$ZH</sublink>
+ </link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nhl_network.png</thumbnail>
+</item>
+
+<item>
+<title>Nick</title>
+<link>rtmpe://live.envivo.pw/redirect playpath=a0JvBbGBECShl4d swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1118&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Premier Sports</title>
+<link>rtmp://37.220.36.70:443/liverepeater playpath=13903 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream2.html token=#atd%#$ZH</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/premier_sports.png</thumbnail>
 </item>
 
 <item>
@@ -132,9 +398,9 @@
 </item>
 
 <item>
-<title>CNN</title>
-<link>rtmp://rm-edge-5.cdn2.streamago.tv:80/streamagoedge/34960?idutente=34960&amp;idcanale=28965&amp;pwd= app=streamagoedge/34960?idutente=34960&amp;idcanale=28965&amp;pwd= playpath=28965 swfUrl=http://www.streamago.tv/inc/app/StreamVideo.swf live=true timeout=15 pageUrl=http://www.streamago.tv/channel/28965/default/iframe</link>
-<thumbnail>http://3.bp.blogspot.com/-uU6FfIfrUbc/UcoKoTLHFUI/AAAAAAAAvZ8/sJv_D5I0lyI/s1600/CNN+International+June+2013.jpg</thumbnail>
+<title>Red Bull TV</title>
+<link>http://live.iphone.redbull.de.edgesuite.net/iphone.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-u2CGnReZK6E/T2Dyn-vHVxI/AAAAAAAAU3E/rlXNnRRB8yE/s1600/red-bull1.jpg</thumbnail>
 </item>
 
 <item>
@@ -144,23 +410,13 @@
 </item>
 
 <item>
-<title>WWE HD</title>
-<link>rtmp://94.242.228.194:80/liverepeater playpath=123639 swfUrl=http://cdn.goodcast.pw/players.swf pageUrl=http://goodcast.pw/streamn.php?id=123639&width=640&height=450 token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.jpg</thumbnail>
+<title>SKY F1 [COLOR yellow]Multi Link[/COLOR]</title>
+<link>
+ <sublink>rtmp://31.220.0.104:1935/live playpath=f1sports swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=f1sports&vw=620&vh=490 live=1 timeout=10</sublink>
+ <sublink>http://46.251.49.113:7777/udp/239.195.0.14:1234</sublink>
+</link>
+<thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
 </item>
-
-<item>
-<title>WWE TV</title>
-<link>rtmp://www.planeta-online.tv:1936/live/ playpath=wrestling.stream swfUrl=http://pro-wrestling.tv/uppod.swf pageUrl=http://gofirstrow.eu/watch/49045/1/watch-wwe-tv.html live=1 timeout=10</link>
-<thumbnail>http://images3.wikia.nocookie.net/__cb20120814164203/tvpedia/ru/images/6/60/Pro-Wrestling_TV.jpg</thumbnail>
-</item>
-
-<item>
-<title>Chelsea TV</title>
-<link>rtmp://cp96798.live.edgefcs.net:443/live playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://www.nowwatchtvlive.com/channel-tab-frame/chelseatv-1.php live=1 timeout=10</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/chelsea_tv.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>Sky Poker</title>
@@ -206,15 +462,6 @@
 <item>
 
 <item>
-<title>SKY F1 [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
- <sublink>rtmp://31.220.0.104:1935/live playpath=f1sports swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=f1sports&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>http://46.251.49.113:7777/udp/239.195.0.14:1234</sublink>
-</link>
-<thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
-</item>
-
-<item>
 <title>Sky Sports News [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://37.220.32.44:443/liverepeater playpath=23701 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=23701&width=700&height=500 token=#atd%#$ZH</sublink>
@@ -225,51 +472,15 @@
 </item>
 
 <item>
-<title>BT Sports 1 [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
- <sublink>rtmp://31.220.0.134:1935/live playpath=bt1dd swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1dd&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>http://212.250.46.44:8085/udp/239.100.0.227:3001 </sublink>
-</link>
-<thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
+<title>Spike TV</title>
+<link>rtmpe://live.envivo.pw/redirect playpath=OuTMDUaJxi3Hmqh swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1081&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/spike_tv.jpg</thumbnail>
 </item>
 
 <item>
-<title>BT Sports 2 [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
- <sublink>rtmpe://play.finecast.tv/live playpath=hqbt2 swfUrl=http://www.finecast.tv/player/player.swf pageUrl=http://www.finecast.tv/embed.php?u=hqbt1&vw=600&vh=400 live=true timeout=10</sublink>
- <sublink>http://212.250.46.44:8085/udp/239.100.0.228:3001 </sublink>
- </link>
-<thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
-</item>
-
-<item>
-<title>Eurosport 1 [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
- <sublink>rtmp://31.220.0.104:1935/live playpath=eeee111 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=eeee111&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>rtmp://31.220.0.82:1935/live playpath=errru1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=errru1&vw=620&vh=490 live=1 timeout=10</sublink>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
-</item>
- 
-<item>
-<title>Eurosport 2 [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
- <sublink>rtmp://31.220.0.82:1935/live playpath=euro122 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=euro122&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>http://62.176.99.49:5050/udp/239.255.0.2:5500</sublink>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
-</item>
-
-<item>
-<title>Ten Sports</title>
-<link>rtmp://31.220.0.134:1935/live playpath=thrillerx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=thrillerx&vw=620&vh=490 live=1 timeout=10</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in.jpg</thumbnail>
-</item>
-
-<item>
-<title>Star Sports</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv033&q=high</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/star_sports.png</thumbnail>
+<title>Sports Mix</title>
+<link>rtmp://46.246.29.140:1935/stream// playpath=fsgdf78gds.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=dircttv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/directv_sports_mix.png</thumbnail>
 </item>
 
 <item>
@@ -291,221 +502,9 @@
 </item>
 
 <item>
-<title>NHL Network</title>
-<link>
- <sublink>rtmp://37.220.32.44:443/liverepeater playpath=19341 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player6.php?id=19341&width=640&height=460 token=#atd%#$ZH</sublink>
- <sublink>rtmp://37.220.36.69:443/liverepeater playpath=19341 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream18.html token=#atd%#$ZH</sublink>
- </link>
-<thumbnail>http://www.lyngsat-logo.com/hires/nn/nhl_network.png</thumbnail>
-</item>
-
-<item>
-<title>NFL Network</title>
-<link>
- <sublink>rtmp://31.7.58.250:1935/stream/ playpath=0XB9uW6aK5.stream swfUrl=http://04stream.com/p/boopo.swf pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=NFL live=1 timeout=10</sublink>
-  <sublink>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://04stream.com/p/boopo.swf live=1</sublink>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
-</item>
-
-<item>
-<title>NBA TV [COLOR yellow]Multi Link[/COLOR]</title>
-<link>
- <sublink>rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=true  pageUrl=http://www.04stream.com/</sublink>
- <sublink>rtmp://watch.ilive.to:1935/edge playpath=roxl86nn1ddsugy swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to token=12345dsagf4</sublink>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
-</item>
-
-
-<item>
-<title>Extreme Sports</title>
-<link>http://178.49.132.73/streaming/extreme_sports/tvrec/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/extreme_sports_nl.jpg</thumbnail>
-</item>
-
-<item>
-<title>ESPN 2</title>
-<link>rtmpe://cdn.hdcast.org:1935/redirect playpath=espn2 swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=espn2&vw=620&vh=490&domain=cricfree.tv live=1 timeout=10</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_2.jpg</thumbnail>
-</item>
-
-<item>
-<title>ESPN</title>
-<link>rtmp://46.246.29.130:1935/stream/46terg.stream swfUrl=http://04stream.com/p/boopo.swf live=1 </link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
-</item>
-
-<item>
-<title>ESPN uk</title>
-<link>rtmpe://play.finecast.tv/live playpath=espnukkk8 swfUrl=http://www.finecast.tv/player/player.swf pageUrl=http://www.finecast.tv/embed.php?u=espnukkk8&vw=600&vh=400 live=1 timeout=10</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
-</item>
-
-<item>
-<title>Fox Sports </title>
-<link>http://m24.megafun.vn/live.vs?c=vstv042&q=high</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_sports.jpg</thumbnail>
-</item>
-
-<item>
-<title>Fox Sports Plus</title>
-<link>rtmp://27.254.84.3:1935/live/ftrtgd.stream</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_it_plus.png</thumbnail>
-</item>
-
-<item>
-<title>Fox Sports Live</title>
-<link>rtmpe://live.envivo.pw/goLive playpath=6imQNYYIV0fPpxN swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=989&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail>http://www.hubsecuritysystems.com/images/Fox%20Sports.jpg</thumbnail>
-</item>
-
-<item>
-<title>Fox Sports 1</title>
-<link>rtmpe://strm.ukcast.tv/redirect playpath=fsssss1 swfUrl=http://ukcast.tv/player//player.swf pageUrl=http://www.ukcast.tv/embed.php?u=fsssss1&vw=579&vh=400 live=1 timeout=10</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports1_us.png</thumbnail>
-</item>
-
-<item>
-<title>Red Bull TV</title>
-<link>http://live.iphone.redbull.de.edgesuite.net/iphone.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-u2CGnReZK6E/T2Dyn-vHVxI/AAAAAAAAU3E/rlXNnRRB8yE/s1600/red-bull1.jpg</thumbnail>
-</item>
-
-<item>
-<title>Spike TV</title>
-<link>rtmpe://live.envivo.pw/redirect playpath=OuTMDUaJxi3Hmqh swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1081&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/spike_tv.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sports Mix</title>
-<link>rtmp://46.246.29.140:1935/stream// playpath=fsgdf78gds.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=dircttv</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/dd/directv_sports_mix.png</thumbnail>
-</item>
-
-<item>
-<title>Grand Prix </title>
-<link>rtsp://27.131.141.254:1935/grandprix/live</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/grand_prix_channel_th.png</thumbnail>
-</item>
-
-<title>NBC sports</title>
-<link>rtmpe://strm.ukcast.tv/redirect playpath=ibrodnbcsp swfUrl=http://ukcast.tv/player//player.swf pageUrl=http://www.ukcast.tv/embed.php?u=ibrodnbcsp&vw=579&vh=400 live=1 timeout=10</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nbc_sports_network.jpg</thumbnail>
-</item>
-
-<item>
-<title>CN</title>
-<link>rtmpe://93.120.27.88/live playpath=cartoonet100 swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=cartoonet100&vw=600&vh=430 live=1 timeout=10</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network.jpg</thumbnail>
-</item>
-
-<item>
-<title>Discovery</title>
-<link>rtmp://188.0.226.100/lub/ playpath=odiscovery?v=dc7cfffc3f373cf4d2f4470ada489e81 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=odiscovery&vw=600&vh=450&typeplayer=0&domain=hdembed.com live=1 timeout=10</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_us_hd.png</thumbnail>
-</item> 
-
-<item>
-<title>CNBC</title>
-<link>http://212.250.46.41:9987/udp/239.100.0.94:3001</link>
-<thumbnail> </thumbnail>
-</item>
-
-
-<item>
-<title>HBO</title>
-<link>rtmp://s2.goodcast.tv/livetv/ playpath=hbopl swfUrl=http://adbuck.cc/player/jwplayer.flash.swf live=1 pageUrl=http://goodcast.tv/f/licz.html</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Cinemax</title>
-<link>rtmp://31.204.128.75/live/ playpath=cinemax swfUrl=http://www.cdnbr.biz/swf/player.swf pageUrl=http://www.cdnbr.biz/mastertv/Cinemax.html live=1 timeout=10</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>MLB</title>
-<link>
- <sublink>rtmp://37.220.32.53:443/liverepeater playpath=19337 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream14.html token=#atd%#$ZH</sublink>
- <sublink>rtmp://37.220.36.69:443/liverepeater playpath=20831 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream16.html token=#atd%#$ZH</sublink>
- <sublink>rtmp://37.220.36.18:443/liverepeater playpath=20826 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream7.html token=#atd%#$ZH</sublink>
- <sublink>rtmp://37.220.36.64:443/liverepeater playpath=20827 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream8.html token=#atd%#$ZH</sublink>
- <sublink>rtmp://37.220.32.50:443/liverepeater playpath=20829 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream11.html token=#atd%#$ZH</sublink>
- <sublink>rtmp://37.220.32.50:443/liverepeater playpath=20833 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream12.html token=#atd%#$ZH</sublink>
-</link>
-<thumbnail>http://www.awfulannouncing.com/images/mlbnetworklogo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Nascar (At time of event)</title>
-<link>
- <sublink>rtmp://37.220.32.56:443/liverepeater playpath=19341 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream18.html token=#atd%#$ZH</sublink>
- <sublink>rtmp://173.193.223.185:443/liverepeater playpath=stream15 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/stream15.html token=#atd%#$ZH</sublink>
-</link>
-<thumbnail>http://www.google.ca/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&docid=z5RjIZeuOs0A1M&tbnid=gminQm_tmhjR3M:&ved=0CAUQjRw&url=http%3A%2F%2Fwww.lyngsat-logo.com%2Foutdated%2Fx_11.html&ei=ub3_Ut_wAs3joAT4oILwAg&bvm=bv.61535280,d.cGU&psig=AFQjCNGhiaJyt2kxVp_DrKbtX5HZpVyINQ&ust=1392578357869334</thumbnail>
-</item>
-
-<item>
-<title>ITV1</title>
-<link>rtmp://188.0.226.98/lub/ playpath=oitv1?v=0bbaa7c4f8a452420c95164ebf5db16f swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=oitv1&vw=600&vh=450&typeplayer=0&domain=desistreams.tv live=1 timeout=10</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>ITV2</title>
-<link>rtmp://188.0.226.104/lub/ playpath=oitv2?v=c4c31cb1d9e2da5d5b27abec47b81049 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=oitv2&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=1 timeout=10</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>History UK</title>
-<link>rtmp://188.0.226.105/lub/ playpath=ohistory?v=c3dd459bb59bd16616c4bbb39ef6797b swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=ohistory&vw=600&vh=450&typeplayer=0&domain=hdembed.com live=1 timeout=10</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Bravo</title>
-<link>rtmpe://live.envivo.pw/redirect playpath=FmmPzBH1dOnQMX0 swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1097&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>CBS</title>
-<link>rtmpe://live.envivo.pw/redirect playpath=azmGtuELKBeufUN swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1068&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/cbs.png</thumbnail>
-</item>
-
-<item>
-<title>CW</title>
-<link>rtmpe://live.envivo.pw/redirect playpath=KUrd8VgVeAXis42 swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1072&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/corp/tt/the_cw_network.jpg</thumbnail>
-</item>
-
-<item>
-<title>FX</title>
-<link>rtmpe://81.17.27.182/goLive playpath=ADceJfR2jyp68d3 swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1082&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fx_me.png</thumbnail>
-</item>
-
-<item>
-<title>Nick</title>
-<link>rtmpe://live.envivo.pw/redirect playpath=a0JvBbGBECShl4d swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1118&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>TNT</title>
-<link>rtmpe://81.17.27.182/goLive playpath=wG35AzCNwnZU5vj swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1084&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tnt_lam.png</thumbnail>
-</item>
-
-<item>
-<title>USA</title>
-<link>rtmpe://live.envivo.pw/redirect playpath=DrpvIheSRTbbeB7 swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1085&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tnt_lam.png</thumbnail>
+<title>Star Sports</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv033&q=high</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/star_sports.png</thumbnail>
 </item>
 
 <item>
@@ -515,53 +514,46 @@
 </item>
 
 <item>
-<title>ABC</title>
-<link>rtmpe://live.envivo.pw/redirect playpath=zJtx6glRuebarG8 swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1067&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/abc_us.png</thumbnail>
+<title>Ten Sports</title>
+<link>rtmp://31.220.0.134:1935/live playpath=thrillerx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=thrillerx&vw=620&vh=490 live=1 timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in.jpg</thumbnail>
 </item>
 
 <item>
-<title>Animal Planet</title>
-<link>rtmpe://81.17.27.182/goLive playpath=7pWRn6jZSYGwFHP swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1114&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail> </thumbnail>
+<title>TNT</title>
+<link>rtmpe://81.17.27.182/goLive playpath=wG35AzCNwnZU5vj swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1084&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tnt_lam.png</thumbnail>
 </item>
 
 <item>
-<title>AMC</title>
-<link>rtmpe://81.17.27.182/goLive playpath=JXazhC6b72u1gWK swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed2.php?a=1113&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Fox Network</title>
-<link>rtmpe://live.envivo.pw/redirect playpath=Wrt71g0jgwxgsHq swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1073&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
-<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcR7Nc354gxQgw1dNlSeIQ7PcvYDOyHAMD7zWF_8a-ctJx6LLYY_</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR=FFFF4500]A&E[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://watch1.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
-<regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view/56660</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>.*file: "([^."]*).flv</expres>
-<page>http://www.ilive.to/view/56660</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>tok</name>
-<expres>t....":"([^."]*)</expres>
-<page>http://www.ilive.to/server.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
+<title>TSN Radio</title>
+<link>rtmp://cp111665.live.edgefcs.net:1935/live playpath=cfrn-aac@43560 swfUrl=http://proxy.amri.ca/sites/default/files/player/swf/player.swf?cb=1394128179150 pageUrl=http://player.tsn1260.ca/ live=1 timeout=10
 </link>
-<thumbnail>http://imageshack.us/a/img46/5514/nc9o.png</thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000529138008/c00d1d089c391f03aec64a84dcad4451.jpeg</thumbnail>
+</item>
+
+<item>
+<title>USA</title>
+<link>rtmpe://live.envivo.pw/redirect playpath=DrpvIheSRTbbeB7 swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1085&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tnt_lam.png</thumbnail>
+</item>
+
+<item>
+<title>Vh1 Classic</title>
+<link>http://62.176.99.49:5050/udp/239.255.0.182:5500</link>
+<thumbnail>http://www.vh1.com/franchises/config/themes/vh1classic/281x211_logo.png</thumbnail>
+</item>
+
+<item>
+<title>WWE HD</title>
+<link>rtmp://94.242.228.194:80/liverepeater playpath=123639 swfUrl=http://cdn.goodcast.pw/players.swf pageUrl=http://goodcast.pw/streamn.php?id=123639&width=640&height=450 token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.jpg</thumbnail>
+</item>
+
+<item>
+<title>WWE TV</title>
+<link>rtmp://www.planeta-online.tv:1936/live/ playpath=wrestling.stream swfUrl=http://pro-wrestling.tv/uppod.swf pageUrl=http://gofirstrow.eu/watch/49045/1/watch-wwe-tv.html live=1 timeout=10</link>
+<thumbnail>http://images3.wikia.nocookie.net/__cb20120814164203/tvpedia/ru/images/6/60/Pro-Wrestling_TV.jpg</thumbnail>
 </item>
 
 
