@@ -30,16 +30,12 @@
 #############################################################################################################################
 
 <item>
-<title> test</title>
-<link>http://nlds145.cdnak.neulion.com/nlds/nhl/rangers/as/live/rangers_hd_1600_ipad.m3u8|User-Agent=PS4 libhttp/1.60 (PlayStation 4) Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0)</link>
+<title> test2</title>
+<link>http://nlds145.cdnak.neulion.com/nlds/nhl/rangers/as/live/rangers_hd_1600_ipad.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</link>
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>test 2</title>
-<link>http://nlds145.cdnak.neulion.com/nlds/nhl/rangers/as/live/rangers_hd_1600_ipad.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</link>
-<thumbnail> </thumbnail>
-</item> 
+
 
 <item>
 <title>4 New York</title>
