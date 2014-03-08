@@ -517,6 +517,12 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syfy.jpg</thumbnail>
 </item>
 
+item>
+<title>TBS</title>
+<link>rtmpe://live.envivo.pw/redirect playpath=QB80x8dFgycQ8im swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1083&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tbs_east.png</thumbnail>
+</item>
+
 <item>
 <title>Ten Sports</title>
 <link>rtmp://31.220.0.134:1935/live playpath=thrillerx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=thrillerx&vw=620&vh=490 live=1 timeout=10</link>
