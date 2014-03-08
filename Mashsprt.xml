@@ -30,6 +30,18 @@
 #############################################################################################################################
 
 <item>
+<title>test</title>
+<link>http://nlds145.cdnak.neulion.com/nlds/nhl/rangers/as/live/rangers_hd_1600_ipad.m3u8|User-Agent=PS4 libhttp/1.60 (PlayStation 4) Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0)</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>test2</title>
+<link>http://nlds145.cdnak.neulion.com/nlds/nhl/rangers/as/live/rangers_hd_1600_ipad.m3u8|User-Agent=Mozilla/5.0 {PS4 libhttp/1.0.0(PlayStation 4 1.51) AppleWebKit/536.26 (KHTML, like Gecko)</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
 <title>4 New York</title>
 <link>rtmp://188.0.226.101/hot/ playpath=inbc?v=1d4920678b8d130146927678f50eb514 Conn=S:OK swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=inbc&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=1 timeout=10</link>
 <thumbnail>http://media.nbcnewyork.com/images/654*369/4NY_LOGO_722x406_fix.jpg</thumbnail>
