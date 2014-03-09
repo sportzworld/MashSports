@@ -202,7 +202,7 @@
 
 <item>
 <title>E!Channel</title>
-<link>rtmp://live.cast-tv.us/stream playpath=z00029.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/embed.php?n=z00029&vw=650&vh=450&domain=dacastv.com live=1 timeout=10</link>
+<link>http://178.63.101.141:8000/5.ch?u=dummy:p=1234</link>
 <thumbnail>http://www.thewrap.com/sites/default/files/e-logo.jpg</thumbnail>
 </item>
 
