@@ -321,6 +321,12 @@
 </item>
 
 <item>
+<title>ITV4</title>
+<link>rtmp://37.220.36.70:443/liverepeater playpath=13903 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream2.html token=#atd%#$ZH</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
 <title>MLB</title>
 <link>
  <sublink>rtmp://37.220.32.54:443/liverepeater playpath=19340 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream19.html token=#atd%#$ZH</sublink>
