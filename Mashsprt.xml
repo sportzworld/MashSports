@@ -93,7 +93,7 @@
 
 <item>
 <title>BBC One</title>
-<link>rtmp://173.193.205.126/live<playpath>188074?313339343434373336305f6164343162376533643535636635656130646564323965636565353962663366 <swfUrl>http://static.castalba.tv/player5.9.swf <pageUrl>http://castalba.tv/embed.php?cid=15584&wh=650&ht=480&r=www.stream2watch.me</link>
+<link>rtmp://173.193.205.126/live playpath=188074?313339343434373336305f6164343162376533643535636635656130646564323965636565353962663366 swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=15584&wh=650&ht=480&r=www.stream2watch.me live=1 timeout=10</link>
 <thumbnail>http://newsimg.bbc.co.uk/media/images/42131000/jpg/_42131100_surfer_cricle_416.jpg</thumbnail>
 </item>
 
