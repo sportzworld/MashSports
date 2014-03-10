@@ -543,6 +543,12 @@ item>
 </item>
 
 <item>
+<title>Ten Cricket</title>
+<link>rtmp://206.190.140.36/live playpath=eewaztencric?id=8730 Conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/eewaztencric/2/600/420 live=1 timeout=10</link>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcT_qdZxZTR4Gz0BiIn2Vy4JWOD17rCN8mIdTdhBRcW9dc-LNwE4</thumbnail>
+</item>
+
+<item>
 <title>Ten Sports</title>
 <link>rtmp://31.220.0.134:1935/live playpath=thrillerx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=thrillerx&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in.jpg</thumbnail>
