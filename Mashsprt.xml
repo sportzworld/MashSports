@@ -352,7 +352,7 @@
 
 <item>
 <title>Motors TV</title>
-<link>rtmp://173.192.200.81:443/kuyo playpath=motorstv30?id=fc6fe99517d1ae5fc8edfd857a3d2d40&pid=3135342e32302e3133392e3633 Conn=S:OK swfUrl=http://yukons.net/yplay2.swf pageUrl=http://yukons.net/embed/3644364637343646373237333734373633333330/05a76e2032245b39e42d2cd116582640/650/500 live=1 timeout=10</link>
+<link>rtmp://46.28.50.116/live playpath=c3motorstv?id=64110 Conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/c3motorstv/1/650/500 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
 </item>
 
