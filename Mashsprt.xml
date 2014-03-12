@@ -158,7 +158,7 @@
 
 <item>
 <title>Chelsea TV</title>
-<link>rtmp://cp96798.live.edgefcs.net:443/live playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://www.nowwatchtvlive.com/channel-tab-frame/chelseatv-1.php live=1 timeout=10</link>
+<link>rtmp://cp96798.live.edgefcs.net/live playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://php.chol.com/~noza/player/player316.swf?backcolor=0x000000&frontcolor=0xFFFFFF&file=rtmp://cp96798.live.edgefcs.net/live&id=ChelTV_Ch01_1000k@26291&overstretch=fit pageUrl=http://www.fancystreems.com/indexsports.html live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/chelsea_tv.jpg</thumbnail>
 </item>
 
