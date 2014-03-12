@@ -549,7 +549,7 @@ item>
 
 <item>
 <title>Ten Action</title>
-<link>rtmp://31.220.0.134:1935/live playpath=thrillerx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=thrillerx&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtmpe://cdn.hdcast.org:1935/redirect playpath=tenac swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=tenac&vw=620&vh=490&domain=cricfree.tv live=1 timeout=10</link>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcQGs88SIW6cE9M2UXthCo9FMUgjeoNA3WjZi1jNjCXpy7pbJDHZ</thumbnail>
 </item>
 
