@@ -572,6 +572,12 @@ item>
 </item>
 
 <item>
+<title>TSN 2</title>
+<link>rtmp://174.36.251.131:443/liverepeater playpath=stream2 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/stream2.html token=#atd%#$ZH</link>
+<thumbnail>http://olympics.cbc.ca/mm/Photo/Photo/General/03/40/77/34077_G08_W01.jpg</thumbnail>
+</item>
+
+<item>
 <title>TSN Radio</title>
 <link>rtmp://cp111665.live.edgefcs.net:1935/live playpath=cfrn-aac@43560 swfUrl=http://proxy.amri.ca/sites/default/files/player/swf/player.swf?cb=1394128179150 pageUrl=http://player.tsn1260.ca/ live=1 timeout=10
 </link>
