@@ -320,7 +320,7 @@
 
 <item>
 <title>HBO</title>
-<link>rtmp://s2.goodcast.tv/livetv/ playpath=hbopl swfUrl=http://adbuck.cc/player/jwplayer.flash.swf live=1 pageUrl=http://goodcast.tv/f/licz.html</link>
+<link>rtmp://188.0.226.104/hot/ playpath=hbo?v=952e976ec4e0467f87ccea3409ad9a2a swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=HBO&vw=650&vh=450&typeplayer=0&domain=www.castok.com live=1 timeout=10</link>
 <thumbnail> </thumbnail>
 </item>
 
