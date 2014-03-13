@@ -259,6 +259,12 @@
 </item>
 
 <item>
+<title>Food Network</title>
+<link>rtmp://cp106256.live.edgefcs.net:443/live/ playpath=iwantvfoodnetwork-600@130501 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.streamsportlive.me/35.html live=1 timeout=10</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSp0qxi0pjsfbu75mxH5J0ug19H9QMeWQO4XptghdJKdQ01NyZUPg</thumbnail>
+</item>
+
+<item>
 <title>Fox Network</title>
 <link>rtmpe://live.envivo.pw/redirect playpath=Wrt71g0jgwxgsHq swfUrl=http://www.envivo.pw/jwplayer/player-licensed.swf pageUrl=http://envivo.pw/embed.php?a=1073&id=&width=579&height=400&autostart=true&strech= token=OOG17t.x#K9Vh#|</link>
 <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcR7Nc354gxQgw1dNlSeIQ7PcvYDOyHAMD7zWF_8a-ctJx6LLYY_</thumbnail>
