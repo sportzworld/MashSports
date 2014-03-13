@@ -365,7 +365,7 @@
 
 <item>
 <title>Motors TV</title>
-<link>rtmp://46.28.50.116/live playpath=c3motorstv?id=64110 Conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/c3motorstv/1/650/500 live=1 timeout=10</link>
+<link>rtmp://159.253.131.73/live playpath=efmotorstv33?id=8925 Conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/efmotorstv33/1/600/440 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
 </item>
 
