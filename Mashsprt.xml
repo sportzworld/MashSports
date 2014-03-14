@@ -302,7 +302,7 @@
 
 <item>
 <title>Golf channel live</title>
-<link>rtmp://188.0.226.101/hot/ playpath=inbc?v=1d4920678b8d130146927678f50eb514 Conn=S:OK swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=inbc&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=1 timeout=10</link>
+<link>rtmp://37.220.32.53:443/liverepeater playpath=19340 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream19.html token=#atd%#$ZH</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/golf_channel_us.jpg</thumbnail>
 </item>
 
