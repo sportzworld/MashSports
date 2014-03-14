@@ -455,7 +455,7 @@
 <title>SKY F1 [COLOR yellow]Multi Link[/COLOR]</title>
 <link>
  <sublink>rtmp://31.220.0.82:1935/live playpath=ssf1rx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ssf1rx&vw=620&vh=490 live=1 timeout=10</sublink>
- <sublink>http://46.251.49.113:7777/udp/239.195.0.14:1234</sublink>
+ <sublink>rtmp://94.242.228.178:80/liverepeater playpath=141891 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.pw/ token=Fo5_n0w?U.rA6l3-70w47ch</sublink>
 </link>
 <thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
 </item>
