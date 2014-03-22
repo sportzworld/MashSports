@@ -22,10 +22,7 @@
 <thumbnail> </thumbnail>
 </info>
 
-<name>[COLOR=FF00FF00]-------[/COLOR][COLOR=FFFF4500]DVDs and Docs[/COLOR][COLOR=FF00FF00]------[/COLOR]</name>
-<link>https://raw.githubusercontent.com/mash2k3/MashSports/master/Buzzy%20Stream%20Schedule.xml</link>
-<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
-<date>  </date>
+
 
 <popup>
 <name>[COLOR orange]Click here for: World Clock Time Zones[/COLOR]</name>
@@ -57,7 +54,10 @@
 #############################################################################################################################
 
 #############################################################################################################################
-
+<name>Buzzy test</name>
+<link>https://raw.githubusercontent.com/mash2k3/MashSports/master/Buzzy%20Stream%20Schedule.xml</link>
+<thumbnail></thumbnail>
+<date> </date>
 
 
 
