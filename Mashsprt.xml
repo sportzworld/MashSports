@@ -273,7 +273,7 @@
 
 <item>
 <title>[COLOR bisque]Motors TV[/COLOR]</title>
-<link>rtmp://198.144.153.144:443/kuyo playpath=motorstvx3?id=fc6fe99517d1ae5fc8edfd857a3d2d40&pid=3135342e32302e3133392e3633 Conn=S:OK swfUrl=http://yukons.net/yplay2.swf pageUrl=http://yukons.net/embed/3644364637343646373237333734373637383333/13c8470456288d79458e2e6733a2b336/650/500 live=1 timeout=10</link>
+<link>rtmp://46.23.67.114/live playpath=x3motorstv?id=64707 Conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/x3motorstv/1/650/500 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
 </item>
 
