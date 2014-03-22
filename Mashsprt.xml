@@ -22,12 +22,6 @@
 <thumbnail> </thumbnail>
 </info>
 
-#######################################################################################################################################
-<name>Buzzy Schedule TEST</name>
-<link>https://raw.githubusercontent.com/mash2k3/MashSports/master/Buzzy%20Stream%20Schedule</link>
-<thumbnail>http://ww1.prweb.com/prfiles/2011/07/29/8681680/BMP_Multimedia_Logo_cropped_EY.jpg </thumbnail>
-<date>  </date>
-#######################################################################################################################################
 
 <popup>
 <name>[COLOR orange]Click here for: World Clock Time Zones[/COLOR]</name>
@@ -60,6 +54,12 @@
 
 #############################################################################################################################
 
+#######################################################################################################################################
+<name>Buzzy Schedule TEST</name>
+<link>https://raw.githubusercontent.com/mash2k3/MashSports/master/Buzzy%20Stream%20Schedule</link>
+<thumbnail>http://ww1.prweb.com/prfiles/2011/07/29/8681680/BMP_Multimedia_Logo_cropped_EY.jpg </thumbnail>
+<date>  </date>
+#######################################################################################################################################
 
 
 <item>
