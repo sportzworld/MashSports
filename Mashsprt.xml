@@ -401,7 +401,7 @@
 
 <item>
 <title>[COLOR bisque]Ten Sports[/COLOR]</title>
-<link>rtmp://206.190.140.20/live playpath=ptvkahzss?id=9379 Conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/ptvkahzss/2/600/420 live=1 timeout=10</link>
+<link>rtmp://31.220.0.82:1935/live playpath=tensports swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=tensports&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in.jpg</thumbnail>
 </item>
 
