@@ -405,11 +405,7 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR bisque]Viasat Hockey[/COLOR]</title>
-<link>rtmp://173.192.153.133:443/liverepeater playpath=stream8 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://cdn.kingofplayers.com/stream8.html token=#atd%#$ZH</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/vv/viasat_hockey_se.png</thumbnail>
-</item>
+
 
 <item>
 <title>[COLOR bisque]Vh1 Classic[/COLOR]</title>
