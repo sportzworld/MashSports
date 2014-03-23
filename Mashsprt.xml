@@ -102,13 +102,13 @@
  <sublink>rtmp://173.192.81.170:443/liverepeater playpath=stream14 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/stream14.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://5.63.151.164:443/liverepeater playpath=stream15 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/stream15.html token=#atd%#$ZH</sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail> </thumbnail>
 </item>
 
 <item>
 <title>[COLOR aqua] * Movies[/COLOR]</title>
 <link>http://213.254.245.155/flv/52d8af0b180fe/testat123?0.19562512915581465</link>
-<thumbnail></thumbnail>
+<thumbnail> </thumbnail>
 </item>
 
 
