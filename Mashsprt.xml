@@ -5,7 +5,6 @@
 <info>
 <message>[COLOR blue]Buzzy Sports Still Buzzin[/COLOR]</message>
 <thumbnail></thumbnail>
-<fanart>https://raw.github.com/mash2k3/MashSports/master/Images/sky.jpg</fanart>
 </info>
 
 <info>
@@ -103,13 +102,13 @@
  <sublink>rtmp://173.192.81.170:443/liverepeater playpath=stream14 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/stream14.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://5.63.151.164:443/liverepeater playpath=stream15 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/stream15.html token=#atd%#$ZH</sublink>
 </link>
-<thumbnail>http://1.bp.blogspot.com/-qOY7M5uJwq4/ThoWPm3SsOI/AAAAAAAAH9E/PqBd-hC1qtk/s1600/cool%2Bsports%2Bcars-3.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR aqua] * Movies[/COLOR]</title>
 <link>http://213.254.245.155/flv/52d8af0b180fe/testat123?0.19562512915581465</link>
-<thumbnail>http://indienyc.com/wp-content/uploads/2012/07/cinema1.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 
