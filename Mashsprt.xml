@@ -1,11 +1,10 @@
 #######################################################################################################################################
 <poster>Buzzy's Sport's</poster>
-<fanart>https://raw.github.com/mash2k3/MashSports/master/Images/skull.jpg</fanart>
+<fanart>https://raw.github.com/mash2k3/MashSports/master/Images/buzz.jpg</fanart>
 #######################################################################################################################################
 <info>
 <message>[COLOR blue]Buzzy Sports Still Buzzin[/COLOR]</message>
-<thumbnail></thumbnail>
-<fanart>https://raw.github.com/mash2k3/MashSports/master/Images/sky.jpg</fanart>
+<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/buzz.jpg</thumbnail>
 </info>
 
 <info>
@@ -34,19 +33,19 @@
 <popup>
 <name>[COLOR aqua]Click here for:---TODAY'S Buzzy Stream Schedule A---[/COLOR][COLOR red]UK Time[/COLOR]</name>
 <popImage>https://dl.dropboxusercontent.com/u/125248976/nutjob%20schedule%20a.PNG</popImage>
-<thumbnail>http://ww1.prweb.com/prfiles/2011/07/29/8681680/BMP_Multimedia_Logo_cropped_EY.jpg</thumbnail>
+<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/buzz.jpg</thumbnail>
 </popup>
 
 <popup>
 <name>[COLOR aqua]Click here for:----TODAY'S Buzzy Stream Schedule B----[/COLOR][COLOR red]UK Time[/COLOR]</name>
 <popImage>https://dl.dropboxusercontent.com/u/125248976/nutjob%20schedul%20b.PNG</popImage>
-<thumbnail>http://ww1.prweb.com/prfiles/2011/07/29/8681680/BMP_Multimedia_Logo_cropped_EY.jpg</thumbnail>
+<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/buzz.jpg</thumbnail>
 </popup>
 
 <popup>
 <name>[COLOR aqua]Click here for:-----TODAY'S Buzzy Stream Schedule C-----[/COLOR][COLOR red]UK Time[/COLOR]</name>
 <popImage>https://dl.dropboxusercontent.com/u/125248976/Nutjob%20Schedule%20c.PNG</popImage>
-<thumbnail>http://ww1.prweb.com/prfiles/2011/07/29/8681680/BMP_Multimedia_Logo_cropped_EY.jpg</thumbnail>
+<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/buzz.jpg</thumbnail>
 </popup>
 
 
@@ -103,31 +102,31 @@
  <sublink>rtmp://173.192.81.170:443/liverepeater playpath=stream14 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/stream14.html token=#atd%#$ZH</sublink>
  <sublink>rtmp://5.63.151.164:443/liverepeater playpath=stream15 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/stream15.html token=#atd%#$ZH</sublink>
 </link>
-<thumbnail>http://1.bp.blogspot.com/-qOY7M5uJwq4/ThoWPm3SsOI/AAAAAAAAH9E/PqBd-hC1qtk/s1600/cool%2Bsports%2Bcars-3.jpg</thumbnail>
+<thumbnail> </thumbnail>
 </item>
 
 <item>
 <title>[COLOR aqua] * Movies[/COLOR]</title>
 <link>http://213.254.245.155/flv/52d8af0b180fe/testat123?0.19562512915581465</link>
-<thumbnail>http://indienyc.com/wp-content/uploads/2012/07/cinema1.jpg</thumbnail>
+<thumbnail> </thumbnail>
 </item>
 
 
 
 <item>
-<title>[COLOR bisque]A&e[/COLOR]</title>
+<title>[COLOR bisque]A&E[/COLOR]</title>
 <link>rtmpe://107.150.45.130:1935/goLive playpath=nJlMXBYX7p9ZVsJ swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|</link>
 <thumbnail>http://godish.com/media/43701/a_e-dish-logo.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR bisque]Abc[/COLOR]</title>
+<title>[COLOR bisque]ABC[/COLOR]</title>
 <link>rtmp://31.220.0.86:1935/live/ playpath=abc swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.reyhq.com/embed2.php?live=abc&vw=600&vh=450 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/abc_us.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR bisque]Amc[/COLOR]</title>
+<title>[COLOR bisque]AMC[/COLOR]</title>
 <link>rtmpe://173.208.201.162:1935/goLive playpath=JXazhC6b72u1gWK swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|</link>
 <thumbnail>http://holygrenade.com/wp-content/uploads/2013/09/amc-tv-channel.jpg </thumbnail>
 </item>
