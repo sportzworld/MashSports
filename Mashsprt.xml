@@ -219,9 +219,15 @@
 </item>
 
 <item>
-<title>[COLOR bisque]ESPN [/COLOR]</title>
+<title>[COLOR bisque]ESPN UK[/COLOR]</title>
 <link>rtmpe://play.finecast.tv/live playpath=espnukkk8 swfUrl=http://www.finecast.tv/player/player.swf pageUrl=http://www.finecast.tv/embed.php?u=espnukkk8&vw=600&vh=400 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR bisque]ESPN HD[/COLOR]</title>
+<link>rtmp://37.220.36.68:443/liverepeater playpath=13903 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/stream2.html token=#atd%#$ZH</link>
+<thumbnail>http://www.colortimepictures.com/images/logos/espnhdBIG.jpg</thumbnail>
 </item>
 
 <item>
