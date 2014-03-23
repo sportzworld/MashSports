@@ -4,7 +4,7 @@
 #######################################################################################################################################
 <info>
 <message>[COLOR blue]Buzzy Sports Still Buzzin[/COLOR]</message>
-<thumbnail></thumbnail>
+<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/buzz.jpg</thumbnail>
 </info>
 
 <info>
@@ -33,19 +33,19 @@
 <popup>
 <name>[COLOR aqua]Click here for:---TODAY'S Buzzy Stream Schedule A---[/COLOR][COLOR red]UK Time[/COLOR]</name>
 <popImage>https://dl.dropboxusercontent.com/u/125248976/nutjob%20schedule%20a.PNG</popImage>
-<thumbnail> </thumbnail>
+<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/buzz.jpg</thumbnail>
 </popup>
 
 <popup>
 <name>[COLOR aqua]Click here for:----TODAY'S Buzzy Stream Schedule B----[/COLOR][COLOR red]UK Time[/COLOR]</name>
 <popImage>https://dl.dropboxusercontent.com/u/125248976/nutjob%20schedul%20b.PNG</popImage>
-<thumbnail> </thumbnail>
+<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/buzz.jpg</thumbnail>
 </popup>
 
 <popup>
 <name>[COLOR aqua]Click here for:-----TODAY'S Buzzy Stream Schedule C-----[/COLOR][COLOR red]UK Time[/COLOR]</name>
 <popImage>https://dl.dropboxusercontent.com/u/125248976/Nutjob%20Schedule%20c.PNG</popImage>
-<thumbnail> </thumbnail>
+<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/buzz.jpg</thumbnail>
 </popup>
 
 
