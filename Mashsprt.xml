@@ -1,6 +1,6 @@
 #######################################################################################################################################
 <poster>Buzzy Sports</poster>
-<fanart>https://raw.githubusercontent.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
+<fanart></fanart>
 #######################################################################################################################################
 <info>
 <message>[COLOR blue]Buzzy Sports Still Buzzin[/COLOR]</message>
@@ -191,9 +191,9 @@
 
 
 <item>
-<title>[COLOR bisque]CTV[/COLOR]</title>
+<title>[COLOR bisque]C TV[/COLOR]</title>
 <link>http://cnmg.live.cdn.bitgravity.com/cnmg/live/ctv</link>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTe0xL2duMlGD5VOyOFQx7sCdafzHR5L94QAfM0xNXTGUL-EbTG</thumbnail>
+<thumbnail>http://www.cartoonbrew.com/wp-content/uploads/cbtv_logo_f.jpg</thumbnail>
 </item>
 
 
