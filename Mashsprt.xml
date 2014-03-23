@@ -238,7 +238,7 @@
 
 <item>
 <title>[COLOR bisque]Eurosport 1[/COLOR]</title>
-<link>rtmp://31.220.0.133:1935/live playpath=euro1rx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=euro1rx&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtmp://akamai.kbps.tv:1935/live playpath=EurosportEN1?=891bf5d412562532b3fb60b4f0593194 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=EurosportEN1&width=530&height=400&domain=www.igoal.tv live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
 
