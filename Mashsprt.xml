@@ -33,19 +33,19 @@
 <popup>
 <name>[COLOR aqua]Click here for:---TODAY'S Buzzy Stream Schedule A---[/COLOR][COLOR red]UK Time[/COLOR]</name>
 <popImage>https://dl.dropboxusercontent.com/u/125248976/nutjob%20schedule%20a.PNG</popImage>
-<thumbnail>http://ww1.prweb.com/prfiles/2011/07/29/8681680/BMP_Multimedia_Logo_cropped_EY.jpg</thumbnail>
+<thumbnail> </thumbnail>
 </popup>
 
 <popup>
 <name>[COLOR aqua]Click here for:----TODAY'S Buzzy Stream Schedule B----[/COLOR][COLOR red]UK Time[/COLOR]</name>
 <popImage>https://dl.dropboxusercontent.com/u/125248976/nutjob%20schedul%20b.PNG</popImage>
-<thumbnail>http://ww1.prweb.com/prfiles/2011/07/29/8681680/BMP_Multimedia_Logo_cropped_EY.jpg</thumbnail>
+<thumbnail> </thumbnail>
 </popup>
 
 <popup>
 <name>[COLOR aqua]Click here for:-----TODAY'S Buzzy Stream Schedule C-----[/COLOR][COLOR red]UK Time[/COLOR]</name>
 <popImage>https://dl.dropboxusercontent.com/u/125248976/Nutjob%20Schedule%20c.PNG</popImage>
-<thumbnail>http://ww1.prweb.com/prfiles/2011/07/29/8681680/BMP_Multimedia_Logo_cropped_EY.jpg</thumbnail>
+<thumbnail> </thumbnail>
 </popup>
 
 
@@ -114,19 +114,19 @@
 
 
 <item>
-<title>[COLOR bisque]A&e[/COLOR]</title>
+<title>[COLOR bisque]A&E[/COLOR]</title>
 <link>rtmpe://107.150.45.130:1935/goLive playpath=nJlMXBYX7p9ZVsJ swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|</link>
 <thumbnail>http://godish.com/media/43701/a_e-dish-logo.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR bisque]Abc[/COLOR]</title>
+<title>[COLOR bisque]ABC[/COLOR]</title>
 <link>rtmp://31.220.0.86:1935/live/ playpath=abc swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.reyhq.com/embed2.php?live=abc&vw=600&vh=450 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/abc_us.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR bisque]Amc[/COLOR]</title>
+<title>[COLOR bisque]AMC[/COLOR]</title>
 <link>rtmpe://173.208.201.162:1935/goLive playpath=JXazhC6b72u1gWK swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|</link>
 <thumbnail>http://holygrenade.com/wp-content/uploads/2013/09/amc-tv-channel.jpg </thumbnail>
 </item>
