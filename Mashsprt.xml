@@ -207,7 +207,7 @@
 
 <item>
 <title>[COLOR bisque]ESPN 3[/COLOR]</title>                                                                                                                                             
-<link>rtmp://31.220.0.134:1935/live playpath=espnk swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=espnk&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtmp://31.220.0.103:1935/live playpath=espnk swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=espnk&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://i.imgur.com/T8VKF.jpg</thumbnail>
 </item>
 
