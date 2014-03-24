@@ -285,7 +285,7 @@
 
 <item>
 <title>[COLOR bisque]Motors TV[/COLOR]</title>
-<link>rtmp://46.23.67.114/live playpath=x3motorstv?id=64707 Conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/x3motorstv/1/650/500 live=1 timeout=10</link>
+<link>rtmp://109.123.123.68/live playpath=efmotorstv11?id=9764 Conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/efmotorstv11/1/650/500 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
 </item>
 
