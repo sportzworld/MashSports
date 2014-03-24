@@ -425,7 +425,11 @@
 </item>
 
 
-
+<item>
+<title>[COLOR bisque]WWE Network[/COLOR]</title>
+<link>rtmp://206.190.129.12/live playpath=MIPS2?id=198068 Conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/MIPS2/1/639/390 live=1 timeout=10</link>
+<thumbnail>http://www.wwe.com/f/styles/ep_trending/public/article/thumb/2014/02/wwe-network/20140102_EPLIGHT_Network_Announcement_nodate_C.jpg</thumbnail>
+</item>
 
 
 <item>
