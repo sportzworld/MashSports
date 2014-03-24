@@ -105,6 +105,18 @@
 <thumbnail> </thumbnail>
 </item>
 
+<item>
+<title>[COLOR bisque]Antenna TV LA[/COLOR]</title>
+<link>rtmp://204.107.26.32/live/?id=0ad5aac39bb13fbea6edb948f51439c76f0cc31f20823b6bf1aa93b32742013a41288f52797290bad1349b6a63cf73ba73200fe65decef04a72308fd0a8f78858c01727a8172a500e7d33dc1dc88af5b21e4a698650b857a3bc88852575a196eff2f6543f53a8a68947514ce9b1d382f2da20b5706413e58752ab1ef670d0f0f7fd4fe3ea0d2c66c8a3522179625effbcff7b191b701d321 playpath=2327.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 pageUrl=http://www.filmon.com/tv/antenna-los-angeles live=1 timeout=10</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1539760129/Antenna_TV_logo_3.PNG</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR bisque]KTLA Channel 5[/COLOR]</title>
+<link>rtmp://204.107.26.32/live/?id=0ad5aac39bb13fbef56fce7e299a52a0bfc54872b68cdda115a6a43cb039e1610d4c92234089f19746d66f5e51075b20ee75da738eb75b7f9203f6b32f1c0759fef282cf58638cbe79a83388071c003f2f03177c6286ce76407cc082d44628dffac1f45940284daa2a062187659a85d99badab7aea6892b15272d7e0995212d0914ea8abddf6bb933f89f730ad7ae17cfb2c54547056224b playpath=2326.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 pageUrl=http://www.filmon.com/tv/ktla-dt-los-angeles live=1 timeout=10</link>
+<thumbnail>http://www.autogeekonline.net/gallery/data/500/ktla_5.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR bisque]A&E[/COLOR]</title>
