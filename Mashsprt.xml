@@ -314,6 +314,12 @@
 </item>
 
 <item>
+<title>[COLOR bisque]Ptv Sports[/COLOR]</title>
+<link>rtmp://206.190.140.36/live playpath=tttptv?id=9700 Conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/tttptv/2/600/420 live=1 timeout=10</link>
+<thumbnail>https://pbs.twimg.com/profile_images/418095124589989888/qJWPHDII.jpeg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR bisque]Red Bull TV[/COLOR]</title>
 <link>http://live.iphone.redbull.de.edgesuite.net/iphone.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/-u2CGnReZK6E/T2Dyn-vHVxI/AAAAAAAAU3E/rlXNnRRB8yE/s1600/red-bull1.jpg</thumbnail>
