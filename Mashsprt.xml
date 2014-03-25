@@ -105,24 +105,7 @@
 <thumbnail> </thumbnail>
 </item>
 
-<item>
-<title>[COLOR bisque]WNET NY Channel 13[/COLOR]</title>
-<link>rtmp://38.74.192.121/live/?id=0ad5aac39bb13fbe0034d180638c096461e29a77361132b2950f38dabddb7eb2c5746a735d1c41a2d26a51fb3637517b35b561e2084afc015149aa6c03b7fb14b55676c5f3dbaead14fe6c3973283b9cc5da792d4cb8b79c6110c53407b2636bbbc0132a3626dfeef63b01ba190fdfeebb7770fff56ec815e085e9af3913ef5b5db31206c16c5de539549aa39f11888ff7dc73b9e36f0b51 playpath=2438.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=51 pageUrl=http://www.filmon.com/ live=1 timeout=10</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/42/WNET_logo.png</thumbnail>
-</item>
 
-<item>
-<title>[COLOR bisque]Antenna TV LA[/COLOR]</title>
-<link>rtmp://204.107.26.32/live/?id=0ad5aac39bb13fbea6edb948f51439c76f0cc31f20823b6bf1aa93b32742013a41288f52797290bad1349b6a63cf73ba73200fe65decef04a72308fd0a8f78858c01727a8172a500e7d33dc1dc88af5b21e4a698650b857a3bc88852575a196eff2f6543f53a8a68947514ce9b1d382f2da20b5706413e58752ab1ef670d0f0f7fd4fe3ea0d2c66c8a3522179625effbcff7b191b701d321 playpath=2327.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 pageUrl=http://www.filmon.com/tv/antenna-los-angeles live=1 timeout=10</link>
-<thumbnail>https://pbs.twimg.com/profile_images/1539760129/Antenna_TV_logo_3.PNG</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR bisque]KTLA Channel 5[/COLOR]</title>
-<link>rtmp://204.107.26.32/live/?id=0ad5aac39bb13fbef56fce7e299a52a0bfc54872b68cdda115a6a43cb039e1610d4c92234089f19746d66f5e51075b20ee75da738eb75b7f9203f6b32f1c0759fef282cf58638cbe79a83388071c003f2f03177c6286ce76407cc082d44628dffac1f45940284daa2a062187659a85d99badab7aea6892b15272d7e0995212d0914ea8abddf6bb933f89f730ad7ae17cfb2c54547056224b playpath=2326.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 pageUrl=http://www.filmon.com/tv/ktla-dt-los-angeles live=1 timeout=10</link>
-<thumbnail>http://www.autogeekonline.net/gallery/data/500/ktla_5.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR bisque]A&E[/COLOR]</title>
@@ -146,6 +129,12 @@
 <title>[COLOR bisque]AMC[/COLOR]</title>
 <link>rtmpe://173.208.201.162:1935/goLive playpath=JXazhC6b72u1gWK swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|</link>
 <thumbnail>http://holygrenade.com/wp-content/uploads/2013/09/amc-tv-channel.jpg </thumbnail>
+</item>
+
+<item>
+<title>[COLOR bisque]Antenna TV LA[/COLOR]</title>
+<link>rtmp://204.107.26.32/live/?id=0ad5aac39bb13fbea6edb948f51439c76f0cc31f20823b6bf1aa93b32742013a41288f52797290bad1349b6a63cf73ba73200fe65decef04a72308fd0a8f78858c01727a8172a500e7d33dc1dc88af5b21e4a698650b857a3bc88852575a196eff2f6543f53a8a68947514ce9b1d382f2da20b5706413e58752ab1ef670d0f0f7fd4fe3ea0d2c66c8a3522179625effbcff7b191b701d321 playpath=2327.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 pageUrl=http://www.filmon.com/tv/antenna-los-angeles live=1 timeout=10</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1539760129/Antenna_TV_logo_3.PNG</thumbnail>
 </item>
 
 
@@ -301,7 +290,11 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/grand_prix_channel_th.png</thumbnail>
 </item>
 
-
+<item>
+<title>[COLOR bisque]KTLA Channel 5[/COLOR]</title>
+<link>rtmp://204.107.26.32/live/?id=0ad5aac39bb13fbef56fce7e299a52a0bfc54872b68cdda115a6a43cb039e1610d4c92234089f19746d66f5e51075b20ee75da738eb75b7f9203f6b32f1c0759fef282cf58638cbe79a83388071c003f2f03177c6286ce76407cc082d44628dffac1f45940284daa2a062187659a85d99badab7aea6892b15272d7e0995212d0914ea8abddf6bb933f89f730ad7ae17cfb2c54547056224b playpath=2326.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 pageUrl=http://www.filmon.com/tv/ktla-dt-los-angeles live=1 timeout=10</link>
+<thumbnail>http://www.autogeekonline.net/gallery/data/500/ktla_5.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR bisque]MiamiTV[/COLOR]</title>
@@ -465,6 +458,12 @@
 <title>[COLOR bisque]Travel Channel[/COLOR]</title>
 <link>rtmp://live308.edge.filmon.com/ app=live/?id=0ad5aac39bb13fbeb30480f55a8cec0a6b8097bb6cd5c312c6f532a3e9bbf2b562626254a2ba546072b3cdf945ab691ab77d314ad17e4ee584e746d33878c2c96b1b18973d9dc7cfb667f1152ea332c5627c0f5a6f2a140f4e3d138862e4bd4f7736beafcf32cdb2d86a3baa06a5b872471a23cea746c63353e5b6ae9433a165f8eee9bffd0e091dc978a6fc6c2b52581d6078683175fd53 playpath=842.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 Conn=S:OK pageUrl=http://www.filmon.com/tv/channel/export?channel_id=842&autoplay=1&wmode=opaque live=1 timeout=10</link>
 <thumbnail>http://img2.wikia.nocookie.net/__cb20111026232439/g__/ghostadventures/images/d/d7/Travelchannel.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR bisque]WNET NY Channel 13[/COLOR]</title>
+<link>rtmp://38.74.192.121/live/?id=0ad5aac39bb13fbe0034d180638c096461e29a77361132b2950f38dabddb7eb2c5746a735d1c41a2d26a51fb3637517b35b561e2084afc015149aa6c03b7fb14b55676c5f3dbaead14fe6c3973283b9cc5da792d4cb8b79c6110c53407b2636bbbc0132a3626dfeef63b01ba190fdfeebb7770fff56ec815e085e9af3913ef5b5db31206c16c5de539549aa39f11888ff7dc73b9e36f0b51 playpath=2438.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=51 pageUrl=http://www.filmon.com/ live=1 timeout=10</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/42/WNET_logo.png</thumbnail>
 </item>
 
 
