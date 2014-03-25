@@ -214,7 +214,7 @@
 
 <item>
 <title>[COLOR bisque]Docu Box[/COLOR]</title>
-<link>http://cds.r4t3u7e9.hwcdn.net/livespi/_definst_/mp4:docubox_360p/play.m3u8</link>
+<link>rtmp://live302.edge.filmon.com/ app=live/?id=0ad5aac39bb13fbe36c7146bbb4b8db03fc7eb7089a1bcf5a96d43a2931f192bda4b28a8852f5a06cdc80db1838f835e0a2ee5ef2431c72d5b0df79b4def34aabe2905fb1af399e33497c237d252fc167e26dde7535189bdbb818f67421caa352b4630ad0593871bd056976319f4b6597b40e18182f7c6e2cdb4a4e34d49c08e44001095eda0d67882c3210f5fb98a04247f4b9008b726de playpath=1624.low.stream Conn=S:OK swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 pageUrl=http://www.filmon.com/channel/docubox live=1 timeout=10</link>
 <thumbnail>http://images4.wikia.nocookie.net/__cb20121202034748/tvpedia/ru/images/3/3a/DocuBOX_HD.png</thumbnail>
 </item>
 
