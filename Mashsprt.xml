@@ -468,7 +468,7 @@
 
 <item>
 <title>[COLOR bisque]Travel Channel[/COLOR]</title>
-<link>rtmp://live308.edge.filmon.com/ app=live/?id=0ad5aac39bb13fbeb30480f55a8cec0a6b8097bb6cd5c312c6f532a3e9bbf2b562626254a2ba546072b3cdf945ab691ab77d314ad17e4ee584e746d33878c2c96b1b18973d9dc7cfb667f1152ea332c5627c0f5a6f2a140f4e3d138862e4bd4f7736beafcf32cdb2d86a3baa06a5b872471a23cea746c63353e5b6ae9433a165f8eee9bffd0e091dc978a6fc6c2b52581d6078683175fd53 playpath=842.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 Conn=S:OK pageUrl=http://www.filmon.com/tv/channel/export?channel_id=842&autoplay=1&wmode=opaque live=1 timeout=10</link>
+<link>rtmp://live308.edge.filmon.com/ app=live/?id=0ad5aac39bb13fbe9dcfc7e68b05042948b5de7c77043f035c7e6d957a47fd75b47eb442a913bac4a7c37d6193e7e7093552dfe00db697d6a87a7d414e105b4863099c683832edd1bfa1f9d4a51b5182eb8c6076fd139c28f3777037cc578f0cb4ada2d91aa76c4bf9336d4f7d0c45079b9ed5224c5f16f3b5e7a0555d39a84f0fa3f97f412c1c8768e033d4034ed63b361255e14e001d6d playpath=842.low.stream Conn=S:OK swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 pageUrl=http://www.filmon.com/tv/travel-channel1 live=1timeout=10</link>
 <thumbnail>http://img2.wikia.nocookie.net/__cb20111026232439/g__/ghostadventures/images/d/d7/Travelchannel.jpg</thumbnail>
 </item>
 
