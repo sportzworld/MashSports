@@ -259,7 +259,7 @@
 
 <item>
 <title>[COLOR bisque]Eurosport 1[/COLOR]</title>
-<link>rtmp://31.220.0.82:1935/live playpath=euro11rx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=euro11rx&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtmp://95.211.186.135:1935/live playpath=EurosportEN1?=7e316146b7c108ba023a6b7b8e29c856 swfUrl=http://www.vidembed.com/jl/player.swf pageUrl=http://www.vidembed.com/embed.php?s=EurosportEN1&width=600&height=400&domain=desistreams.tv live=1 timeout=10 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
 
