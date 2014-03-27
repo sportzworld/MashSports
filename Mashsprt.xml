@@ -322,11 +322,7 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR bisque]Motorz[/COLOR]</title>
-<link>rtmp://live305.edge.filmon.com/ app=live/?id=0ad5aac39bb13fbe811cadf80221f61779499c434f84b49d28c57462961377b3cb5a83af2a7951288bd20d8eeddc820ef17934a0ca8cca86402bfa221b162e0ae9c51625cb424d67089ee0b3158c885c62a305ab107dbfae0517795eab3c9bac6098f834fe31ba781940ed9d34660b88add5ba2517d91ae298478edd0f847071081e4cab1662b459106870b35a2b9b51e76cd35e0b53e3b5 playpath=262.low.stream Conn=S:OK swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 pageUrl=http://www.filmon.com/tv/motorz live=1 timeout=10</link>
-<thumbnail>http://www.motorz.tv/downloads/motorz-ipad-lockscreen.png</thumbnail>
-</item>
+
 
 <item>
 <title>[COLOR bisque]NBA TV[/COLOR]</title>
@@ -470,11 +466,7 @@
 <thumbnail>http://i866.photobucket.com/albums/ab224/Avi_1895/TEN-Sports-TV.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR bisque]The War Channel[/COLOR]</title>
-<link>rtmp://live305.edge.filmon.com/ app=live/?id=0ad5aac39bb13fbe4c534d719733cf3554dc01ed39674db82197142203fe50fbf9f030634aa3661313763a9bcc1ae804bb42a91f24e2863a1421c26dc2a8459a0e58851dfe8e78f242f30ff8b1314e5ee447a9d9a908bffddbefe544ac225b91409478260f7245c17bee21bbbae694392bdfd31b5cf58c3ab6d56b44797f87626ba1c881ab2fefff34d2b0d3352591c102a01c0e4090c138 playpath=805.low.stream Conn=S:OK swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 pageUrl=http://www.filmon.com/tv/motorz live=1 timeout=10</link>
-<thumbnail>http://channel.nationalgeographic.com/exposure/content/photo/photo/1377132_eyewitness-war_epsicuaitwlfo42x7yedw6mpvtncurxrbvj6lwuht2ya6mzmafma_610x343.jpg</thumbnail>
-</item>
+
 
 <item>
 <title>[COLOR bisque]TLC[/COLOR]</title>
