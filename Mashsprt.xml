@@ -320,6 +320,12 @@
 </item>
 
 <item>
+<title>[COLOR bisque]Motorz[/COLOR]</title>
+<link>rtmp://live305.edge.filmon.com/ app=live/?id=0ad5aac39bb13fbed39e9ef9342a402c71e671a964fe5e8416d32a9204078c4772842443b3905fed01ceabb91f2e3c1ca21d8da93b15c617e71f90bdb9609f59e5fe43c342dc9d231acc93b4627ef70e5394291b2ea7eda8942dd20a65c1824d949150f7d0ec589d995ed396d99266010af184ed3253ff139d6732e7d3438f24698e34f0e33d60a08c5091a24501e1ad49b69da1045115a6 playpath=262.low.stream Conn=S:OK swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 pageUrl=http://www.filmon.com/tv/the-war-channel live=1 timeout=10</link>
+<thumbnail>http://www.motorz.tv/downloads/motorz-ipad-lockscreen.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR bisque]NBA TV[/COLOR]</title>
 <link>rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=true pageUrl=http://www.04stream.com/ live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
