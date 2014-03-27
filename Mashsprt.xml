@@ -13,14 +13,10 @@
 </info>
 
 
-
-
-
 <info>
 <message>Report Dead links [COLOR red]ONLY[/COLOR] for this section @mashupxbmc.com (Buzzy Sports)</message>
 <thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/dead.png</thumbnail>
 </info>
-
 
 
 <info>
@@ -28,6 +24,11 @@
 <thumbnail> </thumbnail>
 </info>
 
+
+<name>[COLOR=FF00FF00]---[/COLOR][COLOR=FFFF4500]Nascar Race Hub[/COLOR][COLOR=FF00FF00]---[/COLOR]</name>
+<link> </link>
+<thumbnail> </thumbnail>
+<date>  </date>
 
 
 <popup>
