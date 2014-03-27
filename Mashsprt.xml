@@ -232,6 +232,12 @@
 </item>
 
 <item>
+<title>[COLOR bisque]Dude Food[/COLOR]</title>
+<link>rtmp://live77.la3.edge.filmon.com/ app=live/?id=0ad5aac39bb13fbe85c9bda08db9b36343b56854ef06e0dbe632ef8187f73fae5bf3b58fc9b5f9be9e47b6fffd92cadca26321a1ef03d35fa99e62043152e2c8dbd2a8167954c3cc0c805dbac9cc05083ac76caa15cd6e138771c944be144f055107a0bcee7dad8cc227cb6744ba668c157e36fdd36520a9cf08758792d1de06e8b990d616bb7f11a72d1cd6375c84c9e0a0981ae476803b playpath=2915.low.stream Conn=S:OK swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 pageUrl=http://www.filmon.com/tv/dude-food?affid=7032Ul live=1 timeout=10</link>
+<thumbnail>http://www.torontoeatoncentre.com/MallImages/dude1.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR bisque]ESPN 2[/COLOR]</title>                                                                                                                                             
 <link>rtmp://31.220.0.104:1935/live playpath=espn2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=espn2x&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_2.jpg</thumbnail>
