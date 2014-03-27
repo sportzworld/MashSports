@@ -325,7 +325,7 @@
 <item>
 <title>[COLOR bisque]Motorz[/COLOR]</title>
 <link>rtmp://live305.edge.filmon.com/ app=live/?id=0ad5aac39bb13fbe543057213f03167f1940777ca8caeeefaf68e3817ecb0d75e589f935cd4c286a5ac137d7d72067a9ef2b1e18d8c4b0b678862ab0d3822cc619c81ce4e4a5e9353931cfa522abe59a57463cd0407e8f0127da15a433b7dc10c237f88e82d9650b87fefe428dab17cd0471c568dfa36a6ffb37fc2f63c06f1db656a12e90c717b904458032d143d0283a0d59c7c6e65b27 playpath=262.low.stream Conn=S:OK swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 pageUrl=http://www.filmon.com/tv/motorz live=1 timeout=10</link>
-<thumbnail>http://www.motorz.tv/downloads/motorz-ipad-lockscreen.png</thumbnail>
+<thumbnail>http://www.motorz.tv/downloads/motorz-ipad-lockscreen.pn</thumbnail>
 </item>
 
 <item>
