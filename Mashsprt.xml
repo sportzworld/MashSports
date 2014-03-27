@@ -474,6 +474,12 @@
 </item>
 
 <item>
+<title>[COLOR bisque]Wine Channel[/COLOR]</title>
+<link>rtmp://live305.edge.filmon.com/ app=live/?id=0ad5aac39bb13fbe918ee1b66c93594c6573addd9c8fb13d7bee977fdf89f0113a4812ef76b81332c5417bab35b04abbab06a3cc08732647c60879b43196cd415e2b1a7040d5a16b80987d74c2359399af529ff37faf22225b3fa54dcd3aa733521561acac8d2ed7c6d6a6882ad2159ac94a2964bba9d074e252b44e9439b6302623a40be4442cf709bd1a0b62a271510d0ba45d319c055e playpath=263.low.stream Conn=S:OK swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 pageUrl=http://www.filmon.com/tv/wine-channel-tv live=1 timeout=10</link>
+<thumbnail>http://b.vimeocdn.com/ts/599/098/59909831_640.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR bisque]WNET NY Channel 13[/COLOR]</title>
 <link>rtmp://38.74.192.121/live/?id=0ad5aac39bb13fbe0034d180638c096461e29a77361132b2950f38dabddb7eb2c5746a735d1c41a2d26a51fb3637517b35b561e2084afc015149aa6c03b7fb14b55676c5f3dbaead14fe6c3973283b9cc5da792d4cb8b79c6110c53407b2636bbbc0132a3626dfeef63b01ba190fdfeebb7770fff56ec815e085e9af3913ef5b5db31206c16c5de539549aa39f11888ff7dc73b9e36f0b51 playpath=2438.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=51 pageUrl=http://www.filmon.com/ live=1 timeout=10</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/4/42/WNET_logo.png</thumbnail>
