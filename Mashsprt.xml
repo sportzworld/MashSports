@@ -50,7 +50,11 @@
 <thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/streamc.jpg</thumbnail>
 </popup>
 
-
+<dir>
+<name>Nascar Race HUB</name> 
+<link>https://raw.github.com/mash2k3/MashSports/master/NascarRaceHub.xml</link>
+<thunmbnail> </thunmbnail>
+</dir>
 
 
 #############################################################################################################################
