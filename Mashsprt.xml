@@ -462,6 +462,12 @@
 </item>
 
 <item>
+<title>[COLOR bisque]The War Channel[/COLOR]</title>
+<link>rtmp://live305.edge.filmon.com/ app=live/?id=0ad5aac39bb13fbe00db258a25552c78685577cc69e7438a8a697b78b882d01b06bad1566ea4ba0e6f0ce85712ab3e315bad6418ab192ca58de892383d73bb8bbc864b9e53c1c012d3dd47c3e27fa3cb84162dd7d63a2b9bb3be087a0ae6e62041ba1591c194a844c90051904fc84b3d52c43de7a16cfc3430c06216c556dcbcfe35a9dcc15e54020d564564746cdfcc7fe2bc994d08268e playpath=805.low.stream Conn=S:OK swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 pageUrl=http://www.filmon.com/tv/wine-channel-tv live=1 timeout=10</link>
+<thumbnail>http://channel.nationalgeographic.com/exposure/content/photo/photo/1377132_eyewitness-war_epsicuaitwlfo42x7yedw6mpvtncurxrbvj6lwuht2ya6mzmafma_610x343.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR bisque]TLC[/COLOR]</title>
 <link>http://123.29.74.98/live.vs?c=vstv084&q=high</link>
 <thumbnail>http://b.vimeocdn.com/ts/117/152/117152149_640.jpg</thumbnail>
