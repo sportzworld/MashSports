@@ -486,6 +486,12 @@
 </item>
 
 <item>
+<title>[COLOR bisque]Wheels TV[/COLOR]</title>
+<link>rtmp://live52.la3.edge.filmon.com/ app=live/?id=0ad5aac39bb13fbe85887912e8685899a87c3fb55797605e37c185373e6c8ebbdc50646bb8510f6774a5fb7a80fd7c2cb8e8a2d9b4ffae5447e06ebd93fe318a00e82a595500f926037f29cb15602cbcdad0374f6cb9b89ccbd6ae8164856153d8eeb4453255be8a80f52e5ff442f5139332e6200a87354ab016a82e48355a36588ff58132845c73162ece74924d2b03066aa837905f7f89 playpath=397.low.stream Conn=S:OK swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 pageUrl=http://www.filmon.com/tv/motorz live=1 timeout=10</link>
+<thumbnail>http://ww1.prweb.com/prfiles/2012/05/15/9509723/WheelsTV%20Logo.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR bisque]Wine Channel[/COLOR]</title>
 <link>rtmp://live305.edge.filmon.com/ app=live/?id=0ad5aac39bb13fbe918ee1b66c93594c6573addd9c8fb13d7bee977fdf89f0113a4812ef76b81332c5417bab35b04abbab06a3cc08732647c60879b43196cd415e2b1a7040d5a16b80987d74c2359399af529ff37faf22225b3fa54dcd3aa733521561acac8d2ed7c6d6a6882ad2159ac94a2964bba9d074e252b44e9439b6302623a40be4442cf709bd1a0b62a271510d0ba45d319c055e playpath=263.low.stream Conn=S:OK swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 pageUrl=http://www.filmon.com/tv/wine-channel-tv live=1 timeout=10</link>
 <thumbnail>http://b.vimeocdn.com/ts/599/098/59909831_640.jpg</thumbnail>
@@ -746,120 +752,4 @@
 
 <item>
 <title>[COLOR orange]Motormania [/COLOR]Super Buck Blast VI</title>
-<link>http://vod9.livestream.com//events/0000000000255adb/0715062c-999b-43ba-b791-fe9defaf50f1_520.mp4?v=3.0.3&fp=WIN%2012,0,0,77&r=ZGQEW&g=TQWOGKTRYQHH&seek=0</link> 
-<thumbnail>http://img.new.livestream.com/events/0000000000255adb/0715062c-999b-43ba-b791-fe9defaf50f1_420.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange]Motormania [/COLOR]The Million</title>
-<link>http://vod6.livestream.com//events/0000000000255ad9/139c0434-0cc7-4a91-b63b-29572ea8c806_500.mp4?v=3.0.3&fp=WIN%2012,0,0,77&r=DSKZK&g=JSRPLQSVYHAS&seek=1140</link> 
-<thumbnail>http://img.new.livestream.com/events/0000000000255ad9/139c0434-0cc7-4a91-b63b-29572ea8c806_15660.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR orange]Motormania [/COLOR]Summit World Finals</title>
-<link>http://vod9.livestream.com//events/0000000000255ab7/3a6ded3e-ce94-4e82-b5ca-6183c8b72e6b_520.mp4?v=3.0.3&fp=WIN%2012,0,0,77&r=NLUIO&g=GIUTXNMXFAGH&seek=0</link> 
-<thumbnail>http://img.new.livestream.com/events/0000000000255ab7/3a6ded3e-ce94-4e82-b5ca-6183c8b72e6b_4320.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange]Motormania [/COLOR]No Mercy 4</title>
-<link>http://vod4.livestream.com//events/000000000023d90f/06f1a37e-e0fa-4495-a2a5-03a3a8b027a2_520.mp4?v=3.0.3&fp=WIN%2012,0,0,77&r=RLEQT&g=ZQCFZDYHGPHE&seek=0</link> 
-<thumbnail>http://img.new.livestream.com/events/000000000023d90f/06f1a37e-e0fa-4495-a2a5-03a3a8b027a2_12780.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange]Motormania [/COLOR]Great American Bracket Race</title>
-<link>http://vod8.livestream.com//events/0000000000236eb1/1fc02648-02de-4ada-b25b-3906a4e031a3_520.mp4?v=3.0.3&fp=WIN%2012,0,0,77&r=KFNSX&g=TYLURWMFXSDQ</link> 
-<thumbnail>http://img.new.livestream.com/events/0000000000236eb1/1fc02648-02de-4ada-b25b-3906a4e031a3_7860.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange]Motormania [/COLOR]4th Annual Yellow Bullet Nationals Sunday - 4 </title>
-<link>http://vod7.livestream.com//events/000000000022154b/ecaf0247-436c-4f56-92de-e17434019bf9_520.mp4?v=3.0.3&fp=WIN%2012,0,0,77&r=UQNZE&g=OCJXNEMWXCZH</link> 
-<thumbnail>http://img.new.livestream.com/events/000000000022154b/ecaf0247-436c-4f56-92de-e17434019bf9_1800.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange]Motormania [/COLOR]Mini-Million from Piedmont, NC Friday's $20K race - round 1 </title>
-<link>http://vod2.livestream.com//events/0000000000221549/a63218be-f910-4054-8d86-5896f78f047a_520.mp4?v=3.0.3&fp=WIN%2012,0,0,77&r=PFDPH&g=YTOCZCRLGYDD&seek=8085</link> 
-<thumbnail>http://img.new.livestream.com/events/0000000000221549/a63218be-f910-4054-8d86-5896f78f047a_9660.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange]Motormania [/COLOR]ADRL Memphis Drags IV  Sunday part 1, round 2</title>
-<link>http://vod8.livestream.com//events/0000000000230644/74a51c91-e0db-4953-9ba8-2540cc721a0f_520.mp4?v=3.0.3&fp=WIN%2012,0,0,77&r=XSYPR&g=GKQYTLPTBUKC&seek=0</link> 
-<thumbnail>http://img.new.livestream.com/events/0000000000230644/74a51c91-e0db-4953-9ba8-2540cc721a0f_1860.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange]Motormania [/COLOR]NHRDA Carolina Diesel Drags   Rockingham NHRDA - Part 4</title>
-<link>http://vod4.livestream.com//events/0000000000217dfe/2feae735-da84-4bc1-aa3d-4d6b513767ed_,15,55,150,200,0.mp4.csmil/bitrate=1?v=3.0.3&fp=WIN%2012,0,0,77&r=VINYQ&g=AKURGEWEYECU&seek=0</link> 
-<thumbnail>http://img.new.livestream.com/videos/0000000001ade948/0460f9af-b4aa-4a23-b2c2-dbc5cde6bb28_640x360.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange]Motormania [/COLOR]X-DRL Mayhem at the Creek   Frankie Taylor wins PX!</title>
-<link>http://vod1.livestream.com//events/000000000020e7ea/1f46b7b9-fe19-4dcf-bc70-03e7fa138c24_520.mp4?v=3.0.3&fp=WIN%2012,0,0,77&r=FTCCQ&g=WJGVMLXWKDRO&seek=15435</link> 
-<thumbnail>http://img.new.livestream.com/events/000000000020e7ea/1f46b7b9-fe19-4dcf-bc70-03e7fa138c24_15540.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange]Motormania [/COLOR]World Footbrake Challenge VII   Sunday's race part 1</title>
-<link>http://vod8.livestream.com//events/00000000002168fc/4938a20b-2943-4e3c-8503-6fa9e4492393_520.mp4?v=3.0.3&fp=WIN%2012,0,0,77&r=LUURD&g=XEEONTETXLVF&seek=0</link> 
-<thumbnail>http://img.new.livestream.com/events/00000000002168fc/4938a20b-2943-4e3c-8503-6fa9e4492393_11640.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange]Motormania [/COLOR]X-DRL Gateway Showdown   Eliminations, part 2</title>
-<link>http://vod3.livestream.com//events/000000000020a2de/2f373367-b798-4ae8-a4ba-6e8e44adcb28_540.mp4?v=3.0.3&fp=WIN%2012,0,0,77&r=NXMFX&g=LDTMCMDUZFZE&seek=0</link> 
-<thumbnail>http://img.new.livestream.com/events/000000000020a2de/2f373367-b798-4ae8-a4ba-6e8e44adcb28_4500.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR violet] Pac-12 Net[/COLOR] National</title>
-<link>http://www.xrxs.net/video/live-p12netw-4728.m3u8</link> 
-<thumbnail>http://www.collegetennisonline.com/Uploads/Common/Images/Pac12%20Logo(1)_ctofeatured.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR violet] Pac-12 Net[/COLOR] Arizona</title>
-<link>http://www.xrxs.net/video/live-p12ariz-4728.m3u8</link> 
-<thumbnail>http://www.collegetennisonline.com/Uploads/Common/Images/Pac12%20Logo(1)_ctofeatured.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR violet] Pac-12 Net[/COLOR] Bay Area</title>
-<link>http://www.xrxs.net/video/live-p12baya-4728.m3u8</link> 
-<thumbnail>http://www.collegetennisonline.com/Uploads/Common/Images/Pac12%20Logo(1)_ctofeatured.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR violet] Pac-12 Net[/COLOR] Los Angeles</title>
-<link>http://www.xrxs.net/video/live-p12losa-4728.m3u8</link> 
-<thumbnail>http://www.collegetennisonline.com/Uploads/Common/Images/Pac12%20Logo(1)_ctofeatured.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR violet] Pac-12 Net[/COLOR] Mountain</title>
-<link>http://www.xrxs.net/video/live-p12moun-4728.m3u8</link> 
-<thumbnail>http://www.collegetennisonline.com/Uploads/Common/Images/Pac12%20Logo(1)_ctofeatured.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR violet] Pac-12 Net[/COLOR] Oregon</title>
-<link>http://www.xrxs.net/video/live-p12oreg-4728.m3u8</link> 
-<thumbnail>http://www.collegetennisonline.com/Uploads/Common/Images/Pac12%20Logo(1)_ctofeatured.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR violet] Pac-12 Net[/COLOR] Washington</title>
-<link>http://www.xrxs.net/video/live-p12wash-4728.m3u8</link> 
-<thumbnail>http://www.collegetennisonline.com/Uploads/Common/Images/Pac12%20Logo(1)_ctofeatured.jpg</thumbnail>
-</item>
-
-
-
-
-
+<link>http://vod9.livestream.com//events/0000000000255adb/0715
