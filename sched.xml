@@ -1,13 +1,5 @@
-<info>
-
- <message>
- *ENGLISH* AUSTRALIA: AFL St Kilda Saint vs Melbourne Demons 8.40am-11.40am Stream 40
- *ENGLISH* Live ICC World T20 Cricket South Africa v Sri Lanka 9:00 am-1:00 pm Sky Sport 2
- *ENGLISH* Soccer AM 10:00 am-12:00 pm Sky Sport 1
-  </message>
- <thumbnail> </thumbnail>
-</info>
-
-<item> </item>
-<link> </link>
-<thumbnail> </thumbnail>
+<popup>
+<name>[COLOR orange]Click here for: World Clock Time Zones[/COLOR]</name>
+<popImage>https://dl.dropboxusercontent.com/u/125248976/World%20Clock%20Time%20Zones.PNG</popImage>
+<thumbnail>http://worldclocksite.com/wp-content/uploads/2012/04/time-zones.jpg</thumbnail>
+</popup>
