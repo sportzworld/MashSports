@@ -2,28 +2,6 @@
 <poster>Buzzy's Sport's</poster>
 <fanart>https://raw.github.com/mash2k3/MashSports/master/Images/buzz.jpg</fanart>
 #######################################################################################################################################
-<info>
-<message>[COLOR blue]CHANNEL IS UNDER MAINTENANCE!![/COLOR]</message>
-<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/hotwheels.jpg</thumbnail>
-</info>
-
-<info>
-<message>[COLOR orange]Follow us on Twitter and Facebook: [COLOR aqua] Viking Tattoos [COLOR yellow] @BuzzySportsXBMC[/COLOR] [COLORgreen] woodypecker [COLOR orange] @the_lake_fishin[/COLOR] [COLOR blue]Facebook [/COLOR] [COLOR red] Buzzy's Sport's Network [/COLOR]</message>
-<thumbnail>http://frilka.com/wp-content/uploads/2012/03/1-twitter-logo-1-2-.png</thumbnail>
-</info>
-
-
-<info>
-<message>Report Dead links [COLOR red]ONLY[/COLOR] for this section @mashupxbmc.com (Buzzy Sports)</message>
-<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/dead.png</thumbnail>
-</info>
-
-
-<info>
-<message>[COLOR green]For HD NHL Go to mashup-Live-NHL(gotham only)[/COLOR]</message>
-<thumbnail> </thumbnail>
-</info>
-
 
 
 <name>Nascar RaceHub</name>
@@ -69,3 +47,25 @@
 
 #########################################################################################################################
 
+
+<info>
+<message>[COLOR blue]CHANNEL IS UNDER MAINTENANCE!![/COLOR]</message>
+<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/hotwheels.jpg</thumbnail>
+</info>
+
+<info>
+<message>[COLOR orange]Follow us on Twitter and Facebook: [COLOR aqua] Viking Tattoos [COLOR yellow] @BuzzySportsXBMC[/COLOR] [COLORgreen] woodypecker [COLOR orange] @the_lake_fishin[/COLOR] [COLOR blue]Facebook [/COLOR] [COLOR red] Buzzy's Sport's Network [/COLOR]</message>
+<thumbnail>http://frilka.com/wp-content/uploads/2012/03/1-twitter-logo-1-2-.png</thumbnail>
+</info>
+
+
+<info>
+<message>Report Dead links [COLOR red]ONLY[/COLOR] for this section @mashupxbmc.com (Buzzy Sports)</message>
+<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/dead.png</thumbnail>
+</info>
+
+
+<info>
+<message>[COLOR green]For HD NHL Go to mashup-Live-NHL(gotham only)[/COLOR]</message>
+<thumbnail> </thumbnail>
+</info>
