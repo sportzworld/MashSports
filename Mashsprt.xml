@@ -26,16 +26,32 @@
 <thumbnail> </thumbnail>
 </info>
 
+
+
+<name>Buzzy's Streams</name>
+<link>https://raw.github.com/mash2k3/MashSports/master/Buzzy_Streams.xml</link>
+<thumbnail> </thumbnail>
+<date> </date>
+
+<name>Buzzy's Channels</name>
+<link>https://raw.github.com/mash2k3/MashSports/master/Buzzy Channels.xml</link>
+<thumbnail> </thumbnail>
+<date> </date>
+
 <name>Nascar RaceHub</name>
 <link>https://raw.github.com/mash2k3/MashSports/master/NascarRaceHub.xml</link>
 <thumbnail> </thumbnail>
 <date> </date>
 
-<name>Buzzy Streams</name>
-<link>https://raw.github.com/mash2k3/MashSports/master/Buzzy_Streams.xml</link>
+<name>MotorMania</name>
+<link>https://raw.github.com/mash2k3/MashSports/master/Motormania.xml</link>
 <thumbnail> </thumbnail>
 <date> </date>
 
+<name>Pac-12</name>
+<link>https://raw.github.com/mash2k3/MashSports/master/PAC 12.xml</link>
+<thumbnail> </thumbnail>
+<date> </date>
 #############################################################################################################################
 
 #############################################################################################################################
