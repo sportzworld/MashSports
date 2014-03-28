@@ -514,7 +514,11 @@
 <link>rtmp://23.218.156.156/live?_fcs_vhost=cp76676.live.edgefcs.net playpath=I0dmlzZDrIL2dwBwbZE9is85
 </item>
 
-
+<item>
+<title>[COLOR FireBrick] RedBull[/COLOR] Air Race Abu Dhabi 2014 </title>
+<link>http://rbmisc_universal-f.akamaihd.net/140301AirRaceADVOD_1_2660@179656?videoId=2990418300001&lineUpId=&pubId=710858724001&playerId=1398061561001&affiliateId=&v=3.3.0&fp=WIN%2012,0,0,77&r=UGWJW&g=BWYMDCUCWHHP</link> 
+<thumbnail>http://image.redbull.com/rbx00114/0010/1/940/400/412/event/es332_e179_cover_landscape.jpg?lastmodified=1388493816</thumbnail>
+</item>
 
 
 <item>
@@ -858,9 +862,5 @@
 </item>
 
 
-<item>
-<title>[COLOR yellow] RedBull[/COLOR] Air Race Abu Dhabi 2014 </title>
-<link>http://rbmisc_universal-f.akamaihd.net/140301AirRaceADVOD_1_2660@179656?videoId=2990418300001&lineUpId=&pubId=710858724001&playerId=1398061561001&affiliateId=&v=3.3.0&fp=WIN%2012,0,0,77&r=UGWJW&g=BWYMDCUCWHHP</link> 
-<thumbnail>http://image.redbull.com/rbx00114/0010/1/940/400/412/event/es332_e179_cover_landscape.jpg?lastmodified=1388493816</thumbnail>
-</item>
+
 
