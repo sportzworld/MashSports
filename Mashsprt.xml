@@ -24,7 +24,11 @@
 <thumbnail> </thumbnail>
 </info>
 
-
+<popup>
+<name>[COLOR orange]Click here for: World Clock Time Zones[/COLOR]</name>
+<popImage>https://dl.dropboxusercontent.com/u/125248976/World%20Clock%20Time%20Zones.PNG</popImage>
+<thumbnail>http://worldclocksite.com/wp-content/uploads/2012/04/time-zones.jpg</thumbnail>
+</popup>
 
 <name>Nascar RaceHub</name>
 <link>https://raw.github.com/mash2k3/MashSports/master/NascarRaceHub.xml</link>
@@ -40,11 +44,7 @@
 
 #############################################################################################################################
 
-<popup>
-<name>[COLOR orange]Click here for: World Clock Time Zones[/COLOR]</name>
-<popImage>https://dl.dropboxusercontent.com/u/125248976/World%20Clock%20Time%20Zones.PNG</popImage>
-<thumbnail>http://worldclocksite.com/wp-content/uploads/2012/04/time-zones.jpg</thumbnail>
-</popup>
+
 
 
 <popup>
