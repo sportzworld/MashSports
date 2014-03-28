@@ -2,7 +2,10 @@
 <poster>Buzzy's Sport's</poster>
 <fanart>https://raw.github.com/mash2k3/MashSports/master/Images/buzz.jpg</fanart>
 #######################################################################################################################################
-
+<info>
+<message>[COLOR blue]Buzzy Sports Still Buzzin[/COLOR]</message>
+<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/hotwheels.jpg</thumbnail>
+</info>
 
 <info>
 <message>[COLOR orange]Follow us on Twitter and Facebook: [COLOR aqua] Viking Tattoos [COLOR yellow] @BuzzySportsXBMC[/COLOR] [COLORgreen] woodypecker [COLOR orange] @the_lake_fishin[/COLOR] [COLOR blue]Facebook [/COLOR] [COLOR red] Buzzy's Sport's Network [/COLOR]</message>
@@ -23,11 +26,7 @@
 
 
 
-<popup>
-<name>[COLOR orange]Click here for: World Clock Time Zones[/COLOR]</name>
-<popImage>https://dl.dropboxusercontent.com/u/125248976/World%20Clock%20Time%20Zones.PNG</popImage>
-<thumbnail>http://worldclocksite.com/wp-content/uploads/2012/04/time-zones.jpg</thumbnail>
-</popup>
+
 
 
 <popup>
@@ -844,7 +843,9 @@
 <thumbnail>http://image.redbull.com/rbx00114/0010/1/940/400/412/event/es332_e179_cover_landscape.jpg?lastmodified=1388493816</thumbnail>
 </item>
 
-<info>
-<message>[COLOR blue]Buzzy Sports Still Buzzin[/COLOR]</message>
-<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/hotwheels.jpg</thumbnail>
-</info>
+
+<popup>
+<name>[COLOR orange]Click here for: World Clock Time Zones[/COLOR]</name>
+<popImage>https://dl.dropboxusercontent.com/u/125248976/World%20Clock%20Time%20Zones.PNG</popImage>
+<thumbnail>http://worldclocksite.com/wp-content/uploads/2012/04/time-zones.jpg</thumbnail>
+</popup>
