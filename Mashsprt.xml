@@ -30,7 +30,7 @@
 
 <name>Buzzy's Streams</name>
 <link>https://raw.github.com/mash2k3/MashSports/master/Buzzy_Streams.xml</link>
-<thumbnail>http://www.nomoresweden.com/wp-content/uploads/stream.gif</thumbnail>
+<thumbnail> </thumbnail>
 <date> </date>
 
 <name>Buzzy's Channels</name>
@@ -48,7 +48,7 @@
 <thumbnail>http://casino-technology.cz/images/jackpots/motormania/shield_small.jpg</thumbnail>
 <date> </date>
 
-<name>Pac-12</name>
+<name>PAC-12</name>
 <link>https://raw.github.com/mash2k3/MashSports/master/PAC_12.xml</link>
 <thumbnail>http://blapper.com/wp-content/uploads/2012/06/Pac-12.jpg</thumbnail>
 <date> </date>
