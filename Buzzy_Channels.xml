@@ -182,7 +182,7 @@
 
 <item>
 <title>[COLOR bisque]Fox Sports[/COLOR]</title>
-<link>http://123.29.74.98/live.vs?c=vstv042&q=high</link>
+<link>rtmp://akamai.kbps.tv:1935/live playpath=foxsp?=2ebb6bf7b127d281073e0bc649f190d1 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed3.php?s=foxsp&width=615&height=415&domain=negmtv.altervista.org live=1 timeout=10</link>
 <thumbnail>http://www.eurweb.com/wp-content/uploads/2013/04/fox-sports.jpg</thumbnail>
 </item>
 
