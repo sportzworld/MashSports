@@ -96,7 +96,11 @@
 </item>
 
 
-
+<item>
+<title>[COLOR bisque]CW BOSTON[/COLOR]</title>
+<link>rtmp://38.79.128.43/live/?id=0ad5aac39bb13fbea6211741e361e9443db7a1fc7fc3dce2b8e47a8b9e24009d620f176c6a745b491575c5f532093c068b470dfa5d1baa7edfdedc7b169a25a18fda8b86666f38a3545a99a14dac5dd1e6bc3ccbc276b2829ddebeef3fe13af721e755f71bfa93a33f06130bed0e1570ac0f02080f2e40d5370b5265a4e2ea862931ba9a404a5e5d23626c384eee9ee52b7dc3f30ffc73cd playpath=2859.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 pageUrl=http://www.filmon.com/tv/this-tv-boston-whdh-72 live=true timeout=10</link>
+<thumbnail>http://www.cw56.com/images/blue/main/wlvi_logo1.jpg</thumbnail>
+</item>
 
 
 <item>
@@ -239,11 +243,6 @@
 <thumbnail>http://www.briansolis.com/wp-content/uploads/2009/11/pbs_logo.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR bisque]Red Bull[/COLOR] Air Race Abu Dhabi 2014 </title>
-<link>http://rbmisc_universal-f.akamaihd.net/140301AirRaceADVOD_1_2660@179656?videoId=2990418300001&lineUpId=&pubId=710858724001&playerId=1398061561001&affiliateId=&v=3.3.0&fp=WIN%2012,0,0,77&r=UGWJW&g=BWYMDCUCWHHP</link> 
-<thumbnail>http://image.redbull.com/rbx00114/0010/1/940/400/412/event/es332_e179_cover_landscape.jpg?lastmodified=1388493816</thumbnail>
-</item>
 
 <item>
 <title>[COLOR bisque]Red Bull TV[/COLOR]</title>
@@ -361,7 +360,11 @@
 <thumbnail>http://i866.photobucket.com/albums/ab224/Avi_1895/TEN-Sports-TV.jpg</thumbnail>
 </item>
 
-
+<item>
+<title>[COLOR bisque]This TV BOSTON[/COLOR]</title>
+<link>rtmp://38.79.128.43/live/?id=0ad5aac39bb13fbef7a2ec834aca275eb9a264f866b166e9cc8165499edffd08ad7ed65e25757e9c1db37bc53641d4ffee01a60b292e0df0cd39cbce28d61ed4423659ca24f37719bee438181aa9807072592db30b1c577af6aead32a2c02db3b19c1816f9a0c0a7442a1d8e98b169b1b3613316215eb6348cc7f0448f316a876b75db7d8dde1cb073eb221cb66cafaa73b9253b3cd10bdd playpath=2862.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 pageUrl=http://www.filmon.com/tv/this-tv-boston-whdh-72 live=true timeout=10</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/f/f1/This_TV_Network_Logo.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR bisque]TLC[/COLOR]</title>
