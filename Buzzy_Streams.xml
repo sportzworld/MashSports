@@ -6,25 +6,25 @@
 
 <item>
 <title>[COLOR red]****************************************[/COLOR]Stream 1</title>
-<link>rtmp://37.220.32.50:443/liverepeater playpath=20724 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/stream1.html token=#atd%#$ZH</link>
+<link>rtmp://37.220.32.56:443/liverepeater playpath=20724 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/stream1.html token=#atd%#$ZH token=#atd%#$ZH</link>
 <thumbnail> </thumbnail>
 </item>
 
 <item>
 <title>[COLOR red]***************************************[/COLOR]Stream 2</title>
-<link>rtmp://37.220.36.18:443/liverepeater playpath=13903 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/stream2.html token=#atd%#$ZH</link>
+<link>rtmp://37.220.32.44:443/liverepeater playpath=13903 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl>http://1cdn.filotv.pw/stream2.html token=#atd%#$ZH </link>
 <thumbnail> </thumbnail>
 </item>
 
 <item>
 <title>[COLOR red]**************************************[/COLOR]Stream 3</title>
-<link>rtmp://37.220.32.36:443/liverepeater playpath=20825 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/stream3.html token=#atd%#$ZH</link>
+<link>rtmp://37.220.36.70:443/liverepeater playpath=20825 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/stream3.html token=#atd%#$ZH</link>
 <thumbnail> </thumbnail>
 </item>
 
 <item>
 <title>[COLOR red]*************************************[/COLOR]Stream 4</title>
-<link>rtmp://37.220.36.18:443/liverepeater playpath=20719 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/stream4.html token=#atd%#$ZH</link>
+<link>rtmp://37.220.32.50:443/liverepeater playpath=20719 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/stream4.html token=#atd%#$ZH</link>
 <thumbnail> </thumbnail>
 </item>
 
