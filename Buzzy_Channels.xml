@@ -234,6 +234,12 @@
 </item>
 
 <item>
+<title>[COLOR bisque]Fox Sports Soccer[/COLOR]</title>
+<link>rtmp://akamai.kbps.tv:1935/live playpath=foxsp?=19101c309f6e72bd5f71ef02dcd6683d swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=foxsp&width=600&height=450&domain=www.pogotv.eu live=1 timeout=10</link>
+<thumbnail>http://www.soccerbyives.net/images/old/6a00e54ef2975b88330120a8752263970b-500wi.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR bisque]Grand Prix[/COLOR] </title>
 <link>rtsp://27.131.141.254:1935/grandprix/live</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/grand_prix_channel_th.png</thumbnail>
