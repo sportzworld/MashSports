@@ -31,3 +31,10 @@ Channels taken off untill they work
 <link>rtmp://31.220.0.133:1935/live playpath=thrlieer swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=thrlieer&vw=620&vh=490 live=1 timeout=10</link> 
 <thumbnail>http://4.bp.blogspot.com/-E1QDNHKPzKQ/Up3GAiO9oDI/AAAAAAAABqQ/7jhAjtxD8Eo/s400/p131551.png</thumbnail>
 </item>
+
+
+<item>
+<title>[COLOR bisque]Docu Box[/COLOR]</title>
+<link>rtmp://live302.edge.filmon.com/ app=live/?id=0ad5aac39bb13fbe6ccf1151b5ef45ea4a65d873a7f03d373a6f3b88c606215454b8bb2782140c03cf3ab2900fdc8c69f08f250981eaf62462d288c2143ac4f05f34e512c9207607d33a8dee438cf5787be5a87bd282e74cd89d2bcc880307873c4a862840d4f1531b01c77ad4eb5f545f3393e250de2784d7901491a793197858a58be3bbe3b8d8b77cf339992a5f5e007e2a9732ac9f70 playpath=1624.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 pageUrl=http://www.filmon.com/channel/docubox live=1 timeout=10</link>
+<thumbnail>http://images4.wikia.nocookie.net/__cb20121202034748/tvpedia/ru/images/3/3a/DocuBOX_HD.png</thumbnail>
+</item>
