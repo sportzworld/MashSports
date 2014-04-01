@@ -3,35 +3,7 @@
 
 #################################
 
-<item>
-<title>[COLOR aqua]Sky Movies [/COLOR]Action & Adventure</title>
-<link>rtmp://31.220.0.104:1935/live playpath=actionx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=actionx&vw=620&vh=490 live=1 timeout=10</link> 
-<thumbnail>http://theident.gallery/skymovies/2010/SKYM-2010-ID-ACTION-HD-1-8.jpg</thumbnail>
-</item>
 
-<item>
-<title>[COLOR aqua]Sky Movies [/COLOR]Modern Great's</title>
-<link>rtmp://31.220.0.134:1935/live playpath=greatx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=greatx&vw=620&vh=490 live=1 timeout=10</link> 
-<thumbnail>http://theident.gallery/skymovies/2009/SKYM-2009-MODERNGREATS-BUMPER-1-2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR aqua]Sky Movies [/COLOR]Premier</title>
-<link>rtmp://31.220.0.133:1935/live playpath=premierx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=premierx&vw=620&vh=490 live=1 timeout=10</link> 
-<thumbnail>http://theident.gallery/skymovies/2011/SKYM-2011-ID-PREMIERE-1-1.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR aqua]Sky Movies [/COLOR]SCI-FI & Horror</title>
-<link>rtmp://31.220.0.104:1935/live playpath=scifi swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=scifi&vw=620&vh=490 live=1 timeout=10</link> 
-<thumbnail>http://thetvroom.com/images/pool-misc/sky-movies/christmas/2007-08.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR aqua]Sky Movies [/COLOR]Crime & Chiller</title>
-<link>rtmp://31.220.0.133:1935/live playpath=thrlieer swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=thrlieer&vw=620&vh=490 live=1 timeout=10</link> 
-<thumbnail>http://4.bp.blogspot.com/-E1QDNHKPzKQ/Up3GAiO9oDI/AAAAAAAABqQ/7jhAjtxD8Eo/s400/p131551.png</thumbnail>
-</item>
 
 
 <item>
