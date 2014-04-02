@@ -231,7 +231,11 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
 </item>
 
-
+<item>
+<title>[COLOR bisque]MUTV[/COLOR]</title>
+<link>rtmp://37.220.34.18:443/liverepeater playpath=stream1 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/stream1.html live=1 timeout=10</link>
+<thumbnail>http://b.vimeocdn.com/ts/171/577/171577559_640.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR bisque]NBA TV[/COLOR]</title>
