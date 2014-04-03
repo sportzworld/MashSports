@@ -410,7 +410,7 @@
 
 <item>
 <title>[COLOR bisque]Ten Sports[/COLOR]</title>
-<link>rtmp://31.220.0.82:1935/live playpath=tensports swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=tensports&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtmp://31.220.0.103:1935/live playpath=tensports swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=tensports&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://i866.photobucket.com/albums/ab224/Avi_1895/TEN-Sports-TV.jpg</thumbnail>
 </item>
 
