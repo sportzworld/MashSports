@@ -31,7 +31,55 @@
 
 
 <item>
-<title>[COLOR yellow]Sky F1[/COLOR]</title>
+<title>[COLOR yellow]Sky Sports F1[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=49e8c52a47ec114476ab186d042d2c4fe76e86ce&mode=1&name=Sky+Sports+F1</link>
 <thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]BT Sports 2[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=3472b4030c1e5e894faf0419e0b8c06aa5ece161&mode=1&name=BT+Sports+2</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Motors TV[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=34114b072c14275eb69079fbac57b33a70ca866e&mode=1&name=Motors+TV</link>
+<thumbnail>http://www.holdenracingukltd.com/uploads/news/id38/logo_officiel_motorstv1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Sky Sports 1[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=7bbbf192ee0512ed2490a4d9ef1bd65188cea1f5&mode=1&name=Sky+Sports+1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_mx_sports1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Sky Sports 2[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=4d3d6d77a403e6f67a801370883cd11eefcd89a5&mode=1&name=Sky+Sports+2</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_mx_sports2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Sky Sports 3[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=4895f56028cd41e10b42d236f1e6ff261e6bd6f1&mode=1&name=Sky+Sports+3</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20100803180611/logopedia/images/7/79/Sky_Sports_3_2010.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Sky Sports 4[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=768ec4da4f11506be3e147000c00e52edd7caad5&mode=1&name=Sky+Sports+4</link>
+<thumbnail>http://samistream.com/thumbs/skysports4.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Sky Sports News[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=fe342f4c899d67559f71cbc2a3a6f3ddb7002a97&mode=1&name=Sky+Sports+News</link>
+<thumbnail>http://www.fm-base.co.uk/forum/attachments/football-manager-2012-stories/268180d1300972362-juventus-il-nuovo-barca-new-barcelona-sky-sports-news-logo-1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Extreme Sports[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=a9fa735caca110747f27f7b413e56d4160d6c633&mode=1&name=Extreme+Sports</link>
+<thumbnail>http://kelencontent.com/wp-content/uploads/2010/02/extreme_logo.jpg</thumbnail>
 </item>
