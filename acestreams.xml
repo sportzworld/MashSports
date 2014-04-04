@@ -4,6 +4,11 @@
 
 
 <info>
+<message>[COLOR blue]To ENJOY these HQ streams [/COLOR]</message>
+<thumbnail> </thumbnail>
+</info>
+
+<info>
 <message>[COLOR blue]You need the P2P Streams Addon Installed[/COLOR]</message>
 <thumbnail>http://gigaom2.files.wordpress.com/2011/05/p2p.jpg</thumbnail>
 </info>
@@ -13,20 +18,20 @@
 
 
 <item>
-<title>[COLOR green]Premier Sports[/COLOR]</title>
+<title>[COLOR yellow]Premier Sports[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=3823779db27ffbff36d3905aea0a834b5de900a8&mode=1&name=Premier+Sports</link>
 <thumbnail>http://www.eliteleague.co.uk/files/Premier_Sports.jpeg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR green]BT Sport 1[/COLOR]</title>
+<title>[COLOR yellow]BT Sport 1[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=a58414109c370494a9f984fb7ef09976e2cd33f4&mode=1&name=BT1</link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR green]Sky F1[/COLOR]</title>
+<title>[COLOR yellow]Sky F1[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=49e8c52a47ec114476ab186d042d2c4fe76e86ce&mode=1&name=Sky+Sports+F1</link>
 <thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
 </item>
