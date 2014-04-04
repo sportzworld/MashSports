@@ -1,0 +1,15 @@
+
+<info>
+<message>[COLOR blue]You need p2p-streams addon installed[/COLOR]</message>
+<thumbnail>http://gigaom2.files.wordpress.com/2011/05/p2p.jpg</thumbnail>
+</info>
+
+
+
+
+
+<item>
+<title>[COLOR green]Premier Sports[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=3823779db27ffbff36d3905aea0a834b5de900a8&mode=1&name=Premier+Sports</link>
+<thumbnail>http://www.eliteleague.co.uk/files/Premier_Sports.jpeg</thumbnail>
+</item>
