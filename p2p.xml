@@ -1,4 +1,3 @@
-
 <info>
 <message>[COLOR blue]You need p2p-streams addon installed[/COLOR]</message>
 <thumbnail>http://gigaom2.files.wordpress.com/2011/05/p2p.jpg</thumbnail>
@@ -12,4 +11,10 @@
 <title>[COLOR green]Premier Sports[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=3823779db27ffbff36d3905aea0a834b5de900a8&mode=1&name=Premier+Sports</link>
 <thumbnail>http://www.eliteleague.co.uk/files/Premier_Sports.jpeg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR green]BT Sport 1[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=a58414109c370494a9f984fb7ef09976e2cd33f4&mode=1&name=BT1</link>
+<thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
 </item>
