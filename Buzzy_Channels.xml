@@ -243,7 +243,7 @@
 
 <item>
 <title>[COLOR bisque]MiamiTV[/COLOR]</title>
-<link>rtmp://198.143.152.18/live/ playpath=miamitvhd swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://nowwatchtvlive.com/channel-tab-frame/miamitv-1.php live=true timeout=10</link>
+<link>rtmp://74.208.69.207/live/ playpath=miamitvhd swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://embedcodex23jc54jai.blogspot.ca/2013/05/blog-post_23.html live=1 timeout=10</link>
 <thumbnail>http://e-canlitvizle.org/wp-content/uploads/2013/04/miami-tv-logo.png</thumbnail>
 </item>
 
