@@ -79,6 +79,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Super Tennis HD[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=5868a9d76009712588155a2291086c16c584a4a9&mode=1&name=Super+Tennis</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/it/archive/d/db/20110802174201!Supertennis_logo.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Extreme Sports[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=a9fa735caca110747f27f7b413e56d4160d6c633&mode=1&name=Extreme+Sports</link>
 <thumbnail>http://kelencontent.com/wp-content/uploads/2010/02/extreme_logo.jpg</thumbnail>
