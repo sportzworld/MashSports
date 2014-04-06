@@ -303,6 +303,12 @@
 </item>
 
 <item>
+<title>[COLOR bisque]Showtime[/COLOR]</title>
+<link>rtmpe://watch.playfooty.tv/live playpath=show1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=show1569&vw=600&vh=430</link>
+<thumbnail>http://cdn3-www.craveonline.com/assets/uploads/2012/12/file_202059_0_Showtime_Logo.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR bisque]SKY F1[/COLOR]</title>
 <link>rtmpe://94.242.228.24:443/liveedge/ playpath=skys14570 swfUrl=www.zingo.tv/jwplayer/player.swf pageUrl=http://zingo.tv/watch.php?id=39&width=620&height=490 live=1 timeout=10</link>
 <thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
