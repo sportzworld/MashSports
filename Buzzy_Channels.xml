@@ -3,11 +3,7 @@
 
 #################################
 
-<item>
-<title>[COLOR aqua]ESPN US 1080p[/COLOR]</title>
-<link>rtmp://server5.ppvmania.tv/live/ playpath=ELBARTO swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed live=1 timeout=10</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us.jpg</thumbnail>
-</item>
+
 
 
 <item>
@@ -249,7 +245,7 @@
 
 <item>
 <title>[COLOR bisque]Motors TV[/COLOR]</title>
-<link>http://109.233.194.252:5556/udp/224.21.21.55:1234</link>
+<link>rtmp://206.190.140.20/live playpath=efdmotorstv?id=10506 Conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/efdmotorstv/1/650/500 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
 </item>
 
