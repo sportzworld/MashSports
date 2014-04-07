@@ -315,7 +315,7 @@
 
 <item>
 <title>[COLOR bisque]SKY F1[/COLOR]</title>
-<link>rtmpe://94.242.228.24:443/liveedge/ playpath=skys14570 swfUrl=www.zingo.tv/jwplayer/player.swf pageUrl=http://zingo.tv/watch.php?id=39&width=620&height=490 live=1 timeout=10</link>
+<link>rtmp://31.220.0.134:1935/live playpath=ssf1rx swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embeds.php?live=ssf1rx&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
 </item>
 
