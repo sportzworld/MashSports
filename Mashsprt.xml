@@ -59,10 +59,7 @@
 <thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn1/t5/174803_72129570999_811404065_n.jpg</thumbnail>
 <date> </date>
 
-<name>Test</name>
-<link>https://raw.github.com/mash2k3/MashSports/master/sched.xml</link>
-<thumbnail> </thumbnail>
-<date> </date>
+
 
 #############################################################################################################################
 
@@ -93,6 +90,11 @@
 <thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/streamc.jpg</thumbnail>
 </popup>
 
+<popup>
+<name>[COLOR aqua]Click here for:-----TODAY'S Buzzy Stream Schedule D-----[/COLOR][COLOR red]UK Time[/COLOR]</name>
+<popImage>https://dl.dropboxusercontent.com/u/125248976/Nutjob%20Schedule%20c.PNG</popImage>
+<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/streamc.jpg</thumbnail>
+</popup>
 
 
 #########################################################################################################################
