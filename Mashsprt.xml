@@ -66,32 +66,25 @@
 #############################################################################################################################
 
 <popup>
-<name>[COLOR orange]Click here for: World Clock Time Zones[/COLOR]</name>
-<popImage>https://dl.dropboxusercontent.com/u/125248976/World%20Clock%20Time%20Zones.PNG</popImage>
-<thumbnail>http://worldclocksite.com/wp-content/uploads/2012/04/time-zones.jpg</thumbnail>
-</popup>
-
-
-<popup>
-<name>[COLOR aqua]Click here for:---TODAY'S Buzzy Stream Schedule A---[/COLOR][COLOR red]UK Time[/COLOR]</name>
+<name>[COLOR aqua]Click here for:---TODAY'S Buzzy Stream Schedule A---[/COLOR][COLOR red]All streams are UK Time[/COLOR]</name>
 <popImage>https://dl.dropboxusercontent.com/u/125248976/nutjob%20schedule%20a.PNG</popImage>
 <thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/streama.jpg</thumbnail>
 </popup>
 
 <popup>
-<name>[COLOR aqua]Click here for:----TODAY'S Buzzy Stream Schedule B----[/COLOR][COLOR red]UK Time[/COLOR]</name>
+<name>[COLOR aqua]Click here for:----TODAY'S Buzzy Stream Schedule B----[/COLOR][COLOR red]All streams are UK Time[/COLOR]</name>
 <popImage>https://dl.dropboxusercontent.com/u/125248976/nutjob%20schedul%20b.PNG</popImage>
 <thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/streamb.jpg</thumbnail>
 </popup>
 
 <popup>
-<name>[COLOR aqua]Click here for:-----TODAY'S Buzzy Stream Schedule C-----[/COLOR][COLOR red]UK Time[/COLOR]</name>
+<name>[COLOR aqua]Click here for:-----TODAY'S Buzzy Stream Schedule C-----[/COLOR][COLOR red]All streams are UK Time[/COLOR]</name>
 <popImage>https://dl.dropboxusercontent.com/u/125248976/Nutjob%20Schedule%20c.PNG</popImage>
 <thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/streamc.jpg</thumbnail>
 </popup>
 
 <popup>
-<name>[COLOR aqua]Click here for:-----TODAY'S Buzzy Stream Schedule D-----[/COLOR][COLOR red]UK Time[/COLOR]</name>
+<name>[COLOR aqua]Click here for:-----TODAY'S Buzzy Stream Schedule D-----[/COLOR][COLOR red]All streams are UK Time[/COLOR]</name>
 <popImage>https://dl.dropboxusercontent.com/u/125248976/Nutjob%20Schedule%20c.PNG</popImage>
 <thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/streamc.jpg</thumbnail>
 </popup>
