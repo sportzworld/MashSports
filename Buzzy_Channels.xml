@@ -379,7 +379,7 @@
 
 <item>
 <title>[COLOR bisque]Sportsnet Ontario[/COLOR]</title>
-<link>rtmp://31.220.0.86:1935/live/ playpath=sontari swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.reyhq.com/embed2.php?live=sontari&vw=600&vh=450 live=true timeout=10</link>
+<link>rtmpe://94.242.228.19:443/liveedge/ playpath=snontario8556 swfUrl=http://zingo.tv/jwplayer/jwplayer.flash.swf pageUrl=http://zingo.tv/watch.php?id=1396&width=600&height=450 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sportsnet_ca_short.png</thumbnail>
 </item>
 
