@@ -143,6 +143,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]TLC[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=e4a5fc5f8464d03d1833f68dd90ba56d119d6297&mode=1&name=TLC</link>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcS-ZZzAj-qoVQd1I-Ih7qoXTiAHXJbRJ81v3kK-8zR9Q22yM3-yig</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Travel Channel (English/Russian)[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=bbf723113587c2565ce026d1e83274387a2168a2&mode=1&name=Travrel+Channel</link>
 <thumbnail>http://img2.wikia.nocookie.net/__cb20111026232439/g__/ghostadventures/images/d/d7/Travelchannel.jpg</thumbnail>
