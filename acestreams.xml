@@ -95,6 +95,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]MTV Live HD[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=1b1c1bf18a19d9c0539346c4b2cc208e0c7a1104&mode=1&name=MTV+Live</link>
+<thumbnail>http://teve.ba/img/articles/1916.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Sky Sports 1[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=7bbbf192ee0512ed2490a4d9ef1bd65188cea1f5&mode=1&name=Sky+Sports+1</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_mx_sports1.png</thumbnail>
