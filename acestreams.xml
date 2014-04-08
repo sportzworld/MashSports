@@ -45,7 +45,11 @@
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
 </item>
 
-
+<item>
+<title>[COLOR yellow]Discovery Channel (English/Russian)[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=a0f1d61ecd1c3ca8e75c0286fb584e8358f98c93&mode=1&name=Discovery+Channel</link>
+<thumbnail>http://www.reggiebibbs.com/wp-content/uploads/2010/07/discovery050409-21.jpg</thumbnail>
+</item>
 
 
 <item>
