@@ -34,6 +34,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Extreme Sports[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=a9fa735caca110747f27f7b413e56d4160d6c633&mode=1&name=Extreme+Sports</link>
+<thumbnail>http://kelencontent.com/wp-content/uploads/2010/02/extreme_logo.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Premier Sports[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=3823779db27ffbff36d3905aea0a834b5de900a8&mode=1&name=Premier+Sports</link>
 <thumbnail>http://www.eliteleague.co.uk/files/Premier_Sports.jpeg</thumbnail>
@@ -112,8 +118,4 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/it/archive/d/db/20110802174201!Supertennis_logo.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR yellow]Extreme Sports[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=a9fa735caca110747f27f7b413e56d4160d6c633&mode=1&name=Extreme+Sports</link>
-<thumbnail>http://kelencontent.com/wp-content/uploads/2010/02/extreme_logo.jpg</thumbnail>
-</item>
+
