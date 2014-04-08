@@ -34,6 +34,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Eurosport[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=dec57d7e0552cb9791c2f859aaa0c1b159ca0b64&mode=1&name=Eurosport</link>
+<thumbnail>http://media2.pl/g/0/32975.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Extreme Sports[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=a9fa735caca110747f27f7b413e56d4160d6c633&mode=1&name=Extreme+Sports</link>
 <thumbnail>http://kelencontent.com/wp-content/uploads/2010/02/extreme_logo.jpg</thumbnail>
