@@ -89,6 +89,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]MTV Hits (UK)[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=d916725f10deac4e8cc6009a657e59b2b99453a8&mode=1&name=MTV+Hits</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20100310165713/logopedia/images/8/83/MTV_Hits_UK_2010.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Sky Sports 1[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=7bbbf192ee0512ed2490a4d9ef1bd65188cea1f5&mode=1&name=Sky+Sports+1</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_mx_sports1.png</thumbnail>
