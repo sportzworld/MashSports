@@ -21,12 +21,11 @@
 </info>
 
 
+<info>
+<message>[COLOR yellow]THERE IS SEVERAL SOURCES THAT HAVE GONE DOWN EARLIER THIS WEEK, WE ARE AWARE OF IT AND ARE WORKING ON A SOLUTION[/COLOR]</message>
+<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/dead.png</thumbnail>
+</info>
 
-
-<name>[COLOR yellow]ATTENTION STREAMS are DOWN at SOURCE-Sorry for the Inconvenience[/COLOR]Buzzy's Streams [COLOR aqua]1-40[/COLOR]</name>
-<link>https://raw.github.com/mash2k3/MashSports/master/Buzzy_Sublinks.xml</link>
-<thumbnail> </thumbnail>
-<date> </date>
 
 <name>Buzzy's Channels</name>
 <link>https://raw.github.com/mash2k3/MashSports/master/Buzzy_Channels.xml</link>
@@ -65,29 +64,7 @@
 
 #############################################################################################################################
 
-<popup>
-<name>[COLOR aqua]Click here for:---TODAY'S Buzzy Stream Schedule A---[/COLOR][COLOR red]UK Time[/COLOR]</name>
-<popImage>https://dl.dropboxusercontent.com/u/125248976/nutjob%20schedule%20a.PNG</popImage>
-<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/streama.jpg</thumbnail>
-</popup>
 
-<popup>
-<name>[COLOR aqua]Click here for:----TODAY'S Buzzy Stream Schedule B----[/COLOR][COLOR red]UK Time[/COLOR]</name>
-<popImage>https://dl.dropboxusercontent.com/u/125248976/nutjob%20schedul%20b.PNG</popImage>
-<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/streamb.jpg</thumbnail>
-</popup>
-
-<popup>
-<name>[COLOR aqua]Click here for:-----TODAY'S Buzzy Stream Schedule C-----[/COLOR][COLOR red]UK Time[/COLOR]</name>
-<popImage>https://dl.dropboxusercontent.com/u/125248976/Nutjob%20Schedule%20c.PNG</popImage>
-<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/streamc.jpg</thumbnail>
-</popup>
-
-<popup>
-<name>[COLOR aqua]Click here for:-----TODAY'S Buzzy Stream Schedule D-----[/COLOR][COLOR red]UK Time[/COLOR]</name>
-<popImage>https://dl.dropboxusercontent.com/u/125248976/Nutjob%20Schedule%20c.PNG</popImage>
-<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/streamc.jpg</thumbnail>
-</popup>
 
 
 #########################################################################################################################
