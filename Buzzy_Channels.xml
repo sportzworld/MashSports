@@ -311,7 +311,7 @@
 
 <item>
 <title>[COLOR bisque]SKY F1[/COLOR]</title>
-<link>rtmp://31.220.0.134:1935/live playpath=ssf1rx swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embeds.php?live=ssf1rx&vw=620&vh=490 live=1 timeout=10</link>
+<link> rtmp://31.220.0.133:1935/live playpath=ssf1x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ssf1x&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
 </item>
 
@@ -323,32 +323,32 @@
 
 <item>
 <title>[COLOR bisque]SKY SPORTS 1[/COLOR]</title>
-<link>rtmp://37.220.36.69:443/liverepeater playpath=23697 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ss1.html token=#atd%#$ZH</link>
+<link> rtmp://31.220.0.104:1935/live playpath=ss1x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR bisque]SKY SPORTS 2[/COLOR] </title>
-<link>rtmp://37.220.32.53:443/liverepeater playpath=33698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH</link>
+<link>rtmp://31.220.0.133:1935/live playpath=ss2x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss2x&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR bisque]SKY SPORTS 3 [/COLOR]</title>
-<link>rtmp://37.220.32.43:443/liverepeater playpath=23699 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ss3.html live=1 timeout=10</link>
+<link>rtmp://31.220.0.134:1935/live playpath=ss3x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss3x&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports3.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR bisque]SKY SPORTS 4 [/COLOR]</title>
-<link>rtmp://37.220.32.56:443/liverepeater playpath=23700 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ss4.html token=#atd%#$ZH</link>
+<link> rtmp://31.220.0.103:1935/live playpath=ss4x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://i2.cdnds.net/09/53/160x120_broadcasting_ss4logo.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>[COLOR bisque]Sky Sports News[/COLOR] </title>
-<link>rtmp://37.220.32.44:443/liverepeater playpath=23701 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/stream30.html token=#atd%#$ZH</link>
+<link> rtmp://31.220.0.134:1935/live playpath=ssnewsrx swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>https://si0.twimg.com/profile_images/2609290856/pdxh1cly8vvggvzwjkoh.png</thumbnail>
 </item>
 
