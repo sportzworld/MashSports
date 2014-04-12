@@ -311,7 +311,7 @@
 
 <item>
 <title>[COLOR bisque]SKY F1[/COLOR]</title>
-<link> rtmp://31.220.0.133:1935/live playpath=ssf1x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ssf1x&vw=620&vh=490 live=true timeout=10</link>
+<link>rtmp://31.220.0.133:1935/live playpath=ssf1x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ssf1x&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
 </item>
 
