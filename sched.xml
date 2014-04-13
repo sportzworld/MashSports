@@ -3,22 +3,21 @@
 
 #################################
 
+<info>
+<message>Links will be here on the day of the event.</message>
+<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/dead.png</thumbnail>
+</info>
+
 
 
 <item>
-<title>[COLOR aqua]Pacquiao VS Bradley 2[/COLOR]</title>
-<link>rtmp://178.33.78.98/live/ playpath=pacquiao1080p swfUrl=http://sportsnationhd.com/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=pacquiao1080p live=true timeout=10</link>
-<thumbnail>http://blacksportsonline.com/home/wp-content/uploads/2014/02/Pacquiao-vs-Bradley-2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR aqua]Pacquiao VS Bradley 2 Additional Stream 1[/COLOR]</title>
+<title>[COLOR aqua]Pacquiao VS Bradley 2 [/COLOR]</title>
 <link>rtmp://cp106256.live.edgefcs.net/live?videoId=1895620936001&lineUpId=&pubId=1213020456001&playerId=2520541709001&affiliateId=/ playpath=iwantsolarsports-600@71269?videoId=1895620936001&lineUpId=&pubId=1213020456001&playerId=2520541709001&affiliateId= swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.phstream.com/2014/03/solarsports.html live=1 timeout=10</link>
 <thumbnail>http://blacksportsonline.com/home/wp-content/uploads/2014/02/Pacquiao-vs-Bradley-2.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR aqua]Pacquiao VS Bradley 2 Additional Stream 2[/COLOR]</title>
+<title>[COLOR aqua]Pacquiao VS Bradley 2 Additional Stream 1[/COLOR]</title>
 <link>rtmp://174.37.164.104:443/liverepeater playpath=stream6 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/stream6.html live=true timeout=10</link>
 <thumbnail>http://blacksportsonline.com/home/wp-content/uploads/2014/02/Pacquiao-vs-Bradley-2.jpg</thumbnail>
 </item>
