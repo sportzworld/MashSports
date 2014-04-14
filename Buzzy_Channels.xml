@@ -3,6 +3,25 @@
 
 #################################
 
+
+<item>
+<title>[COLOR aqua]Wrestling TV[/COLOR][COLOR yellow]Eng/Russ[/COLOR]</title>
+<link>rtmp://77.50.145.30/live/rtplive</link>
+<thumbnail>http://www.lezha.eu/wp-content/uploads/2012/09/wrestlingtv.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR aqua]DocuBox HD[/COLOR][COLOR yellow]Eng/Russ[/COLOR]</title>
+<link>http://spi-live.ercdn.net/spi/docuboxhd_0_1/playlist.m3u8</link>
+<thumbnail>http://www.satelitnatv.sk/wp-content/uploads/2012/07/docubox3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR aqua]NBC Sports Network HD[/COLOR]</title>
+<link>http://xrxs.net/video/live-nbcs-4296.m3u8</link>
+<thumbnail>http://archive.11alive.com/images/640/360/2/assetpool/images/110801031445_nbc-sports-network801.jpg</thumbnail>
+</item>
+
 <item>
 <title>[COLOR aqua]GOLF HD[/COLOR]</title>
 <link>http://xrxs.net/video/live-golf-4096.m3u8</link>
@@ -86,7 +105,7 @@
 
 <item>
 <title>[COLOR bisque]BT Sports 2 [/COLOR]</title>
-<link>rtmp://31.220.0.133:1935/live playpath=euro2x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=euro2x&vw=620&vh=490 live=true timeout=10</link>
+<link>rtmp://31.220.0.103:1935/live playpath=bt2x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt2x&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
 </item>
 
@@ -321,7 +340,7 @@
 
 <item>
 <title>[COLOR bisque]SKY F1[/COLOR]</title>
-<link>rtmp://31.220.0.133:1935/live playpath=ssf1x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ssf1x&vw=620&vh=490 live=true timeout=10</link>
+<link>rtmpe://46.246.29.152:1935/redirect/ playpath=HDMSKYF1 token=#yw%tt#w@kku swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=HDMSKYF1&vw=640&vh=460&domain=hdfoots.com live=true timeout=10</link>
 <thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
 </item>
 
@@ -333,7 +352,7 @@
 
 <item>
 <title>[COLOR bisque]SKY SPORTS 1[/COLOR]</title>
-<link>rtmp://31.220.0.104:1935/live playpath=ss1x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490 live=true timeout=10</link>
+<link>rtmpe://46.246.29.152:1935/redirect/ playpath=janu1 token=#yw%tt#w@kku swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=janu1&vw=640&vh=460&domain=www.footyfree.tv live=true timeout=10</link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
 </item>
 
