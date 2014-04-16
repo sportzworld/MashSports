@@ -133,6 +133,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Nat Geo Wild HD[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=1abe554ec754ac37168ca5495eef402856358010&mode=1&name=Nat+Geo+Wild+HD</link>
+<thumbnail>http://theident.gallery/natgeowildhd/2009/NGWHD-2009-STING-2-2.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]NBA TV[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=4668a0463c9215bc2f4f57970c8aa45142f436ec&mode=1&name=NBA</link>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000864623520/IDMXMmPB.jpeg</thumbnail>
