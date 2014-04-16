@@ -20,6 +20,12 @@
 <thumbnail>http://www.tv14.net/wp-content/uploads/2013/09/1HD-logo.jpg</thumbnail>
 </item>
 
+<item>
+<title>[COLOR yellow]Animal Planet HD[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=c304de6e10f5248741779e012dff14071ad2b94a&mode=1&name=Animal+Planet</link>
+<thumbnail>http://dvbpro.ru/wp-content/uploads/2011/11/animal.jpg</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR yellow]A-One USA[/COLOR]</title>
