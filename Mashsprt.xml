@@ -19,6 +19,12 @@
 <message>Report Dead links [COLOR red]ONLY[/COLOR] for this section @mashupxbmc.com (Buzzy Sports)</message>
 <thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/dead.png</thumbnail>
 </info>
+#############################################################################
+#############################################################################
+<name>[COLOR orange]"NEW"[/COLOR]Buzzy's 1-40 Streams</name>
+<link>https://raw.github.com/mash2k3/MashSports/master/Buzzy_Sublinks.xml</link>
+<thumbnail> </thumbnail>
+<date>4/15/14</date>
 
 <name>Buzzy's Channels</name>
 <link>https://raw.github.com/mash2k3/MashSports/master/Buzzy_Channels.xml</link>
