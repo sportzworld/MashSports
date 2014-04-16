@@ -35,13 +35,13 @@
 
 <item>
 <title>[COLOR yellow]Eurosport[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=dec57d7e0552cb9791c2f859aaa0c1b159ca0b64&mode=1&name=Eurosport</link>
+<link>plugin://plugin.video.p2p-streams/?url=035e9172bf6d532d56cd5eec0280d257a3a041f0&mode=1&name=Eurosport</link>
 <thumbnail>http://media2.pl/g/0/32975.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR yellow]Eurosport 2[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=e85357424e09d3f1bdc5f0c7633318e657128f7c&mode=1&name=Eurosport2</link>
+<link>plugin://plugin.video.p2p-streams/?url=c7e054ca9f4ee0c350c6fd262ec6f5d0ac94a881&mode=1&name=Eurosport2</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/85/Eurosport2.png</thumbnail>
 </item>
 
@@ -55,7 +55,7 @@
 
 <item>
 <title>[COLOR yellow]Premier Sports[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=3823779db27ffbff36d3905aea0a834b5de900a8&mode=1&name=Premier+Sports</link>
+<link>plugin://plugin.video.p2p-streams/?url=7d05047a36e579a7259feca4c1c474a92acf78d0&mode=1&name=Premier+Sports</link>
 <thumbnail>http://www.eliteleague.co.uk/files/Premier_Sports.jpeg</thumbnail>
 </item>
 
