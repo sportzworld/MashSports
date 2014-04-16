@@ -127,6 +127,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]NBA TV[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=4668a0463c9215bc2f4f57970c8aa45142f436ec&mode=1&name=NBA</link>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000864623520/IDMXMmPB.jpeg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Sky Sports 1[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=ce3d5917199872ac20394a38909d35a0a456701a&mode=1&name=Sky+Sports+1</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_mx_sports1.png</thumbnail>
