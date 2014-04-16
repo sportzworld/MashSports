@@ -22,6 +22,7 @@
 
 
 
+
 #################################################################################################
 
 
@@ -71,6 +72,24 @@
 #############################################################################################################################
 
 #############################################################################################################################
+<popup>
+<name>Click here for:---TODAY'S Buzzy Stream Schedule A---[COLOR red]UK Time[/COLOR]</name>
+<popImage>https://dl.dropboxusercontent.com/u/125248976/nutjob%20schedule%20a.PNG</popImage>
+<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/streama.jpg</thumbnail>
+</popup>
+
+<popup>
+<name>Click here for:----TODAY'S Buzzy Stream Schedule B----[COLOR red]UK Time[/COLOR]</name>
+<popImage>https://dl.dropboxusercontent.com/u/125248976/nutjob%20schedul%20b.PNG</popImage>
+<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/streamb.jpg</thumbnail>
+</popup>
+
+<popup>
+<name>Click here for:-----TODAY'S Buzzy Stream Schedule C-----[COLOR red]UK Time[/COLOR]</name>
+<popImage>https://dl.dropboxusercontent.com/u/125248976/Nutjob%20Schedule%20c.PNG</popImage>
+<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/streamc.jpg</thumbnail>
+</popup>
+
 
 
 
