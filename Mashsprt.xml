@@ -2,24 +2,6 @@
 <poster>Buzzy's Sport's</poster>
 <fanart>https://raw.github.com/mash2k3/MashSports/master/Images/buzz.jpg</fanart>
 #######################################################################################################################################
-
-
-<info>
-<message>[COLOR blue]Please [COLOR yellow]DONATE[/COLOR] to [COLOR aqua]tinyurl.com/BuzzysSports[/COLOR]if you are enjoying the channel!  [COLOR yellow]Thanks[/COLOR] </message>
-<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/paypals.jpg</thumbnail>
-</info>
-
-<info>
-<message>[COLOR orange]Follow us on Twitter and Facebook: [COLOR aqua] Viking Tattoos [COLOR yellow] @BuzzySportsXBMC[/COLOR] [COLORgreen] XBMCKof [COLOR orange] @XBMCKof[/COLOR] [COLOR blue]Facebook [/COLOR] [COLOR red] Buzzy's Sport's Network [/COLOR]</message>
-<thumbnail>http://frilka.com/wp-content/uploads/2012/03/1-twitter-logo-1-2-.png</thumbnail>
-</info>
-
-
-<info>
-<message>Report Dead links [COLOR red]ONLY[/COLOR] for this section @mashupxbmc.com (Buzzy Sports)</message>
-<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/dead.png</thumbnail>
-</info>
-
 <popup>
 <name>[COLOR aqua]Click here for:---TODAY'S Buzzy Stream Schedule A---[/COLOR][COLOR red]UK Time[/COLOR]</name>
 <popImage>https://dl.dropboxusercontent.com/u/125248976/nutjob%20schedule%20a.PNG</popImage>
@@ -43,6 +25,24 @@
 <popImage>https://dl.dropboxusercontent.com/u/125248976/Nutjob%20Schedule%20c.PNG</popImage>
 <thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/streamc.jpg</thumbnail>
 </popup>
+
+<info>
+<message>[COLOR blue]Please [COLOR yellow]DONATE[/COLOR] to [COLOR aqua]tinyurl.com/BuzzysSports[/COLOR]if you are enjoying the channel!  [COLOR yellow]Thanks[/COLOR] </message>
+<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/paypals.jpg</thumbnail>
+</info>
+
+<info>
+<message>[COLOR orange]Follow us on Twitter and Facebook: [COLOR aqua] Viking Tattoos [COLOR yellow] @BuzzySportsXBMC[/COLOR] [COLORgreen] XBMCKof [COLOR orange] @XBMCKof[/COLOR] [COLOR blue]Facebook [/COLOR] [COLOR red] Buzzy's Sport's Network [/COLOR]</message>
+<thumbnail>http://frilka.com/wp-content/uploads/2012/03/1-twitter-logo-1-2-.png</thumbnail>
+</info>
+
+
+<info>
+<message>Report Dead links [COLOR red]ONLY[/COLOR] for this section @mashupxbmc.com (Buzzy Sports)</message>
+<thumbnail>https://raw.github.com/mash2k3/MashSports/master/Images/dead.png</thumbnail>
+</info>
+
+
 
 <name>Buzzy's Streams</name>
 <link>https://raw.github.com/mash2k3/MashSports/master/Buzzy_Sublinks.xml</link>
