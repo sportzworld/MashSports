@@ -40,9 +40,33 @@
 </item>
 
 <item>
+<title>[COLOR yellow]BT Sport 1[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=a58414109c370494a9f984fb7ef09976e2cd33f4&mode=1&name=BT1</link>
+<thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]BT Sports 2[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=3472b4030c1e5e894faf0419e0b8c06aa5ece161&mode=1&name=BT+Sports+2</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]CNN International[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=4063b370c097074b16c25c32376a063fad919742&mode=1&name=CNN</link>
 <thumbnail>https://lh6.ggpht.com/ICktyZmqSzoHpGLx3EbuDROmtGJXz1bTCkclOvgZxs_tBuwQaFD4kiKm903oYDATIQ=w300</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Discovery Channel (English/Russian)[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=a0f1d61ecd1c3ca8e75c0286fb584e8358f98c93&mode=1&name=Discovery+Channel</link>
+<thumbnail>http://www.reggiebibbs.com/wp-content/uploads/2010/07/discovery050409-21.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Discovery Science (English/Russian)[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=cc7c690aa069a35b9a8ac4779054694848861da7&mode=1&name=Discovery+Science</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20091123075002/logopedia/images/b/bc/Discovery_Science_2003.png</thumbnail>
 </item>
 
 <item>
@@ -63,55 +87,16 @@
 <thumbnail>http://kelencontent.com/wp-content/uploads/2010/02/extreme_logo.jpg</thumbnail>
 </item>
 
-
-
-<item>
-<title>[COLOR yellow]Premier Sports[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=3993375ee3683ff685a3651c4d1de46facf9651f&mode=1&name=Premier+Sports</link>
-<thumbnail>http://www.eliteleague.co.uk/files/Premier_Sports.jpeg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow]BT Sport 1[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=a58414109c370494a9f984fb7ef09976e2cd33f4&mode=1&name=BT1</link>
-<thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow]Discovery Channel (English/Russian)[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=a0f1d61ecd1c3ca8e75c0286fb584e8358f98c93&mode=1&name=Discovery+Channel</link>
-<thumbnail>http://www.reggiebibbs.com/wp-content/uploads/2010/07/discovery050409-21.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow]Discovery Science (English/Russian)[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=cc7c690aa069a35b9a8ac4779054694848861da7&mode=1&name=Discovery+Science</link>
-<thumbnail>http://img2.wikia.nocookie.net/__cb20091123075002/logopedia/images/b/bc/Discovery_Science_2003.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow]Outdoor Channel [/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=5a60760dd2b2efebf47f6153d53b4cfb82ad93c1&mode=1&name=Outdoor+Channel</link>
-<thumbnail>http://www.p4-34.com/Outdoor_Channel_Logo.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR yellow]Sky Sports F1[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=8cc3ffaea1dfe2c668a34eebd60b93b4f2a96b75&mode=1&name=Sky+Sports+F1</link>
-<thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow]BT Sports 2[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=3472b4030c1e5e894faf0419e0b8c06aa5ece161&mode=1&name=BT+Sports+2</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
-</item>
-
 <item>
 <title>[COLOR yellow]Fighter[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=d4c5494aba9fa76d2c193682f95f78cddac98d7e&mode=1&name=Fighter</link>
 <thumbnail>http://www.allspammedup.com/wp-content/uploads/2011/08/fight-spam.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Fight Club (Russian)[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=2bf51c45c14bc1e995062bf61e394f05288dbb46&mode=1&name=Fight+Club</link>
+<thumbnail>https://d2nh4f9cbhlobh.cloudfront.net/_uploads/images/FightClub6.jpg</thumbnail>
 </item>
 
 <item>
@@ -148,6 +133,24 @@
 <title>[COLOR yellow]NBA TV[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=4668a0463c9215bc2f4f57970c8aa45142f436ec&mode=1&name=NBA</link>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000864623520/IDMXMmPB.jpeg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Outdoor Channel [/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=5a60760dd2b2efebf47f6153d53b4cfb82ad93c1&mode=1&name=Outdoor+Channel</link>
+<thumbnail>http://www.p4-34.com/Outdoor_Channel_Logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Premier Sports[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=3993375ee3683ff685a3651c4d1de46facf9651f&mode=1&name=Premier+Sports</link>
+<thumbnail>http://www.eliteleague.co.uk/files/Premier_Sports.jpeg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Sky Sports F1[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=8cc3ffaea1dfe2c668a34eebd60b93b4f2a96b75&mode=1&name=Sky+Sports+F1</link>
+<thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
 </item>
 
 <item>
