@@ -40,6 +40,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]CNN International[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=4063b370c097074b16c25c32376a063fad919742&mode=1&name=CNN</link>
+<thumbnail>https://lh6.ggpht.com/ICktyZmqSzoHpGLx3EbuDROmtGJXz1bTCkclOvgZxs_tBuwQaFD4kiKm903oYDATIQ=w300</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Eurosport[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=ef502f3a7bea130af6edad9a42e25e652fe4eef3&mode=1&name=Eurosport</link>
 <thumbnail>http://media2.pl/g/0/32975.jpg</thumbnail>
