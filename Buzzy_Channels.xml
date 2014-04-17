@@ -284,7 +284,7 @@
 
 <item>
 <title>[COLOR bisque]Motors TV[/COLOR]</title>
-<link>rtmp://206.190.140.36/live playpath=efmotorstv60?id=11001 Conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/efmotorstv60/1/600/500 live=true timeout=10</link>
+<link>rtmp://live.2caster.com/live playpath=motorstvbb swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://www.xuuby.com/show.php?chname=motorstvbb&width=600&height=440&a=1 Conn=S:OK live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
 </item>
 
@@ -345,7 +345,7 @@
 
 <item>
 <title>[COLOR bisque]SKY F1[/COLOR]</title>
-<link>rtmpe://89.46.102.70:443/liveedge playpath=skyf1 swfurl=http://hqstreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://hqstreams.tv/</link>
+<link>rtmp://31.220.0.82:1935/live playpath=ssf1x pageUrl=http://www.eucast.tv/</link>
 <thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
 </item>
 
