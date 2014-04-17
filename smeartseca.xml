@@ -70,6 +70,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]English Club TV[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=85eaa75b4e007c019e4dd9e92572150759dea083&mode=1&name=English+Club</link>
+<thumbnail>http://www.bboxnews.fr/public/2013/.English-Club-TV_s.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Eurosport[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=ef502f3a7bea130af6edad9a42e25e652fe4eef3&mode=1&name=Eurosport</link>
 <thumbnail>http://media2.pl/g/0/32975.jpg</thumbnail>
