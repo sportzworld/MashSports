@@ -363,26 +363,27 @@
 
 <item>
 <title>[COLOR bisque]SKY SPORTS 2[/COLOR] </title>
-<link>rtmpe://89.46.102.70:443/liveedge playpath=sky2 swfurl=http://hqstreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://hqstreams.tv/</link>
+<link>
+rtmp://37.220.32.55:443/liverepeater playpath=33698 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH live=true timeout=10</link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR bisque]SKY SPORTS 3 [/COLOR]</title>
-<link>rtmpe://89.46.102.70:443/liveedge playpath=newsky3 swfurl=http://hqstreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://hqstreams.tv/</link>
+<link>rtmp://31.220.0.82:1935/live playpath=ss3x pageUrl=http://www.eucast.tv/ live=true timeout=10</link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports3.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR bisque]SKY SPORTS 4 [/COLOR]</title>
-<link>rtmpe://89.46.102.70:443/liveedge playpath=sky4 swfurl=http://hqstreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://hqstreams.tv/</link>
+<link>rtmp://31.220.0.103:1935/live playpath=ss4x pageUrl=http://www.eucast.tv/ live=true timeout=10</link>
 <thumbnail>http://i2.cdnds.net/09/53/160x120_broadcasting_ss4logo.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>[COLOR bisque]Sky Sports News[/COLOR] </title>
-<link>rtmpe://89.46.102.70:443/liveedge playpath=sky_news swfurl=http://hqstreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://hqstreams.tv/</link>
+<link>rtmp://31.220.0.104:1935/live playpath=ssnewsrx pageUrl=http://www.eucast.tv/ live=true timeout=10</link>
 <thumbnail>https://si0.twimg.com/profile_images/2609290856/pdxh1cly8vvggvzwjkoh.png</thumbnail>
 </item>
 
@@ -437,7 +438,7 @@
 
 <item>
 <title>[COLOR bisque]Star Sports[/COLOR]</title>
-<link>http://123.29.74.98/live.vs?c=vstv033&q=high</link>
+<link>rtmp://206.190.139.28/live playpath=s247starsports12?id=11079 Conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/s247starsports12/2/600/420 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_sports.png</thumbnail>
 </item>
 
@@ -473,7 +474,7 @@
 
 <item>
 <title>[COLOR bisque]TLC[/COLOR]</title>
-<link>http://123.29.74.98/live.vs?c=vstv084&q=high</link>
+<link>http://178.49.132.73/streaming/tlc/tvrec/playlist.m3u8</link>
 <thumbnail>http://b.vimeocdn.com/ts/117/152/117152149_640.jpg</thumbnail>
 </item>
 
