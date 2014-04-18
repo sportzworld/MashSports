@@ -241,7 +241,7 @@
 
 <item>
 <title>[COLOR bisque]Fox Sports[/COLOR]</title>
-<link>http://123.29.74.98/live.vs?c=vstv042&q=high</link>
+<link>rtmp://31.220.0.104:1935/live playpath=fox1 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
 <thumbnail>http://www.eurweb.com/wp-content/uploads/2013/04/fox-sports.jpg</thumbnail>
 </item>
 
