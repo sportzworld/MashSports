@@ -278,7 +278,7 @@
 
 <item>
 <title>[COLOR bisque]MiamiTV[/COLOR]</title>
-<link>rtmp://74.208.69.207/live/ playpath=miamitvhd swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://embedcodex23jc54jai.blogspot.ca/2013/05/blog-post_23.html live=1 timeout=10</link>
+<link>rtmp://198.143.152.18/live/ playpath=miamitvhd swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://nowwatchtvlive.com/channel-tab-frame/miamitv-1.php live=true timeout=10</link>
 <thumbnail>http://e-canlitvizle.org/wp-content/uploads/2013/04/miami-tv-logo.png</thumbnail>
 </item>
 
@@ -370,7 +370,7 @@ rtmp://37.220.32.55:443/liverepeater playpath=33698 swfUrl=http://www.longtailvi
 
 <item>
 <title>[COLOR bisque]SKY SPORTS 3 [/COLOR]</title>
-<link>rtmp://31.220.0.82:1935/live playpath=ss3x pageUrl=http://www.eucast.tv/ live=true timeout=10</link>
+<link>rtmp://37.220.36.18:443/liverepeater playpath=23699 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ss3.html live=true timeout=10</link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports3.jpg</thumbnail>
 </item>
 
@@ -511,7 +511,7 @@ rtmp://37.220.32.55:443/liverepeater playpath=33698 swfUrl=http://www.longtailvi
 
 <item>
 <title>[COLOR bisque]WWE Network[/COLOR]</title>
-<link>rtmp://108.59.14.229/live playpath=jizzywizzyyyyyy?id=199683 Conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/jizzywizzyyyyyy/1/650/450 live=true timeout=10</link>
+<link>rtmp://208.43.81.145/stream playpath=sdfsdfdddss?id=120338 Conn=S:OK swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/embedplayer/sdfsdfdddss/1/639/390 live=true timeout=10</link>
 <thumbnail>http://www.wwe.com/f/styles/ep_trending/public/article/thumb/2014/02/wwe-network/20140102_EPLIGHT_Network_Announcement_nodate_C.jpg</thumbnail>
 </item>
 
@@ -524,7 +524,7 @@ rtmp://37.220.32.55:443/liverepeater playpath=33698 swfUrl=http://www.longtailvi
 
 <item>
 <title>[COLOR bisque]Zuus Country[/COLOR]</title>
-<link>rtmp://23.212.109.172/live?_fcs_vhost=cp76676.live.edgefcs.net playpath=I0dmlzZDrIL2dwBwbZE9is85OA-AkFxE_640_480_1064@135069 swfUrl=http://player.ooyala.com/static/cacheable/02f3a18b9687d4fc7dab761497f12319/player_v2.swf/[[DYNAMIC]]/3 pageUrl=http://www.zuus.com/music-videos/live/265 live=1 timeout=10</link>
+<link>rtmp://92.122.49.164/live?_fcs_vhost=cp76676.live.edgefcs.net playpath=I0dmlzZDrIL2dwBwbZE9is85OA-AkFxE_640_480_1064@135069 Conn=S:OK swfUrl=http://player.ooyala.com/static/cacheable/43566953138cff6647a8c7c1fad97dc6/player_v2.swf/[[DYNAMIC]]/2 pageUrl=http://www.zuus.com/music-videos/live/265 live=true timeout=10</link>
 </item>
 
 <item>
