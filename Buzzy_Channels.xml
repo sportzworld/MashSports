@@ -491,8 +491,14 @@ rtmp://37.220.32.55:443/liverepeater playpath=33698 swfUrl=http://www.longtailvi
 </item>
 
 <item>
-<title>[COLOR bisque]TSN[/COLOR]</title>
+<title>[COLOR bisque]TSN 1[/COLOR]</title>
 <link>rtmp://31.220.0.133:1935/live playpath=tsn1 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
+<thumbnail>http://www.artsigns.com/urls/TSN_Canada/TSN_Canada%27s_Sports_Leader_pict/TSN_boardroom.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR bisque]TSN 2[/COLOR]</title>
+<link>rtmp://31.220.0.134:1935/live playpath=tsn2 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
 <thumbnail>http://www.artsigns.com/urls/TSN_Canada/TSN_Canada%27s_Sports_Leader_pict/TSN_boardroom.jpg</thumbnail>
 </item>
 
