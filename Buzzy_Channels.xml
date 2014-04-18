@@ -491,6 +491,12 @@ rtmp://37.220.32.55:443/liverepeater playpath=33698 swfUrl=http://www.longtailvi
 </item>
 
 <item>
+<title>[COLOR bisque]TSN[/COLOR]</title>
+<link>rtmp://31.220.0.133:1935/live playpath=tsn1 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
+<thumbnail>http://www.artsigns.com/urls/TSN_Canada/TSN_Canada%27s_Sports_Leader_pict/TSN_boardroom.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR bisque]WNET NY Channel 13[/COLOR]</title>
 <link>rtmp://38.74.192.121/live/?id=0ad5aac39bb13fbe0034d180638c096461e29a77361132b2950f38dabddb7eb2c5746a735d1c41a2d26a51fb3637517b35b561e2084afc015149aa6c03b7fb14b55676c5f3dbaead14fe6c3973283b9cc5da792d4cb8b79c6110c53407b2636bbbc0132a3626dfeef63b01ba190fdfeebb7770fff56ec815e085e9af3913ef5b5db31206c16c5de539549aa39f11888ff7dc73b9e36f0b51 playpath=2438.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=51 pageUrl=http://www.filmon.com/ live=1 timeout=10</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/4/42/WNET_logo.png</thumbnail>
