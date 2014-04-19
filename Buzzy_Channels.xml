@@ -337,6 +337,12 @@
 </item>
 
 <item>
+<title>[COLOR bisque]Premier Sports[/COLOR]</title>
+<link>rtmpe://46.246.29.152:1935/redirect playpath=HDMPREMIER swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf pageUrl=http://www.hdcast.org/player.php?u=HDMPREMIER&vw=615&vh=415&domain=negmtv.altervista.org live=1 timeout=10 </link>
+<thumbnail>http://media15.tv/img/client-premier-sports.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR bisque]Racing UK[/COLOR]</title>
 <link>rtmpe://46.246.29.152:1935/redirect playpath=Racing24x7 swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf live=1 pageUrl=http://www.hdcast.org/player.php?u=Racing24x7&vw=615&vh=415&domain=negmtv.altervista.org timeout=10</link>
 <thumbnail>http://www.becreative.co.uk/wp-content/uploads/2013/07/RacingUK_logo.png</thumbnail>
