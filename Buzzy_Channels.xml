@@ -302,7 +302,7 @@
 
 <item>
 <title>[COLOR bisque]Motors TV[/COLOR]</title>
-<link>rtmp://live.2caster.com/live playpath=motorstvbb swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://www.xuuby.com/show.php?chname=motorstvbb&width=600&height=440&a=1 Conn=S:OK live=true timeout=10</link>
+<link>rtmp://206.190.139.28/live playpath=efxxxmotorstv?id=11546 Conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/efxxxmotorstv/1/600/440</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
 </item>
 
