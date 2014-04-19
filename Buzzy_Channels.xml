@@ -423,11 +423,7 @@ rtmp://37.220.32.55:443/liverepeater playpath=33698 swfUrl=http://www.longtailvi
 <thumbnail>https://si0.twimg.com/profile_images/2609290856/pdxh1cly8vvggvzwjkoh.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR bisque]Sky Sports T20 HD[/COLOR] </title>
-<link>rtmp://206.190.138.68/live playpath=dry456?id=199373 Conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/dry456/1/600/450 live=1 timeout=10</link>
-<thumbnail>https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/t1.0-9/p403x403/734519_625852184151117_135575870_n.jpg</thumbnail>
-</item>
+
 
 <item>
 <title>[COLOR bisque]Spike Tv[/COLOR]</title>
