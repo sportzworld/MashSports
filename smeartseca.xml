@@ -14,6 +14,13 @@
 </info>
 
 
+
+<item>
+<title>[COLOR aqua]Test Your Acestream[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=56d3b9891a8334d20c7a6beb463656db1526941d&mode=1&name=Test</link>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTN7pwALCtRWj-cgBp3juzglhmY_7DdbyJAupBTA1HI6YN4WBUXcA</thumbnail>
+</item>
+
 <item>
 <title>[COLOR yellow]1HD[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=103d7d24637ba5c08e6fe0e54646db5e57f93233&mode=1&name=1HD</link>
