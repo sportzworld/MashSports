@@ -77,13 +77,13 @@
 
 <item>
 <title>[COLOR yellow]Eurosport[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=ef502f3a7bea130af6edad9a42e25e652fe4eef3&mode=1&name=Eurosport</link>
+<link>plugin://plugin.video.p2p-streams/?url=faa027602160bd4108fdc8af67bfe593bffc089a&mode=1&name=Eurosport</link>
 <thumbnail>http://media2.pl/g/0/32975.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR yellow]Eurosport 2[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=f2ebbaca166d85fe6bfaa72969f784c3270cf498&mode=1&name=Eurosport2</link>
+<link>plugin://plugin.video.p2p-streams/?url=e85357424e09d3f1bdc5f0c7633318e657128f7c&mode=1&name=Eurosport2</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/85/Eurosport2.png</thumbnail>
 </item>
 
