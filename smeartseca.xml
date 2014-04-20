@@ -40,6 +40,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Bein 6[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=e1bd74663f74a1aeb141717dbfd8455977666237&mode=1&name=Bein+Sport</link>
+<thumbnail>http://www.liveonlinetv24x7.com/wp-content/uploads/2014/04/photo1.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]BT Sport 1[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=fb177b07b7d6f8ccedd0e8a4ca689d208f3374d2&mode=1&name=BT1</link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
@@ -221,7 +227,7 @@
 
 <item>
 <title>[COLOR yellow]Viasat Sport[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=210cc22655d0e72ded6921931e3f0bcfd2ab23fb&mode=1&name=English+Club</link>
+<link>plugin://plugin.video.p2p-streams/?url=210cc22655d0e72ded6921931e3f0bcfd2ab23fb&mode=1&name=Viasat+Sport</link>
 <thumbnail>https://pbs.twimg.com/profile_images/470373777/Viasatsport_logo_top.png</thumbnail>
 </item>
 
