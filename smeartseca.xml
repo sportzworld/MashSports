@@ -21,6 +21,12 @@
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTN7pwALCtRWj-cgBp3juzglhmY_7DdbyJAupBTA1HI6YN4WBUXcA</thumbnail>
 </item>
 
+<subitem> 
+<title>[COLOR green]Discovery Channel[/COLOR] (Sopcast)</title>          
+<link>plugin://plugin.video.p2p-streams/?url=25761&mode=2&name=Discovery+Channel</link>
+<thumbnail>http://p1.pichost.me/i/45/1686397.jjpg</thumbnail>
+</subitem> 
+
 <item>
 <title>[COLOR orange]47 Ronin(2013) - 1080p[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=5e509bcb8c625b200f80199dd9cf0faabc9eb9e1&mode=1&name=47+Ronin</link>
