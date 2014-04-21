@@ -319,6 +319,12 @@
 </item>
 
 <item>
+<title>[COLOR bisque]MUTV[/COLOR]</title>
+<link>http://62.253.4.103:8001/1:0:1:C4A9:819:2:11A0000:0:0:0:</link>
+<thumbnail>http://i2.cdnds.net/13/04/300x225/media-mutv-logo.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR bisque]NBA TV[/COLOR]</title>
 <link>rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=true pageUrl=http://www.04stream.com/ live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
