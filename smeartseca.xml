@@ -22,10 +22,18 @@
 </item>
 
 <subitem> 
+<title>[COLOR green]CBNS TV[/COLOR] (Sopcast)</title>          
+<link>plugin://plugin.video.p2p-streams/?url=143025&mode=2&name=CBNS</link>
+<thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/7/3/8/6/7386389/7386389_cbns_2010_mar_1299340465,640x360,r:1.jpg</thumbnail>
+</subitem>
+
+<subitem> 
 <title>[COLOR green]Discovery Channel[/COLOR] (Sopcast)</title>          
 <link>plugin://plugin.video.p2p-streams/?url=25761&mode=2&name=Discovery+Channel</link>
 <thumbnail>http://p1.pichost.me/i/45/1686397.jjpg</thumbnail>
 </subitem> 
+
+
 
 <item>
 <title>[COLOR orange]47 Ronin(2013) - 1080p[/COLOR]</title>
