@@ -558,6 +558,12 @@ rtmp://37.220.32.55:443/liverepeater playpath=33698 swfUrl=http://www.longtailvi
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/4/42/WNET_logo.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR bisque]VH1 Classic[/COLOR]</title>
+<link>http://193.151.107.242:11111/udp/238.1.48.1:1234</link>
+<thumbnail>http://www.vh1.com/franchises/config/themes/vh1classic/281x211_logo.png</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR bisque]WWE Network[/COLOR]</title>
