@@ -154,6 +154,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Drive TV[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=1cc3a848d72202e1a5d4893942f202f498365e4f&mode=1&name=Drive</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/e/e5/Drive_tv_logo.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]English Club TV[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=85eaa75b4e007c019e4dd9e92572150759dea083&mode=1&name=English+Club</link>
 <thumbnail>http://www.bboxnews.fr/public/2013/.English-Club-TV_s.jpg</thumbnail>
