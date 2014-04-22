@@ -315,4 +315,8 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/b/be/Viasat_Sport_2.png</thumbnail>
 </item>
 
-
+<item>
+<title>[COLOR yellow]Xsport[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=5fc45ffa5d09c48a883a51c3206aa535c3c0a1b8&mode=1&name=Xsport</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCNNxVRJeGpLsBaWfPaLH2gkVkAsr_uMVvwd2QSX9io4kdEWnl</thumbnail>
+</item>
