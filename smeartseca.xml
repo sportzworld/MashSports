@@ -102,6 +102,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Auto Plus[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=86522477e44cccccc41f8b7f846d656838bf1513&mode=1&name=NTV</link>
+<thumbnail>http://img03.mar.cx/_images/DE2060132</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]BBC World News[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=38aab53bf6939dd19a79d8b2d41ed912620907c5&mode=1&name=BBC+News</link>
 <thumbnail>http://2.bp.blogspot.com/-R-7cML2Nicw/T1SsiF4eBVI/AAAAAAAAA5U/OQdFJn-p6hU/s1600/bbcnews_open2006b.jpg</thumbnail>
