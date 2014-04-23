@@ -136,6 +136,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Cartoon Network[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=2e706c448aafee33a0465c821f85fc17ec37ca78&mode=1&name=CN</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/744px-Cartoon_Network_2004_logo.svg.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]CCTV News[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=c318e7b022ce8aeab57c9ccff7ac24f4747f9c9d&mode=1&name=CCTV</link>
 <thumbnail>http://4.bp.blogspot.com/-qYBbK8BavjE/UWqoLN_CD0I/AAAAAAAAA80/uFHyww3x_sg/s1600/cctv+news.jpg</thumbnail>
