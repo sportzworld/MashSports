@@ -308,7 +308,7 @@
 
 <item>
 <title>[COLOR bisque]Motors TV[/COLOR]</title>
-<link>http://212.20.11.190:1234/udp/233.7.70.206:5000</link>
+<link>rtmp://173.193.205.105/live playpath=motorstv3v?id=66407 Conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/motorstv3v/1/650/500 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
 </item>
 
