@@ -272,7 +272,7 @@
 
 <item>
 <title>[COLOR bisque]Grand Prix[/COLOR] </title>
-<link>rtsp://27.131.141.254:1935/grandprix/live</link>
+<link>rtmp://27.131.141.254/grandprix/live</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/grand_prix_channel_th.png</thumbnail>
 </item>
 
@@ -308,7 +308,7 @@
 
 <item>
 <title>[COLOR bisque]Motors TV[/COLOR]</title>
-<link>rtmp://206.190.139.28/live playpath=efxxxmotorstv?id=11546 Conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/efxxxmotorstv/1/600/440</link>
+<link>http://212.20.11.190:1234/udp/233.7.70.206:5000</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
 </item>
 
