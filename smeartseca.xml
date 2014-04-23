@@ -103,7 +103,7 @@
 
 <item>
 <title>[COLOR yellow]Auto Plus[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=86522477e44cccccc41f8b7f846d656838bf1513&mode=1&name=NTV</link>
+<link>plugin://plugin.video.p2p-streams/?url=86522477e44cccccc41f8b7f846d656838bf1513&mode=1&name=Auto</link>
 <thumbnail>http://img03.mar.cx/_images/DE2060132</thumbnail>
 </item>
 
@@ -247,7 +247,7 @@
 
 <item>
 <title>[COLOR yellow]KHL[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=f679f53164a89ed26934845004b9debde26c0200&mode=1&name=NTV</link>
+<link>plugin://plugin.video.p2p-streams/?url=f679f53164a89ed26934845004b9debde26c0200&mode=1&name=KHL</link>
 <thumbnail>http://g.denik.cz/1/47/logo-khl_denik-1024.jpg</thumbnail>
 </item>
 
@@ -417,6 +417,12 @@
 <title>[COLOR yellow]Vh1 Classic[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=21940c6e3a1afd30db94d73f3bbb367d62c820a7&mode=1&name=Vh1+Classic</link>
 <thumbnail>http://b.vimeocdn.com/ts/220/413/220413862_640.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]VH1 European[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=d06b45d6b0b933c4e18a1905ace51104b0bc3959&mode=1&name=VH1</link>
+<thumbnail>http://media2.pl/g/0/12036.jpg</thumbnail>
 </item>
 
 <item>
