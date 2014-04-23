@@ -22,6 +22,12 @@
 </item>
 
 <subitem> 
+<title>[COLOR green]BT Sport1 HD[/COLOR] (Sopcast)</title>          
+<link>plugin://plugin.video.p2p-streams/?url=154532&mode=2&name=BT1 HD</link>
+<thumbnail>https://www.magnet.ie/wp-content/uploads/2011/12/BTSport1HD_RGB.jpg</thumbnail>
+</subitem>
+
+<subitem> 
 <title>[COLOR green]CBNS TV[/COLOR] (Sopcast)</title>          
 <link>plugin://plugin.video.p2p-streams/?url=143025&mode=2&name=CBNS</link>
 <thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/7/3/8/6/7386389/7386389_cbns_2010_mar_1299340465,640x360,r:1.jpg</thumbnail>
