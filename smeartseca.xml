@@ -166,6 +166,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Discovery World[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=1ffc9c95bd167017dd1e63075bcecc7b619c6f2e&mode=1&name=Discovery</link>
+<thumbnail>http://m1.behance.net/rendition/projects/341934/orig/0960041257503466.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Disney Channel[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=447942fafabfd03ff8278c04e94af6dc85484a25&mode=1&name=Disney</link>
 <thumbnail>http://cartoonwallpaper.net/wp-content/uploads/2014/01/Cartoon-of-disney-channel.png</thumbnail>
