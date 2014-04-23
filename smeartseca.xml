@@ -132,6 +132,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Bridge TV[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=53c71cd1f6543bd6ba5843ae499dfa042598e256&mode=1&name=Bridge</link>
+<thumbnail>http://tv-granat.ru/content/tariffs_tv_channels/1320040197-41687.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]BT Sport 1[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=fb177b07b7d6f8ccedd0e8a4ca689d208f3374d2&mode=1&name=BT1</link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
