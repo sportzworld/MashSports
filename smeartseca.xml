@@ -244,6 +244,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Nickelodeon HD[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=35d8985dcd152b7c030c5517b5487dc1fe8c08d4&mode=1&name=Nick</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT20r1qseUg2Uo7QMXmWG0W3ZwxYfIpDAKdoYtazg_7UoxEdads7w</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Nick Jr[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=a3ee8a69fbbe9ecc9600a2f92b6b6372d5911177&mode=1&name=Nick</link>
 <thumbnail>http://img1.wikia.nocookie.net/__cb20130809033030/logopedia/images/5/58/Nick_Jr._Frogs_(early).png</thumbnail>
