@@ -160,6 +160,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Discovery Science HD[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=a3709ccdc0a36987be8ed91e26cd60466ff2309d&mode=1&name=Discovery</link>
+<thumbnail>http://camtel.com/Images/Interior/channel%20logos/science%20channel%20hd%20logo.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Disney Channel[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=447942fafabfd03ff8278c04e94af6dc85484a25&mode=1&name=Disney</link>
 <thumbnail>http://cartoonwallpaper.net/wp-content/uploads/2014/01/Cartoon-of-disney-channel.png</thumbnail>
