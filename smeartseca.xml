@@ -328,6 +328,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Viasat Sport HD[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=7a89c6590ca75206e26f924334a2d24dc1157d0f&mode=1&name=Viasat</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/4f/Viasat_sport_hd.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Viasat tv3 Sport 2[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=763f1eb66866110b2f09e8a70b579a55423a8800&mode=1&name=Viasat</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/b/be/Viasat_Sport_2.png</thumbnail>
