@@ -280,6 +280,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Sony Turbo[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=8bfb3e143025bb5142cc01ba97a9a16aa27a19d3&mode=1&name=Sony+Turbo</link>
+<thumbnail>http://www.frocus.net/images/logotv/original/sony_turbo.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Super Tennis HD[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=c7c9e3c7073e31adcfd658396755db13667e0e03&mode=1&name=Super+Tennis</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/it/archive/d/db/20110802174201!Supertennis_logo.png</thumbnail>
