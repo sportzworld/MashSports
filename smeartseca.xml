@@ -226,6 +226,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]France 24[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=e15ed233c613c29811ae055ff9639caea748d0f4&mode=1&name=France</link>
+<thumbnail>http://hub.tv-ark.org.uk/images/news/france24/france24_images/france24_launch2006a.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Motors TV[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=34114b072c14275eb69079fbac57b33a70ca866e&mode=1&name=Motors+TV</link>
 <thumbnail>http://www.holdenracingukltd.com/uploads/news/id38/logo_officiel_motorstv1.jpg</thumbnail>
