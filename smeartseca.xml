@@ -246,6 +246,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]KHL[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=f679f53164a89ed26934845004b9debde26c0200&mode=1&name=NTV</link>
+<thumbnail>http://g.denik.cz/1/47/logo-khl_denik-1024.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Motors TV[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=34114b072c14275eb69079fbac57b33a70ca866e&mode=1&name=Motors+TV</link>
 <thumbnail>http://www.holdenracingukltd.com/uploads/news/id38/logo_officiel_motorstv1.jpg</thumbnail>
