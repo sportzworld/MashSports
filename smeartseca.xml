@@ -300,6 +300,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]NTV-Plus Nash Football[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=64d22c89b3f126c7c3eec3c9d01697d158a7e10e&mode=1&name=NTV</link>
+<thumbnail>http://4.bp.blogspot.com/-KVHyxGfqyGU/Ux7aFiXEH5I/AAAAAAAAAyM/9vo1XkautRU/s1600/NTV_PLUS.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Outdoor Channel [/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=5a60760dd2b2efebf47f6153d53b4cfb82ad93c1&mode=1&name=Outdoor+Channel</link>
 <thumbnail>http://www.p4-34.com/Outdoor_Channel_Logo.jpg</thumbnail>
