@@ -250,6 +250,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Setanta Sports Eurasia[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=2e5a82bf5152b9ad2bfeecd2c75af2f6a4ecee68&mode=1&name=Setanta</link>
+<thumbnail>http://2sat.net/upload/image/news/2012/01/setanta.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Sky Sports F1[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=8cc3ffaea1dfe2c668a34eebd60b93b4f2a96b75&mode=1&name=Sky+Sports+F1</link>
 <thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
