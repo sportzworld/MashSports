@@ -322,6 +322,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Viasat Norge[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=f34dc8b214cec6ebc2e6bfcb4fadd812f01b3369&mode=1&name=Viasat</link>
+<thumbnail>dhttp://toplogos.ru/images/thumbs/preview-logo-viasat-sport.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Viasat Sport[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=210cc22655d0e72ded6921931e3f0bcfd2ab23fb&mode=1&name=Viasat+Sport</link>
 <thumbnail>https://pbs.twimg.com/profile_images/470373777/Viasatsport_logo_top.png</thumbnail>
