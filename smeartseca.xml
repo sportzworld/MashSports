@@ -238,6 +238,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Nick Jr[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=a3ee8a69fbbe9ecc9600a2f92b6b6372d5911177&mode=1&name=Nick</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20130809033030/logopedia/images/5/58/Nick_Jr._Frogs_(early).png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Outdoor Channel [/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=5a60760dd2b2efebf47f6153d53b4cfb82ad93c1&mode=1&name=Outdoor+Channel</link>
 <thumbnail>http://www.p4-34.com/Outdoor_Channel_Logo.jpg</thumbnail>
