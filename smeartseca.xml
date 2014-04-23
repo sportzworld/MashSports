@@ -160,6 +160,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Disney Channel[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=447942fafabfd03ff8278c04e94af6dc85484a25&mode=1&name=Disney</link>
+<thumbnail>http://cartoonwallpaper.net/wp-content/uploads/2014/01/Cartoon-of-disney-channel.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Drive TV[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=1cc3a848d72202e1a5d4893942f202f498365e4f&mode=1&name=Drive</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/e/e5/Drive_tv_logo.png</thumbnail>
