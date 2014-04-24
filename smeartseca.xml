@@ -252,6 +252,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Investigation Discovery Europe[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=78bc8debe6f7a88e76fbd03365ec279f587c239b&mode=1&name=ID</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/e/ef/Discovery_ID.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]KHL[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=f679f53164a89ed26934845004b9debde26c0200&mode=1&name=KHL</link>
 <thumbnail>http://g.denik.cz/1/47/logo-khl_denik-1024.jpg</thumbnail>
