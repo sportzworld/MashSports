@@ -35,7 +35,11 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/digi_sport_cz.png</thumbnail>
 </subitem>
 
- 
+<subitem> 
+<title>[COLOR green]Digi Sport 2[/COLOR] (Sopcast)</title>          
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/144751&mode=2&name=Digi+Sport</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/digi_sport_cz.png</thumbnail>
+</subitem> 
 
 
 <item>
