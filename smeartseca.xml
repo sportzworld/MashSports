@@ -48,6 +48,12 @@
 </subitem>
 
 <subitem> 
+<title>[COLOR green]Investigation Discovery[/COLOR] (Sopcast)</title>          
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/148975&mode=2&name=ID</link>
+<thumbnail>http://theident.gallery/investigation/2009/ID-2009-ID-GLASS-1-6.jpg</thumbnail>
+</subitem>
+
+<subitem> 
 <title>[COLOR green]MMA TV[/COLOR] (Sopcast)</title>          
 <link>plugin://plugin.video.p2p-streams/?url=ssop://broker.sopcast.com:3912/24267&mode=2&name=MMA+TV</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/digi_sport_cz.png</thumbnail>
