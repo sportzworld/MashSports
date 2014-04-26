@@ -22,6 +22,11 @@
 </item>
 
 
+<subitem> 
+<title>[COLOR green]BBC Doc.[/COLOR] (Sopcast)</title>          
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/148971&mode=2&name=BBC</link>
+<thumbnail>http://newsimg.bbc.co.uk/media/images/67165000/jpg/_67165918_67165917.jpg</thumbnail>
+</subitem>
 
 <subitem> 
 <title>[COLOR green]CBNS TV[/COLOR] (Sopcast)</title>          
@@ -94,6 +99,7 @@
 <link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/149269&mode=2&name=Xplorer</link>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSu_sRVacjanPVHHMIeQc9cGQamD0sSbfwjEi3lusnls2BKyIMC5g</thumbnail>
 </subitem>
+
 
 
 <item>
