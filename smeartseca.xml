@@ -78,6 +78,12 @@
 </subitem>
 
 <subitem> 
+<title>[COLOR green]National Geographic[/COLOR] (Sopcast)</title>          
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/148248&mode=2&name=National+Geographic</link>
+<thumbnail>http://images.nationalgeographic.com/wpf/sites/common/i/presentation/NGLogo560x430-cb1343821768.png</thumbnail>
+</subitem>
+
+<subitem> 
 <title>[COLOR green]Nat Geo Wild[/COLOR] (Sopcast)</title>          
 <link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/148259&mode=2&name=Nat+Geo+Wild</link>
 <thumbnail>http://tv.burrp.com/images/s/h/u/huubiabg_4lz_4_300.jpg</thumbnail>
