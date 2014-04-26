@@ -42,6 +42,12 @@
 </subitem> 
 
 <subitem> 
+<title>[COLOR green]Discovery Channel[/COLOR] (Sopcast)</title>          
+<link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/148972&mode=2&name=Discovery+Channel</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/jv/0/09/Discovery_Channel.jpg</thumbnail>
+</subitem>
+
+<subitem> 
 <title>[COLOR green]MMA TV[/COLOR] (Sopcast)</title>          
 <link>plugin://plugin.video.p2p-streams/?url=ssop://broker.sopcast.com:3912/24267&mode=2&name=MMA+TV</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/digi_sport_cz.png</thumbnail>
