@@ -145,6 +145,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Arenavision 6[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=b65413b3012d0bbf54841a7b50c8300a1885996f&mode=1&name=Arenavision</link>
+<thumbnail>http://www.trademarkia.com/logo-images/spectrum-arena-limited-partnership/arenavision-73629623.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR red]The Blacklist season 1 (e01 - e13)[/COLOR]</title>
 <link>
 <sublink>plugin://plugin.video.p2p-streams/?url=dcef5d1e059b2b114b7dd9c6cc2c85898c053cdf&mode=1&name=Blacklist</sublink>
