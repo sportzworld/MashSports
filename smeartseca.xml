@@ -526,6 +526,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Travel Channel HD(English/Russian)[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=b0b87953ae597e122dd29c997093797a11f2c599&mode=1&name=Travrel+Channel</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20111026232439/g__/ghostadventures/images/d/d7/Travelchannel.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Vh1 Classic[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=21940c6e3a1afd30db94d73f3bbb367d62c820a7&mode=1&name=Vh1+Classic</link>
 <thumbnail>http://b.vimeocdn.com/ts/220/413/220413862_640.jpg</thumbnail>
