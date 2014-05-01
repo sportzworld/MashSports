@@ -419,19 +419,19 @@
 
 <item>
 <title>[COLOR bisque]SKY SPORTS 2[/COLOR] </title>
-<link>rtmpe://94.242.228.36:443/liveedge playpath=sky26429 swfUrl=www.zingo.tv/jwplayer/player.swf pageUrl=http://zingo.tv/watch.php?id=2619&width=600&height=450 live=true timeout=10</link>
+<link>rtmp://37.220.34.61:443/liverepeater playpath=33698 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/ss2.html token=#atd%#$ZH</sublink></link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR bisque]SKY SPORTS 3 [/COLOR]</title>
-<link>rtmpe://94.242.228.22:443/liveedge playpath=sky37130 swfUrl=www.zingo.tv/jwplayer/player.swf pageUrl=http://zingo.tv/watch.php?id=2620&width=600&height=450 live=true timeout=10</link>
+<link>rtmp://37.220.36.64:443/liverepeater playpath=23699 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/ss3.html token=#atd%#$ZH</sublink></link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports3.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR bisque]SKY SPORTS 4 [/COLOR]</title>
-<link>rtmp://31.220.0.103:1935/live playpath=ss4x pageUrl=http://www.eucast.tv/ live=true timeout=10</link>
+<link>rtmp://37.220.34.61:443/liverepeater playpath=23700 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/ss4.html token=#atd%#$ZH</sublink></link>
 <thumbnail>http://i2.cdnds.net/09/53/160x120_broadcasting_ss4logo.jpg</thumbnail>
 </item>
 
