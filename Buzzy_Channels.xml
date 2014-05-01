@@ -310,7 +310,7 @@
 
 <item>
 <title>[COLOR bisque]Motors TV[/COLOR]</title>
-<link>rtmp://173.193.205.105/live playpath=motorstv3v?id=66407 Conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/motorstv3v/1/650/500 live=1 timeout=10</link>
+<link>rtmp://live.2caster.com/live playpath=motorstva3 Conn=S:OK swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://www.xuuby.com/show.php?chname=motorstva3&width=650&height=500&a=1 live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/motors_tv_fr.png</thumbnail>
 </item>
 
