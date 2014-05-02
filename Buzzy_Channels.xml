@@ -407,6 +407,12 @@
 </item>
 
 <item>
+<title>[COLOR bisque]Sky Movies Comedy[/COLOR]</title>
+<link>rtmp://198.50.226.53:1935/send/_definst_/skycomedy</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_comedy.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR bisque]SKY F1[/COLOR]</title>
 <link>rtmp://31.220.0.82:1935/live playpath=ssf1x pageUrl=http://www.eucast.tv/</link>
 <thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
