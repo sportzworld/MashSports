@@ -87,7 +87,7 @@
 
 <item>
 <title>[COLOR bisque]Box Nation[/COLOR]</title>
-<link>rtmp://46.246.124.38:1935/redirect/HDMBOXNTN pageUrl=http://www.hdcast.org/ live=1 timeout=10</link>
+<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMTQgNDo0ODo1MSBQTSZoYXNoX3ZhbHVlPU5UWFI4cTYySjNzVVZreXBsNktHbGc9PSZ2YWxpZG1pbnV0ZXM9MQ==/ playpath=boxnation-hq swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.fifaembed.com/embed/boxnation.php?width=620&height=420 live=1 timeout=10</link>
 <thumbnail>http://i1.ytimg.com/i/KtAvPsMiDdKUqSN5G5lgsA/mq1.jpg?v=52c53c7c</thumbnail>
 </item>
 
