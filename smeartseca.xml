@@ -511,6 +511,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Sport 1[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=b433e966ecee7c679f7b4b8dadfe96cbb725b96d&mode=1&name=Sport1</link>
+<thumbnail>http://supergags.com/wp-content/uploads/2013/02/Sport-1.gif</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Super Tennis HD[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=c7c9e3c7073e31adcfd658396755db13667e0e03&mode=1&name=Super+Tennis</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/it/archive/d/db/20110802174201!Supertennis_logo.png</thumbnail>
