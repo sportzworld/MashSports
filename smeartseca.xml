@@ -451,6 +451,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Paramount Comedy[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=414c100bee0b64beec3a97845e80fea4e13dfe9e&mode=1&name=Comedy</link>
+<thumbnail>http://1.bp.blogspot.com/-GApjm00Rd6M/TwR0Dae4YSI/AAAAAAAAA14/UZK5-nqhhtY/s1600/paramount.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Premier Sports[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=29ea650fff131602c844485a11c59ae3fa7a3a4a&mode=1&name=Premier+Sports</link>
 <thumbnail>http://www.eliteleague.co.uk/files/Premier_Sports.jpeg</thumbnail>
