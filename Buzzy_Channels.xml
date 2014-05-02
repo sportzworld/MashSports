@@ -74,7 +74,7 @@
 
 <item>
 <title>[COLOR bisque]BBC 1[/COLOR]</title>
-<link>rtmpe://94.242.228.19:443/liveedge/ playpath=bbc16041 swfUrl=www.zingo.tv/jwplayer/player.swf pageUrl=http://zingo.tv/watch.php?id=16&width=600&height=450 live=1 timeout=10</link>
+<link>rtmpe://5.135.128.157:1935/ula playpath=bbc16041 swfUrl=www.zingo.tv/jwplayer/player.swf pageUrl=http://zingo.tv/watch.php?id=16&width=600&height=450 live=true timeout=10</link>
 <thumbnail>http://www.marketingweek.co.uk/pictures/web/images/MarketingWeek/462_BB102578-BBC-One-Ident.jpg</thumbnail>
 </item>
 
