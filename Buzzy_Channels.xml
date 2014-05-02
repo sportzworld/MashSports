@@ -526,7 +526,7 @@
 
 <item>
 <title>[COLOR bisque]Star Sports[/COLOR]</title>
-<link>rtmp://206.190.139.28/live playpath=s247starsports12?id=11079 Conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/s247starsports12/2/600/420 live=true timeout=10</link>
+<link>rtmp://198.105.219.132/live playpath=s247staar1?id=12291 Conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/s247staar1/2/600/420</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_sports.png</thumbnail>
 </item>
 
@@ -544,7 +544,7 @@
 
 <item>
 <title>[COLOR bisque]Ten Action[/COLOR]</title>
-<link>rtmp://31.220.0.138:1935/live playpath=tenaction swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=tenaction&vw=620&vh=490 live=true timeout=10</link>
+<link>rtmp://46.28.53.18/live playpath=s247tenactionahze3a?id=12539 Conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/s247tenactionahze3a/2/600/420 live=true timeout=10</link>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcQGs88SIW6cE9M2UXthCo9FMUgjeoNA3WjZi1jNjCXpy7pbJDHZ</thumbnail>
 </item>
 
@@ -562,7 +562,7 @@
 
 <item>
 <title>[COLOR bisque]TLC[/COLOR]</title>
-<link>http://178.49.132.73/streaming/tlc/tvrec/playlist.m3u8</link>
+<link>http://178.165.45.203:4022/udp/239.0.0.132:1234</link>
 <thumbnail>http://b.vimeocdn.com/ts/117/152/117152149_640.jpg</thumbnail>
 </item>
 
@@ -574,7 +574,7 @@
 
 <item>
 <title>[COLOR bisque]Travel Channel[/COLOR]</title>
-<link>http://109.233.194.252:5556/udp/224.21.21.37:1234</link>
+<link>http://178.165.45.203:4022/udp/239.0.0.176:1234</link>
 <thumbnail>http://img2.wikia.nocookie.net/__cb20111026232439/g__/ghostadventures/images/d/d7/Travelchannel.jpg</thumbnail>
 </item>
 
