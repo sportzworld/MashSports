@@ -341,7 +341,7 @@
 
 <item>
 <title>[COLOR bisque]NBCSN[/COLOR]</title>
-<link>rtmpe://rtmp.hdcast.org:1935/redirect playpath=HDMNBC token=#yw%tt#w@kku swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=HDMNBC&vw=640&vh=460&domain=hdfoots.com live=true timeout=10</link>
+<link>rtmp://37.220.36.71:443/liverepeater playpath=stream24 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/stream24.html live=true timeout=10</link>
 <thumbnail>https://pbs.twimg.com/profile_images/1722177197/NBCSN_A_POSITIVE.jpg</thumbnail>
 </item>
 
