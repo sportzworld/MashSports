@@ -413,6 +413,12 @@
 </item>
 
 <item>
+<title>[COLOR bisque]Sky Movies Drama[/COLOR]</title>
+<link>rtmp://198.50.226.53:1935/send/_definst_/skydrama</link>
+<thumbnail>http://www.smallworldcable.com/smallworld/media/images/plogos/skymoviesdrama.gif</thumbnail>
+</item>
+
+<item>
 <title>[COLOR bisque]Sky Movies Family[/COLOR]</title>
 <link>rtmp://198.50.226.53:1935/send/_definst_/skyfamily</link>
 <thumbnail>http://theident.gallery/skymovies/2009/SKYM-2009-FAMILY-BUMPER-1-2.jpg</thumbnail>
