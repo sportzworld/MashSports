@@ -361,6 +361,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]MCM Top[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=6ce2ac57a09d59e0f3f9e0cb032e9d55dad4d3e5&mode=1&name=MCM</link>
+<thumbnail>http://www.megalivestream.com/wp-content/uploads/2012/09/MCM-TOP-TV.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Mezzo[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=472d1156adecc9d8da9e30592a8ca42eef2b4974&mode=1&name=Mezzo</link>
 <thumbnail>http://www.ibsbm.com/upload/image/mezzo_logo%20640.jpg</thumbnail>
