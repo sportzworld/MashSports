@@ -25,29 +25,35 @@
 </item>
 
 
-<subitem> 
+</item> 
 <title>[COLOR green]Arenavision 1[/COLOR] (Sopcast)</title>          
 <link>plugin://plugin.video.p2p-streams/?url=sop://broker2.sopcast.com:3912/154530&mode=2&name=Arenavision</link>
 <thumbnail>http://www.trademarkia.com/logo-images/spectrum-arena-limited-partnership/arenavision-73629623.jpg</thumbnail>
-</subitem>
+</item>
 
-<subitem> 
+</item>
+<title>[COLOR green]Arenavision 5[/COLOR] (Sopcast)</title>          
+<link>plugin://plugin.video.p2p-streams/?url=172998&mode=2&name=Arena</link>
+<thumbnail>http://www.trademarkia.com/logo-images/spectrum-arena-limited-partnership/arenavision-73629623.jpg</thumbnail>
+</item>
+
+</item> 
 <title>[COLOR green]BBC Doc.[/COLOR] (Sopcast)</title>          
 <link>plugin://plugin.video.p2p-streams/?url=sop://broker.sopcast.com:3912/148971&mode=2&name=BBC</link>
 <thumbnail>http://newsimg.bbc.co.uk/media/images/67165000/jpg/_67165918_67165917.jpg</thumbnail>
-</subitem>
+</item>
 
-<subitem> 
+</item> 
 <title>[COLOR green]CBNS TV[/COLOR] (Sopcast)</title>          
 <link>plugin://plugin.video.p2p-streams/?url=143025&mode=2&name=CBNS</link>
 <thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/7/3/8/6/7386389/7386389_cbns_2010_mar_1299340465,640x360,r:1.jpg</thumbnail>
-</subitem>
+</item>
 
-<subitem> 
+</item> 
 <title>[COLOR green]Digi Sport 1[/COLOR] (Sopcast)</title>          
 <link>plugin://plugin.video.p2p-streams/?url=110152&mode=2&name=Digi+Sport</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/digi_sport_cz.png</thumbnail>
-</subitem>
+</item>
 
 <subitem> 
 <title>[COLOR green]Digi Sport 2[/COLOR] (Sopcast)</title>          
