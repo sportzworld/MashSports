@@ -361,6 +361,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Mezzo[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=472d1156adecc9d8da9e30592a8ca42eef2b4974&mode=1&name=Mezzo</link>
+<thumbnail>http://www.ibsbm.com/upload/image/mezzo_logo%20640.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Motors TV[/COLOR]</title>
 <link>plugin://plugin.video.p2p-streams/?url=0d725969bcea6199de780e64b1ebc4dbb6219b84&mode=1&name=Motors+TV</link>
 <thumbnail>http://www.holdenracingukltd.com/uploads/news/id38/logo_officiel_motorstv1.jpg</thumbnail>
