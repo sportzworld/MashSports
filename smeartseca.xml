@@ -254,13 +254,13 @@
 
 <item>
 <title>[COLOR yellow]CCTV News[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=c318e7b022ce8aeab57c9ccff7ac24f4747f9c9d&mode=1&name=CCTV</link>
+<link>plugin://plugin.video.p2p-streams/?url=daf7c8ac7d3b93a48bd05f1db02eb869f44c40b0&mode=1&name=CCTV</link>
 <thumbnail>http://4.bp.blogspot.com/-qYBbK8BavjE/UWqoLN_CD0I/AAAAAAAAA80/uFHyww3x_sg/s1600/cctv+news.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR yellow]CNN International[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=4063b370c097074b16c25c32376a063fad919742&mode=1&name=CNN</link>
+<link>plugin://plugin.video.p2p-streams/?url=b31ee4f60aab69b624b2ed517f00b811017b47c3&mode=1&name=CNN</link>
 <thumbnail>https://lh6.ggpht.com/ICktyZmqSzoHpGLx3EbuDROmtGJXz1bTCkclOvgZxs_tBuwQaFD4kiKm903oYDATIQ=w300</thumbnail>
 </item>
 
