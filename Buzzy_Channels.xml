@@ -274,7 +274,7 @@
 
 <item>
 <title>[COLOR bisque]Golf channel live[/COLOR]</title>
-<link>rtmp://31.220.0.82:1935/live playpath=golf swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=golf&vw=620&vh=490 live=true timeout=10</link>
+<link>rtmp://37.220.32.50:443/liverepeater playpath=13877 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/stream6.html live=true timeout=10</link>
 <thumbnail>http://www.pga.com/nationalchampionship/2007/news/images/golf_channel_448x266.jpg</thumbnail>
 </item>
 
