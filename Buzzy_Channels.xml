@@ -104,7 +104,7 @@
 
 <item>
 <title>[COLOR bisque]Box Nation[/COLOR]</title>
-<link>rtmp://50.7.28.162/flash playpath=18201?MTM5OTE2NTY0NTtlMWE2NjA4ZDdjNzJiNTc0YjdmZGY4YWZkY2U2NWQ1NA== swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/ExODc3ZmU5MTZkN2RiYWFhYzgwNDplZjdiMTM4MmRlMDc5NDM2NjgzMzc1OTk0NTQyMDg4ZA__/Mjg1NDU5ZDlkYWRiOmQxNjE2NzdhMzgzODM4Mzg6MzE0NGIwODBjMDFjN2FkZDc3Nj live=1 timeout=10</link>
+<link>rtmp://198.50.226.53:1935/send/_definst_/ playpath=boxnation swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://nowwatchtvlive.com/channel-tab-frame/boxnation-4.php live=true timeout=10</link>
 <thumbnail>http://i1.ytimg.com/i/KtAvPsMiDdKUqSN5G5lgsA/mq1.jpg?v=52c53c7c</thumbnail>
 </item>
 
@@ -161,7 +161,7 @@
 
 <item>
 <title>[COLOR bisque]CNN[/COLOR]</title>
-<link>http://109.233.194.252:5556/udp/224.21.21.60:1234</link>
+<link>rtmp://198.105.217.36/live playpath=cnn1231?id=201692 Conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/cnn1231/1/600/400 live=true timeout=10</link>
 <thumbnail>http://3.bp.blogspot.com/-uU6FfIfrUbc/UcoKoTLHFUI/AAAAAAAAvZ8/sJv_D5I0lyI/s1600/CNN+International+June+2013.jpg</thumbnail>
 </item>
 
@@ -279,7 +279,7 @@
 
 <item>
 <title>[COLOR bisque]Golf channel live[/COLOR]</title>
-<link>rtmp://37.220.32.54:443/liverepeater<playpath>13877 <swfUrl>http://static.surk.tv/player.swf <pageUrl>http://1cdn.filotv.pw/stream6.html live=true timeout=10</link>
+<link>rtmp://37.220.32.54:443/liverepeater playpath=13877 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/stream6.html live=true timeout=10</link>
 <thumbnail>http://www.pga.com/nationalchampionship/2007/news/images/golf_channel_448x266.jpg</thumbnail>
 </item>
 
@@ -388,7 +388,7 @@
 
 <item>
 <title>[COLOR bisque]Racing UK[/COLOR]</title>
-<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMTQgNjowMTowNiBQTSZoYXNoX3ZhbHVlPUd1NGU2ZUNvOEI2cFRTYTJsTDFCaGc9PSZ2YWxpZG1pbnV0ZXM9MQ==/ playpath=racinguk-hq swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.fifaembed.com/embed/racinguk.php?width=620&height=420 live=1 timeout=10</link>
+<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9NS81LzIwMTQgNjozMjozMSBQTSZoYXNoX3ZhbHVlPVcvektzRno0WGpvbHJMSnRCWFRka0E9PSZ2YWxpZG1pbnV0ZXM9MQ==/ playpath=racinguk-hq swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.fifaembed.com/embed/racinguk.php?width=620&height=420 live=1 timeout=10</link>
 <thumbnail>http://www.becreative.co.uk/wp-content/uploads/2013/07/RacingUK_logo.png</thumbnail>
 </item>
 
@@ -555,7 +555,7 @@
 
 <item>
 <title>[COLOR bisque]Ten Action[/COLOR]</title>
-<link>rtmp://206.190.140.20/live playpath=s247tenactionhad?id=12672 Conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/s247tenactionhad/2/600/420 live=true timeout=10</link>
+<link>rtmp://109.123.123.68/live playpath=s247090tenaction?id=12764 Conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/s247090tenaction/2/600/420 live=true timeout=10</link>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcQGs88SIW6cE9M2UXthCo9FMUgjeoNA3WjZi1jNjCXpy7pbJDHZ</thumbnail>
 </item>
 
