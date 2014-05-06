@@ -646,7 +646,7 @@
 
 <item>
 <title>[COLOR bisque]WWE Network[/COLOR]</title>
-<link>rtmp://206.190.138.68/live playpath=jizzywizzyyyyyy?id=199683 Conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/jizzywizzyyyyyy/1/650/450 live=true timeout=10</link>
+<link>rtmp://37.220.36.71:443/liverepeater playpath=stream38 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/stream38.html live=1 timeout=10</link>
 <thumbnail>http://www.wwe.com/f/styles/ep_trending/public/article/thumb/2014/02/wwe-network/20140102_EPLIGHT_Network_Announcement_nodate_C.jpg</thumbnail>
 </item>
 
