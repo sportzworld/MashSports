@@ -309,6 +309,12 @@
 </item>
 
 <item>
+<title>[COLOR bisque]ITV 4[/COLOR] </title>
+<link>rtmp://198.50.226.53:1935/send/_definst_/itv4</link>
+<thumbnail>http://img.photobucket.com/albums/v669/22061985/itv4.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR bisque]KTLA Channel 5[/COLOR]</title>
 <link>rtmp://204.107.26.32/live/?id=0ad5aac39bb13fbef56fce7e299a52a0bfc54872b68cdda115a6a43cb039e1610d4c92234089f19746d66f5e51075b20ee75da738eb75b7f9203f6b32f1c0759fef282cf58638cbe79a83388071c003f2f03177c6286ce76407cc082d44628dffac1f45940284daa2a062187659a85d99badab7aea6892b15272d7e0995212d0914ea8abddf6bb933f89f730ad7ae17cfb2c54547056224b playpath=2326.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=52 pageUrl=http://www.filmon.com/tv/ktla-dt-los-angeles live=1 timeout=10</link>
 <thumbnail>http://www.autogeekonline.net/gallery/data/500/ktla_5.png</thumbnail>
