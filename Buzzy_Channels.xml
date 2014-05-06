@@ -147,7 +147,7 @@
 
 <item>
 <title>[COLOR bisque]Chelsea TV[/COLOR]</title>
-<link>rtmp://cp96798.live.edgefcs.net/live playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://php.chol.com/~noza/player/player316.swf?backcolor=0x000000&frontcolor=0xFFFFFF&file=rtmp://cp96798.live.edgefcs.net/live&id=ChelTV_Ch01_1000k@26291&overstretch=fit pageUrl=http://kingtvlive.com/chelseasports.html live=1 timeout=10</link>
+<link>rtmp://cp96798.live.edgefcs.net/live playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.longtailvideo.com/player.swf?file=ChelTV_Ch01_1000k@26291&streamer=rtmp://cp96798.live.edgefcs.net/live&autostart=true pageUrl=http://coolsport.tv/chelseatv.html live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/chelsea_tv.jpg</thumbnail>
 </item>
 
