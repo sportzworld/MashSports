@@ -340,7 +340,7 @@
 
 <item>
 <title>[COLOR bisque]LFC TV[/COLOR]</title>
-<link>rtmp://67.228.177.165:443/liverepeater playpath=stream26 swfUrl=http://static.surk.tv/player.swf pageUrl=http://cdn.kingofplayers.com/stream26.html live=true timeout=10</link>
+<link>rtmp://50.22.223.7:443/liverepeater playpath=stream26 swfUrl=http://static.surk.tv/player.swf pageUrl=http://cdn.kingofplayers.com/stream26.html live=1 timeout=10</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png</thumbnail>
 </item>
 
