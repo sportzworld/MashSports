@@ -364,7 +364,7 @@
 
 <item>
 <title>[COLOR bisque]MUTV[/COLOR]</title>
-<link>rtmp://173.193.233.133:443/liverepeater playpath=stream27 swfUrl=http://static.surk.tv/player.swf pageUrl=http://cdn.kingofplayers.com/stream27.html live=1 timeout=10</link>
+<link>rtmp://173.193.242.249:443/liverepeater playpath=stream27 swfUrl=http://static.surk.tv/player.swf pageUrl=http://cdn.kingofplayers.com/stream27.html live=1 timeout=10</link>
 <thumbnail>http://i2.cdnds.net/13/04/300x225/media-mutv-logo.jpg</thumbnail>
 </item>
 
