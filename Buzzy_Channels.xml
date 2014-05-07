@@ -485,25 +485,25 @@
 
 <item>
 <title>[COLOR bisque]SKY SPORTS 1[/COLOR]</title>
-<link>rtmp://198.50.226.53:1935/send/_definst_/sky1</link>
+<link>rtmp://37.220.32.44:443/liverepeater playpath=23697 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/ss1.html live=true timeout=10</link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR bisque]SKY SPORTS 2[/COLOR] </title>
-<link>rtmp://198.50.226.53:1935/send/_definst_/sky2</link>
+<link>rtmp://37.220.36.65:443/liverepeater playpath=33698 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/ss2.html live=true timeout=10</link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports2.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR bisque]SKY SPORTS 3 [/COLOR]</title>
-<link>rtmp://198.50.226.53:1935/send/_definst_/sky3</link>
+<link>rtmp://37.220.36.65:443/liverepeater playpath=23699 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/ss3.html live=true timeout=10</link>
 <thumbnail>http://www.igoal.tv/ch/sky_sports3.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR bisque]SKY SPORTS 4 [/COLOR]</title>
-<link>rtmp://198.50.226.53:1935/send/_definst_/sky4</link>
+<link>rtmp://37.220.32.36:443/liverepeater playpath=23700 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/ss4.html live=true timeout=10</link>
 <thumbnail>http://i2.cdnds.net/09/53/160x120_broadcasting_ss4logo.jpg</thumbnail>
 </item>
 
