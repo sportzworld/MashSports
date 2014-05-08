@@ -129,13 +129,13 @@
 
 <item>
 <title>[COLOR bisque]BT Sports 1 [/COLOR]</title>
-<link>rtmp://198.50.226.53:1935/send/_definst_/bt1</link>
+<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMTQgNTo1MToyMiBQTSZoYXNoX3ZhbHVlPWFSZUlkVGlVQ2l6aUJNVmw1MW8xVXc9PSZ2YWxpZG1pbnV0ZXM9MQ==/ playpath=btsport1-hq swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.fifaembed.com/embed/btsport1.php?width=620&height=420 live=true timeout=10</link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR bisque]BT Sports 2 [/COLOR]</title>
-<link>rtmp://198.50.226.53:1935/send/_definst_/bt2</link>
+<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMTQgNTo1MjoxOSBQTSZoYXNoX3ZhbHVlPVgveHkzakgvRWJzeXIrNmtYZkU1Umc9PSZ2YWxpZG1pbnV0ZXM9MQ==/ playpath=btsport2-hq swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.fifaembed.com/embed/btsport2.php?width=620&height=420 live=true timeout=10</link>
 <thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
 </item>
 
@@ -241,7 +241,7 @@
 
 <item>
 <title>[COLOR bisque]Extreme Sports[/COLOR]</title>
-<link>http://193.151.107.242:11111/udp/238.1.36.1:1234</link>
+<link>http://2.61.252.232:1234/udp/233.7.70.147:5000</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/extreme_sports_nl.jpg</thumbnail>
 </item>
 
@@ -285,7 +285,7 @@
 
 <item>
 <title>[COLOR bisque]Golf channel live[/COLOR]</title>
-<link>rtmp://31.220.0.195:1935/live playpath=golf swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=golf&vw=620&vh=490 live=true timeout=10</link>
+<link>rtmp://37.220.36.71:443/liverepeater playpath=13877 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/stream6.html live=true timeout=10</link>
 <thumbnail>http://www.pga.com/nationalchampionship/2007/news/images/golf_channel_448x266.jpg</thumbnail>
 </item>
 
@@ -412,7 +412,7 @@
 
 <item>
 <title>[COLOR bisque]Racing UK[/COLOR]</title>
-<link>rtmp://198.50.226.53:1935/send/_definst_/racinguk</link>
+<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMTQgNTo1MzozNCBQTSZoYXNoX3ZhbHVlPWFHMDhkVFBiY0NUblhuYjZVcHFKanc9PSZ2YWxpZG1pbnV0ZXM9MQ==/ playpath=racinguk-hq swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.fifaembed.com/embed/racinguk.php?width=620&height=420 live=true timeout=10</link>
 <thumbnail>http://www.becreative.co.uk/wp-content/uploads/2013/07/RacingUK_logo.png</thumbnail>
 </item>
 
@@ -443,14 +443,20 @@
 
 <item>
 <title>[COLOR bisque]Sky Movies Action[/COLOR]</title>
-<link>rtmp://198.50.226.53:1935/send/_definst_/skyaction</link>
+<link>rtmpe://46.246.124.35:1935/redirect playpath=action swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/pl5.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=action&vw=620&vh=490&domain=cricfree.tv live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch</link>
 <thumbnail>http://images.atlas.metabroadcast.com/pressassociation.com/channels/p131525.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR bisque]Sky Movies Comedy[/COLOR]</title>
-<link>rtmp://198.50.226.53:1935/send/_definst_/skycomedy</link>
+<link>rtmpe://46.246.124.6:1935/redirect playpath=greats swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/pl5.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=greats&vw=620&vh=490&domain=cricfree.tv live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_comedy.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR bisque]Sky Movies Crime and Thriller[/COLOR]</title>
+<link>rtmpe://46.246.29.150:1935/redirect playpath=thriller swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/pl5.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=thriller&vw=620&vh=490&domain=cricfree.tv live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://thetvroom.com/images/pool-i/037/main-000-321.jpg</thumbnail>
 </item>
 
 <item>
@@ -467,8 +473,14 @@
 
 <item>
 <title>[COLOR bisque]Sky Movies Premier[/COLOR]</title>
-<link>rtmp://198.50.226.53:1935/send/_definst_/skypremier</link>
+<link>rtmpe://46.246.124.24:1935/redirect playpath=premierx swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/pl5.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=scifi&vw=620&vh=490&domain=cricfree.tv live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch</link>
 <thumbnail>http://www.absoluteradio.co.uk/images/pages/10231.1/sky-movies-premiere.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR bisque]Sky Movies SciFi and Horror[/COLOR]</title>
+<link>rtmpe://46.246.29.162:1935/redirect playpath=scifi swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/pl5.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=premierx&vw=620&vh=490&domain=cricfree.tv live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://images.atlas.metabroadcast.com/pressassociation.com/channels/p131526.png</thumbnail>
 </item>
 
 <item>
@@ -543,7 +555,7 @@
 
 <item>
 <title>[COLOR bisque]Sportsnet Ontario[/COLOR]</title>
-<link>rtmp://31.220.0.104:1935/live playpath=snontar swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=snontar&vw=620&vh=490 live=true timeout=10</link>
+<link>rtmp://31.220.0.194:1935/live playpath=snontar swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=snontar&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sportsnet_ca_short.png</thumbnail>
 </item>
 
@@ -579,7 +591,7 @@
 
 <item>
 <title>[COLOR bisque]Ten Action[/COLOR]</title>
-<link>rtmp://109.123.123.68/live playpath=s247090tenaction?id=12764 Conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/s247090tenaction/2/600/420 live=true timeout=10</link>
+<link>rtmp://206.190.139.28/live playpath=s247tenactre?id=12893 Conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/s247tenactre/2/600/420 live=true timeout=10</link>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcQGs88SIW6cE9M2UXthCo9FMUgjeoNA3WjZi1jNjCXpy7pbJDHZ</thumbnail>
 </item>
 
